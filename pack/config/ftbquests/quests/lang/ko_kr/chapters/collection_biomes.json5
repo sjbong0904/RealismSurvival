@@ -1,0 +1,552 @@
+{
+	"quest.515812396D5BC6DC.title": "생물군계 도감 시작",
+	"quest.515812396D5BC6DC.quest_desc": [
+		"생물군계를 방문해 도감을 채우세요. 방문하는 동안 Biomes O' Plenty 탭도 함께 채워지고, 그 탭의 생물군계를 모두 방문하면 전체 방문 과제도 끝납니다.",
+		"맨 끝 도적의 섬을 방문하면 Fish of Thieves 탭의 섬 방문 과제도 끝납니다.",
+		"직접 체크하세요."
+	],
+	"quest.06EE19864A6C339A.title": "평원",
+	"quest.06EE19864A6C339A.quest_desc": [
+		"평원을 방문하세요."
+	],
+	"quest.0FEDE2611050265D.title": "해바라기 평원",
+	"quest.0FEDE2611050265D.quest_desc": [
+		"해바라기 평원을 방문하세요."
+	],
+	"quest.037162DE5DAFB02D.title": "숲",
+	"quest.037162DE5DAFB02D.quest_desc": [
+		"숲을 방문하세요."
+	],
+	"quest.6E074B5D22A2FEDE.title": "꽃 숲",
+	"quest.6E074B5D22A2FEDE.quest_desc": [
+		"꽃 숲을 방문하세요."
+	],
+	"quest.73D55F2DB10C933C.title": "자작나무 숲",
+	"quest.73D55F2DB10C933C.quest_desc": [
+		"자작나무 숲을 방문하세요."
+	],
+	"quest.2B8DD8E34031D202.title": "어두운 숲",
+	"quest.2B8DD8E34031D202.quest_desc": [
+		"어두운 숲을 방문하세요."
+	],
+	"quest.2A633922CA461A50.title": "원시 자작나무 숲",
+	"quest.2A633922CA461A50.quest_desc": [
+		"원시 자작나무 숲을 방문하세요."
+	],
+	"quest.53BA63FD8E54B6F9.title": "원시 소나무 타이가",
+	"quest.53BA63FD8E54B6F9.quest_desc": [
+		"원시 소나무 타이가를 방문하세요."
+	],
+	"quest.35BB723E8F57D288.title": "원시 가문비 타이가",
+	"quest.35BB723E8F57D288.quest_desc": [
+		"원시 가문비 타이가를 방문하세요."
+	],
+	"quest.075F16715E4D005D.title": "타이가",
+	"quest.075F16715E4D005D.quest_desc": [
+		"타이가를 방문하세요."
+	],
+	"quest.457E6036F3754A22.title": "눈 덮인 타이가",
+	"quest.457E6036F3754A22.quest_desc": [
+		"눈 덮인 타이가를 방문하세요."
+	],
+	"quest.7A1A8B270D711A15.title": "눈 덮인 평원",
+	"quest.7A1A8B270D711A15.quest_desc": [
+		"눈 덮인 평원을 방문하세요."
+	],
+	"quest.7F8C524632815F2A.title": "얼음 스파이크",
+	"quest.7F8C524632815F2A.quest_desc": [
+		"얼음 스파이크를 방문하세요."
+	],
+	"quest.6534599D95207758.title": "사막",
+	"quest.6534599D95207758.quest_desc": [
+		"사막을 방문하세요."
+	],
+	"quest.7EA7754DD3786C66.title": "사바나",
+	"quest.7EA7754DD3786C66.quest_desc": [
+		"사바나를 방문하세요."
+	],
+	"quest.49C68D8CD6B2DB07.title": "사바나 고원",
+	"quest.49C68D8CD6B2DB07.quest_desc": [
+		"사바나 고원을 방문하세요."
+	],
+	"quest.2FC176D4DDFA2958.title": "악지",
+	"quest.2FC176D4DDFA2958.quest_desc": [
+		"악지를 방문하세요."
+	],
+	"quest.4A6678305383B608.title": "나무 있는 악지",
+	"quest.4A6678305383B608.quest_desc": [
+		"나무 있는 악지를 방문하세요."
+	],
+	"quest.59FDB57F5EED7FBB.title": "침식된 악지",
+	"quest.59FDB57F5EED7FBB.quest_desc": [
+		"침식된 악지를 방문하세요."
+	],
+	"quest.142B14342A62C33D.title": "정글",
+	"quest.142B14342A62C33D.quest_desc": [
+		"정글을 방문하세요."
+	],
+	"quest.430B516C2B18B36A.title": "드문드문한 정글",
+	"quest.430B516C2B18B36A.quest_desc": [
+		"드문드문한 정글을 방문하세요."
+	],
+	"quest.6332F16932D96CB9.title": "대나무 정글",
+	"quest.6332F16932D96CB9.quest_desc": [
+		"대나무 정글을 방문하세요."
+	],
+	"quest.68433EC6002FA024.title": "늪",
+	"quest.68433EC6002FA024.quest_desc": [
+		"늪을 방문하세요."
+	],
+	"quest.45D2FEC883722256.title": "맹그로브 늪",
+	"quest.45D2FEC883722256.quest_desc": [
+		"맹그로브 늪을 방문하세요."
+	],
+	"quest.2E8BBC40E891FFC9.title": "버섯 들판",
+	"quest.2E8BBC40E891FFC9.quest_desc": [
+		"버섯 들판을 방문하세요."
+	],
+	"quest.76F4DF57B6DD0CE3.title": "해변",
+	"quest.76F4DF57B6DD0CE3.quest_desc": [
+		"해변을 방문하세요."
+	],
+	"quest.5A3254634AAE7C43.title": "눈 덮인 해변",
+	"quest.5A3254634AAE7C43.quest_desc": [
+		"눈 덮인 해변을 방문하세요."
+	],
+	"quest.7194AC15A0E528DF.title": "돌 해안",
+	"quest.7194AC15A0E528DF.quest_desc": [
+		"돌 해안을 방문하세요."
+	],
+	"quest.677E409ABB1AC9EA.title": "강",
+	"quest.677E409ABB1AC9EA.quest_desc": [
+		"강을 방문하세요."
+	],
+	"quest.2A2332ADA47E40E8.title": "얼어붙은 강",
+	"quest.2A2332ADA47E40E8.quest_desc": [
+		"얼어붙은 강을 방문하세요."
+	],
+	"quest.7EAAE7002891779C.title": "바다",
+	"quest.7EAAE7002891779C.quest_desc": [
+		"바다를 방문하세요."
+	],
+	"quest.6F852C8B2D6A240A.title": "따뜻한 바다",
+	"quest.6F852C8B2D6A240A.quest_desc": [
+		"따뜻한 바다를 방문하세요."
+	],
+	"quest.6BE58C018B40377B.title": "미지근한 바다",
+	"quest.6BE58C018B40377B.quest_desc": [
+		"미지근한 바다를 방문하세요."
+	],
+	"quest.2E5B4CC094FDAC40.title": "차가운 바다",
+	"quest.2E5B4CC094FDAC40.quest_desc": [
+		"차가운 바다를 방문하세요."
+	],
+	"quest.6026F913C559D735.title": "얼어붙은 바다",
+	"quest.6026F913C559D735.quest_desc": [
+		"얼어붙은 바다를 방문하세요."
+	],
+	"quest.42D7AB92FA17C46C.title": "깊은 바다",
+	"quest.42D7AB92FA17C46C.quest_desc": [
+		"깊은 바다를 방문하세요."
+	],
+	"quest.534A2F9F52E8BC82.title": "깊은 차가운 바다",
+	"quest.534A2F9F52E8BC82.quest_desc": [
+		"깊은 차가운 바다를 방문하세요."
+	],
+	"quest.08D4D84DD45D5572.title": "깊은 얼어붙은 바다",
+	"quest.08D4D84DD45D5572.quest_desc": [
+		"깊은 얼어붙은 바다를 방문하세요."
+	],
+	"quest.22FCE16D01162848.title": "깊은 미지근한 바다",
+	"quest.22FCE16D01162848.quest_desc": [
+		"깊은 미지근한 바다를 방문하세요."
+	],
+	"quest.112FA81553C50538.title": "무성한 동굴",
+	"quest.112FA81553C50538.quest_desc": [
+		"무성한 동굴을 방문하세요."
+	],
+	"quest.581CE327CD427834.title": "점적석 동굴",
+	"quest.581CE327CD427834.quest_desc": [
+		"점적석 동굴을 방문하세요."
+	],
+	"quest.48220253906861D7.title": "깊고 어두운 곳",
+	"quest.48220253906861D7.quest_desc": [
+		"깊고 어두운 곳을 방문하세요."
+	],
+	"quest.463B403A18921298.title": "목초지",
+	"quest.463B403A18921298.quest_desc": [
+		"목초지를 방문하세요."
+	],
+	"quest.2EBB0C00DA13A68C.title": "벚나무 숲",
+	"quest.2EBB0C00DA13A68C.quest_desc": [
+		"벚나무 숲을 방문하세요."
+	],
+	"quest.494D177D3D10A168.title": "숲지",
+	"quest.494D177D3D10A168.quest_desc": [
+		"숲지를 방문하세요."
+	],
+	"quest.7600E792507BD046.title": "눈 덮인 비탈",
+	"quest.7600E792507BD046.quest_desc": [
+		"눈 덮인 비탈을 방문하세요."
+	],
+	"quest.2FD7B55EAFCF549E.title": "뾰족한 봉우리",
+	"quest.2FD7B55EAFCF549E.quest_desc": [
+		"뾰족한 봉우리를 방문하세요."
+	],
+	"quest.46E047CB6B39F345.title": "얼어붙은 봉우리",
+	"quest.46E047CB6B39F345.quest_desc": [
+		"얼어붙은 봉우리를 방문하세요."
+	],
+	"quest.20C6DD8E0F0F9FE5.title": "돌 봉우리",
+	"quest.20C6DD8E0F0F9FE5.quest_desc": [
+		"돌 봉우리를 방문하세요."
+	],
+	"quest.3A839C007DAFF668.title": "바람 휩쓸린 언덕",
+	"quest.3A839C007DAFF668.quest_desc": [
+		"바람 휩쓸린 언덕을 방문하세요."
+	],
+	"quest.4B6AF9294C2B7EFF.title": "바람 휩쓸린 숲",
+	"quest.4B6AF9294C2B7EFF.quest_desc": [
+		"바람 휩쓸린 숲을 방문하세요."
+	],
+	"quest.2F60E1DD9A450B7E.title": "바람 휩쓸린 자갈 언덕",
+	"quest.2F60E1DD9A450B7E.quest_desc": [
+		"바람 휩쓸린 자갈 언덕을 방문하세요."
+	],
+	"quest.1DB83D02D20C004D.title": "바람 휩쓸린 사바나",
+	"quest.1DB83D02D20C004D.quest_desc": [
+		"바람 휩쓸린 사바나를 방문하세요."
+	],
+	"quest.78F707396A34656A.title": "네더 황무지",
+	"quest.78F707396A34656A.quest_desc": [
+		"네더 황무지를 방문하세요."
+	],
+	"quest.4A86EBCE4A846773.title": "진홍빛 숲",
+	"quest.4A86EBCE4A846773.quest_desc": [
+		"진홍빛 숲을 방문하세요."
+	],
+	"quest.21E52DB4ED933431.title": "뒤틀린 숲",
+	"quest.21E52DB4ED933431.quest_desc": [
+		"뒤틀린 숲을 방문하세요."
+	],
+	"quest.7A6D891A11E69738.title": "영혼 모래 골짜기",
+	"quest.7A6D891A11E69738.quest_desc": [
+		"영혼 모래 골짜기를 방문하세요."
+	],
+	"quest.444446CE0642C5BA.title": "현무암 삼각주",
+	"quest.444446CE0642C5BA.quest_desc": [
+		"현무암 삼각주를 방문하세요."
+	],
+	"quest.14CF9AA589B18D88.title": "엔드",
+	"quest.14CF9AA589B18D88.quest_desc": [
+		"엔드를 방문하세요."
+	],
+	"quest.124C4D6572B0EDEF.title": "엔드 고지",
+	"quest.124C4D6572B0EDEF.quest_desc": [
+		"엔드 고지를 방문하세요."
+	],
+	"quest.07A4A09918C4482E.title": "엔드 중지",
+	"quest.07A4A09918C4482E.quest_desc": [
+		"엔드 중지를 방문하세요."
+	],
+	"quest.38161A67EECA1431.title": "작은 엔드 섬",
+	"quest.38161A67EECA1431.quest_desc": [
+		"작은 엔드 섬을 방문하세요."
+	],
+	"quest.5158C0DB38FB1343.title": "엔드 불모지",
+	"quest.5158C0DB38FB1343.quest_desc": [
+		"엔드 불모지를 방문하세요."
+	],
+	"quest.14901754CA7E22AF.title": "오로라 정원",
+	"quest.14901754CA7E22AF.quest_desc": [
+		"오로라 정원을 방문하세요."
+	],
+	"quest.7C1A14E1EC3A26BD.title": "강어귀",
+	"quest.7C1A14E1EC3A26BD.quest_desc": [
+		"강어귀를 방문하세요."
+	],
+	"quest.16E6DBDAFD8063A7.title": "수렁",
+	"quest.16E6DBDAFD8063A7.quest_desc": [
+		"수렁을 방문하세요."
+	],
+	"quest.6F4A363A14F37B95.title": "추운 사막",
+	"quest.6F4A363A14F37B95.quest_desc": [
+		"추운 사막을 방문하세요."
+	],
+	"quest.02284F3C292EDF8E.title": "침엽수림",
+	"quest.02284F3C292EDF8E.quest_desc": [
+		"침엽수림을 방문하세요."
+	],
+	"quest.66C9805C3A65C6F9.title": "험준한 바위",
+	"quest.66C9805C3A65C6F9.quest_desc": [
+		"험준한 바위를 방문하세요."
+	],
+	"quest.6AFFDA32E94E8791.title": "수정 틈",
+	"quest.6AFFDA32E94E8791.quest_desc": [
+		"수정 틈을 방문하세요."
+	],
+	"quest.77849A0A4AF7D58F.title": "죽은 숲",
+	"quest.77849A0A4AF7D58F.quest_desc": [
+		"죽은 숲을 방문하세요."
+	],
+	"quest.29CC9FCB566411C1.title": "건지",
+	"quest.29CC9FCB566411C1.quest_desc": [
+		"건지를 방문하세요."
+	],
+	"quest.0BCCBD24B09FED05.title": "사구 해변",
+	"quest.0BCCBD24B09FED05.quest_desc": [
+		"사구 해변을 방문하세요."
+	],
+	"quest.5BD1DF0AFAE33CC0.title": "충돌난 엔드",
+	"quest.5BD1DF0AFAE33CC0.quest_desc": [
+		"충돌난 엔드를 방문하세요."
+	],
+	"quest.0F7E6C9470E884BB.title": "엔드 지구",
+	"quest.0F7E6C9470E884BB.quest_desc": [
+		"엔드 지구를 방문하세요."
+	],
+	"quest.5ABB332EEAE29835.title": "엔드 암초",
+	"quest.5ABB332EEAE29835.quest_desc": [
+		"엔드 암초를 방문하세요."
+	],
+	"quest.40FD9A42AA4CE25E.title": "엔드 황무지",
+	"quest.40FD9A42AA4CE25E.quest_desc": [
+		"엔드 황무지를 방문하세요."
+	],
+	"quest.718D7D4E252D7450.title": "폭발하는 불길",
+	"quest.718D7D4E252D7450.quest_desc": [
+		"폭발하는 불길을 방문하세요."
+	],
+	"quest.1311B813F0540A42.title": "들판",
+	"quest.1311B813F0540A42.quest_desc": [
+		"들판을 방문하세요."
+	],
+	"quest.4F4792927D9CD63C.title": "전나무 빈터",
+	"quest.4F4792927D9CD63C.quest_desc": [
+		"전나무 빈터를 방문하세요."
+	],
+	"quest.27B639DCF392D7D6.title": "범람원",
+	"quest.27B639DCF392D7D6.quest_desc": [
+		"범람원을 방문하세요."
+	],
+	"quest.01380D4746234739.title": "숲이 우거진 들판",
+	"quest.01380D4746234739.quest_desc": [
+		"숲이 우거진 들판을 방문하세요."
+	],
+	"quest.7098ADAA8FCE5CD3.title": "버섯 정글",
+	"quest.7098ADAA8FCE5CD3.quest_desc": [
+		"버섯 정글을 방문하세요."
+	],
+	"quest.16B57095C1D71EC9.title": "빛나는 작은 동굴",
+	"quest.16B57095C1D71EC9.quest_desc": [
+		"빛나는 작은 동굴을 방문하세요."
+	],
+	"quest.6345CC4D7814DD08.title": "자갈 해변",
+	"quest.6345CC4D7814DD08.quest_desc": [
+		"자갈 해변을 방문하세요."
+	],
+	"quest.589EEDE3C3326591.title": "고원",
+	"quest.589EEDE3C3326591.quest_desc": [
+		"고원을 방문하세요."
+	],
+	"quest.4F3D5086796B833E.title": "온천",
+	"quest.4F3D5086796B833E.quest_desc": [
+		"온천을 방문하세요."
+	],
+	"quest.38D85F82AB4728DE.title": "비취 절벽",
+	"quest.38D85F82AB4728DE.quest_desc": [
+		"비취 절벽을 방문하세요."
+	],
+	"quest.712852A28EE7E2BB.title": "라벤더 들판",
+	"quest.712852A28EE7E2BB.quest_desc": [
+		"라벤더 들판을 방문하세요."
+	],
+	"quest.6AA07DE5EBAA9FDA.title": "우거진 사막",
+	"quest.6AA07DE5EBAA9FDA.quest_desc": [
+		"우거진 사막을 방문하세요."
+	],
+	"quest.7CEFE4BD6DCFBE2F.title": "우거진 대초원",
+	"quest.7CEFE4BD6DCFBE2F.quest_desc": [
+		"우거진 대초원을 방문하세요."
+	],
+	"quest.2BC94416D18135E8.title": "단풍나무 숲",
+	"quest.2BC94416D18135E8.quest_desc": [
+		"단풍나무 숲을 방문하세요."
+	],
+	"quest.7E0BB67077DFCE8F.title": "습지",
+	"quest.7E0BB67077DFCE8F.quest_desc": [
+		"습지를 방문하세요."
+	],
+	"quest.3DD8B486C3EB3880.title": "지중해 숲",
+	"quest.3DD8B486C3EB3880.quest_desc": [
+		"지중해 숲을 방문하세요."
+	],
+	"quest.65D2C433CC83021B.title": "황무지",
+	"quest.65D2C433CC83021B.quest_desc": [
+		"황무지를 방문하세요."
+	],
+	"quest.4B0ABC5F6EDBD338.title": "머스케그",
+	"quest.4B0ABC5F6EDBD338.quest_desc": [
+		"머스케그를 방문하세요."
+	],
+	"quest.2D0EDF0C845CE646.title": "신비한 작은 숲",
+	"quest.2D0EDF0C845CE646.quest_desc": [
+		"신비한 작은 숲을 방문하세요."
+	],
+	"quest.16CEF9D62A11C55D.title": "오래된 죽은 숲",
+	"quest.16CEF9D62A11C55D.quest_desc": [
+		"오래된 죽은 숲을 방문하세요."
+	],
+	"quest.353B0546688B6D27.title": "오래된 삼림지대",
+	"quest.353B0546688B6D27.quest_desc": [
+		"오래된 삼림지대를 방문하세요."
+	],
+	"quest.7766D22CAB9417C4.title": "불길한 수풀산림",
+	"quest.7766D22CAB9417C4.quest_desc": [
+		"불길한 수풀산림을 방문하세요."
+	],
+	"quest.2CCFBBC6F3AA1B0D.title": "과수원",
+	"quest.2CCFBBC6F3AA1B0D.quest_desc": [
+		"과수원을 방문하세요."
+	],
+	"quest.0A9A16829DBC2D5D.title": "원조 계곡",
+	"quest.0A9A16829DBC2D5D.quest_desc": [
+		"원조 계곡을 방문하세요."
+	],
+	"quest.4985B80EE740CC98.title": "과성장한 풀밭",
+	"quest.4985B80EE740CC98.quest_desc": [
+		"과성장한 풀밭을 방문하세요."
+	],
+	"quest.4C444325DFCBB20F.title": "목초지",
+	"quest.4C444325DFCBB20F.quest_desc": [
+		"목초지를 방문하세요."
+	],
+	"quest.5C197E41A89664E5.title": "대초원",
+	"quest.5C197E41A89664E5.quest_desc": [
+		"대초원을 방문하세요."
+	],
+	"quest.035ABAF7093640B6.title": "호박밭",
+	"quest.035ABAF7093640B6.quest_desc": [
+		"호박밭을 방문하세요."
+	],
+	"quest.4516CFDBE33BC946.title": "우림",
+	"quest.4516CFDBE33BC946.quest_desc": [
+		"우림을 방문하세요."
+	],
+	"quest.450837E9CEF2D506.title": "삼나무 숲",
+	"quest.450837E9CEF2D506.quest_desc": [
+		"삼나무 숲을 방문하세요."
+	],
+	"quest.2D3D271C79DAE464.title": "록키 열대우림",
+	"quest.2D3D271C79DAE464.quest_desc": [
+		"록키 열대우림을 방문하세요."
+	],
+	"quest.0375ADE78FC4107D.title": "바위투성이 관목지",
+	"quest.0375ADE78FC4107D.quest_desc": [
+		"바위투성이 관목지를 방문하세요."
+	],
+	"quest.566049EAEF9289B3.title": "관목지",
+	"quest.566049EAEF9289B3.quest_desc": [
+		"관목지를 방문하세요."
+	],
+	"quest.644FB597086DE973.title": "계절 숲",
+	"quest.644FB597086DE973.quest_desc": [
+		"계절 숲을 방문하세요."
+	],
+	"quest.2E78FC1028B68D0C.title": "관목숲",
+	"quest.2E78FC1028B68D0C.quest_desc": [
+		"관목숲을 방문하세요."
+	],
+	"quest.66554D49C8C49F29.title": "눈꽃 숲",
+	"quest.66554D49C8C49F29.quest_desc": [
+		"눈꽃 숲을 방문하세요."
+	],
+	"quest.470D3B16D15F449A.title": "눈 덮인 침엽수림",
+	"quest.470D3B16D15F449A.quest_desc": [
+		"눈 덮인 침엽수림을 방문하세요."
+	],
+	"quest.6EC7DBA96BCFFC7A.title": "눈 덮인 전나무 빈터",
+	"quest.6EC7DBA96BCFFC7A.quest_desc": [
+		"눈 덮인 전나무 빈터를 방문하세요."
+	],
+	"quest.53E6576C06B3C3FE.title": "눈 덮인 단풍나무 숲",
+	"quest.53E6576C06B3C3FE.quest_desc": [
+		"눈 덮인 단풍나무 숲을 방문하세요."
+	],
+	"quest.57A0BB34DFD00897.title": "거미 둥지",
+	"quest.57A0BB34DFD00897.quest_desc": [
+		"거미 둥지를 방문하세요."
+	],
+	"quest.3AD51EB84F87F709.title": "아열대",
+	"quest.3AD51EB84F87F709.quest_desc": [
+		"아열대를 방문하세요."
+	],
+	"quest.19FEB1A412379AC6.title": "열대 섬",
+	"quest.19FEB1A412379AC6.quest_desc": [
+		"열대 섬을 방문하세요."
+	],
+	"quest.3F2B6A36CA261294.title": "툰드라",
+	"quest.3F2B6A36CA261294.quest_desc": [
+		"툰드라를 방문하세요."
+	],
+	"quest.01BE53E072A09608.title": "덤불 지대",
+	"quest.01BE53E072A09608.quest_desc": [
+		"덤불 지대를 방문하세요."
+	],
+	"quest.3CFCA650F5CB5BC7.title": "본능 더미",
+	"quest.3CFCA650F5CB5BC7.quest_desc": [
+		"본능 더미를 방문하세요."
+	],
+	"quest.57E5EC5364E28D33.title": "화산 평원",
+	"quest.57E5EC5364E28D33.quest_desc": [
+		"화산 평원을 방문하세요."
+	],
+	"quest.6A43C9447876235B.title": "화산",
+	"quest.6A43C9447876235B.quest_desc": [
+		"화산을 방문하세요."
+	],
+	"quest.179DB2824A375DF2.title": "황무지",
+	"quest.179DB2824A375DF2.quest_desc": [
+		"황무지를 방문하세요."
+	],
+	"quest.10DE3F359A34C033.title": "황무지 초원",
+	"quest.10DE3F359A34C033.quest_desc": [
+		"황무지 초원을 방문하세요."
+	],
+	"quest.272CD3DA41189125.title": "습지대",
+	"quest.272CD3DA41189125.quest_desc": [
+		"습지대를 방문하세요."
+	],
+	"quest.3EF4C3C463C24232.title": "눈덮인 원조 계곡",
+	"quest.3EF4C3C463C24232.quest_desc": [
+		"눈덮인 원조 계곡을 방문하세요."
+	],
+	"quest.2EABBA15464EB5A7.title": "시든 심연",
+	"quest.2EABBA15464EB5A7.quest_desc": [
+		"시든 심연을 방문하세요."
+	],
+	"quest.44639AAFFCFC33DD.title": "삼림 지대",
+	"quest.44639AAFFCFC33DD.quest_desc": [
+		"삼림 지대를 방문하세요."
+	],
+	"quest.6C9EC7136705A59C.title": "도적의 섬",
+	"quest.6C9EC7136705A59C.quest_desc": [
+		"도적의 섬을 방문하세요."
+	],
+	"quest.6D5F9203120D74FB.title": "도감 30% 달성",
+	"quest.6D5F9203120D74FB.quest_desc": [
+		"시작 과제를 포함해 40개 이상을 완료하면 이 단계가 열립니다."
+	],
+	"quest.26DC1CBE34128207.title": "도감 60% 달성",
+	"quest.26DC1CBE34128207.quest_desc": [
+		"시작 과제를 포함해 80개 이상을 완료하면 이 단계가 열립니다."
+	],
+	"quest.59F9D77A9E1581E0.title": "도감 90% 달성",
+	"quest.59F9D77A9E1581E0.quest_desc": [
+		"시작 과제를 포함해 119개 이상을 완료하면 이 단계가 열립니다."
+	],
+	"quest.0C93477884AFAD51.title": "도감 100% 달성",
+	"quest.0C93477884AFAD51.quest_desc": [
+		"시작 과제를 포함해 모든 항목을 완료하면 도감을 마칩니다."
+	]
+}

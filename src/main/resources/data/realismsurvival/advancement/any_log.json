@@ -1,0 +1,24 @@
+{
+  "parent": "minecraft:adventure/root",
+  "criteria": {
+    "logs": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "#minecraft:logs_that_burn",
+            "count": {
+              "min": 4
+            }
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "logs"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

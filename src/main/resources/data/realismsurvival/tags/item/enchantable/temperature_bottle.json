@@ -1,0 +1,10 @@
+{
+  "values": [
+    "minecraft:book",
+    "minecraft:glass_bottle",
+    "realismsurvival:distilled_water_bottle",
+    "realismsurvival:fresh_water_bottle",
+    "realismsurvival:stagnant_water_bottle",
+    "realismsurvival:salt_water_bottle"
+  ]
+}

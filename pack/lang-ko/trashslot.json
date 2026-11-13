@@ -1,0 +1,7 @@
+{
+  "key.category.trashslot.default": "TrashSlot",
+  "key.categories.trashslot.default": "TrashSlot",
+  "trashslot.config.instantDeletion": "즉시 삭제",
+  "tooltip.trashslot.destroy_item": "아이템 파괴",
+  "tooltip.trashslot.trash_item": "아이템 버리기"
+}

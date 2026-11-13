@@ -1,0 +1,231 @@
+{
+	"quest.36DD97021B8D7AF8.title": "물고기 도감 시작",
+	"quest.36DD97021B8D7AF8.quest_desc": [
+		"물고기 도감입니다. 항목을 하나씩 완료해 보세요.",
+		"직접 체크하세요."
+	],
+	"quest.16DC079C89BF0D58.title": "대구",
+	"quest.16DC079C89BF0D58.quest_desc": [
+		"대구를 보유하세요."
+	],
+	"quest.53C1FE63F1DB4F68.title": "연어",
+	"quest.53C1FE63F1DB4F68.quest_desc": [
+		"연어를 보유하세요."
+	],
+	"quest.7A82B5A65EB6BDE8.title": "열대어",
+	"quest.7A82B5A65EB6BDE8.quest_desc": [
+		"열대어를 보유하세요."
+	],
+	"quest.2F89B6CDED7ADC7B.title": "복어",
+	"quest.2F89B6CDED7ADC7B.quest_desc": [
+		"복어를 보유하세요."
+	],
+	"quest.3014C3E2672817F6.title": "아라파이마",
+	"quest.3014C3E2672817F6.quest_desc": [
+		"아라파이마를 보유하세요."
+	],
+	"quest.3DA89931ABD99DF4.title": "아라우 거북",
+	"quest.3DA89931ABD99DF4.quest_desc": [
+		"아라우 거북을 보유하세요."
+	],
+	"quest.3F6180EF4170CF9A.title": "대서양 대구",
+	"quest.3F6180EF4170CF9A.quest_desc": [
+		"대서양 대구를 보유하세요."
+	],
+	"quest.2E21AC1294203D29.title": "대서양 넙치",
+	"quest.2E21AC1294203D29.quest_desc": [
+		"대서양 넙치를 보유하세요."
+	],
+	"quest.520535E870A65BDA.title": "대서양 청어",
+	"quest.520535E870A65BDA.quest_desc": [
+		"대서양 청어를 보유하세요."
+	],
+	"quest.13AE43E865DE12D1.title": "바야드",
+	"quest.13AE43E865DE12D1.quest_desc": [
+		"바야드를 보유하세요."
+	],
+	"quest.021C364C0A52611F.title": "블랙피시",
+	"quest.021C364C0A52611F.quest_desc": [
+		"블랙피시를 보유하세요."
+	],
+	"quest.116E11A76D31088A.title": "블루길",
+	"quest.116E11A76D31088A.quest_desc": [
+		"블루길을 보유하세요."
+	],
+	"quest.2AE1A1C7BDDC22F9.title": "볼티",
+	"quest.2AE1A1C7BDDC22F9.quest_desc": [
+		"볼티를 보유하세요."
+	],
+	"quest.74358708B0B24F58.title": "갈색 슈루마",
+	"quest.74358708B0B24F58.quest_desc": [
+		"갈색 슈루마를 보유하세요."
+	],
+	"quest.528E3B722B9A3C75.title": "갈색 송어",
+	"quest.528E3B722B9A3C75.quest_desc": [
+		"갈색 송어를 보유하세요."
+	],
+	"quest.6EF235DBB1AC4E29.title": "카피텐",
+	"quest.6EF235DBB1AC4E29.quest_desc": [
+		"카피텐을 보유하세요."
+	],
+	"quest.678213F093052C99.title": "잉어",
+	"quest.678213F093052C99.quest_desc": [
+		"잉어를 보유하세요."
+	],
+	"quest.758C47733651B524.title": "메기",
+	"quest.758C47733651B524.quest_desc": [
+		"메기를 보유하세요."
+	],
+	"quest.54C51C7E307CE1F1.title": "가아",
+	"quest.54C51C7E307CE1F1.quest_desc": [
+		"가아를 보유하세요."
+	],
+	"quest.1028994DE4BDAEC8.title": "금붕어",
+	"quest.1028994DE4BDAEC8.quest_desc": [
+		"금붕어를 보유하세요."
+	],
+	"quest.634FB465A0D9AAB1.title": "해파리",
+	"quest.634FB465A0D9AAB1.quest_desc": [
+		"해파리를 보유하세요."
+	],
+	"quest.008B55036BBC9A03.title": "큰입배스",
+	"quest.008B55036BBC9A03.quest_desc": [
+		"큰입배스를 보유하세요."
+	],
+	"quest.598ECD9C9FE3D974.title": "거머리",
+	"quest.598ECD9C9FE3D974.quest_desc": [
+		"거머리를 보유하세요."
+	],
+	"quest.6DCB97B826303345.title": "피라미",
+	"quest.6DCB97B826303345.quest_desc": [
+		"피라미를 보유하세요."
+	],
+	"quest.5E980E1CE2586B2B.title": "머스키",
+	"quest.5E980E1CE2586B2B.quest_desc": [
+		"머스키를 보유하세요."
+	],
+	"quest.36C7C67495A57D75.title": "태평양 넙치",
+	"quest.36C7C67495A57D75.quest_desc": [
+		"태평양 넙치를 보유하세요."
+	],
+	"quest.5495024B0C7BD1CE.title": "농어",
+	"quest.5495024B0C7BD1CE.quest_desc": [
+		"농어를 보유하세요."
+	],
+	"quest.4D3D7594F085B967.title": "핑크 연어",
+	"quest.4D3D7594F085B967.quest_desc": [
+		"핑크 연어를 보유하세요."
+	],
+	"quest.36593AB98ADEE05F.title": "피라냐",
+	"quest.36593AB98ADEE05F.quest_desc": [
+		"피라냐를 보유하세요."
+	],
+	"quest.640D88481EA9A3F1.title": "명태",
+	"quest.640D88481EA9A3F1.quest_desc": [
+		"명태를 보유하세요."
+	],
+	"quest.16206EB01133ACB9.title": "무지개 송어",
+	"quest.16206EB01133ACB9.quest_desc": [
+		"무지개 송어를 보유하세요."
+	],
+	"quest.742A4BA6EE054E8B.title": "붉바리",
+	"quest.742A4BA6EE054E8B.quest_desc": [
+		"붉바리를 보유하세요."
+	],
+	"quest.2950004F28AB3EBA.title": "빨간 슈루마",
+	"quest.2950004F28AB3EBA.quest_desc": [
+		"빨간 슈루마를 보유하세요."
+	],
+	"quest.5C12CE653CB64685.title": "작은입배스",
+	"quest.5C12CE653CB64685.quest_desc": [
+		"작은입배스를 보유하세요."
+	],
+	"quest.2C6A128F88861FF7.title": "별껍질 거북",
+	"quest.2C6A128F88861FF7.quest_desc": [
+		"별껍질 거북을 보유하세요."
+	],
+	"quest.53675B994F579099.title": "초밥",
+	"quest.53675B994F579099.quest_desc": [
+		"초밥을 보유하세요."
+	],
+	"quest.6E04B58471599EDA.title": "시노돈티스",
+	"quest.6E04B58471599EDA.quest_desc": [
+		"시노돈티스를 보유하세요."
+	],
+	"quest.5E44E311094B2A6C.title": "탐바키",
+	"quest.5E44E311094B2A6C.quest_desc": [
+		"탐바키를 보유하세요."
+	],
+	"quest.38426E22844445B1.title": "참치",
+	"quest.38426E22844445B1.quest_desc": [
+		"참치를 보유하세요."
+	],
+	"quest.0D5C06A227E11F43.title": "거북 수프",
+	"quest.0D5C06A227E11F43.quest_desc": [
+		"거북 수프를 보유하세요."
+	],
+	"quest.33355D54404C329B.title": "날생선 필렛",
+	"quest.33355D54404C329B.quest_desc": [
+		"날생선 필렛을 보유하세요."
+	],
+	"quest.0EEB5D2F67C4DD7F.title": "익힌 생선 필렛",
+	"quest.0EEB5D2F67C4DD7F.quest_desc": [
+		"익힌 생선 필렛을 보유하세요."
+	],
+	"quest.4AB10A7F2E0C96E2.title": "옛비늘이",
+	"quest.4AB10A7F2E0C96E2.quest_desc": [
+		"옛비늘이를 보유하세요."
+	],
+	"quest.3F55ED3B6A204C69.title": "전투길",
+	"quest.3F55ED3B6A204C69.quest_desc": [
+		"전투길을 보유하세요."
+	],
+	"quest.386DC1A3EDC6577C.title": "악마고기",
+	"quest.386DC1A3EDC6577C.quest_desc": [
+		"악마고기를 보유하세요."
+	],
+	"quest.77CCE6027DF96D05.title": "섬넘실이",
+	"quest.77CCE6027DF96D05.quest_desc": [
+		"섬넘실이를 보유하세요."
+	],
+	"quest.14840D9257B0AD1E.title": "풀비늘이",
+	"quest.14840D9257B0AD1E.quest_desc": [
+		"풀비늘이를 보유하세요."
+	],
+	"quest.1D4BB3DED192DD75.title": "연모시",
+	"quest.1D4BB3DED192DD75.quest_desc": [
+		"연모시를 보유하세요."
+	],
+	"quest.2F244D012E0B158A.title": "물보라꼬리치",
+	"quest.2F244D012E0B158A.quest_desc": [
+		"물보라꼬리치를 보유하세요."
+	],
+	"quest.7A8695F3425A65B0.title": "폭풍고기",
+	"quest.7A8695F3425A65B0.quest_desc": [
+		"폭풍고기를 보유하세요."
+	],
+	"quest.2C658E598F3AEE5C.title": "야생물보라치",
+	"quest.2C658E598F3AEE5C.quest_desc": [
+		"야생물보라치를 보유하세요."
+	],
+	"quest.17D85C706FEC1D2A.title": "난파아귀",
+	"quest.17D85C706FEC1D2A.quest_desc": [
+		"난파아귀를 보유하세요."
+	],
+	"quest.72957804A8DD406B.title": "도감 30% 달성",
+	"quest.72957804A8DD406B.quest_desc": [
+		"시작 과제를 포함해 16개 이상을 완료하면 이 단계가 열립니다."
+	],
+	"quest.46166A247935D187.title": "도감 60% 달성",
+	"quest.46166A247935D187.quest_desc": [
+		"시작 과제를 포함해 32개 이상을 완료하면 이 단계가 열립니다."
+	],
+	"quest.44D4F64C8CF05497.title": "도감 90% 달성",
+	"quest.44D4F64C8CF05497.quest_desc": [
+		"시작 과제를 포함해 47개 이상을 완료하면 이 단계가 열립니다."
+	],
+	"quest.7EDA860C1CD22A45.title": "도감 100% 달성",
+	"quest.7EDA860C1CD22A45.quest_desc": [
+		"시작 과제를 포함해 모든 항목을 완료하면 도감을 마칩니다."
+	]
+}

@@ -1,0 +1,18 @@
+﻿E={
+"key.entityculling.toggle":"컬링 디버그 전환",
+"text.entityculling.tab.tick_culling.tooltip":"이 탭에서 선택한 엔티티는 컬링되어도 틱 처리가 최적화되지 않습니다. 보트처럼 기능상 계속 틱이 필요한 엔티티에 유용합니다.",
+"text.entityculling.tab.entity_culling":"엔티티 건너뛰기",
+"text.entityculling.tab.entity_culling.tooltip":"이 탭에서 선택한 엔티티는 컬링 대상에서 제외됩니다. 주로 클라이언트 전용 엔티티나 보이는지와 관계없이 항상 렌더링해야 하는 엔티티에 필요합니다.",
+"text.entityculling.tab.block_entity_culling":"블록 엔티티 건너뛰기",
+"text.entityculling.tab.block_entity_culling.tooltip":"이 탭에서 선택한 블록 엔티티는 컬링 대상에서 제외됩니다. 주로 보이는지와 관계없이 항상 렌더링해야 하는 블록 엔티티에 필요합니다.",
+"text.entityculling.renderNametagsThroughWalls.tooltip":"끄면 컬링된 엔티티의 이름표가 벽 너머로 렌더링되지 않습니다.",
+"text.entityculling.tickCulling.tooltip":"켜면 컬링된 엔티티는 틱 처리되지 않습니다. 성능이 좋아질 수 있지만 일부 모드와 충돌할 수 있습니다. 다른 탭의 세부 설정도 참고하세요.",
+"text.entityculling.skipEntityCulling":"엔티티 컬링 건너뛰기",
+"text.entityculling.skipEntityCulling.tooltip":"켜면 엔티티 컬링을 완전히 건너뜁니다. 디버깅하거나 컬링을 잠시 끄고 싶을 때 유용합니다.",
+"text.entityculling.skipBlockEntityCulling":"블록 엔티티 컬링 건너뛰기",
+"text.entityculling.skipBlockEntityCulling.tooltip":"켜면 블록 엔티티 컬링을 완전히 건너뜁니다. 디버깅하거나 컬링을 잠시 끄고 싶을 때 유용합니다.",
+"text.entityculling.blockEntityFrustumCulling":"블록 엔티티 시야 절두체 컬링",
+"text.entityculling.blockEntityFrustumCulling.tooltip":"켜면 카메라 시야 절두체를 기준으로 블록 엔티티 상태 추출을 컬링합니다. 모드 로더나 다른 모드가 아직 처리하지 않는 경우 성능에 도움이 됩니다.",
+"text.entityculling.forceDisplayCulling.tooltip":"켜면 경계 상자가 없는 디스플레이 엔티티에 컬링용 기본 경계 상자를 부여합니다. 디스플레이 엔티티를 제대로 설정하지 않은 맵이나 서버에서 성능이 좋아질 수 있지만, 화면이 이상하게 보일 수 있습니다.",
+"text.entityculling.solidLeaves.tooltip":"켜면 컬링 계산에서 잎을 고체 블록처럼 취급합니다. 숲에서 성능이 좋아질 수 있지만, 화면이 이상하게 보일 수 있습니다. '잎 투과 보기'를 끄거나 울창한 잎 리소스 팩을 쓸 때 유용합니다.",
+}

@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "realismsurvival:thermometer",
+    "minecraft:clock",
+    {
+      "id": "sereneseasons:calendar",
+      "required": false
+    }
+  ]
+}

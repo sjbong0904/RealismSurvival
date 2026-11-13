@@ -1,0 +1,14 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "aquaculture"
+    }
+  ],
+  "items": [
+    "aquaculture:fish_fillet_cooked"
+  ],
+  "thirst_restore": -3.5,
+  "temperature_delta": 0.2,
+  "priority": 5
+}

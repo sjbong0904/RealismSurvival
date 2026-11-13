@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["GFG", " M ", "GFG"],
+  "key": {
+    "G": "minecraft:gold_ingot",
+    "F": "rsmedicine:field_kit",
+    "M": "rsmedicine:medkit"
+  },
+  "result": {
+    "id": "rsmedicine:clinic_kit",
+    "count": 1
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "fishofthieves"
+    }
+  ],
+  "items": [
+    "fishofthieves:pineapple",
+    "fishofthieves:half_pineapple",
+    "fishofthieves:crownless_pineapple",
+    "fishofthieves:mango",
+    "fishofthieves:coconut",
+    "fishofthieves:guardian_fruit"
+  ],
+  "thirst_restore": 6.0,
+  "temperature_delta": -0.15,
+  "priority": 5
+}

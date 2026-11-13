@@ -1,0 +1,1087 @@
+[
+{
+"k": "key.modernfix",
+"en": "ModernFix",
+"jko": null,
+"ov": "모던픽스",
+"src": null
+},
+{
+"k": "key.modernfix.config",
+"en": "Open config screen",
+"jko": null,
+"ov": "설정 화면 열기",
+"src": null
+},
+{
+"k": "modernfix.jei_load",
+"en": "Loading JEI, this may take a while",
+"jko": null,
+"ov": "JEI를 로드하는 중입니다, 잠시 시간이 걸릴 수 있습니다",
+"src": null
+},
+{
+"k": "modernfix.no_lazydfu",
+"en": "LazyDFU is not installed. If Minecraft needs to update game data from an older version, there may be noticeable lag.",
+"jko": null,
+"ov": "LazyDFU가 설치되어 있지 않습니다. Minecraft가 이전 버전에서 게임 데이터를 업데이트해야 하는 경우, 눈에 띄는 지연이 발생할 수 있습니다.",
+"src": null
+},
+{
+"k": "modernfix.no_ferritecore",
+"en": "FerriteCore is not installed. Memory usage will be very high.",
+"jko": null,
+"ov": "FerriteCore가 설치되어 있지 않습니다. 메모리 사용량이 매우 높아질 것입니다.",
+"src": null
+},
+{
+"k": "modernfix.connectedness_dynresoruces",
+"en": "Connectedness and ModernFix's dynamic resources option are not compatible. Remove Connectedness or disable dynamic resources in the ModernFix config.",
+"jko": null,
+"ov": "Connectedness와 ModernFix의 동적 자원 옵션은 호환되지 않습니다. Connectedness를 제거하거나 ModernFix 설정에서 동적 자원을 비활성화하세요.",
+"src": null
+},
+{
+"k": "modernfix.perf_mod_warning",
+"en": "ModernFix mod warnings can be disabled by turning off mixin.feature.warn_missing_perf_mods in the ModernFix config.",
+"jko": null,
+"ov": "ModernFix 모드 경고는 ModernFix 설정에서 mixin.feature.warn_missing_perf_mods를 끄면 비활성화할 수 있습니다.",
+"src": null
+},
+{
+"k": "modernfix.redirector_installed",
+"en": "ModernFix detected that Redirector is installed. Redirector is known to cause many strange and hard-to-debug issues, and removing it is strongly recommended.",
+"jko": null,
+"ov": "ModernFix는 Redirector가 설치되어 있음을 감지했습니다. Redirector는 많은 이상하고 디버깅하기 어려운 문제를 일으키는 것으로 알려져 있으며 제거할 것을 강력히 권장합니다.",
+"src": null
+},
+{
+"k": "modernfix.config",
+"en": "ModernFix mixin config",
+"jko": null,
+"ov": "ModernFix 믹신 설정",
+"src": null
+},
+{
+"k": "modernfix.config.done_restart",
+"en": "Done (restart required)",
+"jko": null,
+"ov": "완료 (재시작 필요)",
+"src": null
+},
+{
+"k": "modernfix.config.wiki",
+"en": "Open wiki",
+"jko": null,
+"ov": "위키 열기",
+"src": null
+},
+{
+"k": "modernfix.message.reload_config",
+"en": "A mod config file change was detected. To prevent loading files that aren't done saving, reloading must be triggered by running /mfrc.",
+"jko": null,
+"ov": "모드 구성 파일 변경이 감지되었습니다. 저장이 완료되지 않은 파일을 불러오는 것을 방지하려면 /mfrc를 실행하여 다시 로딩해야 합니다.",
+"src": null
+},
+{
+"k": "modernfix.option.on",
+"en": "on",
+"jko": null,
+"ov": "켜짐",
+"src": null
+},
+{
+"k": "modernfix.option.off",
+"en": "off",
+"jko": null,
+"ov": "꺼짐",
+"src": null
+},
+{
+"k": "modernfix.option.disabled",
+"en": "disabled",
+"jko": null,
+"ov": "비활성화됨",
+"src": null
+},
+{
+"k": "modernfix.option.enabled",
+"en": "enabled",
+"jko": null,
+"ov": "활성화됨",
+"src": null
+},
+{
+"k": "modernfix.option.mod_override",
+"en": " by mods [%s]",
+"jko": null,
+"ov": "모드에 의해 [%s]",
+"src": null
+},
+{
+"k": "modernfix.config.not_default",
+"en": " (modified)",
+"jko": null,
+"ov": "(수정됨)",
+"src": null
+},
+{
+"k": "asynclocator.map.locating",
+"en": "Map (Locating...)",
+"jko": null,
+"ov": "지도 (위치 찾는 중...)",
+"src": null
+},
+{
+"k": "asynclocator.map.none",
+"en": "Map (No nearby feature found)",
+"jko": null,
+"ov": "지도 (주변에 기능이 없습니다)",
+"src": null
+},
+{
+"k": "modernfix.option.category.performance",
+"en": "Performance",
+"jko": null,
+"ov": "성능",
+"src": null
+},
+{
+"k": "modernfix.option.category.performance.description",
+"en": "Features that help improve game/launch performance",
+"jko": null,
+"ov": "게임/실행 성능 향상에 도움이 되는 기능",
+"src": null
+},
+{
+"k": "modernfix.option.category.bugfixes",
+"en": "Bugfixes",
+"jko": null,
+"ov": "버그 수정",
+"src": null
+},
+{
+"k": "modernfix.option.category.bugfixes.description",
+"en": "Core bugfixes to improve game stability",
+"jko": null,
+"ov": "게임 안정성을 향상시키기 위한 핵심 버그 수정",
+"src": null
+},
+{
+"k": "modernfix.option.category.troubleshooting",
+"en": "Troubleshooting/Utilities",
+"jko": null,
+"ov": "문제 해결/유틸리티",
+"src": null
+},
+{
+"k": "modernfix.option.category.troubleshooting.description",
+"en": "Features intended to assist in diagnosing problems",
+"jko": null,
+"ov": "문제 진단을 돕기 위한 기능",
+"src": null
+},
+{
+"k": "modernfix.option.category.expert_only",
+"en": "Expert only",
+"jko": null,
+"ov": "전문가 전용",
+"src": null
+},
+{
+"k": "modernfix.option.category.expert_only.description",
+"en": "Do not change unless you know what you are doing",
+"jko": null,
+"ov": "무슨 일을 하고 있는지 알지 못하면 변경하지 마세요",
+"src": null
+},
+{
+"k": "modernfix.option.name.mixin.perf.async_jei",
+"en": "Background JEI loading",
+"jko": null,
+"ov": "백그라운드 JEI 로딩",
+"src": null
+},
+{
+"k": "modernfix.option.mixin.perf.async_jei",
+"en": "1.16 only. **A key optimization.** Patches JEI to perform its reloading on a background thread, completely eliminating the long delay it adds to world loading.",
+"jko": null,
+"ov": "1.16 전용. **핵심 최적화.** JEI가 백그라운드 스레드에서 재로드를 수행하도록 패치하여, 월드 로딩에 추가되는 긴 지연을 완전히 제거합니다.",
+"src": null
+},
+{
+"k": "modernfix.option.mixin.perf.async_locator",
+"en": "1.16 only. Backports the Async Locator mod's patches to eliminate server freezes associated with `/locate`, loot table generation, etc.",
+"jko": null,
+"ov": "1.16 전용. `/locate`, 전리품 테이블 생성 등과 관련된 서버 정지를 제거하기 위해 Async Locator 모드의 패치를 백포트합니다.",
+"src": null
+},
+{
+"k": "modernfix.option.mixin.perf.biome_zoomer",
+"en": "1.16 only. Minor optimization to improve the performance of the biome zoomer using logic from 1.18.",
+"jko": null,
+"ov": "1.16 전용. 1.18의 로직을 사용하여 바이옴 줌퍼 성능을 개선하는 사소한 최적화.",
+"src": null
+},
+{
+"k": "modernfix.option.mixin.perf.blast_search_trees",
+"en": "All versions. If REI or JEI are installed, construction of the vanilla search trees for creative searching is disabled, and searching is instead done using these mods' search implementations. This saves several seconds during world loading, and probably also saves some RAM as well (although I have not measured).",
+"jko": null,
+"ov": "모든 버전. REI나 JEI가 설치되어 있는 경우, 크리에이티브 검색을 위한 기본 검색 트리의 생성이 비활성화되며, 대신 이러한 모드들의 검색 구현을 사용하여 검색이 이루어집니다. 이는 월드 로딩 동안 몇 초를 절약해 주며, 아마도 일부 RAM도 절약될 수 있습니다(하지만 측정하지는 않았습니다).",
+"src": null
+},
+{
+"k": "modernfix.option.mixin.perf.boost_worker_count",
+"en": "1.16 only. Removes the hardcoded cap on worker thread count, similarly to what Mojang did in 1.18.",
+"jko": null,
+"ov": "1.16 전용. Mojang이 1.18에서 한 것과 유사하게 워커 스레드 수에 대한 하드코딩된 제한을 제거합니다.",
+"src": null
+},
+{
+"k": "modernfix.option.mixin.perf.cache_blockstate_cache_arrays",
+"en": "All versions. Avoids creating fresh copies of enum arrays each time a blockstate cache is initialized. Minor optimization, but easy to do.",
+"jko": null,
+"ov": "모든 버전. 블록 상태 캐시가 초기화될 때마다 열거형 배열의 새로운 복사본 생성을 피합니다. 사소한 최적화이지만 쉽게 할 수 있습니다.",
+"src": null
+},
+{
+"k": "modernfix.option.mixin.perf.cache_model_materials",
+"en": "All versions. Memoizes the `RenderMaterial` (texture) collection and dependency list that models return instead of requiring them to be recalculated on each request. Helps accelerate the model load/bake process.",
+"jko": null,
+"ov": "모든 버전. 모델이 반환하는 `RenderMaterial`(텍스처) 컬렉션과 의존성 목록을 메모이제이션하여, 요청 시마다 다시 계산할 필요가 없도록 합니다. 모델 로드/베이크 프로세스를 가속화하는 데 도움이 됩니다.",
+"src": null
+},
+{
+"k": "modernfix.option.mixin.perf.cache_strongholds",
+"en": "All versions. Saves the generated list of stronghold positions with the world, instead of regenerating it on every world load. Saves a little bit of time on 1.16, and quite a bit more on 1.18 and 1.19.",
+"jko": null,
+"ov": "모든 버전. 매번 세계를 불러올 때 재생성하는 대신, 생성된 성채 위치 목록을 세계와 함께 저장합니다. 1.16에서는 시간을 조금 절약하고, 1.18과 1.19에서는 훨씬 더 많은 시간을 절약합니다.",
+"src": null
+},
+{
+"k": "modernfix.option.mixin.perf.cache_upgraded_structures",
+"en": "All versions. Many mods ship outdated structure files, which requires the game to upgrade them using DFU every single time they are loaded. This can be quite slow. This patch adds logic to instead save the upgraded version of the structure, and reuse it on the next load. To handle the case that the mod changes a structure file but not the name, the original file's hash is compared against the cached version, and if they do not match the structure will be upgraded again.",
+"jko": null,
+"ov": "모든 버전. 많은 모드가 오래된 구조 파일을 제공하며, 이 경우 파일이 로드될 때마다 게임이 DFU를 사용하여 업그레이드해야 합니다. 이는 상당히 느릴 수 있습니다. 이 패치는 대신 구조의 업그레이드된 버전을 저장하고 다음 로드 시 재사용하는 논리를 추가합니다. 모드가 구조 파일의 이름은 변경하지 않고 내용을 바꾸는 경우를 처리하기 위해, 원본 파일의 해시를 캐시된 버전과 비교하고, 일치하지 않으면 구조가 다시 업그레이드됩니다.",
+"src": null
+},
+{
+"k": "modernfix.option.mixin.perf.compress_biome_container",
+"en": "1.16 only. Minor optimization borrowed from Hydrogen, which attempts to save space in the biome container when possible. This gets disabled automatically if conflicting mods like BetterEnd or Chocolate are installed.",
+"jko": null,
+"ov": "1.16 전용. 하이드로젠에서 가져온 사소한 최적화로, 가능할 때 생물 군계 컨테이너의 공간을 절약하려고 합니다. BetterEnd나 Chocolate 같은 충돌하는 모드가 설치되어 있으면 자동으로 비활성화됩니다.",
+"src": null
+},
+{
+"k": "modernfix.option.mixin.perf.datapack_reload_exceptions",
+"en": "All versions. Reduces log spam and possibly slightly improves loading speed by not printing the stacktraces for some commonly thrown exceptions during datapack reload (e.g. missing items in loot tables/recipes). The message is still printed.",
+"jko": null,
+"ov": "모든 버전. 로그 스팸을 줄이고, 일부 일반적으로 발생하는 예외에 대한 스택 트레이스를 출력하지 않음으로써 데이터팩 재로드 중 로딩 속도를 약간 향상시킬 수 있습니다(예: 전리품 테이블/레시피에서 누락된 아이템). 메시지는 여전히 출력됩니다.",
+"src": null
+},
+{
+"k": "modernfix.option.mixin.perf.dedicated_reload_executor",
+"en": "All versions. Moves resource pack and data pack reloading to a dedicated worker pool instead of using the default `Worker-Main` threads. This allows mods to Smooth Boot to still potentially improve singleplayer performance at runtime while not slowing down launch due to a limited thread count.",
+"jko": null,
+"ov": "모든 버전. 리소스 팩과 데이터 팩 재로딩을 기본 `Worker-Main` 스레드를 사용하는 대신 전용 워커 풀로 이동합니다. 이를 통해 모드는 런타임 동안 싱글플레이어 성능을 잠재적으로 향상시키면서 제한된 스레드 수 때문에 시작 속도가 느려지지 않도록 Smooth Boot를 사용할 수 있습니다.",
+"src": null
+},
+{
+"k": "modernfix.option.mixin.perf.deduplicate_location",
+"en": "All versions, but disabled by default due to load time impact. Deduplicates resource location namespaces and paths. This saves RAM but also increases the cost of constructing a new `ResourceLocation` by quite a bit.",
+"jko": null,
+"ov": "모든 버전, 그러나 로드 시간에 영향을 주기 때문에 기본적으로 비활성화되어 있습니다. 리소스 위치 네임스페이스와 경로를 중복 제거합니다. 이는 RAM을 절약하지만 새로운 `ResourceLocation`을 구성하는 비용도 상당히 증가시킵니다.",
+"src": null
+},
+{
+"k": "modernfix.option.mixin.perf.dynamic_dfu",
+"en": "All versions. Modifies DFU initialization to happen the first time something needs to be upgraded. This sounds similar to LazyDFU but is distinctly implemented, as it avoids loading *any* DFU classes/data structures, while LazyDFU only disables rule optimization. Essentially, this option is a safer version of DataFixerSlayer as it will still load DFU when needed.\n\nYou should typically continue to use LazyDFU even with this option enabled, as otherwise DFU rule optimization will cause lag.",
+"jko": null,
+"ov": "모든 버전. 업그레이드가 필요할 때 처음으로 DFU 초기화를 수행하도록 수정합니다. 이는 LazyDFU와 비슷하게 들리지만 구현 방식이 다릅니다. LazyDFU는 규칙 최적화를 비활성화하는 반면, 이 옵션은 *어떤* DFU 클래스/데이터 구조도 로드하지 않도록 합니다. 본질적으로 이 옵션은 필요할 때 DFU를 여전히 로드하기 때문에 DataFixerSlayer보다 안전한 버전입니다.\n\n일반적으로 이 옵션을 활성화하더라도 LazyDFU를 계속 사용하는 것이 좋습니다. 그렇지 않으면 DFU 규칙 최적화로 인해 지연이 발생할 수 있습니다.",
+"src": null
+},
+{
+"k": "modernfix.option.mixin.perf.dynamic_resources",
+"en": "All versions. See https://github.com/embeddedt/ModernFix/wiki/Dynamic-Resources-FAQ.",
+"jko": null,
+"ov": "모든 버전. https://github.com/embeddedt/ModernFix/wiki/Dynamic-Resources-FAQ 를 참조하세요.",
+"src": null
+},
+{
+"k": "modernfix.option.mixin.perf.dynamic_sounds",
+"en": "All versions. Allows the game to unload sounds, instead of sounds indefinitely persisting after being loaded.",
+"jko": null,
+"ov": "모든 버전. 게임이 사운드를 언로드할 수 있게 하며, 사운드가 로드된 후 무한히 지속되는 것을 방지합니다.",
+"src": null
+},
+{
+"k": "modernfix.option.mixin.perf.dynamic_structure_manager",
+"en": "All versions. Allows the game to unload structure files after generation concludes instead of keeping them loaded forever.",
+"jko": null,
+"ov": "모든 버전. 생성이 끝난 후 구조물 파일을 영구적으로 로드 상태로 유지하지 않고 언로드하도록 게임에서 허용합니다.",
+"src": null
+},
+{
+"k": "modernfix.option.mixin.perf.fast_registry_validation",
+"en": "All versions. Forge needlessly looks up a method via reflection every single time a registry is validated. This patch simply caches the returned value since it will be the same every time.",
+"jko": null,
+"ov": "모든 버전. Forge는 레지스트리가 검증될 때마다 불필요하게 리플렉션을 통해 메서드를 조회합니다. 이 패치는 반환된 값을 매번 동일하므로 단순히 캐싱합니다.",
+"src": null
+},
+{
+"k": "modernfix.option.mixin.perf.faster_font_loading",
+"en": "All versions. Optimizes the font renderer to load fonts faster, speeding up resource reload.",
+"jko": null,
+"ov": "모든 버전. 글꼴 렌더러를 최적화하여 글꼴 로드를 더 빠르게 하고, 리소스 재로드를 가속화합니다.",
+"src": null
+},
+{
+"k": "modernfix.option.mixin.perf.faster_item_rendering",
+"en": "All versions. Avoids rendering the sides of items in GUIs. (Yes, vanilla appears to do that.)\n\nThis can triple FPS with a mod like REI/JEI installed on weaker GPUs, if enough items are visible. Disabled by default since it's new and not tested much, but should be safe. The most likely issue is items being completely invisible in GUIs, or appearing flat in the world.",
+"jko": null,
+"ov": "모든 버전. GUI에서 아이템의 측면을 렌더링하지 않습니다. (예, 기본 게임에서도 그렇게 보입니다.)\n\n이 기능은 REI/JEI와 같은 모드가 설치된 경우, 충분한 아이템이 보인다면 낮은 성능 GPU에서 FPS를 세 배까지 올릴 수 있습니다. 새 기능이고 많이 테스트되지 않아 기본적으로 비활성화되어 있지만 안전할 것으로 보입니다. 가장 가능성 있는 문제는 GUI에서 아이템이 완전히 보이지 않거나, 게임 내에서 평면처럼 보이는 것입니다.",
+"src": null
+},
+{
+"k": "modernfix.option.mixin.perf.faster_texture_loading",
+"en": "All versions pre 1.19.4. Avoids reading textures twice (the first time using a very slow code path) and instead does one faster load (similar to 1.19.3+).",
+"jko": null,
+"ov": "1.19.4 이전의 모든 버전. 텍스처를 두 번 읽는 것을 피하며(처음에는 매우 느린 코드 경로를 사용), 대신 하나의 더 빠른 로드를 수행합니다(1.19.3 이상과 유사).",
+"src": null
+},
+{
+"k": "modernfix.option.mixin.perf.faster_texture_stitching",
+"en": "All versions. Enables the game to use a faster texture stitching system originally written by SuperCoder79 for lwjgl3ify on 1.7.10, which can save some time during loading. Rarely, it's been reported to cause weird artifacts on blocks or in GUIs, this may be a Sodium bug.",
+"jko": null,
+"ov": "모든 버전. 1.7.10용 lwjgl3ify에서 SuperCoder79가 원래 작성한 더 빠른 텍스처 스티칭 시스템을 게임에서 사용할 수 있도록 하며, 이는 로딩 중 일부 시간을 절약할 수 있습니다. 드물게, 블록이나 GUI에서 이상한 아티팩트를 일으킨다는 보고가 있으며, 이는 Sodium 버그일 수 있습니다.",
+"src": null
+},
+{
+"k": "modernfix.option.mixin.perf.jeresources_startup",
+"en": "1.16 only. Optimizes Just Enough Resources to not needlessly recreate villager entities many times for the same profession, which saves time during JEI startup.",
+"jko": null,
+"ov": "1.16 전용. 같은 직업의 주민 엔티티를 불필요하게 여러 번 재생성하지 않도록 충분한 자원만 최적화하여 JEI 시작 시 시간을 절약합니다.",
+"src": null
+},
+{
+"k": "modernfix.option.mixin.perf.kubejs",
+"en": "1.16 only. Optimizations to KubeJS to avoid needless `ItemStack` copying, etc., which reduces the time taken to load datapacks.",
+"jko": null,
+"ov": "1.16 전용. 불필요한 `ItemStack` 복사 등을 피하기 위한 KubeJS 최적화로, 데이터팩 로딩에 걸리는 시간을 줄입니다.",
+"src": null
+},
+{
+"k": "modernfix.option.mixin.perf.model_optimizations",
+"en": "All versions. Implements optimizations to speed up the model loading process.",
+"jko": null,
+"ov": "모든 버전. 모델 로딩 속도를 높이기 위한 최적화를 구현합니다.",
+"src": null
+},
+{
+"k": "modernfix.option.mixin.perf.nbt_memory_usage",
+"en": "All versions. Uses a more efficient backing map for compound NBT tags that deduplicates key names and also uses an array map for very small compounds. This reduces the overhead of storing many compound tags in memory.",
+"jko": null,
+"ov": "모든 버전. 키 이름을 중복 제거하고 매우 작은 복합 태그에는 배열 맵을 사용하는 더 효율적인 복합 NBT 태그 백업 맵을 사용합니다. 이는 메모리에 많은 복합 태그를 저장하는 오버헤드를 줄입니다.",
+"src": null
+},
+{
+"k": "modernfix.option.mixin.perf.nuke_empty_chunk_sections",
+"en": "1.16 only, inspired by Hydrogen. Avoids storing chunk sections that are full of air in memory, instead marking them as empty.",
+"jko": null,
+"ov": "1.16 전용, Hydrogen에서 영감을 받음. 공기로 가득 찬 청크 섹션을 메모리에 저장하는 것을 피하고, 대신 비어 있음으로 표시함.",
+"src": null
+},
+{
+"k": "modernfix.option.mixin.perf.reduce_blockstate_cache_rebuilds",
+"en": "All versions. **A key optimization.** Newer Minecraft versions (after 1.12) implemented a blockstate cache system that caches frequently used information about a blockstate, such as whether it is solid, its collision shape, etc. Rebuilding this cache is quite fast in vanilla (it takes only a second or two) but is quite slow with many mods installed, as there are many more blockstates present in the game which all must have their caches rebuilt.\n\nThis problem is exacerbated by Forge as the cache is rebuilt at many points when the data would almost certainly be unused before the next rebuild. Examples include right before reaching the main menu (during the \"Freezing data\" stage), as well as multiple (!) times when a world is being loaded.\n\nModernFix solves this performance bottleneck by instead making cache rebuilds lazy. Each blockstate rebuilds its cache the first time the data would be accessed. At any point when vanilla or Forge would attempt to rebuild caches for all blockstates, this is redirected to simply invalidate the cache on each blockstate instead.\n\nThis should not have any impact on TPS after startup concludes.",
+"jko": null,
+"ov": "All versions. **A key optimization.** Newer Minecraft versions (after 1.12) implemented a blockstate cache system that caches frequently used information about a blockstate, such as whether it is solid, its collision shape, etc. Rebuilding this cache is quite fast in vanilla (it takes only a second or two) but is quite slow with many mods installed, as there are many more blockstates present in the game which all must have their caches rebuilt.\n\nThis problem is exacerbated by Forge as the cache is rebuilt at many points when the data would almost certainly be unused before the next rebuild. Examples include right before reaching the main menu (during the \"Freezing data\" stage), as well as multiple (!) times when a world is being loaded.\n\nModernFix solves this performance bottleneck by instead making cache rebuilds lazy. Each blockstate rebuilds its cache the first time the data would be accessed. At any point when vanilla or Forge would attempt to rebuild caches for all blockstates, this is redirected to simply invalidate the cache on each blockstate instead.\n\nThis should not have any impact on TPS after startup concludes.",
+"src": null
+},
+{
+"k": "modernfix.option.mixin.perf.remove_biome_temperature_cache",
+"en": "All versions. Removes the biome temperature cache as Lithium does on modern versions.",
+"jko": null,
+"ov": "모든 버전. 최신 버전의 Lithium이 하는 것처럼 생물군계 온도 캐시를 제거합니다.",
+"src": null
+},
+{
+"k": "modernfix.option.mixin.perf.resourcepacks",
+"en": "All versions. **A key optimization.** Launches on modern versions are heavily bottlenecked by filesystem access. Many requests are frequently made to resource packs to list resources or check if a given resource exists, and each of these result in a very slow file API call.\n\nModernFix completely eliminates most of the bottleneck here by simply caching a listing of all resources that exist within mod-provided and vanilla resourcepacks. The cache is rebuilt on resource reload (except for the vanilla resources, since they should never change while the game is running).\n\nThere are no known compatibility issues with this patch except for OptiFine (its CTM resources do not load correctly). However I do not recommend using OptiFine in any scenario, as it adds several minutes to launch time by itself and is not tested with ModernFix at all.",
+"jko": null,
+"ov": "모든 버전. **핵심 최적화.** 최신 버전에서의 실행은 파일 시스템 접근 때문에 심각하게 병목 현상이 발생합니다. 리소스 팩에 대해 자주 여러 요청이 발생하여 리소스를 나열하거나 특정 리소스가 존재하는지 확인하는데, 이 각각은 매우 느린 파일 API 호출을 초래합니다.\n\nModernFix는 단순히 모드 제공 및 기본 리소스 팩 내 존재하는 모든 리소스 목록을 캐시함으로써 대부분의 병목 현상을 완전히 제거합니다. 캐시는 리소스를 다시 불러올 때 재구성됩니다(게임 실행 중에는 변경되지 않아야 하는 기본 리소스는 제외).\n\n이 패치와 관련된 알려진 호환성 문제는 OptiFine 외에는 없습니다(CTM 리소스가 올바르게 로드되지 않음). 그러나 OptiFine은 자체적으로 실행 시간을 몇 분 더 추가하고 ModernFix와 전혀 테스트되지 않았기 때문에 어떤 경우에도 사용하는 것을 권장하지 않습니다.",
+"src": null
+},
+{
+"k": "modernfix.option.mixin.perf.reuse_datapacks",
+"en": "1.16 only. Attempts to speed up switching between singleplayer worlds by skipping the datapack reload when possible. May cause compatibility issues with some mods, but is currently enabled by default.",
+"jko": null,
+"ov": "1.16 전용. 가능할 때 데이터팩 재로드를 건너뛰어 싱글플레이어 월드 간 전환 속도를 높이려고 시도합니다. 일부 모드와 호환성 문제가 있을 수 있지만 현재 기본적으로 활성화되어 있습니다.",
+"src": null
+},
+{
+"k": "modernfix.option.mixin.perf.rewrite_registry",
+"en": "All versions. **Currently semi-broken.** Aggressively replaces some internals of the Forge registry system with faster versions, however it currently causes freezes when loading some modpacks. Off by default for obvious reasons.",
+"jko": null,
+"ov": "모든 버전. **현재 반쯤 작동하지 않음.** Forge 레지스트리 시스템의 일부 내부를 더 빠른 버전으로 공격적으로 교체하지만, 현재 일부 모드팩을 로드할 때 정지를 일으킵니다. 명백한 이유로 기본적으로 비활성화되어 있습니다.",
+"src": null
+},
+{
+"k": "modernfix.option.mixin.perf.skip_first_datapack_reload",
+"en": "1.16 & 1.19 only. **A key optimization.**\n\nIn the middle of the 1.16 development cycle, Forge patched the game to reload datapacks twice when loading an existing world, in order to fix an issue with biome ID shifting. Unfortunately, datapack reloads often take upwards of 30 seconds and so this very severely affects world loading times.\n\nModernFix makes the necessary changes to avoid this reload, based on the unfinished Forge PR #8163.\n\nThis change was removed by Forge in 1.18, but then a similar patch was added *again* in 1.19 to fix mod datapacks not being loaded when creating new singleplayer worlds. Fortunately, the issue is localized to the world creation screen in 1.19, and existing worlds only require a single reload. However, this still doubles the length of the lag spike when clicking \"Create New World\" in 1.19, and so ModernFix again makes changes to not perform a redundant reload.",
+"jko": null,
+"ov": "1.16 및 1.19 전용입니다. **중요한 최적화.**\n\n1.16 개발 주기 중간에, Forge는 기존 월드를 로드할 때 생물군계 ID 이동 문제를 해결하기 위해 데이터팩을 두 번 다시 로드하도록 게임을 패치했습니다. 불행히도 데이터팩 재로드는 종종 30초 이상 걸리기 때문에 월드 로딩 시간에 매우 큰 영향을 미칩니다.\n\nModernFix는 미완성 Forge PR #8163을 기반으로 이 재로드를 피하기 위해 필요한 변경을 수행합니다.\n\n이 변경 사항은 1.18에서 Forge에 의해 제거되었지만, 1.19에서는 새로운 싱글플레이어 월드를 생성할 때 모드 데이터팩이 로드되지 않는 문제를 해결하기 위해 유사한 패치가 *다시* 추가되었습니다. 다행히도 이 문제는 1.19에서는 월드 생성 화면에만 국한되며, 기존 월드는 한 번의 재로드만 필요합니다. 그러나 여전히 1.19에서 \"새 월드 만들기\"를 클릭할 때 지연이 두 배로 늘어나므로 ModernFix는 불필요한 재로드를 수행하지 않도록 다시 변경합니다.",
+"src": null
+},
+{
+"k": "modernfix.option.mixin.perf.state_definition_construct",
+"en": "All versions. Enabled only if FerriteCore is installed. Takes advantage of FerriteCore's handling of blockstates to speed up their creation. This can help speed up launch with mods that add lots of blockstates, such as furniture mods.",
+"jko": null,
+"ov": "모든 버전. FerriteCore가 설치된 경우에만 활성화됩니다. 블록 상태 생성 속도를 높이기 위해 FerriteCore의 블록 상태 처리 기능을 활용합니다. 이는 가구 모드와 같이 많은 블록 상태를 추가하는 모드로 게임을 시작할 때 속도를 높이는 데 도움이 될 수 있습니다.",
+"src": null
+},
+{
+"k": "modernfix.option.mixin.perf.sync_executor_sleep",
+"en": "All versions. Avoids having the main thread spin idly consuming one CPU core while waiting for the modloading workers to finish.",
+"jko": null,
+"ov": "모든 버전. 모드 로딩 작업자가 완료될 때까지 메인 스레드가 한 CPU 코어를 차지하면서 놀지 않도록 방지합니다.",
+"src": null
+},
+{
+"k": "modernfix.option.mixin.perf.thread_priorities",
+"en": "All versions. Adjusts the worker and server thread priorities to be lower than the client thread. This helps improve FPS stability on machines with few CPU cores, provided that the Java implementation in use respects priorities.",
+"jko": null,
+"ov": "모든 버전. 워커와 서버 스레드의 우선순위를 클라이언트 스레드보다 낮게 조정합니다. 이는 사용 중인 Java 구현이 우선순위를 준수하는 경우, CPU 코어가 적은 기기에서 FPS 안정성을 향상시키는 데 도움이 됩니다.",
+"src": null
+},
+{
+"k": "modernfix.option.mixin.perf.use_integrated_resources",
+"en": "Mostly for 1.16. Patches JEResources to use the integrated server's loot table data if playing singleplayer, rather than pointlessly reloading loot tables. Saves a couple more seconds during JEI startup.",
+"jko": null,
+"ov": "주로 1.16용입니다. 싱글플레이 시 불필요하게 룻 테이블을 다시 로드하는 대신 통합 서버의 룻 테이블 데이터를 사용하도록 JEResources를 패치합니다. JEI 시작 시 몇 초를 더 절약할 수 있습니다.",
+"src": null
+},
+{
+"k": "modernfix.option.mixin.bugfix.concurrency",
+"en": "The patches in this group fix concurrency-related issues within Minecraft and/or Forge. Most of them result in rare, hard-to-diagnose crashes during loading.",
+"jko": null,
+"ov": "이 그룹의 패치는 Minecraft 및/또는 Forge 내의 동시성 관련 문제를 수정합니다. 대부분은 로딩 중 드물고 진단하기 어려운 충돌을 일으킵니다.",
+"src": null
+},
+{
+"k": "modernfix.option.mixin.bugfix.edge_chunk_not_saved",
+"en": "This option is a port of SuperCoder's Chunk Saving Fix mod (because I didn't realize it was already available for Forge at the time).",
+"jko": null,
+"ov": "이 옵션은 SuperCoder의 Chunk Saving Fix 모드의 포트 버전입니다 (당시 Forge용으로 이미 사용 가능하다는 것을 몰랐기 때문입니다).",
+"src": null
+},
+{
+"k": "modernfix.option.mixin.bugfix.mc218112",
+"en": "This option fixes a deadlock that can occur if an exception is thrown while processing entity data. Vanilla does not correctly unlock the data manager when it should. This is tracked as MC-218112 on the bug tracker, and was fixed by Mojang in 1.17.",
+"jko": null,
+"ov": "이 옵션은 엔티티 데이터를 처리하는 동안 예외가 발생할 경우 발생할 수 있는 교착 상태를 수정합니다. 기본 버전은 데이터 관리자를 해제해야 할 때 제대로 해제하지 않습니다. 이는 버그 추적기에서 MC-218112로 추적되었으며 Mojang이 1.17에서 수정했습니다.",
+"src": null
+},
+{
+"k": "modernfix.option.mixin.bugfix.packet_leak",
+"en": "**Experimental**, not enabled by default. An attempted fix for the memory leak issue that occurs after playing long enough on 1.16.",
+"jko": null,
+"ov": "**실험적**, 기본적으로 활성화되지 않음. 1.16에서 충분히 오래 플레이한 후 발생하는 메모리 누수 문제를 시도한 수정입니다.",
+"src": null
+},
+{
+"k": "modernfix.option.mixin.bugfix.paper_chunk_patches",
+"en": "1.18 and newer. **A key optimization.** Ports a patch from Paper that fixes issues on 1.17 with chunkloading requiring huge amounts of memory and generating many `CompletableFuture` instances. 1.18+ are now able to load worlds on only 400MB of memory like 1.16 could.",
+"jko": null,
+"ov": "1.18 및 이후 버전. **중요한 최적화.** 1.17에서 청크 로딩 시 엄청난 양의 메모리를 요구하고 많은 `CompletableFuture` 인스턴스를 생성하는 문제를 해결하는 Paper의 패치를 포팅합니다. 1.18 이상 버전은 이제 1.16처럼 단 400MB의 메모리로도 월드를 로드할 수 있습니다.",
+"src": null
+},
+{
+"k": "modernfix.option.mixin.bugfix.tf_cme_on_load",
+"en": "Patches Twilight Forest to perform non-thread-safe client setup using the main thread as it should, rather than the FML worker thread.",
+"jko": null,
+"ov": "FML 작업자 스레드 대신 메인 스레드를 사용하여 본래처럼 스레드 안전하지 않은 클라이언트 설정을 수행하도록 Twilight Forest를 패치합니다.",
+"src": null
+},
+{
+"k": "modernfix.option.mixin.feature.branding",
+"en": "Adds ModernFix to the branding list on the title screen, and also to the F3 screen.",
+"jko": null,
+"ov": "타이틀 화면의 브랜드 목록과 F3 화면에도 ModernFix를 추가합니다.",
+"src": null
+},
+{
+"k": "modernfix.option.mixin.feature.direct_stack_trace",
+"en": "Normally off, can be enabled to force the raw stack trace to be dumped to the log when a crash occurs. Occasionally vanilla's crash report system fails to work properly and gives an entirely irrelevant stack trace/report.",
+"jko": null,
+"ov": "보통은 꺼져 있으며, 충돌이 발생할 때 원시 스택 추적을 로그에 덤프하도록 강제하려면 활성화할 수 있습니다. 가끔 기본 크래시 보고 시스템이 제대로 작동하지 않아 전혀 관련 없는 스택 추적/보고서를 제공하기도 합니다.",
+"src": null
+},
+{
+"k": "modernfix.option.mixin.feature.measure_time",
+"en": "Uses a couple injections to measure world load time, datapack reload time, resource reload time, bootstrap time, and adds the necessary hooks to enable vanilla's unused profiler logic for resource reloading if so configured.",
+"jko": null,
+"ov": "세계 로드 시간, 데이터팩 재로드 시간, 리소스 재로드 시간, 부트스트랩 시간을 측정하기 위해 몇 가지 인젝션을 사용하며, 설정에 따라 리소스 재로드를 위한 바닐라의 사용되지 않는 프로파일러 로직을 활성화하는 데 필요한 훅을 추가합니다.",
+"src": null
+},
+{
+"k": "modernfix.option.mixin.feature.spam_thread_dump",
+"en": "**To be used for debugging purposes only.** Causes a thread dump to be output to the log every 60 seconds. This can help to diagnose unexplained freezes during loading/gameplay.",
+"jko": null,
+"ov": "**디버깅 용도로만 사용됩니다.** 60초마다 스레드 덤프를 로그에 출력합니다. 이는 로딩/게임플레이 중 설명할 수 없는 멈춤 현상을 진단하는 데 도움이 될 수 있습니다.",
+"src": null
+},
+{
+"k": "modernfix.option.mixin.bugfix.chunk_deadlock",
+"en": "Attempts to prevent chunk system deadlocks or provide additional debug information in the log when they occur. These deadlocks usually manifest as the server freezing indefinitely (e.g. entities not moving), while the client continues to work just fine.",
+"jko": null,
+"ov": "청크 시스템 데드락을 방지하거나 발생 시 로그에 추가 디버그 정보를 제공하려는 시도입니다. 이러한 데드락은 일반적으로 서버가 무한히 멈추는 것으로 나타나며(예: 엔티티가 움직이지 않음), 클라이언트는 정상적으로 작동합니다.",
+"src": null
+},
+{
+"k": "modernfix.option.mixin.bugfix.chunk_deadlock.valhesia",
+"en": "Patches Valhesia Structures to fix an issue in its code that causes frequent worldgen/chunkloading deadlocks.",
+"jko": null,
+"ov": "자주 발생하는 월드 생성/청크 로딩 교착 상태를 일으키는 코드의 문제를 수정하기 위해 Valhesia 구조물을 패치합니다.",
+"src": null
+},
+{
+"k": "modernfix.option.mixin.bugfix.cofh_core_crash",
+"en": "Fixes a multithreading issue in CoFH Core that can cause rare crashes during launch.",
+"jko": null,
+"ov": "CoFH Core에서 드문 실행 시 충돌을 일으킬 수 있는 멀티스레딩 문제를 수정합니다.",
+"src": null
+},
+{
+"k": "modernfix.option.mixin.bugfix.ctm_resourceutil_cme",
+"en": "Fixes a multithreading issue in ConnectedTexturesMod that can cause rare crashes during launch.",
+"jko": null,
+"ov": "ConnectedTexturesMod에서 드문 실행 시 충돌을 일으킬 수 있는 멀티스레딩 문제를 수정합니다.",
+"src": null
+},
+{
+"k": "modernfix.option.mixin.bugfix.ender_dragon_leak",
+"en": "Fixes a memory leak in vanilla caused by the ender dragon retaining a reference to the previous client world.",
+"jko": null,
+"ov": "엔더 드래곤이 이전 클라이언트 월드에 대한 참조를 유지하여 바닐라에서 발생하는 메모리 누수를 수정합니다.",
+"src": null
+},
+{
+"k": "modernfix.option.mixin.bugfix.entity_load_deadlock",
+"en": "Fixes many issues where EntityJoinWorldEvent/EntityJoinLevelEvent cause a worldgen deadlock, by slightly deferring entity loading. Should not, however, cause any noticeable behavior changes in-game.",
+"jko": null,
+"ov": "엔티티 로딩을 약간 지연시켜 EntityJoinWorldEvent/EntityJoinLevelEvent가 월드 생성 교착 상태를 일으키는 많은 문제를 수정합니다. 그러나 게임 내에서 눈에 띄는 동작 변화는 일어나지 않아야 합니다.",
+"src": null
+},
+{
+"k": "modernfix.option.mixin.bugfix.fix_config_crashes",
+"en": "Fixes Forge configs occasionally becoming corrupted when launching the game.",
+"jko": null,
+"ov": "게임을 실행할 때 가끔 포지 설정이 손상되는 문제를 수정합니다.",
+"src": null
+},
+{
+"k": "modernfix.option.mixin.bugfix.item_cache_flag",
+"en": "Fixes MC-258939",
+"jko": null,
+"ov": "MC-258939 수정",
+"src": null
+},
+{
+"k": "modernfix.option.mixin.bugfix.preserve_early_window_pos",
+"en": "Makes the game window retain its existing size when control is handed over from Forge's early loading to Minecraft code. Fixes the window teleporting back to the center of the screen after being dragged, etc.",
+"jko": null,
+"ov": "Forge의 초기 로딩에서 Minecraft 코드로 제어가 넘어갈 때 게임 창이 기존 크기를 유지하게 합니다. 창을 드래그한 후 화면 중앙으로 튕겨 나가는 문제 등을 수정합니다.",
+"src": null
+},
+{
+"k": "modernfix.option.mixin.bugfix.refinedstorage.te_bug",
+"en": "Fixes Refined Storage external storage blocks occasionally failing to show contents of drawers, etc. when loaded. Backport of Refined Storage PR #3435, which was only applied to 1.18 and later.",
+"jko": null,
+"ov": "로드될 때 드로어 등의 내용을 가끔 표시하지 못하는 Refined Storage 외부 저장 블록 문제를 수정합니다. Refined Storage PR #3435의 백포트로, 이는 1.18 이상에만 적용되었습니다.",
+"src": null
+},
+{
+"k": "modernfix.option.mixin.bugfix.remove_block_chunkloading",
+"en": "Fixes zombie pigmen keeping the 0, 0 chunk loaded perpetually on Forge. Backport of Forge PR #8583.",
+"jko": null,
+"ov": "좀비 피그맨이 포지를 사용한 0, 0 청크를 계속해서 로드된 상태로 유지하는 문제를 수정합니다. 포지 PR #8583의 백포트입니다.",
+"src": null
+},
+{
+"k": "modernfix.option.mixin.bugfix.starlight_emptiness",
+"en": "Fixes an occasional Starlight crash due to emptiness maps not being initialized. Backport of the same fix in Starlight for 1.18.x.",
+"jko": null,
+"ov": "빈 맵이 초기화되지 않아 발생하는 가끔 발생하는 Starlight 충돌을 수정합니다. 1.18.x용 Starlight에서 동일한 수정 사항을 백포트한 것입니다.",
+"src": null
+},
+{
+"k": "modernfix.option.mixin.core",
+"en": "Core patches required for ModernFix to work",
+"jko": null,
+"ov": "ModernFix가 작동하기 위해 필요한 핵심 패치",
+"src": null
+},
+{
+"k": "modernfix.option.mixin.devenv",
+"en": "Patches used when running in a development environment, for speed improvement and/or testing",
+"jko": null,
+"ov": "개발 환경에서 실행할 때 속도 향상 및/또는 테스트를 위해 사용되는 패치",
+"src": null
+},
+{
+"k": "modernfix.option.mixin.safety",
+"en": "Concurrency patches to prevent crashes during launch",
+"jko": null,
+"ov": "시작 중 충돌을 방지하기 위한 동시성 패치",
+"src": null
+},
+{
+"k": "modernfix.option.mixin.feature.integrated_server_watchdog",
+"en": "Adds the vanilla watchdog to singleplayer worlds as well, but just prints out the stacktraces rather than forcefully terminating the world. This version includes the functionality of Fullstack Watchdog, but the latter is still needed for multiplayer.",
+"jko": null,
+"ov": "싱글플레이어 세계에도 바닐라 와치독을 추가하지만, 세계를 강제로 종료시키는 대신 스택트레이스만 출력합니다. 이 버전에는 풀스택 와치독의 기능이 포함되어 있지만, 멀티플레이어에는 여전히 후자가 필요합니다.",
+"src": null
+},
+{
+"k": "modernfix.option.mixin.feature.snapshot_easter_egg",
+"en": "Adds easter egg features (does not affect any vanilla visuals or behavior) when running on a snapshot version.",
+"jko": null,
+"ov": "스냅샷 버전에서 실행될 때 이스터 에그 기능을 추가합니다(기본 시각 효과나 동작에는 영향을 주지 않습니다).",
+"src": null
+},
+{
+"k": "modernfix.option.mixin.feature.spark_profile_launch",
+"en": "If enabled, and a compatible version of Spark is installed, the entire launch sequence will be profiled until the main menu.",
+"jko": null,
+"ov": "사용하도록 설정하면 호환 가능한 버전의 Spark가 설치되어 있는 경우, 메인 메뉴까지 전체 실행 시퀀스가 프로파일링됩니다.",
+"src": null
+},
+{
+"k": "modernfix.option.mixin.feature.warn_missing_perf_mods",
+"en": "Shows a warning on startup if other performance mods considered essential and highly compatible are not present",
+"jko": null,
+"ov": "다른 필수적이고 호환성이 높은 성능 모드가 없으면 시작 시 경고를 표시합니다",
+"src": null
+},
+{
+"k": "modernfix.option.mixin.launch.class_search_cache",
+"en": "Replaces Forge's resource finder (used to find game and a mod code) with a significantly faster version, speeding up launch",
+"jko": null,
+"ov": "게임 및 모드 코드를 찾는 데 사용되는 Forge의 리소스 찾기 기능을 훨씬 더 빠른 버전으로 교체하여 실행 속도를 높입니다.",
+"src": null
+},
+{
+"k": "modernfix.option.mixin.perf.clear_fabric_mapping_tables",
+"en": "Reduces memory usage by clearing mapping data structures in Fabric Loader that are either redundant or rarely used by mods. Off by default for compatibility reasons.",
+"jko": null,
+"ov": "모드에서 거의 사용하지 않거나 중복된 패브릭 로더의 매핑 데이터 구조를 정리하여 메모리 사용량을 줄입니다. 호환성 문제로 기본값은 꺼져 있습니다.",
+"src": null
+},
+{
+"k": "modernfix.option.mixin.perf.clear_mixin_classinfo",
+"en": "Force-loads all mixins when launch finishes and then clears out mixin data structures to remove most of Mixin's memory footprint. Disabled by default for compatibility reasons.",
+"jko": null,
+"ov": "출시가 완료되면 모든 믹스를 강제로 로드한 후 믹스 데이터 구조를 제거하여 믹스의 메모리 사용량 대부분을 제거합니다. 호환성 문제로 기본적으로 비활성화되어 있습니다.",
+"src": null
+},
+{
+"k": "modernfix.option.mixin.perf.deduplicate_wall_shapes",
+"en": "Makes most wall blocks share the same shape object instead of each one having its own copy. Can reduce memory usage substantially when lots of wall blocks are added by mods.",
+"jko": null,
+"ov": "대부분의 벽 블록이 각자 복사본을 가지는 대신 동일한 형태 객체를 공유하도록 만듭니다. 모드에 의해 많은 벽 블록이 추가될 때 메모리 사용량을 상당히 줄일 수 있습니다.",
+"src": null
+},
+{
+"k": "modernfix.option.mixin.perf.dynamic_resources.ae2",
+"en": "AE2 compatibility patch for dynamic resources",
+"jko": null,
+"ov": "동적 자원을 위한 AE2 호환 패치",
+"src": null
+},
+{
+"k": "modernfix.option.mixin.perf.dynamic_resources.ctm",
+"en": "CTM compatibility patch for dynamic resources",
+"jko": null,
+"ov": "동적 자원을 위한 CTM 호환 패치",
+"src": null
+},
+{
+"k": "modernfix.option.mixin.perf.dynamic_resources.ldlib",
+"en": "LDLib compatibility patch for dynamic resources",
+"jko": null,
+"ov": "동적 자원을 위한 LDLib 호환성 패치",
+"src": null
+},
+{
+"k": "modernfix.option.mixin.perf.dynamic_resources.rs",
+"en": "Refined Storage compatibility patch for dynamic resources",
+"jko": null,
+"ov": "동적 자원을 위한 Refined Storage 호환 패치",
+"src": null
+},
+{
+"k": "modernfix.option.mixin.perf.dynamic_resources.supermartijncore",
+"en": "SuperMartijn642CoreLib compatibility patch for dynamic resources",
+"jko": null,
+"ov": "동적 자원을 위한 SuperMartijn642CoreLib 호환성 패치",
+"src": null
+},
+{
+"k": "modernfix.option.mixin.perf.dynamic_resources.diagonalfences",
+"en": "Diagonal Fences compatibility patch for dynamic resources",
+"jko": null,
+"ov": "대각선 울타리 동적 자원 호환 패치",
+"src": null
+},
+{
+"k": "modernfix.option.mixin.perf.faster_advancements",
+"en": "Rewrites the advancement checking logic to be faster and not cause StackOverflowError in large packs. Port of Advancements Debug from Fabric.",
+"jko": null,
+"ov": "진보 확인 로직을 더 빠르게 하고 큰 팩에서 StackOverflowError를 발생시키지 않도록 다시 작성합니다. Fabric의 Advancements Debug를 포팅했습니다.",
+"src": null
+},
+{
+"k": "modernfix.option.mixin.perf.patchouli_deduplicate_books",
+"en": "Fix Patchouli books storing many empty items with NBT tags, reducing memory usage.",
+"jko": null,
+"ov": "NBT 태그가 있는 많은 빈 아이템을 저장하는 패츄리 책을 수정하여 메모리 사용량을 줄입니다.",
+"src": null
+},
+{
+"k": "modernfix.option.mixin.perf.remove_spawn_chunks",
+"en": "Completely removes spawn chunks from the game. They are no longer loaded at all, unlike Ksyxis.",
+"jko": null,
+"ov": "게임에서 스폰 청크를 완전히 제거합니다. Ksyxis와 달리 더 이상 전혀 로드되지 않습니다.",
+"src": null
+},
+{
+"k": "modernfix.option.mixin.perf.use_integrated_resources.jepb",
+"en": "",
+"jko": null,
+"ov": "",
+"src": null
+},
+{
+"k": "modernfix.option.mixin.perf.use_integrated_resources.jeresources",
+"en": "",
+"jko": null,
+"ov": "",
+"src": null
+},
+{
+"k": "modernfix.option.mixin.bugfix.blueprint_modif_memory_leak",
+"en": "Fixes Blueprint's ObjectModificationManager leaking vanilla resources, reducing memory usage. Despite the fix being contributed in PR #195 a release was not yet made.",
+"jko": null,
+"ov": "Blueprint의 ObjectModificationManager가 기본 리소스를 누수하는 문제를 수정하여 메모리 사용량을 줄입니다. 이 수정은 PR #195에서 기여되었음에도 불구하고 아직 릴리스되지 않았습니다.",
+"src": null
+},
+{
+"k": "modernfix.option.mixin.bugfix.removed_dimensions",
+"en": "Fixes the game failing to load worlds if dimension mods are removed. Backport of Forge PR #8959.",
+"jko": null,
+"ov": "차원 모드가 제거될 경우 게임이 월드를 로드하지 못하는 문제를 수정합니다. Forge PR #8959의 백포트입니다.",
+"src": null
+},
+{
+"k": "modernfix.option.mixin.perf.compact_bit_storage",
+"en": "Fixes memory waste caused by some legacy servers (e.g. Hypixel) sending empty chunks as if they contain blocks. Reduces memory usage significantly on these servers.",
+"jko": null,
+"ov": "일부 레거시 서버(예: Hypixel)가 블록이 있는 것처럼 빈 청크를 보내면서 발생하는 메모리 낭비를 수정합니다. 이러한 서버에서 메모리 사용량을 크게 줄입니다.",
+"src": null
+},
+{
+"k": "modernfix.option.mixin.perf.deduplicate_climate_parameters",
+"en": "Deduplicates climate parameter objects used by the new biome system, can save ~2MB but also slows down datapack reload somewhat.",
+"jko": null,
+"ov": "새로운 생물군계 시스템에서 사용되는 기후 매개변수 객체의 중복을 제거하며, 약 2MB를 절약할 수 있지만 데이터팩 재로드 속도를 다소 늦출 수도 있습니다.",
+"src": null
+},
+{
+"k": "modernfix.option.mixin.perf.dynamic_entity_renderers",
+"en": "Constructs entity models the first time they are seen instead of during launch. Some mods are not compatible with this option and will cause EntityRenderer crashes.",
+"jko": null,
+"ov": "실체는 시작 시가 아니라 처음 볼 때 모델을 구성합니다. 일부 모드는 이 옵션과 호환되지 않아 EntityRenderer 충돌을 일으킬 수 있습니다.",
+"src": null
+},
+{
+"k": "modernfix.option.mixin.perf.twilightforest.structure_spawn_fix",
+"en": "Fixes lag caused by Twilight Forest worldgen checking structures very inefficiently",
+"jko": null,
+"ov": "트와일라이트 포레스트 월드 생성 시 구조물을 매우 비효율적으로 확인하여 발생하는 지연을 수정합니다",
+"src": null
+},
+{
+"k": "modernfix.option.mixin.perf.fast_forge_dummies",
+"en": "Speeds up Forge registry freezing during launch by using a faster code path",
+"jko": null,
+"ov": "더 빠른 코드 경로를 사용하여 실행 중 Forge 레지스트리 고정을 가속화합니다",
+"src": null
+},
+{
+"k": "modernfix.option.mixin.perf.tag_id_caching",
+"en": "Speeds up uses of tag entries by caching the location object instead of recreating it every time",
+"jko": null,
+"ov": "매번 새로 생성하지 않고 위치 객체를 캐싱하여 태그 항목 사용 속도를 높입니다",
+"src": null
+},
+{
+"k": "modernfix.option.mixin.perf.compress_unihex_font",
+"en": "Stores the glyphs for the Unicode font more efficiently. Kudos to @AnAwesomGuy for the trick.",
+"jko": null,
+"ov": "유니코드 폰트의 글리프를 더 효율적으로 저장합니다. 이 트릭에 대해 @AnAwesomGuy에게 찬사를 보냅니다.",
+"src": null
+},
+{
+"k": "modernfix.option.mixin.bugfix.world_leaks",
+"en": "Reduces the memory usage of old client-side worlds that aren't needed after switching dimensions. These are normally garbage collected in vanilla, but mods sometimes retain references to them.",
+"jko": null,
+"ov": "차원 전환 후 필요하지 않은 오래된 클라이언트 측 월드의 메모리 사용량을 줄입니다. 이는 일반적으로 바닐라에서 가비지 컬렉션되지만, 모드는 때때로 이들에 대한 참조를 유지합니다.",
+"src": null
+},
+{
+"k": "modernfix.option.mixin.perf.compact_mojang_registries",
+"en": "(Fabric) Experimental option that reduces the memory usage of registries by roughly 50%. Not useful in most modpacks unless they contain millions of blocks and items.",
+"jko": null,
+"ov": "(Fabric) 레지스트리의 메모리 사용량을 약 50% 줄이는 실험적 옵션입니다. 수백만 개의 블록과 아이템이 포함된 모드팩이 아닌 이상 대부분의 모드팩에서는 유용하지 않습니다.",
+"src": null
+},
+{
+"k": "modernfix.option.mixin.perf.dynamic_block_codecs",
+"en": "Avoids storing a codec for every block(state) and instead generates and caches it on the fly when needed. Generally not worth enabling unless you have a million blocks/items.",
+"jko": null,
+"ov": "모든 블록(상태)에 대한 코덱을 저장하는 것을 피하고, 대신 필요할 때 즉시 생성하고 캐시에 저장합니다. 일반적으로 백만 개의 블록/아이템이 있는 경우가 아니면 활성화할 가치가 없습니다.",
+"src": null
+},
+{
+"k": "modernfix.option.mixin.perf.faster_command_suggestions",
+"en": "Mitigate lag when there are hundreds of thousands of suggestions while typing a command",
+"jko": null,
+"ov": "명령어를 입력할 때 수십만 개의 제안이 있을 때 지연을 완화하다",
+"src": null
+},
+{
+"k": "modernfix.option.mixin.perf.mojang_registry_size",
+"en": "Fixes an issue causing registration of blocks/items to slow down proportional to the number already registered. This improves startup time.",
+"jko": null,
+"ov": "이미 등록된 블록/아이템 수에 비례하여 블록/아이템 등록 속도가 느려지는 문제를 수정합니다. 이로 인해 시작 시간이 개선됩니다.",
+"src": null
+},
+{
+"k": "modernfix.option.mixin.perf.cache_profile_texture_url",
+"en": "Avoids pointlessly creating a URL object and speeds up skull block rendering.",
+"jko": null,
+"ov": "불필요하게 URL 객체를 생성하는 것을 피하고 스컬 블록 렌더링 속도를 높입니다.",
+"src": null
+},
+{
+"k": "modernfix.option.mixin.bugfix.entity_pose_stack",
+"en": "Fixes Forge issue #9118, where mods can cause undebuggable render crashes by pushing the matrix stack without popping it.",
+"jko": null,
+"ov": "모드가 매트릭스 스택을 팝하지 않고 푸시함으로써 디버그할 수 없는 렌더링 충돌을 일으킬 수 있는 Forge 문제 #9118을 수정합니다.",
+"src": null
+},
+{
+"k": "modernfix.option.mixin.bugfix.file_dialog_title",
+"en": "Fixes a security issue with the worldgen settings file dialog",
+"jko": null,
+"ov": "월드젠 설정 파일 대화 상자의 보안 문제를 수정합니다",
+"src": null
+},
+{
+"k": "modernfix.option.mixin.bugfix.forge_vehicle_packets",
+"en": "Fixes a bug introduced by a Forge patch that causes excessive amounts of chunk data packets to be sent to the player if they are riding a vehicle on a chunk border.",
+"jko": null,
+"ov": "채워 경계에 있는 차량을 타고 있을 경우 플레이어에게 과도한 양의 청크 데이터 패킷이 전송되는 포지 패치로 인해 발생한 버그를 수정합니다.",
+"src": null
+},
+{
+"k": "modernfix.option.mixin.bugfix.mantle_model_cme",
+"en": "Fixes a bug in Mantle that can cause random ConcurrentModificationException crashes when rendering Tinkers Construct content.",
+"jko": null,
+"ov": "Tinkers Construct 콘텐츠를 렌더링할 때 랜덤한 ConcurrentModificationException 충돌을 일으킬 수 있는 Mantle의 버그를 수정합니다.",
+"src": null
+},
+{
+"k": "modernfix.option.mixin.bugfix.model_data_manager_cme",
+"en": "Works around design flaws in the Forge ModelDataManager system that can cause unexpected concurrency issues.",
+"jko": null,
+"ov": "예기치 않은 동시성 문제를 유발할 수 있는 Forge ModelDataManager 시스템의 설계 결함을 우회합니다.",
+"src": null
+},
+{
+"k": "modernfix.option.mixin.bugfix.recipe_book_type_desync",
+"en": "Fixes Forge clients being disconnected when connecting to a vanilla server if mods add custom recipe book entry types.",
+"jko": null,
+"ov": "모드가 사용자 정의 레시피 북 항목 유형을 추가할 경우, 포지 클라이언트가 바닐라 서버에 연결할 때 연결이 끊기는 문제를 수정합니다.",
+"src": null
+},
+{
+"k": "modernfix.option.mixin.bugfix.unsafe_modded_shape_caches",
+"en": "Fixes various ConcurrentModificationExceptions that can occur in content mods when computing block shapes",
+"jko": null,
+"ov": "블록 모양을 계산할 때 콘텐츠 모드에서 발생할 수 있는 다양한 ConcurrentModificationException을 수정합니다",
+"src": null
+},
+{
+"k": "modernfix.option.mixin.feature.stalled_chunk_load_detection",
+"en": "This option may help to detect the cause of chunkloading freezes. However, leaving it enabled may cause slightly worse performance.",
+"jko": null,
+"ov": "이 옵션은 청크 로딩 정지 현상의 원인을 감지하는 데 도움이 될 수 있습니다. 그러나 활성화 상태로 두면 성능이 약간 저하될 수 있습니다.",
+"src": null
+},
+{
+"k": "modernfix.option.mixin.perf.fix_loop_spin_waiting",
+"en": "Fixes Minecraft's built-in wait function consuming excessive amounts of CPU resources.",
+"jko": null,
+"ov": "Minecraft의 내장 대기 함수가 과도한 CPU 자원을 소비하는 문제를 수정합니다.",
+"src": null
+},
+{
+"k": "modernfix.option.mixin.perf.forge_cap_retrieval",
+"en": "Small micro-optimization that makes retrieving custom entity data slightly more efficient on Forge.",
+"jko": null,
+"ov": "Forge에서 사용자 정의 엔티티 데이터를 가져오는 것을 약간 더 효율적으로 만드는 작은 마이크로 최적화입니다.",
+"src": null
+},
+{
+"k": "modernfix.option.mixin.perf.forge_registry_lambda",
+"en": "Fixes oversights in Forge that lead to excessive allocation in hot registry methods.",
+"jko": null,
+"ov": "핫 레지스트리 메서드에서 과도한 할당을 초래하는 Forge의 누락된 부분을 수정합니다.",
+"src": null
+},
+{
+"k": "modernfix.option.mixin.bugfix.restore_old_dragon_movement",
+"en": "Fixes MC-272431, which tracks the ender dragon being unable to dive to the portal as it did in 1.13 and older. This causes the dragon to fly quite a bit differently from what modern players are used to and also patches out one-cycling, so it's not enabled by default. Thanks to Jukitsu for identifying the regression in the vanilla code.",
+"jko": null,
+"ov": "MC-272431을 수정합니다. 이 문제는 엔더 드래곤이 1.13 이하 버전에서처럼 포털로 다이빙할 수 없던 현상을 추적합니다. 이로 인해 드래곤의 비행이 현대 플레이어들이 익숙한 방식과 상당히 다르게 이루어지며, 또한 한 번에 처치하는(one-cycling) 현상도 수정되므로 기본적으로 활성화되어 있지 않습니다. 바닐라 코드에서의 회귀를 발견해 준 Jukitsu에게 감사드립니다.",
+"src": null
+},
+{
+"k": "modernfix.option.mixin.bugfix.missing_block_entities",
+"en": "Hypixel sends chunks to the client that are missing some block entity data, which makes chests etc. appear invisible. This 'fixes' the problem by creating the needed data on the client. Has no effect for properly behaved servers or in singleplayer.",
+"jko": null,
+"ov": "Hypixel은 일부 블록 엔티티 데이터가 누락된 청크를 클라이언트로 보내며, 이로 인해 상자 등이 보이지 않게 됩니다. 이는 클라이언트에서 필요한 데이터를 생성하여 문제를 '수정'합니다. 정상적으로 동작하는 서버나 싱글플레이어에서는 아무런 효과가 없습니다.",
+"src": null
+},
+{
+"k": "modernfix.option.mixin.bugfix.buffer_builder_leak",
+"en": "Attempts to work around mods constructing BufferBuilder objects that leak memory. This can cause the JVM to crash with an hs_err_pid file in some rare cases. If you experience this type of crash, try disabling this option.",
+"jko": null,
+"ov": "메모리를 누수시키는 BufferBuilder 객체를 생성하는 모드를 우회하려는 시도입니다. 이는 드물게 JVM이 hs_err_pid 파일과 함께 충돌할 수 있습니다. 이러한 유형의 충돌이 발생하면 이 옵션을 비활성화해 보십시오.",
+"src": null
+},
+{
+"k": "modernfix.option.mixin.bugfix.extra_experimental_screen",
+"en": "Fixes the experimental feature warning being shown still being shown the first time you reopen a world that was created as experimental.",
+"jko": null,
+"ov": "실험적으로 생성된 세계를 처음 다시 열 때 여전히 표시되는 실험적 기능 경고를 수정합니다.",
+"src": null
+},
+{
+"k": "modernfix.option.mixin.bugfix.forge_at_inject_error",
+"en": "Fixes a major oversight in Forge's early error handling code that causes some parts of mods to load, but not others, which usually results in the game crashing rather than displaying the intended error screen. This issue was fixed in NeoForge, and eventually fixed in new enough versions of Forge.",
+"jko": null,
+"ov": "Forge의 초기 오류 처리 코드에서 일부 모드의 일부가 로드되지만 다른 부분은 로드되지 않아 일반적으로 원하는 오류 화면 대신 게임이 크래시되는 주요 누락을 수정합니다. 이 문제는 NeoForge에서 수정되었고, 충분히 새로운 버전의 Forge에서도 결국 수정되었습니다.",
+"src": null
+},
+{
+"k": "modernfix.option.mixin.bugfix.world_screen_skipped",
+"en": "Fixes MC-251068, where deleting the last world takes you back to an empty world list.",
+"jko": null,
+"ov": "마지막 세계를 삭제하면 빈 세계 목록으로 돌아가는 MC-251068 문제를 수정합니다.",
+"src": null
+},
+{
+"k": "modernfix.option.mixin.feature.blockentity_incorrect_thread",
+"en": "**This is a debug option and should not be enabled for regular gameplay.** Attempts to detect mods interacting with block entities on the wrong thread and crash the game with more information, rather than an unclear ConcurrentModificationException",
+"jko": null,
+"ov": "**이것은 디버그 옵션이며 일반 게임 플레이에서는 활성화하면 안 됩니다.** 잘못된 스레드에서 블록 엔티티와 상호 작용하는 모드를 감지하고, 불명확한 ConcurrentModificationException 대신 더 많은 정보를 가지고 게임을 크래시시키려고 시도합니다.",
+"src": null
+},
+{
+"k": "modernfix.option.mixin.feature.cause_lag_by_disabling_threads",
+"en": "Disables the game's use of worker threads for the server and for chunk rendering. **This will make performance worse on almost all hardware**, and should only be enabled on a client, when you know exactly what you are doing, and probably only on hardware with very few (2 or less) physical CPU cores. In those rare cases, it can reduce lag spikes since there is less contention over the limited cores.",
+"jko": null,
+"ov": "서버와 청크 렌더링을 위해 게임에서 워커 스레드의 사용을 비활성화합니다. **이로 인해 거의 모든 하드웨어에서 성능이 저하될 수 있습니다**. 따라서 정확히 무엇을 하고 있는지 알고 있는 클라이언트에서만 활성화해야 하며, 아마도 물리적 CPU 코어가 매우 적은(2개 이하) 하드웨어에서만 사용해야 합니다. 이러한 드문 경우에 한해서 제한된 코어에 대한 경쟁이 줄어들어 지연 스파이크를 줄일 수 있습니다.",
+"src": null
+},
+{
+"k": "modernfix.option.mixin.feature.registry_event_progress",
+"en": "Runs the Forge loading screen on a background thread for part of the loading process, to allow progress to be shown while content is being registered. May have compatibility issues with some GPU drivers (e.g. macOS), so do not enable it by default in a modpack.",
+"jko": null,
+"ov": "Forge 로딩 화면을 로딩 과정의 일부 동안 백그라운드 스레드에서 실행하여 콘텐츠가 등록되는 동안 진행 상황을 표시할 수 있습니다. 일부 GPU 드라이버(e.g. macOS)와 호환성 문제가 있을 수 있으므로 모드팩에서 기본적으로 활성화하지 마십시오.",
+"src": null
+},
+{
+"k": "modernfix.option.mixin.feature.remove_chat_signing",
+"en": "Prevents the Minecraft client from obtaining the keypair for chat signing. This disables the client's ability to sign chat messages (like No Chat Reports, but in a simpler, albeit less user-friendly way).",
+"jko": null,
+"ov": "마인크래프트 클라이언트가 채팅 서명을 위한 키페어를 얻는 것을 방지합니다. 이로 인해 클라이언트가 채팅 메시지를 서명하는 기능이 비활성화됩니다(노 채팅 리포트와 비슷하지만 더 단순하고, 다소 사용자 친화적이지 않은 방식으로).",
+"src": null
+},
+{
+"k": "modernfix.option.mixin.feature.remove_telemetry",
+"en": "Prevents the Minecraft client from sending telemetry to Mojang. The telemetry is generally not relevant to them anyway for a modded instance.",
+"jko": null,
+"ov": "Minecraft 클라이언트가 Mojang에 텔레메트리를 보내는 것을 방지합니다. 텔레메트리는 일반적으로 모드가 적용된 인스턴스에는 중요하지 않습니다.",
+"src": null
+},
+{
+"k": "modernfix.option.mixin.perf.chunk_meshing",
+"en": "Implements some minor optimizations to the vanilla chunk meshing logic (they will have no effect with a mod that replaces chunk rendering entirely).",
+"jko": null,
+"ov": "바닐라 청크 메싱 로직에 일부 사소한 최적화를 구현합니다(청크 렌더링을 완전히 대체하는 모드에는 영향을 미치지 않습니다).",
+"src": null
+},
+{
+"k": "modernfix.option.mixin.perf.faster_structure_location",
+"en": "Improves the speed at which structures like buried treasure can be located.",
+"jko": null,
+"ov": "묻힌 보물과 같은 구조물을 찾는 속도를 향상시킵니다.",
+"src": null
+},
+{
+"k": "modernfix.option.mixin.perf.forge_registry_alloc",
+"en": "Fixes more oversights in Forge that lead to excessive allocation in hot registry methods.",
+"jko": null,
+"ov": "핫 레지스트리 메서드에서 과도한 할당을 초래하는 Forge의 추가적인 누락 사항을 수정합니다.",
+"src": null
+},
+{
+"k": "modernfix.option.mixin.perf.memoize_creative_tab_build",
+"en": "Improves on vanilla's existing caching for creative tab contents in a way that is compatible with the timing requirements of mods like JEI/EMI. This can reduce the lag spike when opening the creative inventory for the first time in a modpack.",
+"jko": null,
+"ov": "JEI/EMI와 같은 모드의 타이밍 요구 사항과 호환되는 방식으로 크리에이티브 탭 콘텐츠에 대한 기본 캐싱을 개선합니다. 이는 모드팩에서 크리에이티브 인벤토리를 처음 열 때 발생하는 렉 스파이크를 줄일 수 있습니다.",
+"src": null
+},
+{
+"k": "modernfix.option.mixin.perf.potential_spawns_alloc",
+"en": "Optimizes the Forge event for finding potential mobs that can spawn. This reduces allocations and the overhead of rebuilding a weighted list when no mods modify the potential spawns.",
+"jko": null,
+"ov": "잠재적으로 생성될 수 있는 몹을 찾기 위한 포지 이벤트를 최적화합니다. 이는 잠재적 스폰을 수정하는 모드가 없을 때 할당과 가중치 목록 재구성의 오버헤드를 줄여줍니다.",
+"src": null
+},
+{
+"k": "modernfix.option.mixin.perf.ticking_chunk_alloc",
+"en": "Optimizes chunk ticking in vanilla to reduce allocations.",
+"jko": null,
+"ov": "바닐라에서 청크 틱을 최적화하여 할당을 줄입니다.",
+"src": null
+},
+{
+"k": "modernfix.option.mixin.perf.worldgen_allocation",
+"en": "Optimizes some world generation logic in vanilla to reduce object allocations.",
+"jko": null,
+"ov": "객체 할당을 줄이기 위해 바닐라의 일부 월드 생성 로직을 최적화합니다.",
+"src": null
+},
+{
+"k": "modernfix.option.mixin.feature.suppress_narrator_stacktrace",
+"en": "Prevents the game from logging a very long stacktrace when the narrator fails to load on Linux (usually caused by not having libflite installed).",
+"jko": null,
+"ov": "내레이터가 Linux에서 로드되지 않을 때(보통 libflite가 설치되지 않은 경우) 게임이 매우 긴 스택 트레이스를 기록하는 것을 방지합니다.",
+"src": null
+}
+]

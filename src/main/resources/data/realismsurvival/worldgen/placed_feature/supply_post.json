@@ -1,0 +1,18 @@
+{
+  "feature": "realismsurvival:supply_post",
+  "placement": [
+    {
+      "type": "minecraft:in_square"
+    },
+    {
+      "type": "minecraft:heightmap",
+      "heightmap": "MOTION_BLOCKING_NO_LEAVES"
+    },
+    {
+      "type": "minecraft:biome"
+    },
+    {
+      "type": "realismsurvival:supply_post_climate"
+    }
+  ]
+}

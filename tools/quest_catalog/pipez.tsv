@@ -1,0 +1,12 @@
+pipez:advanced_upgrade	고급 파이프 업그레이드	Advanced Pipe Upgrade	item
+pipez:basic_upgrade	기본 파이프 업그레이드	Basic Pipe Upgrade	item
+pipez:energy_pipe	에너지 파이프	Energy Pipe	block
+pipez:filter_destination_tool	필터 목적지 도구	Filter Destination Tool	item
+pipez:fluid_pipe	유체 파이프	Fluid Pipe	block
+pipez:gas_pipe	가스 파이프	Gas Pipe	block
+pipez:improved_upgrade	개선된 파이프 업그레이드	Improved Pipe Upgrade	item
+pipez:infinity_upgrade	무한 파이프 업그레이드	Infinity Pipe Upgrade	item
+pipez:item_pipe	아이템 파이프	Item Pipe	block
+pipez:ultimate_upgrade	궁극의 파이프 업그레이드	Ultimate Pipe Upgrade	item
+pipez:universal_pipe	범용 파이프	Universal Pipe	block
+pipez:wrench	파이프 렌치	Pipe Wrench	item

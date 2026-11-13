@@ -1,0 +1,12 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "realismsurvival:item/graded_water_bottle",
+    "tints": [
+      {
+        "type": "realismsurvival:graded_water",
+        "base": 7043634
+      }
+    ]
+  }
+}

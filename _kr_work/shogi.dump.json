@@ -1,0 +1,30 @@
+[
+{
+"k": "commands.shogi.cooldown.reset.all.success",
+"en": "Reset all cooldown(s) across %s player(s).",
+"jko": null,
+"ov": "%s명의 플레이어에서 모든 쿨다운을 초기화했습니다.",
+"src": null
+},
+{
+"k": "commands.shogi.cooldown.reset.success",
+"en": "Reset cooldown(s) matching %s across %s player(s).",
+"jko": null,
+"ov": "%s명의 플레이어에서 %s와(과) 일치하는 쿨다운을 초기화했습니다.",
+"src": null
+},
+{
+"k": "commands.shogi.cooldown.add.success",
+"en": "Added %s second(s) to cooldown %s across %s player(s).",
+"jko": null,
+"ov": "%s명의 플레이어에서 쿨다운 %s에 %s초를 추가했습니다.",
+"src": null
+},
+{
+"k": "commands.shogi.cooldown.set.success",
+"en": "Set cooldown %s to %s second(s) across %s player(s).",
+"jko": null,
+"ov": "%s명의 플레이어에서 쿨다운 %s을(를) %s초로 설정했습니다.",
+"src": null
+}
+]

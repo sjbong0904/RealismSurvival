@@ -1,0 +1,13 @@
+{
+  "required": false,
+  "package": "com.example.realismsurvival.mixin.fot",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "ShoalBlockMixin",
+    "FishPlaqueBlockMixin",
+    "AxolotlBucketMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 0
+  }
+}

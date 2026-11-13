@@ -1,0 +1,6 @@
+{
+	"currencies": [
+		{ "id": "coins", "name": "골드", "color": "#FFD700" },
+		{ "id": "points", "name": "포인트", "color": "#55FFFF" }
+	]
+}

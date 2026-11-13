@@ -1,0 +1,40 @@
+﻿import java.nio.file.*
+import java.util.jar.JarFile
+
+def mods = [
+  'aquaculture', 'fish-of-thieves', 'farmers-delight', 'serene-seasons', 'glitchcore',
+  'large-fluid-tank', 'pipez', 'scalable-cats-force', 'biomes-o-plenty', 'terrablender',
+  'towns-and-towers', 'artifacts', 'guard-villagers', 'lootr', 'waystones', 'sophisticated-core',
+  'sophisticated-backpacks', 'treeliable', 'iron-chests', 'pet_home', 'open-parties-and-claims',
+  'cristel-lib', 'natures-compass', 'solcarrot', 'spice-of-life', 'ftb-library', 'ftb-quests',
+  'ftb-teams', 'ftb-xmod-compat', 'curios', 'balm', 'shogi', 'seasonhud', 'cloth-config'
+]
+def patterns = [
+  'Blocks.WATER', 'Fluids.WATER', 'WATER_BUCKET', 'Items.WATER_BUCKET',
+  'minecraft:water', 'placeLiquid', 'BucketItem', 'DispenserBehavior', 'meltsInto', 'IceBlock',
+  'setBlock', 'WATER', 'FlowingFluid', 'FluidUtil', 'LiquidBlock'
+]
+def cfg = project.configurations.localRuntime
+cfg.resolve().each { f ->
+  def name = f.name.toLowerCase()
+  def hit = mods.any { name.contains(it.replace('-','')) || name.contains(it) }
+  if (!hit) {
+    // also match curse maven farmers delight etc
+    hit = name.contains('farmers') || name.contains('delight') || name.contains('sol') || name.contains('carrot') || name.contains('fot') || name.contains('thieves')
+  }
+  if (!hit) return
+  println "=== JAR: ${f.absolutePath}"
+  def jar = new JarFile(f)
+  jar.entries().each { e ->
+    if (e.name.endsWith('.class')) {
+      def bytes = jar.getInputStream(e).bytes
+      def s = new String(bytes, 'ISO-8859-1')
+      patterns.each { p ->
+        if (s.contains(p)) {
+          println "  CLASS ${e.name} -> ${p}"
+        }
+      }
+    }
+  }
+  jar.close()
+}

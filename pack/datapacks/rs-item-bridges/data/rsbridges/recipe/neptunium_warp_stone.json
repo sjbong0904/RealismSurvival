@@ -1,0 +1,15 @@
+{
+  "neoforge:conditions": [
+    { "type": "neoforge:mod_loaded", "modid": "aquaculture" },
+    { "type": "neoforge:mod_loaded", "modid": "waystones" }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": ["AEA","ENE","AEA"],
+  "key": {
+    "A": "minecraft:amethyst_shard",
+    "E": "minecraft:ender_pearl",
+    "N": "aquaculture:neptunium_ingot"
+  },
+  "result": { "id": "waystones:warp_stone", "count": 2 }
+}

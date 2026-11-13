@@ -1,0 +1,303 @@
+{
+	"quest.6D676890F2B94A4B.title": "작물 도감 시작",
+	"quest.6D676890F2B94A4B.quest_desc": [
+		"작물 도감입니다. 항목을 하나씩 완료해 보세요.",
+		"직접 체크하세요."
+	],
+	"quest.3883A4335C686715.title": "밀",
+	"quest.3883A4335C686715.quest_desc": [
+		"밀을 보유하세요."
+	],
+	"quest.1D8B6034223E5142.title": "밀 씨앗",
+	"quest.1D8B6034223E5142.quest_desc": [
+		"밀 씨앗을 보유하세요."
+	],
+	"quest.6D256BB28353D0A9.title": "당근",
+	"quest.6D256BB28353D0A9.quest_desc": [
+		"당근을 보유하세요."
+	],
+	"quest.1D162C818A9991EC.title": "감자",
+	"quest.1D162C818A9991EC.quest_desc": [
+		"감자를 보유하세요."
+	],
+	"quest.45D1A40248ECEE3C.title": "구운 감자",
+	"quest.45D1A40248ECEE3C.quest_desc": [
+		"구운 감자를 보유하세요."
+	],
+	"quest.7EA5A2873CB85D31.title": "독이 있는 감자",
+	"quest.7EA5A2873CB85D31.quest_desc": [
+		"독이 있는 감자를 보유하세요."
+	],
+	"quest.70F5DABD410168B5.title": "비트",
+	"quest.70F5DABD410168B5.quest_desc": [
+		"비트를 보유하세요."
+	],
+	"quest.198AAFA681A329B5.title": "비트 씨앗",
+	"quest.198AAFA681A329B5.quest_desc": [
+		"비트 씨앗을 보유하세요."
+	],
+	"quest.1766555F2A29FC9D.title": "수박 조각",
+	"quest.1766555F2A29FC9D.quest_desc": [
+		"수박 조각을 보유하세요."
+	],
+	"quest.23D69143C3FC2259.title": "수박",
+	"quest.23D69143C3FC2259.quest_desc": [
+		"수박을 보유하세요."
+	],
+	"quest.1F1B6E3DFE7EC7BC.title": "호박",
+	"quest.1F1B6E3DFE7EC7BC.quest_desc": [
+		"호박을 보유하세요."
+	],
+	"quest.39A3D51CB69AA552.title": "호박 씨앗",
+	"quest.39A3D51CB69AA552.quest_desc": [
+		"호박 씨앗을 보유하세요."
+	],
+	"quest.051331AD7ABBD27D.title": "수박 씨앗",
+	"quest.051331AD7ABBD27D.quest_desc": [
+		"수박 씨앗을 보유하세요."
+	],
+	"quest.7A1117FD319D9CC5.title": "사탕수수",
+	"quest.7A1117FD319D9CC5.quest_desc": [
+		"사탕수수를 보유하세요."
+	],
+	"quest.607E11493CF52544.title": "코코아 콩",
+	"quest.607E11493CF52544.quest_desc": [
+		"코코아 콩을 보유하세요."
+	],
+	"quest.04E71437EB6131DC.title": "네더 와트",
+	"quest.04E71437EB6131DC.quest_desc": [
+		"네더 와트를 보유하세요."
+	],
+	"quest.5D97B63078BE8577.title": "달콤한 열매",
+	"quest.5D97B63078BE8577.quest_desc": [
+		"달콤한 열매를 보유하세요."
+	],
+	"quest.01A2085E65659D15.title": "발광 열매",
+	"quest.01A2085E65659D15.quest_desc": [
+		"발광 열매를 보유하세요."
+	],
+	"quest.570CD489AEFA0022.title": "후렴과",
+	"quest.570CD489AEFA0022.quest_desc": [
+		"후렴과를 보유하세요."
+	],
+	"quest.6B5385E54ED55688.title": "사과",
+	"quest.6B5385E54ED55688.quest_desc": [
+		"사과를 보유하세요."
+	],
+	"quest.0603D4A1BAB21DB2.title": "황금 사과",
+	"quest.0603D4A1BAB21DB2.quest_desc": [
+		"황금 사과를 보유하세요."
+	],
+	"quest.2D6AF5A3FD6098E4.title": "마법이 부여된 황금 사과",
+	"quest.2D6AF5A3FD6098E4.quest_desc": [
+		"마법이 부여된 황금 사과를 보유하세요."
+	],
+	"quest.4217CB62A8D8047D.title": "갈색 버섯",
+	"quest.4217CB62A8D8047D.quest_desc": [
+		"갈색 버섯을 보유하세요."
+	],
+	"quest.570B80A180688C1F.title": "빨간 버섯",
+	"quest.570B80A180688C1F.quest_desc": [
+		"빨간 버섯을 보유하세요."
+	],
+	"quest.0161AA65608C0933.title": "진홍빛 균",
+	"quest.0161AA65608C0933.quest_desc": [
+		"진홍빛 균을 보유하세요."
+	],
+	"quest.4B37A7604FD42F29.title": "뒤틀린 균",
+	"quest.4B37A7604FD42F29.quest_desc": [
+		"뒤틀린 균을 보유하세요."
+	],
+	"quest.3B86B36B0214894A.title": "켈프",
+	"quest.3B86B36B0214894A.quest_desc": [
+		"켈프를 보유하세요."
+	],
+	"quest.0A67F8B29A89D58F.title": "말린 켈프",
+	"quest.0A67F8B29A89D58F.quest_desc": [
+		"말린 켈프를 보유하세요."
+	],
+	"quest.37F43D329EA97BA3.title": "불우렁쉥이",
+	"quest.37F43D329EA97BA3.quest_desc": [
+		"불우렁쉥이를 보유하세요."
+	],
+	"quest.239B90051673B459.title": "대나무",
+	"quest.239B90051673B459.quest_desc": [
+		"대나무를 보유하세요."
+	],
+	"quest.09A0227316452A01.title": "선인장",
+	"quest.09A0227316452A01.quest_desc": [
+		"선인장을 보유하세요."
+	],
+	"quest.64BDF8FCCFB69AE1.title": "횃불꽃",
+	"quest.64BDF8FCCFB69AE1.quest_desc": [
+		"횃불꽃을 보유하세요."
+	],
+	"quest.636094CE2DE65EA0.title": "횃불꽃 씨앗",
+	"quest.636094CE2DE65EA0.quest_desc": [
+		"횃불꽃 씨앗을 보유하세요."
+	],
+	"quest.3E6CCB43661E2909.title": "피처 포드",
+	"quest.3E6CCB43661E2909.quest_desc": [
+		"피처 포드를 보유하세요."
+	],
+	"quest.6F233530FF5F9A8F.title": "피처 플랜트",
+	"quest.6F233530FF5F9A8F.quest_desc": [
+		"피처 플랜트를 보유하세요."
+	],
+	"quest.1334AF704736ABA8.title": "양배추",
+	"quest.1334AF704736ABA8.quest_desc": [
+		"양배추를 보유하세요."
+	],
+	"quest.49D9364B27A3E24A.title": "양배추 잎",
+	"quest.49D9364B27A3E24A.quest_desc": [
+		"양배추 잎을 보유하세요."
+	],
+	"quest.03B98A4FAD7B1557.title": "양배추 씨앗",
+	"quest.03B98A4FAD7B1557.quest_desc": [
+		"양배추 씨앗을 보유하세요."
+	],
+	"quest.3C5D067E5405F01E.title": "양파",
+	"quest.3C5D067E5405F01E.quest_desc": [
+		"양파를 보유하세요."
+	],
+	"quest.469829A1DC3E27B6.title": "쌀",
+	"quest.469829A1DC3E27B6.quest_desc": [
+		"쌀을 보유하세요."
+	],
+	"quest.0CFFD25354D01306.title": "벼",
+	"quest.0CFFD25354D01306.quest_desc": [
+		"벼를 보유하세요."
+	],
+	"quest.12946EAB32688E57.title": "토마토",
+	"quest.12946EAB32688E57.quest_desc": [
+		"토마토를 보유하세요."
+	],
+	"quest.1F6EF1D33F8B99FD.title": "토마토 씨앗",
+	"quest.1F6EF1D33F8B99FD.quest_desc": [
+		"토마토 씨앗을 보유하세요."
+	],
+	"quest.4CAB33FE457E255D.title": "보리",
+	"quest.4CAB33FE457E255D.quest_desc": [
+		"보리를 보유하세요."
+	],
+	"quest.51250D72EA3AC734.title": "흑암 구근",
+	"quest.51250D72EA3AC734.quest_desc": [
+		"흑암 구근을 보유하세요."
+	],
+	"quest.4639F44B32C9E3E7.title": "파란 수국",
+	"quest.4639F44B32C9E3E7.quest_desc": [
+		"파란 수국을 보유하세요."
+	],
+	"quest.3F23CC54FF23D097.title": "불타는 꽃",
+	"quest.3F23CC54FF23D097.quest_desc": [
+		"불타는 꽃을 보유하세요."
+	],
+	"quest.4A037B88B342CB5F.title": "부들",
+	"quest.4A037B88B342CB5F.quest_desc": [
+		"부들을 보유하세요."
+	],
+	"quest.194330F60774F1D1.title": "클로버",
+	"quest.194330F60774F1D1.quest_desc": [
+		"클로버를 보유하세요."
+	],
+	"quest.09D951E03D643CD1.title": "편백나무 묘목",
+	"quest.09D951E03D643CD1.quest_desc": [
+		"편백나무 묘목을 보유하세요."
+	],
+	"quest.53B61A33E1D38FCC.title": "죽은 나무 묘목",
+	"quest.53B61A33E1D38FCC.quest_desc": [
+		"죽은 나무 묘목을 보유하세요."
+	],
+	"quest.121B35EFA65D0C54.title": "엠피리얼 나무 묘목",
+	"quest.121B35EFA65D0C54.quest_desc": [
+		"엠피리얼 나무 묘목을 보유하세요."
+	],
+	"quest.35C17B2DBAAD4B65.title": "전나무 묘목",
+	"quest.35C17B2DBAAD4B65.quest_desc": [
+		"전나무 묘목을 보유하세요."
+	],
+	"quest.436566F8B5AFAFC3.title": "꽃피는 참나무 묘목",
+	"quest.436566F8B5AFAFC3.quest_desc": [
+		"꽃피는 참나무 묘목을 보유하세요."
+	],
+	"quest.064E0219E8CDFF4F.title": "빛나는 꽃",
+	"quest.064E0219E8CDFF4F.quest_desc": [
+		"빛나는 꽃을 보유하세요."
+	],
+	"quest.222DB4EB3B1C64C6.title": "빛나는 버섯",
+	"quest.222DB4EB3B1C64C6.quest_desc": [
+		"빛나는 버섯을 보유하세요."
+	],
+	"quest.2F2226556F495883.title": "미역취",
+	"quest.2F2226556F495883.quest_desc": [
+		"미역취를 보유하세요."
+	],
+	"quest.4E94DF8562F3A8F8.title": "지옥껍질나무 묘목",
+	"quest.4E94DF8562F3A8F8.quest_desc": [
+		"지옥껍질나무 묘목을 보유하세요."
+	],
+	"quest.6F48B598C364BC41.title": "거대한 클로버 꽃잎",
+	"quest.6F48B598C364BC41.quest_desc": [
+		"거대한 클로버 꽃잎을 보유하세요."
+	],
+	"quest.2C97553EEA84E1FB.title": "차가운 붓꽃",
+	"quest.2C97553EEA84E1FB.quest_desc": [
+		"차가운 붓꽃을 보유하세요."
+	],
+	"quest.546D6F5BD67ECB66.title": "자카란다나무 묘목",
+	"quest.546D6F5BD67ECB66.quest_desc": [
+		"자카란다나무 묘목을 보유하세요."
+	],
+	"quest.15F877034EFA41C2.title": "라벤더",
+	"quest.15F877034EFA41C2.quest_desc": [
+		"라벤더를 보유하세요."
+	],
+	"quest.5E0E03BC92818DC7.title": "마법나무 묘목",
+	"quest.5E0E03BC92818DC7.quest_desc": [
+		"마법나무 묘목을 보유하세요."
+	],
+	"quest.3A89AE150CBF8786.title": "마호가니 묘목",
+	"quest.3A89AE150CBF8786.quest_desc": [
+		"마호가니 묘목을 보유하세요."
+	],
+	"quest.2BA804ABC790B9C1.title": "주황 코스모스",
+	"quest.2BA804ABC790B9C1.quest_desc": [
+		"주황 코스모스를 보유하세요."
+	],
+	"quest.2D22CA27F44AF658.title": "주황 단풍나무 묘목",
+	"quest.2D22CA27F44AF658.quest_desc": [
+		"주황 단풍나무 묘목을 보유하세요."
+	],
+	"quest.310F0BF16DEB18B4.title": "야자나무 묘목",
+	"quest.310F0BF16DEB18B4.quest_desc": [
+		"야자나무 묘목을 보유하세요."
+	],
+	"quest.6BADBCCEC53B5BD8.title": "소나무 묘목",
+	"quest.6BADBCCEC53B5BD8.quest_desc": [
+		"소나무 묘목을 보유하세요."
+	],
+	"quest.1B14095607A6DB2D.title": "분홍 수선화",
+	"quest.1B14095607A6DB2D.quest_desc": [
+		"분홍 수선화를 보유하세요."
+	],
+	"quest.07F959E106D8D97F.title": "분홍 히비스커스",
+	"quest.07F959E106D8D97F.quest_desc": [
+		"분홍 히비스커스를 보유하세요."
+	],
+	"quest.662D05E4838C6C30.title": "도감 30% 달성",
+	"quest.662D05E4838C6C30.quest_desc": [
+		"시작 과제를 포함해 21개 이상을 완료하면 이 단계가 열립니다."
+	],
+	"quest.21BB85824ADFF691.title": "도감 60% 달성",
+	"quest.21BB85824ADFF691.quest_desc": [
+		"시작 과제를 포함해 42개 이상을 완료하면 이 단계가 열립니다."
+	],
+	"quest.3847C6876C1BA814.title": "도감 90% 달성",
+	"quest.3847C6876C1BA814.quest_desc": [
+		"시작 과제를 포함해 63개 이상을 완료하면 이 단계가 열립니다."
+	],
+	"quest.4B9D3D7CCAEC39DC.title": "도감 100% 달성",
+	"quest.4B9D3D7CCAEC39DC.quest_desc": [
+		"시작 과제를 포함해 모든 항목을 완료하면 도감을 마칩니다."
+	]
+}

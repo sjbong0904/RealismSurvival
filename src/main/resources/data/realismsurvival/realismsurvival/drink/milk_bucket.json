@@ -1,0 +1,6 @@
+{
+  "items": "minecraft:milk_bucket",
+  "thirst_restore": 12.0,
+  "temperature_delta": -0.15,
+  "priority": 0
+}

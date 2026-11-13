@@ -1,0 +1,6 @@
+{
+  "items": "minecraft:pumpkin_pie",
+  "thirst_restore": -2.0,
+  "temperature_delta": 0.1,
+  "priority": 0
+}

@@ -1,0 +1,7 @@
+[DISPLAYS]
+	# Inventory gold display (SG Economy). Keep enabled — RS mirrors Q Shop coins into this wallet.
+	xDisplayCurrency = 0
+	yDisplayCurrency = 0
+	xDisplayCurrencyCreative = 0
+	yDisplayCurrencyCreative = 0
+	activeDisplayCurrency = true

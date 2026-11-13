@@ -1,0 +1,6 @@
+{
+  "items": "realismsurvival:stagnant_ice_bucket",
+  "thirst_restore": 20.0,
+  "temperature_delta": -0.9,
+  "priority": 10
+}

@@ -1,0 +1,14 @@
+{
+  "neoforge:conditions": [
+    { "type": "neoforge:mod_loaded", "modid": "aquaculture" },
+    { "type": "neoforge:mod_loaded", "modid": "naturescompass" }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": ["SNS","N N","SNS"],
+  "key": {
+    "S": "#minecraft:saplings",
+    "N": "aquaculture:neptunium_nugget"
+  },
+  "result": { "id": "naturescompass:naturescompass" }
+}

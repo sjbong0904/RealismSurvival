@@ -1,0 +1,29 @@
+package com.example.realismsurvival.mixin;
+
+import com.example.realismsurvival.water.VanillaWaterItems;
+import net.minecraft.world.InteractionHand;
+import net.minecraft.world.entity.animal.axolotl.Axolotl;
+import net.minecraft.world.entity.player.Player;
+import net.minecraft.world.item.ItemStack;
+import net.minecraft.world.item.Items;
+import org.spongepowered.asm.mixin.Mixin;
+import org.spongepowered.asm.mixin.injection.At;
+import org.spongepowered.asm.mixin.injection.Inject;
+import org.spongepowered.asm.mixin.injection.callback.CallbackInfo;
+
+/** Tropical-fish-bucket feed leaves a graded water bucket instead of vanilla. */
+@Mixin(Axolotl.class)
+public abstract class AxolotlFeedMixin {
+
+    @Inject(method = "usePlayerItem", at = @At("RETURN"))
+    private void realismsurvival$gradedLeftover(Player player, InteractionHand hand, ItemStack stack, CallbackInfo ci) {
+        if (player.level().isClientSide()) {
+            return;
+        }
+        ItemStack held = player.getItemInHand(hand);
+        if (held.is(Items.WATER_BUCKET)) {
+            Axolotl self = (Axolotl) (Object) this;
+            player.setItemInHand(hand, VanillaWaterItems.gradedBucketAt(player.level(), self.blockPosition()));
+        }
+    }
+}

@@ -1,0 +1,263 @@
+{
+	"quest.5A141AE552159C49.title": "생물 도감 시작",
+	"quest.5A141AE552159C49.quest_desc": [
+		"왼쪽에는 몬스터, 오른쪽에는 동물과 동물 부산물이 표시됩니다.",
+		"직접 체크하세요."
+	],
+	"quest.4EB91530C9A09A79.title": "좀비",
+	"quest.4EB91530C9A09A79.quest_desc": [
+		"좀비를 처치하세요."
+	],
+	"quest.2C737F684309E2D4.title": "스켈레톤",
+	"quest.2C737F684309E2D4.quest_desc": [
+		"스켈레톤을 처치하세요."
+	],
+	"quest.6729E87419755671.title": "크리퍼",
+	"quest.6729E87419755671.quest_desc": [
+		"크리퍼를 처치하세요."
+	],
+	"quest.6AACF12E55EA2B65.title": "거미",
+	"quest.6AACF12E55EA2B65.quest_desc": [
+		"거미를 처치하세요."
+	],
+	"quest.218B21996EDD9AEF.title": "엔더맨",
+	"quest.218B21996EDD9AEF.quest_desc": [
+		"엔더맨을 처치하세요."
+	],
+	"quest.31590E2BECD8757A.title": "마녀",
+	"quest.31590E2BECD8757A.quest_desc": [
+		"마녀를 처치하세요."
+	],
+	"quest.6674E3A1BAAB7D89.title": "드라운드",
+	"quest.6674E3A1BAAB7D89.quest_desc": [
+		"드라운드를 처치하세요."
+	],
+	"quest.257A87091ADA05DC.title": "허스크",
+	"quest.257A87091ADA05DC.quest_desc": [
+		"허스크를 처치하세요."
+	],
+	"quest.3DD9905C866E6FDF.title": "스트레이",
+	"quest.3DD9905C866E6FDF.quest_desc": [
+		"스트레이를 처치하세요."
+	],
+	"quest.7F3ACDBB6DE3E6B5.title": "팬텀",
+	"quest.7F3ACDBB6DE3E6B5.quest_desc": [
+		"팬텀을 처치하세요."
+	],
+	"quest.51971B173AAE37D7.title": "슬라임",
+	"quest.51971B173AAE37D7.quest_desc": [
+		"슬라임을 처치하세요."
+	],
+	"quest.25B863E40A922620.title": "마그마 큐브",
+	"quest.25B863E40A922620.quest_desc": [
+		"마그마 큐브를 처치하세요."
+	],
+	"quest.3990514B049AA652.title": "약탈자",
+	"quest.3990514B049AA652.quest_desc": [
+		"약탈자를 처치하세요."
+	],
+	"quest.093B8136DA520964.title": "변명자",
+	"quest.093B8136DA520964.quest_desc": [
+		"변명자를 처치하세요."
+	],
+	"quest.59C40250E8CAB3B0.title": "소환사",
+	"quest.59C40250E8CAB3B0.quest_desc": [
+		"소환사를 처치하세요."
+	],
+	"quest.6262144D4D4EF197.title": "파괴수",
+	"quest.6262144D4D4EF197.quest_desc": [
+		"파괴수를 처치하세요."
+	],
+	"quest.0CABCE0F22CB61EC.title": "워든",
+	"quest.0CABCE0F22CB61EC.quest_desc": [
+		"워든을 처치하세요."
+	],
+	"quest.782338043514BEA8.title": "블레이즈",
+	"quest.782338043514BEA8.quest_desc": [
+		"블레이즈를 처치하세요."
+	],
+	"quest.3385CE85F3A79319.title": "가스트",
+	"quest.3385CE85F3A79319.quest_desc": [
+		"가스트를 처치하세요."
+	],
+	"quest.418DF2AFB7482F4F.title": "피글린",
+	"quest.418DF2AFB7482F4F.quest_desc": [
+		"피글린을 처치하세요."
+	],
+	"quest.3A5CEDCA390D509E.title": "피글린 야수",
+	"quest.3A5CEDCA390D509E.quest_desc": [
+		"피글린 야수를 처치하세요."
+	],
+	"quest.13B7EBAB8F690E35.title": "호글린",
+	"quest.13B7EBAB8F690E35.quest_desc": [
+		"호글린을 처치하세요."
+	],
+	"quest.69FE263FBB446511.title": "조글린",
+	"quest.69FE263FBB446511.quest_desc": [
+		"조글린을 처치하세요."
+	],
+	"quest.129DF2F8CF8C1F27.title": "위더 스켈레톤",
+	"quest.129DF2F8CF8C1F27.quest_desc": [
+		"위더 스켈레톤을 처치하세요."
+	],
+	"quest.125464FAD6743775.title": "좀비화된 피글린",
+	"quest.125464FAD6743775.quest_desc": [
+		"좀비화된 피글린을 처치하세요."
+	],
+	"quest.1D11CECAFA9F1A02.title": "셜커",
+	"quest.1D11CECAFA9F1A02.quest_desc": [
+		"셜커를 처치하세요."
+	],
+	"quest.1DBF950F8C3A327C.title": "가디언",
+	"quest.1DBF950F8C3A327C.quest_desc": [
+		"가디언을 처치하세요."
+	],
+	"quest.255AC214B679B2EB.title": "엘더 가디언",
+	"quest.255AC214B679B2EB.quest_desc": [
+		"엘더 가디언을 처치하세요."
+	],
+	"quest.2C7759C830F42C28.title": "좀벌레",
+	"quest.2C7759C830F42C28.quest_desc": [
+		"좀벌레를 처치하세요."
+	],
+	"quest.4882D6CFBF20CABE.title": "엔더마이트",
+	"quest.4882D6CFBF20CABE.quest_desc": [
+		"엔더마이트를 처치하세요."
+	],
+	"quest.6B9D01CEA709318C.title": "동굴 거미",
+	"quest.6B9D01CEA709318C.quest_desc": [
+		"동굴 거미를 처치하세요."
+	],
+	"quest.52B31DA509281240.title": "브리즈",
+	"quest.52B31DA509281240.quest_desc": [
+		"브리즈를 처치하세요."
+	],
+	"quest.322E3811DA50C769.title": "보그드",
+	"quest.322E3811DA50C769.quest_desc": [
+		"보그드를 처치하세요."
+	],
+	"quest.541683CB521E759F.title": "동물·부산물 구역",
+	"quest.541683CB521E759F.quest_desc": [
+		"동물을 길들이거나 부산물을 모으세요."
+	],
+	"quest.6F1255903CE96991.title": "소고기",
+	"quest.6F1255903CE96991.quest_desc": [
+		"소고기를 제출하세요."
+	],
+	"quest.3B0FF2569F40DA1F.title": "가죽",
+	"quest.3B0FF2569F40DA1F.quest_desc": [
+		"가죽을 제출하세요."
+	],
+	"quest.04AC8B8FD125B450.title": "돼지고기",
+	"quest.04AC8B8FD125B450.quest_desc": [
+		"돼지고기를 제출하세요."
+	],
+	"quest.728F46FEF167709D.title": "양고기",
+	"quest.728F46FEF167709D.quest_desc": [
+		"양고기를 제출하세요."
+	],
+	"quest.065A6AEBBA9C94C0.title": "흰 양털",
+	"quest.065A6AEBBA9C94C0.quest_desc": [
+		"흰 양털을 제출하세요."
+	],
+	"quest.5A84A25F337AEFB8.title": "닭고기",
+	"quest.5A84A25F337AEFB8.quest_desc": [
+		"닭고기를 제출하세요."
+	],
+	"quest.7CE6A49607D7CAD7.title": "달걀",
+	"quest.7CE6A49607D7CAD7.quest_desc": [
+		"달걀을 제출하세요."
+	],
+	"quest.773257D7578E12E6.title": "깃털",
+	"quest.773257D7578E12E6.quest_desc": [
+		"깃털을 제출하세요."
+	],
+	"quest.7A4BC738BDF7AEEB.title": "토끼고기",
+	"quest.7A4BC738BDF7AEEB.quest_desc": [
+		"토끼고기를 제출하세요."
+	],
+	"quest.20662CE96BBA3316.title": "토끼 가죽",
+	"quest.20662CE96BBA3316.quest_desc": [
+		"토끼 가죽을 제출하세요."
+	],
+	"quest.3524C338E6CC8F90.title": "토끼 발",
+	"quest.3524C338E6CC8F90.quest_desc": [
+		"토끼 발을 보유하세요."
+	],
+	"quest.26D6F42DA25A354E.title": "벌집 조각",
+	"quest.26D6F42DA25A354E.quest_desc": [
+		"벌집 조각을 제출하세요."
+	],
+	"quest.0181F4C4008CCBFE.title": "꿀병",
+	"quest.0181F4C4008CCBFE.quest_desc": [
+		"꿀병을 제출하세요."
+	],
+	"quest.209C29C388E279B7.title": "먹물 주머니",
+	"quest.209C29C388E279B7.quest_desc": [
+		"먹물 주머니를 제출하세요."
+	],
+	"quest.678F1F4069BC18BF.title": "발광 먹물 주머니",
+	"quest.678F1F4069BC18BF.quest_desc": [
+		"발광 먹물 주머니를 제출하세요."
+	],
+	"quest.7F73610BC25BE969.title": "거북 등딱지",
+	"quest.7F73610BC25BE969.quest_desc": [
+		"거북 등딱지를 보유하세요."
+	],
+	"quest.0D3A76E6683722B6.title": "염소 뿔",
+	"quest.0D3A76E6683722B6.quest_desc": [
+		"염소 뿔을 보유하세요."
+	],
+	"quest.048A282D4446104F.title": "안장",
+	"quest.048A282D4446104F.quest_desc": [
+		"안장을 보유하세요."
+	],
+	"quest.48275D404D3FC06C.title": "이름표",
+	"quest.48275D404D3FC06C.quest_desc": [
+		"이름표를 보유하세요."
+	],
+	"quest.4B6C3AD7EFFB8C88.title": "끈",
+	"quest.4B6C3AD7EFFB8C88.quest_desc": [
+		"끈을 보유하세요."
+	],
+	"quest.3EA812C2DBD2D1FE.title": "빨간 펫 침대",
+	"quest.3EA812C2DBD2D1FE.quest_desc": [
+		"빨간 펫 침대를 보유하세요."
+	],
+	"quest.648F455E2DA815E7.title": "목걸이 태그",
+	"quest.648F455E2DA815E7.quest_desc": [
+		"목걸이 태그를 보유하세요."
+	],
+	"quest.6FE61C379EE50D9D.title": "방황하는 랜턴",
+	"quest.6FE61C379EE50D9D.quest_desc": [
+		"방황하는 랜턴을 보유하세요."
+	],
+	"quest.3E6DB35386B64CF1.title": "깃털 낚싯대",
+	"quest.3E6DB35386B64CF1.quest_desc": [
+		"깃털 낚싯대를 보유하세요."
+	],
+	"quest.72925CA810C07F2A.title": "말먹이",
+	"quest.72925CA810C07F2A.quest_desc": [
+		"말먹이를 제출하세요."
+	],
+	"quest.0DF68ABCE10E4400.title": "개밥",
+	"quest.0DF68ABCE10E4400.quest_desc": [
+		"개밥을 제출하세요."
+	],
+	"quest.5E7BA5B9EBEB5A81.title": "도감 30% 달성",
+	"quest.5E7BA5B9EBEB5A81.quest_desc": [
+		"시작 과제를 포함해 18개 이상을 완료하면 이 단계가 열립니다."
+	],
+	"quest.56819FB86703E23B.title": "도감 60% 달성",
+	"quest.56819FB86703E23B.quest_desc": [
+		"시작 과제를 포함해 36개 이상을 완료하면 이 단계가 열립니다."
+	],
+	"quest.1672279369178013.title": "도감 90% 달성",
+	"quest.1672279369178013.quest_desc": [
+		"시작 과제를 포함해 54개 이상을 완료하면 이 단계가 열립니다."
+	],
+	"quest.2AB20D24FCF379A9.title": "도감 100% 달성",
+	"quest.2AB20D24FCF379A9.quest_desc": [
+		"시작 과제를 포함해 모든 항목을 완료하면 도감을 마칩니다."
+	]
+}

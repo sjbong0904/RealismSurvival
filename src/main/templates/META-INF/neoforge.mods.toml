@@ -1,0 +1,283 @@
+# This is an example neoforge.mods.toml file. It contains the data relating to the loading mods.
+# There are several mandatory fields (#mandatory), and many more that are optional (#optional).
+# The overall format is standard TOML format, v0.5.0.
+# Note that there are a couple of TOML lists in this file.
+# Find more information on toml format here: https://github.com/toml-lang/toml
+
+# The license for you mod. This is mandatory metadata and allows for easier comprehension of your redistributive properties.
+# Review your options at https://choosealicense.com/. All rights reserved is the default copyright stance, and is thus the default here.
+license="${mod_license}"
+
+# A URL to refer people to when problems occur with this mod
+#issueTrackerURL="https://change.me.to.your.issue.tracker.example.invalid/" #optional
+
+# A list of mods - how many allowed here is determined by the individual mod loader
+[[mods]] #mandatory
+
+# The modid of the mod
+modId="${mod_id}" #mandatory
+
+# The version number of the mod
+version="${mod_version}" #mandatory
+
+# A display name for the mod
+displayName="${mod_name}" #mandatory
+
+# A URL to query for updates for this mod. See the JSON update specification https://docs.neoforged.net/docs/misc/updatechecker/
+#updateJSONURL="https://change.me.example.invalid/updates.json" #optional
+
+# A URL for the "homepage" for this mod, displayed in the mod UI
+#displayURL="https://change.me.to.your.mods.homepage.example.invalid/" #optional
+
+# A file name (in the root of the mod JAR) containing a logo for display
+#logoFile="examplemod.png" #optional
+
+# A text field displayed in the mod UI
+#credits="" #optional
+
+# The authors of the mod, displayed in the mod UI (optional)
+#authors=""
+
+# The description text for the mod (multi line!) (#mandatory)
+description='''
+Core survival API for Minecraft ${minecraft_version} (NeoForge): thirst and body temperature regulation, with data-driven hooks for addons.
+'''
+
+# The [[mixins]] block allows you to declare your mixin config to FML so that it gets loaded.
+[[mixins]]
+config="${mod_id}.mixins.json"
+
+# Soft-required: applies only when Sodium is present (replaces vanilla FluidRenderer).
+[[mixins]]
+config="${mod_id}.sodium.mixins.json"
+
+# Soft-required: Fish of Thieves water-bucket leftovers → graded.
+[[mixins]]
+config="${mod_id}.fot.mixins.json"
+
+# The [[accessTransformers]] block allows you to declare where your AT file is.
+# If this block is omitted, a fallback attempt will be made to load an AT from META-INF/accesstransformer.cfg
+#[[accessTransformers]]
+#file="META-INF/accesstransformer.cfg"
+
+# A dependency - use the . to indicate dependency for a specific modid. Dependencies are optional.
+[[dependencies.${mod_id}]] #optional
+    # the modid of the dependency
+    modId="neoforge" #mandatory
+    # The type of the dependency. Can be one of "required", "optional", "incompatible" or "discouraged" (case insensitive).
+    # 'required' requires the mod to exist, 'optional' does not
+    # 'incompatible' will prevent the game from loading when the mod exists, and 'discouraged' will show a warning
+    type="required" #mandatory
+    # Optional field describing why the dependency is required or why it is incompatible
+    # reason="..."
+    # The version range of the dependency
+    versionRange="[${neo_version},)" #mandatory
+    # An ordering relationship for the dependency.
+    # BEFORE - This mod is loaded BEFORE the dependency
+    # AFTER - This mod is loaded AFTER the dependency
+    ordering="NONE"
+    # Side this dependency is applied on - BOTH, CLIENT, or SERVER
+    side="BOTH"
+
+# Here's another dependency
+[[dependencies.${mod_id}]]
+    modId="minecraft"
+    type="required"
+    # This version range declares a minimum of the current minecraft version up to but not including the next major version
+    versionRange="${minecraft_version_range}"
+    ordering="NONE"
+    side="BOTH"
+
+# Hunger / saturation tooltips + HUD. We only draw thirst droplets and body-temp numbers.
+[[dependencies.${mod_id}]]
+    modId="appleskin"
+    type="required"
+    versionRange="[3.0.9,)"
+    reason="Hunger and saturation icons are provided by AppleSkin; Realism Survival adds thirst and temperature."
+    ordering="AFTER"
+    side="CLIENT"
+
+# ---- Planned modpack stack (all optional except AppleSkin above). Presence only; no hard bridges yet. ----
+
+[[dependencies.${mod_id}]]
+    modId="curios"
+    type="optional"
+    versionRange="[15.0.0,)"
+    reason="Accessory slots (datapack). Loads without Curios; slots appear when present."
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.${mod_id}]]
+    modId="jei"
+    type="optional"
+    versionRange="[29.0.0,)"
+    reason="Recipe browser. Custom crafting displays register when JEI is present."
+    ordering="AFTER"
+    side="CLIENT"
+
+[[dependencies.${mod_id}]]
+    modId="cloth_config"
+    type="optional"
+    versionRange="*"
+    reason="Config UI library used by many pack mods."
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.${mod_id}]]
+    modId="architectury"
+    type="optional"
+    versionRange="*"
+    reason="Multi-loader API used by many pack mods."
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.${mod_id}]]
+    modId="sodium"
+    type="optional"
+    versionRange="*"
+    reason="Fluid render mixin applies only when Sodium is present."
+    ordering="NONE"
+    side="CLIENT"
+
+[[dependencies.${mod_id}]]
+    modId="iris"
+    type="optional"
+    versionRange="*"
+    ordering="NONE"
+    side="CLIENT"
+
+[[dependencies.${mod_id}]]
+    modId="farmersdelight"
+    type="optional"
+    versionRange="*"
+    reason="When present, drink/crop_season datapacks apply (neoforge:mod_loaded). Own thirst/temp without FD still works."
+    ordering="AFTER"
+    side="BOTH"
+
+[[dependencies.${mod_id}]]
+    modId="sereneseasons"
+    type="optional"
+    versionRange="*"
+    reason="When present, season authority (calendar/HUD season; crop fertility follows sereneseasons crop tags). Own 365/4 calendar and crop_season data used otherwise."
+    ordering="AFTER"
+    side="BOTH"
+
+[[dependencies.${mod_id}]]
+    modId="glitchcore"
+    type="optional"
+    versionRange="*"
+    reason="Library required by Serene Seasons when that mod is present."
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.${mod_id}]]
+    modId="supermartijn642corelib"
+    type="optional"
+    versionRange="*"
+    reason="Core lib used by SuperMartijn642 content mods."
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.${mod_id}]]
+    modId="aquaculture"
+    type="optional"
+    versionRange="*"
+    reason="When present, fishing/fish soft-compat applies (habitat/loot gates). Loads without Aquaculture."
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.${mod_id}]]
+    modId="fishofthieves"
+    type="optional"
+    versionRange="*"
+    reason="When present, fishing/fish soft-compat applies. Requires Cloth Config. Loads without Fish of Thieves."
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.${mod_id}]]
+    modId="create"
+    type="optional"
+    versionRange="*"
+    reason="Soft-compat only (no recipe changes). Fluid/item caps ready; enable localRuntime when a NeoForge 26.1 Create build exists."
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.${mod_id}]]
+    modId="fluidtank"
+    type="optional"
+    versionRange="*"
+    reason="Large Fluid Tank — optional fluid storage stand-in while Create is unavailable on 26.1. Soft-compat only."
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.${mod_id}]]
+    modId="pipez"
+    type="optional"
+    versionRange="*"
+    reason="Pipez — optional fluid/item pipe transport for graded-water automation. Soft-compat only."
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.${mod_id}]]
+    modId="jade"
+    type="optional"
+    versionRange="*"
+    reason="Block overlay QoL. Soft-compat; see docs/MODPACK.md."
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.${mod_id}]]
+    modId="ftbchunks"
+    type="optional"
+    versionRange="*"
+    reason="Minimap, world map, chunk claims and forceload. Soft-compat; RS registers minimap info rows after FTB init."
+    ordering="AFTER"
+    side="BOTH"
+
+[[dependencies.${mod_id}]]
+    modId="biomesoplenty"
+    type="optional"
+    versionRange="*"
+    reason="Planned biome_thirst / climate soft-compat when present. See docs/MODPACK.md."
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.${mod_id}]]
+    modId="comforts"
+    type="optional"
+    versionRange="*"
+    reason="Planned bed vs sleeping-bag survival split. Not required to load."
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.${mod_id}]]
+    modId="artifacts"
+    type="optional"
+    versionRange="*"
+    reason="Curios accessories; instrument-slot split planned. Soft-compat."
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.${mod_id}]]
+    modId="qshop"
+    type="optional"
+    versionRange="*"
+    reason="Seasonal supply post GUI. RS opens supply_post and bridges currency to SG Economy."
+    ordering="AFTER"
+    side="BOTH"
+
+[[dependencies.${mod_id}]]
+    modId="sg_economy"
+    type="optional"
+    versionRange="*"
+    reason="Inventory gold display. Linked to Q Shop coins by RS."
+    ordering="AFTER"
+    side="BOTH"
+
+[[dependencies.${mod_id}]]
+    modId="easy_npc"
+    type="optional"
+    versionRange="*"
+    reason="Supply merchants tagged rs_shop open the Q Shop supply post."
+    ordering="AFTER"
+    side="BOTH"

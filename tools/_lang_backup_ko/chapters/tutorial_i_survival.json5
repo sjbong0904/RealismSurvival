@@ -1,0 +1,76 @@
+{
+	"quest.3CC65064CBC0DB6E.title": "기초 생존 안내",
+	"quest.3CC65064CBC0DB6E.quest_desc": [
+		"목표는 안전한 물(증류수)입니다.",
+		"월드 가마솥에 이미 증류수가 있을 수도 있고,",
+		"직접 증류기를 만들어 증류 할 수도 있습니다."
+	],
+	"quest.28F2B54355866F1C.title": "쉴 곳",
+	"quest.28F2B54355866F1C.quest_desc": [
+		"모닥불을 피워 온기를 확보하세요."
+	],
+	"quest.514C8819849AC030.title": "그릇이 필요해",
+	"quest.514C8819849AC030.quest_desc": [
+		"유리병을 준비해 물을 담을 준비를 하세요."
+	],
+	"quest.17294BD0E01E38E9.title": "연료를 찾자",
+	"quest.17294BD0E01E38E9.quest_desc": [
+		"증류에는 연료가 필요합니다. 석탄을 모아 두세요."
+	],
+	"quest.3747972C50749D27.title": "네 종류의 물",
+	"quest.3747972C50749D27.quest_desc": [
+		"증류수 / 민물 / 오염된 물 / 바닷물.",
+		"병 아이템 이름과 색으로 등급을 구분하세요."
+	],
+	"quest.2C57F38B449DB93B.title": "갈증",
+	"quest.2C57F38B449DB93B.quest_desc": [
+		"허기보다 갈증이 당신을 위협할 수 있습니다.",
+		"민물로 갈증이 어떻게 움직이는지 한 번 느껴 보세요."
+	],
+	"quest.586557BB2D387F10.title": "측정은 중요해",
+	"quest.586557BB2D387F10.quest_desc": [
+		"온도계를 만들어 체온을 확인할 준비를 하세요.",
+		"보상으로 달력도 받을 수 있습니다."
+	],
+	"quest.0124AB711749BFDD.title": "정화의 길",
+	"quest.0124AB711749BFDD.quest_desc": [
+		"증류기는 안전한 물을 확보하기 위한 중요한 수단이 됩니다."
+	],
+	"quest.13B88BDCA02EECB9.title": "★ 증류수 왕관",
+	"quest.13B88BDCA02EECB9.quest_desc": [
+		"본편 퀘스트를 모두 완료해야 합니다.",
+		"안전한 물도 하나 준비해 두세요."
+	],
+	"quest.3B24184EA956C3F8.title": "농사의 시작",
+	"quest.3B24184EA956C3F8.quest_desc": [
+		"기초적인 농사의 시작입니다."
+	],
+	"quest.00E55FC90354D6F4.title": "원목",
+	"quest.00E55FC90354D6F4.quest_desc": [
+		"벌목의 시작입니다. 참나무 원목을 모아 보세요."
+	],
+	"quest.604960C7CDE848E1.title": "조약돌",
+	"quest.604960C7CDE848E1.quest_desc": [
+		"광산을 만들 준비가 되었나요?"
+	],
+	"quest.4F4865E3A78FB64A.title": "불을 밝히자",
+	"quest.4F4865E3A78FB64A.quest_desc": [
+		"주변이 밝아졌네요!"
+	],
+	"quest.4D34148D1558077E.title": "세월을 낚다",
+	"quest.4D34148D1558077E.quest_desc": [
+		"잘 낚은 생선 하나."
+	],
+	"quest.50C228E15E6D38EB.title": "지도를 펼치다",
+	"quest.50C228E15E6D38EB.quest_desc": [
+		"나침반을 만들어 방향을 잡아 보세요."
+	],
+	"quest.0B9FEDBD40E40B93.title": "하룻밤",
+	"quest.0B9FEDBD40E40B93.quest_desc": [
+		"침대에서 한 번 취침하세요."
+	],
+	"quest.10F1077399DEFD46.title": "체온 주의보",
+	"quest.10F1077399DEFD46.quest_desc": [
+		"사막·눈 바이옴은 체온이 빠르게 변합니다. 물을 넉넉히 챙기세요."
+	]
+}

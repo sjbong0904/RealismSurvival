@@ -1,0 +1,756 @@
+{
+	"default_hide_dependency_lines": false,
+	"default_quest_shape": "circle",
+	"filename": "tutorial_i_survival",
+	"group": "6F3FA9FF9CB3BA4B",
+	"icon": {
+		"id": "realismsurvival:distilled_water_bottle",
+		"count": 1
+	},
+	"id": "0D2EA4FCADA0D13B",
+	"order_index": 1,
+	"quest_links": [],
+	"quests": [
+		{
+			"id": "16805CA750A56CF0",
+			"x": 0.0,
+			"y": 0.0,
+			"tasks": [
+				{
+					"id": "725137ED108A5563",
+					"type": "checkmark"
+				}
+			]
+		},
+		{
+			"id": "1F2C60E5F492F7F7",
+			"dependencies": [
+				"16805CA750A56CF0"
+			],
+			"x": 1.6,
+			"y": -0.8,
+			"tasks": [
+				{
+					"id": "3D8E311824D11E17",
+					"type": "checkmark"
+				}
+			]
+		},
+		{
+			"id": "7F6A12BCDD461FBC",
+			"dependencies": [
+				"1F2C60E5F492F7F7"
+			],
+			"x": 3.2,
+			"y": -1.6,
+			"tasks": [
+				{
+					"id": "2D15F25A55967B6C",
+					"item": {
+						"id": "realismsurvival:stagnant_water_bucket",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"rewards": [
+				{
+					"id": "4896366BDAD88AAC",
+					"count": 3,
+					"item": {
+						"id": "minecraft:iron_ingot",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "realismsurvival:stagnant_water_bucket",
+				"count": 1
+			}
+		},
+		{
+			"id": "6CC88228A9A8BEE4",
+			"dependencies": [
+				"7F6A12BCDD461FBC"
+			],
+			"x": 4.8,
+			"y": -2.4,
+			"tasks": [
+				{
+					"id": "1B2E86810901350A",
+					"item": {
+						"id": "realismsurvival:salt_water_bucket",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "realismsurvival:salt_water_bucket",
+				"count": 1
+			}
+		},
+		{
+			"id": "180334DE39A061A4",
+			"dependencies": [
+				"7F6A12BCDD461FBC"
+			],
+			"x": 4.8,
+			"y": -0.8,
+			"tasks": [
+				{
+					"id": "3F361C77754BE575",
+					"item": {
+						"id": "realismsurvival:fresh_water_bottle",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"rewards": [
+				{
+					"id": "2DB11F0BB06D4862",
+					"count": 3,
+					"item": {
+						"id": "minecraft:glass_bottle",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "realismsurvival:fresh_water_bottle",
+				"count": 1
+			}
+		},
+		{
+			"id": "1004C3F401989E5B",
+			"dependencies": [
+				"180334DE39A061A4"
+			],
+			"consume_items": true,
+			"x": 6.4,
+			"y": -2.4,
+			"tasks": [
+				{
+					"id": "2906CA5F211C6067",
+					"item": {
+						"id": "realismsurvival:fresh_water_bottle",
+						"count": 1
+					},
+					"type": "item",
+					"consume_items": true
+				}
+			],
+			"rewards": [
+				{
+					"id": "233A8E19332C43D7",
+					"count": 4,
+					"item": {
+						"id": "minecraft:glass_bottle",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "realismsurvival:fresh_water_bottle",
+				"count": 1
+			}
+		},
+		{
+			"id": "4AC76AF1FF3A1545",
+			"dependencies": [
+				"1F2C60E5F492F7F7"
+			],
+			"x": 3.2,
+			"y": 0.0,
+			"tasks": [
+				{
+					"id": "493CDC0C65AFB448",
+					"item": {
+						"id": "minecraft:furnace",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"rewards": [
+				{
+					"id": "0EE704B523B75482",
+					"count": 8,
+					"item": {
+						"id": "minecraft:coal",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:furnace",
+				"count": 1
+			}
+		},
+		{
+			"id": "5A4554C0626A3F6C",
+			"dependencies": [
+				"4AC76AF1FF3A1545",
+				"7F6A12BCDD461FBC"
+			],
+			"x": 4.8,
+			"y": 0.8,
+			"tasks": [
+				{
+					"id": "48E56C7F121005C1",
+					"item": {
+						"id": "realismsurvival:water_still",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "realismsurvival:water_still",
+				"count": 1
+			}
+		},
+		{
+			"id": "7E39F4B86338AFE6",
+			"dependencies": [
+				"5A4554C0626A3F6C"
+			],
+			"consume_items": true,
+			"x": 6.4,
+			"y": -0.8,
+			"tasks": [
+				{
+					"id": "6CFB13B65D97C9D1",
+					"count": 3,
+					"item": {
+						"id": "realismsurvival:distilled_water_bottle",
+						"count": 1
+					},
+					"type": "item",
+					"consume_items": true
+				}
+			],
+			"rewards": [
+				{
+					"id": "089866F64A941E9C",
+					"count": 6,
+					"item": {
+						"id": "minecraft:glass_bottle",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "realismsurvival:distilled_water_bottle",
+				"count": 1
+			}
+		},
+		{
+			"id": "30809E75BF07E369",
+			"dependencies": [
+				"180334DE39A061A4"
+			],
+			"x": 6.4,
+			"y": 0.8,
+			"tasks": [
+				{
+					"id": "686F875D7BB4C69D",
+					"item": {
+						"id": "realismsurvival:water_filter",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "realismsurvival:water_filter",
+				"count": 1
+			}
+		},
+		{
+			"id": "5931B14D8516EFFE",
+			"dependencies": [
+				"30809E75BF07E369"
+			],
+			"x": 9.6,
+			"y": -2.4,
+			"tasks": [
+				{
+					"id": "1C200D8EE9C44A03",
+					"count": 2,
+					"item": {
+						"id": "realismsurvival:filter_cartridge",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"rewards": [
+				{
+					"id": "35C9A32C2866A0AA",
+					"item": {
+						"id": "realismsurvival:filter_cartridge",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "realismsurvival:filter_cartridge",
+				"count": 1
+			}
+		},
+		{
+			"id": "715BB8259B11F742",
+			"dependencies": [
+				"5931B14D8516EFFE"
+			],
+			"consume_items": true,
+			"x": 12.8,
+			"y": -0.8,
+			"tasks": [
+				{
+					"id": "1B62D1B82AB6FF1E",
+					"count": 3,
+					"item": {
+						"id": "realismsurvival:fresh_water_bottle",
+						"count": 1
+					},
+					"type": "item",
+					"consume_items": true
+				}
+			],
+			"rewards": [
+				{
+					"id": "76BDD5E5846F9E45",
+					"count": 6,
+					"item": {
+						"id": "minecraft:glass_bottle",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "realismsurvival:fresh_water_bottle",
+				"count": 1
+			}
+		},
+		{
+			"id": "6E84A458941768A9",
+			"dependencies": [
+				"7E39F4B86338AFE6",
+				"715BB8259B11F742"
+			],
+			"x": 14.4,
+			"y": 0.0,
+			"tasks": [
+				{
+					"id": "5044997A5014C0C5",
+					"count": 10,
+					"item": {
+						"id": "realismsurvival:distilled_water_bottle",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"rewards": [
+				{
+					"id": "3E85E5F788BD6549",
+					"count": 8,
+					"item": {
+						"id": "minecraft:glass_bottle",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "realismsurvival:distilled_water_bottle",
+				"count": 1
+			}
+		},
+		{
+			"id": "2140E3AD1708060E",
+			"dependencies": [
+				"6CC88228A9A8BEE4",
+				"5A4554C0626A3F6C"
+			],
+			"consume_items": true,
+			"x": 6.4,
+			"y": 2.4,
+			"tasks": [
+				{
+					"id": "56EADDCAC83547BF",
+					"count": 4,
+					"item": {
+						"id": "realismsurvival:salt",
+						"count": 1
+					},
+					"type": "item",
+					"consume_items": true
+				}
+			],
+			"rewards": [
+				{
+					"id": "67701F6BBD808003",
+					"count": 2,
+					"item": {
+						"id": "minecraft:bucket",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "realismsurvival:salt",
+				"count": 1
+			}
+		},
+		{
+			"id": "4FAEE362E469342B",
+			"dependencies": [
+				"2140E3AD1708060E"
+			],
+			"x": 9.6,
+			"y": -0.8,
+			"tasks": [
+				{
+					"id": "52FED982757871BE",
+					"item": {
+						"id": "realismsurvival:salt_block",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"rewards": [
+				{
+					"id": "7EFE7C94D610FD95",
+					"count": 2,
+					"item": {
+						"id": "realismsurvival:salt",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "realismsurvival:salt_block",
+				"count": 1
+			}
+		},
+		{
+			"id": "1E4FAFA5D6C6A4F5",
+			"dependencies": [
+				"4AC76AF1FF3A1545"
+			],
+			"x": 4.8,
+			"y": 2.4,
+			"tasks": [
+				{
+					"id": "2AB63CEF85E60C45",
+					"item": {
+						"id": "realismsurvival:thermometer",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "realismsurvival:thermometer",
+				"count": 1
+			}
+		},
+		{
+			"id": "58E1E10D80CF628A",
+			"dependencies": [
+				"1E4FAFA5D6C6A4F5"
+			],
+			"x": 8.0,
+			"y": -0.8,
+			"tasks": [
+				{
+					"id": "593392491172C3E7",
+					"biome": "minecraft:snowy_plains",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "45869390FA91B96A",
+			"dependencies": [
+				"1E4FAFA5D6C6A4F5"
+			],
+			"x": 8.0,
+			"y": 0.8,
+			"tasks": [
+				{
+					"id": "5AEE89F11E78FC74",
+					"biome": "minecraft:desert",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "50FB8DE7E712DD51",
+			"dependencies": [
+				"45869390FA91B96A"
+			],
+			"consume_items": true,
+			"x": 9.6,
+			"y": 0.8,
+			"tasks": [
+				{
+					"id": "34D67F008A493170",
+					"item": {
+						"id": "realismsurvival:fresh_ice_bucket",
+						"count": 1
+					},
+					"type": "item",
+					"consume_items": true
+				}
+			],
+			"rewards": [
+				{
+					"id": "742E656E0538D472",
+					"item": {
+						"id": "minecraft:bucket",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "realismsurvival:fresh_ice_bucket",
+				"count": 1
+			}
+		},
+		{
+			"id": "7BDCA690CA8C5D73",
+			"dependencies": [
+				"45869390FA91B96A"
+			],
+			"consume_items": true,
+			"x": 9.6,
+			"y": 2.4,
+			"tasks": [
+				{
+					"id": "36BCD14A6F53155A",
+					"item": {
+						"id": "realismsurvival:snow_bucket",
+						"count": 1
+					},
+					"type": "item",
+					"consume_items": true
+				}
+			],
+			"rewards": [
+				{
+					"id": "483110955217DAA7",
+					"item": {
+						"id": "minecraft:bucket",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "realismsurvival:snow_bucket",
+				"count": 1
+			}
+		},
+		{
+			"id": "1BE60B370970C51E",
+			"dependencies": [
+				"50FB8DE7E712DD51",
+				"7BDCA690CA8C5D73"
+			],
+			"min_required_dependencies": 1,
+			"x": 12.8,
+			"y": 0.8,
+			"tasks": [
+				{
+					"id": "758D6D12A889CEEF",
+					"type": "checkmark"
+				}
+			]
+		},
+		{
+			"id": "21F9346C05BFE073",
+			"dependencies": [
+				"58E1E10D80CF628A"
+			],
+			"x": 11.2,
+			"y": 0.0,
+			"tasks": [
+				{
+					"id": "7E328C47BA95767A",
+					"item": {
+						"id": "rsmedicine:warm_pack",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"rewards": [
+				{
+					"id": "55D7421F15C2199F",
+					"item": {
+						"id": "rsmedicine:warm_pack",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "rsmedicine:warm_pack",
+				"count": 1
+			}
+		},
+		{
+			"id": "356720F56821FF26",
+			"dependencies": [
+				"16805CA750A56CF0"
+			],
+			"consume_items": true,
+			"x": 1.6,
+			"y": 0.8,
+			"tasks": [
+				{
+					"id": "1A7102EE0101FC6A",
+					"item": {
+						"id": "rsmedicine:bandage",
+						"count": 1
+					},
+					"type": "item",
+					"consume_items": true
+				}
+			],
+			"rewards": [
+				{
+					"id": "60C8754702D43620",
+					"count": 2,
+					"item": {
+						"id": "rsmedicine:bandage",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "rsmedicine:bandage",
+				"count": 1
+			}
+		},
+		{
+			"id": "793123D7C1AB65CD",
+			"dependencies": [
+				"356720F56821FF26"
+			],
+			"x": 3.2,
+			"y": 1.6,
+			"tasks": [
+				{
+					"id": "20F1EC5E86DDD96E",
+					"item": {
+						"id": "rsmedicine:trauma_kit",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "rsmedicine:trauma_kit",
+				"count": 1
+			}
+		},
+		{
+			"id": "10C1EF880E8BF9E6",
+			"dependencies": [
+				"6E84A458941768A9",
+				"21F9346C05BFE073",
+				"793123D7C1AB65CD"
+			],
+			"shape": "gear",
+			"size": 1.5,
+			"x": 16.25,
+			"y": 0.0,
+			"tasks": [
+				{
+					"id": "11B3910611471D95",
+					"count": 5,
+					"item": {
+						"id": "realismsurvival:distilled_water_bottle",
+						"count": 1
+					},
+					"type": "item"
+				},
+				{
+					"id": "63148206254D0D0C",
+					"count": 3,
+					"item": {
+						"id": "rsmedicine:bandage",
+						"count": 1
+					},
+					"type": "item"
+				},
+				{
+					"id": "1B8D056BF44A8CB9",
+					"item": {
+						"id": "rsmedicine:warm_pack",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"rewards": [
+				{
+					"id": "67215D2AAC3942F7",
+					"count": 6,
+					"item": {
+						"id": "realismsurvival:filter_cartridge",
+						"count": 1
+					},
+					"type": "item"
+				},
+				{
+					"id": "0CC481A90BEC1E8C",
+					"count": 16,
+					"item": {
+						"id": "minecraft:glass_bottle",
+						"count": 1
+					},
+					"type": "item"
+				},
+				{
+					"id": "5134748EBF7AFBBD",
+					"count": 16,
+					"item": {
+						"id": "minecraft:bread",
+						"count": 1
+					},
+					"type": "item"
+				},
+				{
+					"id": "625FBF2F5D9BCBE3",
+					"command": "/realism coins give @p 150",
+					"permission_level": 2,
+					"silent": true,
+					"type": "command"
+				}
+			],
+			"icon": {
+				"id": "realismsurvival:distilled_water_bottle",
+				"count": 1
+			}
+		}
+	]
+}

@@ -1,0 +1,576 @@
+{
+	"default_hide_dependency_lines": false,
+	"default_quest_shape": "circle",
+	"filename": "bundle_survival",
+	"group": "43325E0840607D0B",
+	"icon": {
+		"id": "realismsurvival:water_still",
+		"count": 1
+	},
+	"id": "26DB57A493C33AD8",
+	"order_index": 0,
+	"quest_links": [],
+	"quests": [
+		{
+			"id": "554CC3A9CEBEE09F",
+			"dependencies": [
+				"10C1EF880E8BF9E6"
+			],
+			"x": 0.0,
+			"y": 0.0,
+			"tasks": [
+				{
+					"id": "18D9B87F6D54947F",
+					"type": "checkmark"
+				}
+			]
+		},
+		{
+			"id": "7FB6091068CC1404",
+			"dependencies": [
+				"554CC3A9CEBEE09F"
+			],
+			"consume_items": true,
+			"x": 1.6,
+			"y": -2.4,
+			"tasks": [
+				{
+					"id": "02A6CD133E4483C4",
+					"item": {
+						"id": "realismsurvival:distilled_water_bottle",
+						"count": 1
+					},
+					"type": "item",
+					"consume_items": true
+				}
+			],
+			"icon": {
+				"id": "realismsurvival:distilled_water_bottle",
+				"count": 1
+			}
+		},
+		{
+			"id": "7E7988666E7FF799",
+			"dependencies": [
+				"554CC3A9CEBEE09F"
+			],
+			"consume_items": true,
+			"x": 1.6,
+			"y": -0.8,
+			"tasks": [
+				{
+					"id": "645E9ED0D4DC03CA",
+					"item": {
+						"id": "realismsurvival:fresh_water_bottle",
+						"count": 1
+					},
+					"type": "item",
+					"consume_items": true
+				}
+			],
+			"icon": {
+				"id": "realismsurvival:fresh_water_bottle",
+				"count": 1
+			}
+		},
+		{
+			"id": "2475C657EEA877E2",
+			"dependencies": [
+				"554CC3A9CEBEE09F"
+			],
+			"consume_items": true,
+			"x": 1.6,
+			"y": 0.8,
+			"tasks": [
+				{
+					"id": "087F7B1CF5233E34",
+					"item": {
+						"id": "realismsurvival:stagnant_water_bucket",
+						"count": 1
+					},
+					"type": "item",
+					"consume_items": true
+				}
+			],
+			"icon": {
+				"id": "realismsurvival:stagnant_water_bucket",
+				"count": 1
+			}
+		},
+		{
+			"id": "21B3B6360D9A1B62",
+			"dependencies": [
+				"554CC3A9CEBEE09F"
+			],
+			"consume_items": true,
+			"x": 1.6,
+			"y": 2.4,
+			"tasks": [
+				{
+					"id": "625E56403CEB46DE",
+					"item": {
+						"id": "realismsurvival:salt_water_bucket",
+						"count": 1
+					},
+					"type": "item",
+					"consume_items": true
+				}
+			],
+			"icon": {
+				"id": "realismsurvival:salt_water_bucket",
+				"count": 1
+			}
+		},
+		{
+			"id": "2071CAAA062BFAA8",
+			"dependencies": [
+				"7FB6091068CC1404",
+				"7E7988666E7FF799",
+				"2475C657EEA877E2",
+				"21B3B6360D9A1B62"
+			],
+			"x": 8.0,
+			"y": -2.4,
+			"tasks": [
+				{
+					"id": "2864ED173A63458D",
+					"type": "checkmark"
+				}
+			],
+			"rewards": [
+				{
+					"id": "4086CF858E357CF6",
+					"count": 4,
+					"item": {
+						"id": "realismsurvival:filter_cartridge",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "realismsurvival:filter_cartridge",
+				"count": 1
+			}
+		},
+		{
+			"id": "0FB418E02157FDDA",
+			"dependencies": [
+				"554CC3A9CEBEE09F"
+			],
+			"x": 3.2,
+			"y": -2.4,
+			"tasks": [
+				{
+					"id": "7E2C8E68ADB82F77",
+					"item": {
+						"id": "realismsurvival:fresh_ice_bucket",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "realismsurvival:fresh_ice_bucket",
+				"count": 1
+			}
+		},
+		{
+			"id": "05F2B12610B1FEE9",
+			"dependencies": [
+				"554CC3A9CEBEE09F"
+			],
+			"x": 3.2,
+			"y": -0.8,
+			"tasks": [
+				{
+					"id": "6A631B9DA48F9D89",
+					"item": {
+						"id": "realismsurvival:snow_bucket",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "realismsurvival:snow_bucket",
+				"count": 1
+			}
+		},
+		{
+			"id": "16B9486EBFAFB65C",
+			"dependencies": [
+				"554CC3A9CEBEE09F"
+			],
+			"x": 3.2,
+			"y": 0.8,
+			"tasks": [
+				{
+					"id": "734AA46420AC3F60",
+					"item": {
+						"id": "realismsurvival:thermometer",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "realismsurvival:thermometer",
+				"count": 1
+			}
+		},
+		{
+			"id": "2531303A51695DE4",
+			"dependencies": [
+				"554CC3A9CEBEE09F"
+			],
+			"x": 3.2,
+			"y": 2.4,
+			"tasks": [
+				{
+					"id": "6B02F67BF2CFC59A",
+					"item": {
+						"id": "rsmedicine:warm_pack",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "rsmedicine:warm_pack",
+				"count": 1
+			}
+		},
+		{
+			"id": "4A38723CE91298D0",
+			"dependencies": [
+				"0FB418E02157FDDA",
+				"05F2B12610B1FEE9",
+				"16B9486EBFAFB65C",
+				"2531303A51695DE4"
+			],
+			"x": 8.0,
+			"y": -0.8,
+			"tasks": [
+				{
+					"id": "69AD45D53081279E",
+					"type": "checkmark"
+				}
+			],
+			"rewards": [
+				{
+					"id": "6D31AA4CCFB7D025",
+					"count": 2,
+					"item": {
+						"id": "rsmedicine:warm_pack",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "rsmedicine:warm_pack",
+				"count": 1
+			}
+		},
+		{
+			"id": "2F4B6F193D3410CA",
+			"dependencies": [
+				"554CC3A9CEBEE09F"
+			],
+			"x": 4.8,
+			"y": -2.4,
+			"tasks": [
+				{
+					"id": "0166955A32DCB54C",
+					"item": {
+						"id": "realismsurvival:water_filter",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "realismsurvival:water_filter",
+				"count": 1
+			}
+		},
+		{
+			"id": "166C7A7DA7E5D27F",
+			"dependencies": [
+				"554CC3A9CEBEE09F"
+			],
+			"x": 4.8,
+			"y": -0.8,
+			"tasks": [
+				{
+					"id": "52FCF4A3DD8496CD",
+					"item": {
+						"id": "realismsurvival:filter_cartridge",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "realismsurvival:filter_cartridge",
+				"count": 1
+			}
+		},
+		{
+			"id": "71E3BD1D54EA6DDC",
+			"dependencies": [
+				"554CC3A9CEBEE09F"
+			],
+			"consume_items": true,
+			"x": 4.8,
+			"y": 0.8,
+			"tasks": [
+				{
+					"id": "32B50F03F3B29634",
+					"count": 4,
+					"item": {
+						"id": "realismsurvival:salt",
+						"count": 1
+					},
+					"type": "item",
+					"consume_items": true
+				}
+			],
+			"icon": {
+				"id": "realismsurvival:salt",
+				"count": 1
+			}
+		},
+		{
+			"id": "111AE6DD5707E781",
+			"dependencies": [
+				"554CC3A9CEBEE09F"
+			],
+			"x": 4.8,
+			"y": 2.4,
+			"tasks": [
+				{
+					"id": "344961646992F46F",
+					"item": {
+						"id": "realismsurvival:salt_block",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "realismsurvival:salt_block",
+				"count": 1
+			}
+		},
+		{
+			"id": "1E25A426401231CA",
+			"dependencies": [
+				"2F4B6F193D3410CA",
+				"166C7A7DA7E5D27F",
+				"71E3BD1D54EA6DDC",
+				"111AE6DD5707E781"
+			],
+			"x": 8.0,
+			"y": 0.8,
+			"tasks": [
+				{
+					"id": "1FD958282D814FF2",
+					"type": "checkmark"
+				}
+			],
+			"rewards": [
+				{
+					"id": "0E873FD5895A8F01",
+					"count": 4,
+					"item": {
+						"id": "realismsurvival:salt_block",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "realismsurvival:salt_block",
+				"count": 1
+			}
+		},
+		{
+			"id": "69CD9865B51C5CDF",
+			"dependencies": [
+				"554CC3A9CEBEE09F"
+			],
+			"x": 6.4,
+			"y": -2.4,
+			"tasks": [
+				{
+					"id": "461BA0DB4A2181A4",
+					"item": {
+						"id": "rsmedicine:bandage",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "rsmedicine:bandage",
+				"count": 1
+			}
+		},
+		{
+			"id": "52DA92627792C001",
+			"dependencies": [
+				"554CC3A9CEBEE09F"
+			],
+			"x": 6.4,
+			"y": -0.8,
+			"tasks": [
+				{
+					"id": "1E6CCE93220A61F2",
+					"item": {
+						"id": "rsmedicine:trauma_kit",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "rsmedicine:trauma_kit",
+				"count": 1
+			}
+		},
+		{
+			"id": "7CC8FCC57A49D2C2",
+			"dependencies": [
+				"554CC3A9CEBEE09F"
+			],
+			"x": 6.4,
+			"y": 0.8,
+			"tasks": [
+				{
+					"id": "4FAA42501D16A62F",
+					"item": {
+						"id": "rsmedicine:antidote",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "rsmedicine:antidote",
+				"count": 1
+			}
+		},
+		{
+			"id": "1DCB7A6F4CBEE475",
+			"dependencies": [
+				"554CC3A9CEBEE09F"
+			],
+			"x": 6.4,
+			"y": 2.4,
+			"tasks": [
+				{
+					"id": "0BEB74CA73E7BBA2",
+					"item": {
+						"id": "rsmedicine:burn_salve",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "rsmedicine:burn_salve",
+				"count": 1
+			}
+		},
+		{
+			"id": "2EDBC15F4160A969",
+			"dependencies": [
+				"69CD9865B51C5CDF",
+				"52DA92627792C001",
+				"7CC8FCC57A49D2C2",
+				"1DCB7A6F4CBEE475"
+			],
+			"x": 8.0,
+			"y": 2.4,
+			"tasks": [
+				{
+					"id": "244C964097A0D771",
+					"type": "checkmark"
+				}
+			],
+			"rewards": [
+				{
+					"id": "5FD3ABA94071AA8A",
+					"count": 6,
+					"item": {
+						"id": "rsmedicine:bandage",
+						"count": 1
+					},
+					"type": "item"
+				},
+				{
+					"id": "256562E43D5605E9",
+					"item": {
+						"id": "rsmedicine:antidote",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "rsmedicine:bandage",
+				"count": 1
+			}
+		},
+		{
+			"id": "557996549A2A142E",
+			"dependencies": [
+				"2071CAAA062BFAA8",
+				"4A38723CE91298D0",
+				"1E25A426401231CA",
+				"2EDBC15F4160A969"
+			],
+			"shape": "gear",
+			"size": 1.5,
+			"x": 9.85,
+			"y": 0.0,
+			"tasks": [
+				{
+					"id": "7B10BFC87821F1D4",
+					"type": "checkmark"
+				}
+			],
+			"rewards": [
+				{
+					"id": "75D5751F4F1055DD",
+					"count": 4,
+					"item": {
+						"id": "realismsurvival:filter_cartridge",
+						"count": 1
+					},
+					"type": "item"
+				},
+				{
+					"id": "125E4A0B5E1956E7",
+					"count": 2,
+					"item": {
+						"id": "minecraft:gold_ingot",
+						"count": 1
+					},
+					"type": "item"
+				},
+				{
+					"id": "17E5F38DCA159715",
+					"xp": 40,
+					"type": "xp"
+				}
+			],
+			"icon": {
+				"id": "realismsurvival:filter_cartridge",
+				"count": 1
+			}
+		}
+	]
+}

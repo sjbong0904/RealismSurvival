@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": ["WWW", "S S", "S S"],
+  "key": {
+    "W": "#minecraft:wool",
+    "S": "#c:rods/wooden"
+  },
+  "result": {
+    "id": "realismsurvival:clinic_table"
+  }
+}

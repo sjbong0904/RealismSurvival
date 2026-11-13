@@ -1,0 +1,16 @@
+{
+  "crops": [
+    "minecraft:brown_mushroom",
+    "minecraft:red_mushroom",
+    "minecraft:cave_vines",
+    "minecraft:cave_vines_plant",
+    "minecraft:cocoa"
+  ],
+  "metric": "sky",
+  "bands": [
+    { "min": 0, "max": 7, "multiplier": 1.25 },
+    { "min": 8, "max": 11, "multiplier": 0.55 },
+    { "min": 12, "max": 15, "multiplier": 0.0 }
+  ],
+  "priority": 0
+}

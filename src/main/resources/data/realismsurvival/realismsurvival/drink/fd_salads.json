@@ -1,0 +1,16 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "farmersdelight"
+    }
+  ],
+  "items": [
+    "farmersdelight:fruit_salad",
+    "farmersdelight:mixed_salad",
+    "farmersdelight:gleaming_salad"
+  ],
+  "thirst_restore": 8.0,
+  "temperature_delta": -0.2,
+  "priority": 5
+}

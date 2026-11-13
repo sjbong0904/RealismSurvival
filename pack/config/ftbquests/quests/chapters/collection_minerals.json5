@@ -1,0 +1,1124 @@
+{
+	"default_hide_dependency_lines": false,
+	"default_quest_shape": "circle",
+	"filename": "collection_minerals",
+	"group": "1F4528B79F489519",
+	"icon": {
+		"id": "minecraft:diamond",
+		"count": 1
+	},
+	"id": "097BE4A9D989B824",
+	"order_index": 5,
+	"quest_links": [],
+	"quests": [
+		{
+			"id": "15A6DA337CBC08A1",
+			"dependencies": [
+				"6DDA3882B0A7B2DB"
+			],
+			"size": 1.25,
+			"x": 0,
+			"y": 0,
+			"tasks": [
+				{
+					"id": "716C3D08B4518B1E",
+					"type": "checkmark"
+				}
+			]
+		},
+		{
+			"id": "1B0D19E2A806F2E0",
+			"dependencies": [
+				"15A6DA337CBC08A1"
+			],
+			"hide_dependency_lines": true,
+			"x": 0.0,
+			"y": 2.6,
+			"tasks": [
+				{
+					"id": "0871DC9A9A847F39",
+					"item": {
+						"id": "minecraft:coal",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:coal",
+				"count": 1
+			}
+		},
+		{
+			"id": "6D0D3BDA328FEF55",
+			"dependencies": [
+				"15A6DA337CBC08A1"
+			],
+			"hide_dependency_lines": true,
+			"x": 1.45,
+			"y": 2.6,
+			"tasks": [
+				{
+					"id": "4BDE0F94316F48B9",
+					"item": {
+						"id": "minecraft:charcoal",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:charcoal",
+				"count": 1
+			}
+		},
+		{
+			"id": "5F5D769EAF261CE9",
+			"dependencies": [
+				"15A6DA337CBC08A1"
+			],
+			"hide_dependency_lines": true,
+			"x": 2.9,
+			"y": 2.6,
+			"tasks": [
+				{
+					"id": "65F18F3133DBD2F7",
+					"item": {
+						"id": "minecraft:raw_iron",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:raw_iron",
+				"count": 1
+			}
+		},
+		{
+			"id": "7ADAEAC4A1037725",
+			"dependencies": [
+				"15A6DA337CBC08A1"
+			],
+			"hide_dependency_lines": true,
+			"x": 4.35,
+			"y": 2.6,
+			"tasks": [
+				{
+					"id": "220845910C4BBD36",
+					"item": {
+						"id": "minecraft:iron_ingot",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:iron_ingot",
+				"count": 1
+			}
+		},
+		{
+			"id": "60AE337A9554F983",
+			"dependencies": [
+				"15A6DA337CBC08A1"
+			],
+			"hide_dependency_lines": true,
+			"x": 5.8,
+			"y": 2.6,
+			"tasks": [
+				{
+					"id": "406056AFC2EEEF7A",
+					"item": {
+						"id": "minecraft:raw_copper",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:raw_copper",
+				"count": 1
+			}
+		},
+		{
+			"id": "0DB5237F2ACB0E2E",
+			"dependencies": [
+				"15A6DA337CBC08A1"
+			],
+			"hide_dependency_lines": true,
+			"x": 7.25,
+			"y": 2.6,
+			"tasks": [
+				{
+					"id": "26709D84EECA908B",
+					"item": {
+						"id": "minecraft:copper_ingot",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:copper_ingot",
+				"count": 1
+			}
+		},
+		{
+			"id": "595D5FB4B7396272",
+			"dependencies": [
+				"15A6DA337CBC08A1"
+			],
+			"hide_dependency_lines": true,
+			"x": 8.7,
+			"y": 2.6,
+			"tasks": [
+				{
+					"id": "07045939B143F345",
+					"item": {
+						"id": "minecraft:raw_gold",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:raw_gold",
+				"count": 1
+			}
+		},
+		{
+			"id": "3430A8AC1B53A77C",
+			"dependencies": [
+				"15A6DA337CBC08A1"
+			],
+			"hide_dependency_lines": true,
+			"x": 0.0,
+			"y": 4.05,
+			"tasks": [
+				{
+					"id": "4FB2EA4570A40DA9",
+					"item": {
+						"id": "minecraft:gold_ingot",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:gold_ingot",
+				"count": 1
+			}
+		},
+		{
+			"id": "0593A1724DA0881E",
+			"dependencies": [
+				"15A6DA337CBC08A1"
+			],
+			"hide_dependency_lines": true,
+			"x": 1.45,
+			"y": 4.05,
+			"tasks": [
+				{
+					"id": "659067141AB3535A",
+					"item": {
+						"id": "minecraft:redstone",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:redstone",
+				"count": 1
+			}
+		},
+		{
+			"id": "5542AC68FF705E68",
+			"dependencies": [
+				"15A6DA337CBC08A1"
+			],
+			"hide_dependency_lines": true,
+			"x": 2.9,
+			"y": 4.05,
+			"tasks": [
+				{
+					"id": "73E5F1747409535D",
+					"item": {
+						"id": "minecraft:lapis_lazuli",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:lapis_lazuli",
+				"count": 1
+			}
+		},
+		{
+			"id": "6FC50E44FB0CD3E2",
+			"dependencies": [
+				"15A6DA337CBC08A1"
+			],
+			"hide_dependency_lines": true,
+			"x": 4.35,
+			"y": 4.05,
+			"tasks": [
+				{
+					"id": "4BEEC33DDC02EEC7",
+					"item": {
+						"id": "minecraft:diamond",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:diamond",
+				"count": 1
+			}
+		},
+		{
+			"id": "4527ECF63C8A6081",
+			"dependencies": [
+				"15A6DA337CBC08A1"
+			],
+			"hide_dependency_lines": true,
+			"x": 5.8,
+			"y": 4.05,
+			"tasks": [
+				{
+					"id": "655F020505C11FCF",
+					"item": {
+						"id": "minecraft:emerald",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:emerald",
+				"count": 1
+			}
+		},
+		{
+			"id": "2888388111F2ECC8",
+			"dependencies": [
+				"15A6DA337CBC08A1"
+			],
+			"hide_dependency_lines": true,
+			"x": 7.25,
+			"y": 4.05,
+			"tasks": [
+				{
+					"id": "0379024D47FB557E",
+					"item": {
+						"id": "minecraft:amethyst_shard",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:amethyst_shard",
+				"count": 1
+			}
+		},
+		{
+			"id": "6303AE4EE78A511E",
+			"dependencies": [
+				"15A6DA337CBC08A1"
+			],
+			"hide_dependency_lines": true,
+			"x": 8.7,
+			"y": 4.05,
+			"tasks": [
+				{
+					"id": "3C18ED1B12A7EF6D",
+					"item": {
+						"id": "minecraft:quartz",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:quartz",
+				"count": 1
+			}
+		},
+		{
+			"id": "02BAF21EFEC5DD3F",
+			"dependencies": [
+				"15A6DA337CBC08A1"
+			],
+			"hide_dependency_lines": true,
+			"x": 0.0,
+			"y": 5.5,
+			"tasks": [
+				{
+					"id": "5830CD0F71FA0221",
+					"item": {
+						"id": "minecraft:netherite_scrap",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:netherite_scrap",
+				"count": 1
+			}
+		},
+		{
+			"id": "4930F6FB9D3CAE7B",
+			"dependencies": [
+				"15A6DA337CBC08A1"
+			],
+			"hide_dependency_lines": true,
+			"x": 1.45,
+			"y": 5.5,
+			"tasks": [
+				{
+					"id": "56F018367CDEE3C9",
+					"item": {
+						"id": "minecraft:netherite_ingot",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:netherite_ingot",
+				"count": 1
+			}
+		},
+		{
+			"id": "2230D5055FFCC96F",
+			"dependencies": [
+				"15A6DA337CBC08A1"
+			],
+			"hide_dependency_lines": true,
+			"x": 2.9,
+			"y": 5.5,
+			"tasks": [
+				{
+					"id": "2943A6300996D667",
+					"item": {
+						"id": "minecraft:ancient_debris",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:ancient_debris",
+				"count": 1
+			}
+		},
+		{
+			"id": "3E7AAEBCCD6C2C1D",
+			"dependencies": [
+				"15A6DA337CBC08A1"
+			],
+			"hide_dependency_lines": true,
+			"x": 4.35,
+			"y": 5.5,
+			"tasks": [
+				{
+					"id": "750D117FBC44AB57",
+					"item": {
+						"id": "minecraft:obsidian",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:obsidian",
+				"count": 1
+			}
+		},
+		{
+			"id": "4C0172D6B62F4C98",
+			"dependencies": [
+				"15A6DA337CBC08A1"
+			],
+			"hide_dependency_lines": true,
+			"x": 5.8,
+			"y": 5.5,
+			"tasks": [
+				{
+					"id": "434DA6EF529C8D24",
+					"item": {
+						"id": "minecraft:crying_obsidian",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:crying_obsidian",
+				"count": 1
+			}
+		},
+		{
+			"id": "173D934174556FC5",
+			"dependencies": [
+				"15A6DA337CBC08A1"
+			],
+			"hide_dependency_lines": true,
+			"x": 7.25,
+			"y": 5.5,
+			"tasks": [
+				{
+					"id": "6087777A8EC8E856",
+					"item": {
+						"id": "minecraft:glowstone_dust",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:glowstone_dust",
+				"count": 1
+			}
+		},
+		{
+			"id": "5A7F75B70B6652A5",
+			"dependencies": [
+				"15A6DA337CBC08A1"
+			],
+			"hide_dependency_lines": true,
+			"x": 8.7,
+			"y": 5.5,
+			"tasks": [
+				{
+					"id": "068B0523D70B88B5",
+					"item": {
+						"id": "minecraft:blaze_rod",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:blaze_rod",
+				"count": 1
+			}
+		},
+		{
+			"id": "6A612CEAAB30AB51",
+			"dependencies": [
+				"15A6DA337CBC08A1"
+			],
+			"hide_dependency_lines": true,
+			"x": 0.0,
+			"y": 6.949999999999999,
+			"tasks": [
+				{
+					"id": "32027E855D140191",
+					"item": {
+						"id": "minecraft:ghast_tear",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:ghast_tear",
+				"count": 1
+			}
+		},
+		{
+			"id": "0078503638FC21BC",
+			"dependencies": [
+				"15A6DA337CBC08A1"
+			],
+			"hide_dependency_lines": true,
+			"x": 1.45,
+			"y": 6.949999999999999,
+			"tasks": [
+				{
+					"id": "4020F275CEBF31A5",
+					"item": {
+						"id": "minecraft:ender_pearl",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:ender_pearl",
+				"count": 1
+			}
+		},
+		{
+			"id": "263706F85BB91B8E",
+			"dependencies": [
+				"15A6DA337CBC08A1"
+			],
+			"hide_dependency_lines": true,
+			"x": 2.9,
+			"y": 6.949999999999999,
+			"tasks": [
+				{
+					"id": "0A50975541C9FFF4",
+					"item": {
+						"id": "minecraft:echo_shard",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:echo_shard",
+				"count": 1
+			}
+		},
+		{
+			"id": "378E187AE04FA99C",
+			"dependencies": [
+				"15A6DA337CBC08A1"
+			],
+			"hide_dependency_lines": true,
+			"x": 4.35,
+			"y": 6.949999999999999,
+			"tasks": [
+				{
+					"id": "21034D301F39BF1C",
+					"item": {
+						"id": "minecraft:prismarine_shard",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:prismarine_shard",
+				"count": 1
+			}
+		},
+		{
+			"id": "4DE09D436221959F",
+			"dependencies": [
+				"15A6DA337CBC08A1"
+			],
+			"hide_dependency_lines": true,
+			"x": 5.8,
+			"y": 6.949999999999999,
+			"tasks": [
+				{
+					"id": "111CF83494778879",
+					"item": {
+						"id": "minecraft:prismarine_crystals",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:prismarine_crystals",
+				"count": 1
+			}
+		},
+		{
+			"id": "0210EB0FDB8DCA13",
+			"dependencies": [
+				"15A6DA337CBC08A1"
+			],
+			"hide_dependency_lines": true,
+			"x": 7.25,
+			"y": 6.949999999999999,
+			"tasks": [
+				{
+					"id": "737FE8DEA2E76A9F",
+					"item": {
+						"id": "minecraft:nether_star",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:nether_star",
+				"count": 1
+			}
+		},
+		{
+			"id": "16B1ADD2DF5184A3",
+			"dependencies": [
+				"15A6DA337CBC08A1"
+			],
+			"hide_dependency_lines": true,
+			"x": 8.7,
+			"y": 6.949999999999999,
+			"tasks": [
+				{
+					"id": "117B175B600E81E7",
+					"item": {
+						"id": "realismsurvival:salt",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "realismsurvival:salt",
+				"count": 1
+			}
+		},
+		{
+			"id": "358B783E0364437A",
+			"dependencies": [
+				"15A6DA337CBC08A1"
+			],
+			"hide_dependency_lines": true,
+			"x": 0.0,
+			"y": 8.4,
+			"tasks": [
+				{
+					"id": "79CEBAC25B47AA58",
+					"item": {
+						"id": "realismsurvival:salt_block",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "realismsurvival:salt_block",
+				"count": 1
+			}
+		},
+		{
+			"id": "665C90E79D6F5282",
+			"dependencies": [
+				"15A6DA337CBC08A1"
+			],
+			"hide_dependency_lines": true,
+			"x": 1.45,
+			"y": 8.4,
+			"tasks": [
+				{
+					"id": "70F0BAC8FC8CF34D",
+					"item": {
+						"id": "realismsurvival:filter_cartridge",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "realismsurvival:filter_cartridge",
+				"count": 1
+			}
+		},
+		{
+			"id": "21B5C7EB59E16196",
+			"dependencies": [
+				"15A6DA337CBC08A1"
+			],
+			"hide_dependency_lines": true,
+			"x": 2.9,
+			"y": 8.4,
+			"tasks": [
+				{
+					"id": "0A73511CB2C91B16",
+					"item": {
+						"id": "realismsurvival:thermometer",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "realismsurvival:thermometer",
+				"count": 1
+			}
+		},
+		{
+			"id": "2884D85D30F7AC54",
+			"dependencies": [
+				"15A6DA337CBC08A1"
+			],
+			"hide_dependency_lines": true,
+			"x": 4.35,
+			"y": 8.4,
+			"tasks": [
+				{
+					"id": "3C758B4463FCB407",
+					"item": {
+						"id": "realismsurvival:graded_ice",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "realismsurvival:graded_ice",
+				"count": 1
+			}
+		},
+		{
+			"id": "22739962E755A67D",
+			"dependencies": [
+				"15A6DA337CBC08A1"
+			],
+			"hide_dependency_lines": true,
+			"x": 5.8,
+			"y": 8.4,
+			"tasks": [
+				{
+					"id": "2C2E18138315FF7C",
+					"item": {
+						"id": "sereneseasons:calendar",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "sereneseasons:calendar",
+				"count": 1
+			}
+		},
+		{
+			"id": "479C90FCCF5F45BA",
+			"dependencies": [
+				"15A6DA337CBC08A1"
+			],
+			"hide_dependency_lines": true,
+			"x": 7.25,
+			"y": 8.4,
+			"tasks": [
+				{
+					"id": "3096D3CBF1AC4A7D",
+					"item": {
+						"id": "sereneseasons:season_sensor",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "sereneseasons:season_sensor",
+				"count": 1
+			}
+		},
+		{
+			"id": "539DA6E030C6D920",
+			"dependencies": [
+				"15A6DA337CBC08A1",
+				"1B0D19E2A806F2E0",
+				"6D0D3BDA328FEF55",
+				"5F5D769EAF261CE9",
+				"7ADAEAC4A1037725",
+				"60AE337A9554F983",
+				"0DB5237F2ACB0E2E",
+				"595D5FB4B7396272",
+				"3430A8AC1B53A77C",
+				"0593A1724DA0881E",
+				"5542AC68FF705E68",
+				"6FC50E44FB0CD3E2",
+				"4527ECF63C8A6081",
+				"2888388111F2ECC8",
+				"6303AE4EE78A511E",
+				"02BAF21EFEC5DD3F",
+				"4930F6FB9D3CAE7B",
+				"2230D5055FFCC96F",
+				"3E7AAEBCCD6C2C1D",
+				"4C0172D6B62F4C98",
+				"173D934174556FC5",
+				"5A7F75B70B6652A5",
+				"6A612CEAAB30AB51",
+				"0078503638FC21BC",
+				"263706F85BB91B8E",
+				"378E187AE04FA99C",
+				"4DE09D436221959F",
+				"0210EB0FDB8DCA13",
+				"16B1ADD2DF5184A3",
+				"358B783E0364437A",
+				"665C90E79D6F5282",
+				"21B5C7EB59E16196",
+				"2884D85D30F7AC54",
+				"22739962E755A67D",
+				"479C90FCCF5F45BA"
+			],
+			"min_required_dependencies": 12,
+			"hide_dependency_lines": true,
+			"size": 1.25,
+			"x": 12.55,
+			"y": 2.6,
+			"tasks": [
+				{
+					"id": "3842E561242F6024",
+					"type": "checkmark"
+				}
+			],
+			"rewards": [
+				{
+					"id": "426BC3A402070B32",
+					"item": {
+						"id": "minecraft:respawn_anchor",
+						"count": 1
+					},
+					"type": "item"
+				},
+				{
+					"id": "0BDDA640594AD48F",
+					"item": {
+						"id": "minecraft:lodestone",
+						"count": 1
+					},
+					"type": "item"
+				},
+				{
+					"id": "279BCB796A6DD378",
+					"xp_levels": 2,
+					"type": "xp_levels"
+				}
+			],
+			"icon": {
+				"id": "minecraft:respawn_anchor",
+				"count": 1
+			}
+		},
+		{
+			"id": "5A0008DE738EB22C",
+			"dependencies": [
+				"15A6DA337CBC08A1",
+				"1B0D19E2A806F2E0",
+				"6D0D3BDA328FEF55",
+				"5F5D769EAF261CE9",
+				"7ADAEAC4A1037725",
+				"60AE337A9554F983",
+				"0DB5237F2ACB0E2E",
+				"595D5FB4B7396272",
+				"3430A8AC1B53A77C",
+				"0593A1724DA0881E",
+				"5542AC68FF705E68",
+				"6FC50E44FB0CD3E2",
+				"4527ECF63C8A6081",
+				"2888388111F2ECC8",
+				"6303AE4EE78A511E",
+				"02BAF21EFEC5DD3F",
+				"4930F6FB9D3CAE7B",
+				"2230D5055FFCC96F",
+				"3E7AAEBCCD6C2C1D",
+				"4C0172D6B62F4C98",
+				"173D934174556FC5",
+				"5A7F75B70B6652A5",
+				"6A612CEAAB30AB51",
+				"0078503638FC21BC",
+				"263706F85BB91B8E",
+				"378E187AE04FA99C",
+				"4DE09D436221959F",
+				"0210EB0FDB8DCA13",
+				"16B1ADD2DF5184A3",
+				"358B783E0364437A",
+				"665C90E79D6F5282",
+				"21B5C7EB59E16196",
+				"2884D85D30F7AC54",
+				"22739962E755A67D",
+				"479C90FCCF5F45BA"
+			],
+			"min_required_dependencies": 22,
+			"hide_dependency_lines": true,
+			"size": 1.25,
+			"x": 12.55,
+			"y": 4.5,
+			"tasks": [
+				{
+					"id": "644885921610F29F",
+					"type": "checkmark"
+				}
+			],
+			"rewards": [
+				{
+					"id": "0BE8EC4AB64E04D3",
+					"item": {
+						"id": "minecraft:snout_armor_trim_smithing_template",
+						"count": 1
+					},
+					"type": "item"
+				},
+				{
+					"id": "023B21DD0E73C273",
+					"item": {
+						"id": "minecraft:rib_armor_trim_smithing_template",
+						"count": 1
+					},
+					"type": "item"
+				},
+				{
+					"id": "0659903B9FF76D3B",
+					"xp_levels": 4,
+					"type": "xp_levels"
+				}
+			],
+			"icon": {
+				"id": "minecraft:snout_armor_trim_smithing_template",
+				"count": 1
+			}
+		},
+		{
+			"id": "4EB392A429E6AB10",
+			"dependencies": [
+				"15A6DA337CBC08A1",
+				"1B0D19E2A806F2E0",
+				"6D0D3BDA328FEF55",
+				"5F5D769EAF261CE9",
+				"7ADAEAC4A1037725",
+				"60AE337A9554F983",
+				"0DB5237F2ACB0E2E",
+				"595D5FB4B7396272",
+				"3430A8AC1B53A77C",
+				"0593A1724DA0881E",
+				"5542AC68FF705E68",
+				"6FC50E44FB0CD3E2",
+				"4527ECF63C8A6081",
+				"2888388111F2ECC8",
+				"6303AE4EE78A511E",
+				"02BAF21EFEC5DD3F",
+				"4930F6FB9D3CAE7B",
+				"2230D5055FFCC96F",
+				"3E7AAEBCCD6C2C1D",
+				"4C0172D6B62F4C98",
+				"173D934174556FC5",
+				"5A7F75B70B6652A5",
+				"6A612CEAAB30AB51",
+				"0078503638FC21BC",
+				"263706F85BB91B8E",
+				"378E187AE04FA99C",
+				"4DE09D436221959F",
+				"0210EB0FDB8DCA13",
+				"16B1ADD2DF5184A3",
+				"358B783E0364437A",
+				"665C90E79D6F5282",
+				"21B5C7EB59E16196",
+				"2884D85D30F7AC54",
+				"22739962E755A67D",
+				"479C90FCCF5F45BA"
+			],
+			"min_required_dependencies": 32,
+			"hide_dependency_lines": true,
+			"size": 1.25,
+			"x": 12.55,
+			"y": 6.4,
+			"tasks": [
+				{
+					"id": "5707C0F5B66A8755",
+					"type": "checkmark"
+				}
+			],
+			"rewards": [
+				{
+					"id": "16FD1A1AE447831B",
+					"item": {
+						"id": "minecraft:ward_armor_trim_smithing_template",
+						"count": 1
+					},
+					"type": "item"
+				},
+				{
+					"id": "2745E82D831B2957",
+					"item": {
+						"id": "minecraft:silence_armor_trim_smithing_template",
+						"count": 1
+					},
+					"type": "item"
+				},
+				{
+					"id": "21AC13285242EEA2",
+					"xp_levels": 8,
+					"type": "xp_levels"
+				}
+			],
+			"icon": {
+				"id": "minecraft:ward_armor_trim_smithing_template",
+				"count": 1
+			}
+		},
+		{
+			"id": "1C35EB8C079AE6B7",
+			"dependencies": [
+				"15A6DA337CBC08A1",
+				"1B0D19E2A806F2E0",
+				"6D0D3BDA328FEF55",
+				"5F5D769EAF261CE9",
+				"7ADAEAC4A1037725",
+				"60AE337A9554F983",
+				"0DB5237F2ACB0E2E",
+				"595D5FB4B7396272",
+				"3430A8AC1B53A77C",
+				"0593A1724DA0881E",
+				"5542AC68FF705E68",
+				"6FC50E44FB0CD3E2",
+				"4527ECF63C8A6081",
+				"2888388111F2ECC8",
+				"6303AE4EE78A511E",
+				"02BAF21EFEC5DD3F",
+				"4930F6FB9D3CAE7B",
+				"2230D5055FFCC96F",
+				"3E7AAEBCCD6C2C1D",
+				"4C0172D6B62F4C98",
+				"173D934174556FC5",
+				"5A7F75B70B6652A5",
+				"6A612CEAAB30AB51",
+				"0078503638FC21BC",
+				"263706F85BB91B8E",
+				"378E187AE04FA99C",
+				"4DE09D436221959F",
+				"0210EB0FDB8DCA13",
+				"16B1ADD2DF5184A3",
+				"358B783E0364437A",
+				"665C90E79D6F5282",
+				"21B5C7EB59E16196",
+				"2884D85D30F7AC54",
+				"22739962E755A67D",
+				"479C90FCCF5F45BA"
+			],
+			"hide_dependency_lines": true,
+			"shape": "gear",
+			"size": 1.5,
+			"x": 12.55,
+			"y": 8.299999999999999,
+			"tasks": [
+				{
+					"id": "462789697795871A",
+					"type": "checkmark"
+				}
+			],
+			"rewards": [
+				{
+					"id": "023BCC07C9CDB256",
+					"item": {
+						"id": "minecraft:netherite_upgrade_smithing_template",
+						"count": 1
+					},
+					"type": "item"
+				},
+				{
+					"id": "3560AFFFDACC83B9",
+					"item": {
+						"id": "minecraft:nether_star",
+						"count": 1
+					},
+					"type": "item"
+				},
+				{
+					"id": "51937C4DBF8E689B",
+					"xp_levels": 14,
+					"type": "xp_levels"
+				}
+			],
+			"icon": {
+				"id": "minecraft:netherite_upgrade_smithing_template",
+				"count": 1
+			}
+		}
+	]
+}

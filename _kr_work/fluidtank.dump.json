@@ -1,0 +1,478 @@
+[
+{
+"k": "block.fluidtank.chest_as_tank",
+"en": "Chest as Tank",
+"jko": null,
+"ov": "상자형 탱크",
+"src": "상자 탱크 연결기"
+},
+{
+"k": "block.fluidtank.creative",
+"en": "Creative Tank",
+"jko": null,
+"ov": "크리에이티브 탱크",
+"src": "크리에이티브 탱크"
+},
+{
+"k": "block.fluidtank.fluid_source",
+"en": "Infinite Fluid Supplier",
+"jko": null,
+"ov": "무한 유체 공급기",
+"src": "무한 유체 공급기"
+},
+{
+"k": "block.fluidtank.gas_tank_diamond",
+"en": "Gas Diamond Tank",
+"jko": null,
+"ov": "가스 다이아몬드 탱크",
+"src": "다이아몬드 가스 탱크"
+},
+{
+"k": "block.fluidtank.gas_tank_emerald",
+"en": "Gas Emerald Tank",
+"jko": null,
+"ov": "가스 에메랄드 탱크",
+"src": "에메랄드 가스 탱크"
+},
+{
+"k": "block.fluidtank.gas_tank_gold",
+"en": "Gas Gold Tank",
+"jko": null,
+"ov": "가스 금 탱크",
+"src": "금 가스 탱크"
+},
+{
+"k": "block.fluidtank.gas_tank_iron",
+"en": "Gas Iron Tank",
+"jko": null,
+"ov": "가스 철 탱크",
+"src": "철 가스 탱크"
+},
+{
+"k": "block.fluidtank.gas_tank_wood",
+"en": "Gas Wood Tank",
+"jko": null,
+"ov": "가스 나무 탱크",
+"src": "나무 가스 탱크"
+},
+{
+"k": "block.fluidtank.invisible_tank_bronze",
+"en": "Invisible Bronze Tank",
+"jko": null,
+"ov": "투명 청동 탱크",
+"src": "투명 청동 탱크"
+},
+{
+"k": "block.fluidtank.invisible_tank_copper",
+"en": "Invisible Copper Tank",
+"jko": null,
+"ov": "투명 구리 탱크",
+"src": "투명 구리 탱크"
+},
+{
+"k": "block.fluidtank.invisible_tank_diamond",
+"en": "Invisible Diamond Tank",
+"jko": null,
+"ov": "투명 다이아몬드 탱크",
+"src": "투명 다이아몬드 탱크"
+},
+{
+"k": "block.fluidtank.invisible_tank_emerald",
+"en": "Invisible Emerald Tank",
+"jko": null,
+"ov": "투명 에메랄드 탱크",
+"src": "투명 에메랄드 탱크"
+},
+{
+"k": "block.fluidtank.invisible_tank_gold",
+"en": "Invisible Gold Tank",
+"jko": null,
+"ov": "투명 금 탱크",
+"src": "투명 금 탱크"
+},
+{
+"k": "block.fluidtank.invisible_tank_iron",
+"en": "Invisible Iron Tank",
+"jko": null,
+"ov": "투명 철 탱크",
+"src": "투명 철 탱크"
+},
+{
+"k": "block.fluidtank.invisible_tank_lead",
+"en": "Invisible Lead Tank",
+"jko": null,
+"ov": "투명 납 탱크",
+"src": "투명 납 탱크"
+},
+{
+"k": "block.fluidtank.invisible_tank_silver",
+"en": "Invisible Silver Tank",
+"jko": null,
+"ov": "투명 은 탱크",
+"src": "투명 은 탱크"
+},
+{
+"k": "block.fluidtank.invisible_tank_star",
+"en": "Invisible Star Tank",
+"jko": null,
+"ov": "투명 스타 탱크",
+"src": "투명 스타 탱크"
+},
+{
+"k": "block.fluidtank.invisible_tank_stone",
+"en": "Invisible Stone Tank",
+"jko": null,
+"ov": "투명 돌 탱크",
+"src": "투명 돌 탱크"
+},
+{
+"k": "block.fluidtank.invisible_tank_tin",
+"en": "Invisible Tin Tank",
+"jko": null,
+"ov": "투명 주석 탱크",
+"src": "투명 주석 탱크"
+},
+{
+"k": "block.fluidtank.invisible_tank_wood",
+"en": "Invisible Wood Tank",
+"jko": null,
+"ov": "투명 나무 탱크",
+"src": "투명 나무 탱크"
+},
+{
+"k": "block.fluidtank.item_pipe",
+"en": "Item Pipe",
+"jko": null,
+"ov": "아이템 파이프",
+"src": "아이템 파이프"
+},
+{
+"k": "block.fluidtank.milk",
+"en": "Milk",
+"jko": null,
+"ov": "우유",
+"src": "우유"
+},
+{
+"k": "block.fluidtank.pipe",
+"en": "Fluid Pipe",
+"jko": null,
+"ov": "유체 파이프",
+"src": "유체 파이프"
+},
+{
+"k": "block.fluidtank.tank_bronze",
+"en": "Bronze Tank",
+"jko": null,
+"ov": "청동 탱크",
+"src": "청동 탱크"
+},
+{
+"k": "block.fluidtank.tank_copper",
+"en": "Copper Tank",
+"jko": null,
+"ov": "구리 탱크",
+"src": "구리 탱크"
+},
+{
+"k": "block.fluidtank.tank_diamond",
+"en": "Diamond Tank",
+"jko": null,
+"ov": "다이아몬드 탱크",
+"src": "다이아몬드 탱크"
+},
+{
+"k": "block.fluidtank.tank_emerald",
+"en": "Emerald Tank",
+"jko": null,
+"ov": "에메랄드 탱크",
+"src": "에메랄드 탱크"
+},
+{
+"k": "block.fluidtank.tank_gold",
+"en": "Gold Tank",
+"jko": null,
+"ov": "금 탱크",
+"src": "금 탱크"
+},
+{
+"k": "block.fluidtank.tank_iron",
+"en": "Iron Tank",
+"jko": null,
+"ov": "철 탱크",
+"src": "철 탱크"
+},
+{
+"k": "block.fluidtank.tank_lead",
+"en": "Lead Tank",
+"jko": null,
+"ov": "납 탱크",
+"src": "납 탱크"
+},
+{
+"k": "block.fluidtank.tank_silver",
+"en": "Silver Tank",
+"jko": null,
+"ov": "은 탱크",
+"src": "은 탱크"
+},
+{
+"k": "block.fluidtank.tank_star",
+"en": "Star Tank",
+"jko": null,
+"ov": "스타 탱크",
+"src": "스타 탱크"
+},
+{
+"k": "block.fluidtank.tank_stone",
+"en": "Stone Tank",
+"jko": null,
+"ov": "돌 탱크",
+"src": "돌 탱크"
+},
+{
+"k": "block.fluidtank.tank_tin",
+"en": "Tin Tank",
+"jko": null,
+"ov": "주석 탱크",
+"src": "주석 탱크"
+},
+{
+"k": "block.fluidtank.tank_void",
+"en": "Void Tank",
+"jko": null,
+"ov": "공허 탱크",
+"src": "보이드 탱크"
+},
+{
+"k": "block.fluidtank.tank_wood",
+"en": "Wood Tank",
+"jko": null,
+"ov": "나무 탱크",
+"src": "나무 탱크"
+},
+{
+"k": "block.fluidtank.water_source",
+"en": "Infinite Water Supplier",
+"jko": null,
+"ov": "무한 물 공급기",
+"src": "무한 물 공급기"
+},
+{
+"k": "chat.fluidtank.cat_empty",
+"en": "No fluids in the inventory.",
+"jko": null,
+"ov": "인벤토리에 유체가 없습니다.",
+"src": "인벤토리에 유체가 없습니다."
+},
+{
+"k": "chat.fluidtank.cat_fluid",
+"en": "Fluids in the inventory.",
+"jko": null,
+"ov": "인벤토리의 유체.",
+"src": "인벤토리의 유체."
+},
+{
+"k": "chat.fluidtank.change_color",
+"en": "Color was changed to %s.",
+"jko": null,
+"ov": "색상이 %s(으)로 변경되었습니다.",
+"src": "색상이 %s(으)로 변경되었습니다."
+},
+{
+"k": "chat.fluidtank.change_interval",
+"en": "Interval was changed to %s.",
+"jko": null,
+"ov": "간격이 %s(으)로 변경되었습니다.",
+"src": "간격이 %s(으)로 변경되었습니다."
+},
+{
+"k": "chat.fluidtank.change_source",
+"en": "Fluid was changed to %s.",
+"jko": null,
+"ov": "유체가 %s(으)로 변경되었습니다.",
+"src": "유체가 %s(으)로 변경되었습니다."
+},
+{
+"k": "chat.fluidtank.connection",
+"en": "Connection of %1$s : %2$s / %3$s mB, Comparator outputs %4$s.",
+"jko": null,
+"ov": "%1$s 연결: %2$s / %3$s mB, 비교기 출력 %4$s.",
+"src": "%1$s 연결: %2$s / %3$s mB, 비교기 출력 %4$s."
+},
+{
+"k": "chat.fluidtank.connection_creative",
+"en": "Connection of %1$s in creative, Comparator outputs %2$s.",
+"jko": null,
+"ov": "크리에이티브 %1$s 연결, 비교기 출력 %2$s.",
+"src": "크리에이티브 %1$s 연결, 비교기 출력 %2$s."
+},
+{
+"k": "chat.fluidtank.empty",
+"en": "Empty",
+"jko": null,
+"ov": "비어 있음",
+"src": "비어 있음"
+},
+{
+"k": "config.jade.plugin_fluidtank.compact_number",
+"en": "Compact Number",
+"jko": null,
+"ov": "축약 숫자",
+"src": "숫자 축약"
+},
+{
+"k": "config.jade.plugin_fluidtank.jade_plugin",
+"en": "FluidTank Plugin",
+"jko": null,
+"ov": "FluidTank 플러그인",
+"src": "FluidTank 플러그인"
+},
+{
+"k": "config.jade.plugin_fluidtank.short_info",
+"en": "Short",
+"jko": null,
+"ov": "짧게",
+"src": "간단히"
+},
+{
+"k": "config.jade.plugin_fluidtank.tank_info",
+"en": "Show Tank Info",
+"jko": null,
+"ov": "탱크 정보 표시",
+"src": "탱크 정보 표시"
+},
+{
+"k": "config.waila.plugin_fluidtank",
+"en": "Fluidtank",
+"jko": null,
+"ov": "Fluidtank",
+"src": "Fluidtank"
+},
+{
+"k": "config.waila.plugin_fluidtank.compact_number",
+"en": "Compact Number",
+"jko": null,
+"ov": "축약 숫자",
+"src": "숫자 축약"
+},
+{
+"k": "config.waila.plugin_fluidtank.short_info",
+"en": "Short",
+"jko": null,
+"ov": "짧게",
+"src": "간단히"
+},
+{
+"k": "config.waila.plugin_fluidtank.tank_info",
+"en": "Show Tank Info",
+"jko": null,
+"ov": "탱크 정보 표시",
+"src": "탱크 정보 표시"
+},
+{
+"k": "fluidtank.recipe.tooltip",
+"en": "Recipe of tanks",
+"jko": null,
+"ov": "탱크 제작법",
+"src": "탱크 제작법"
+},
+{
+"k": "fluidtank.waila.amount",
+"en": "Amount: %s mB",
+"jko": null,
+"ov": "양: %s mB",
+"src": "양: %s mB"
+},
+{
+"k": "fluidtank.waila.capacity",
+"en": "Capacity: %s mB",
+"jko": null,
+"ov": "용량: %s mB",
+"src": "용량: %s mB"
+},
+{
+"k": "fluidtank.waila.comparator",
+"en": "Comparator: %s",
+"jko": null,
+"ov": "비교기: %s",
+"src": "비교기: %s"
+},
+{
+"k": "fluidtank.waila.content",
+"en": "Contents: %s",
+"jko": null,
+"ov": "내용물: %s",
+"src": "내용물: %s"
+},
+{
+"k": "fluidtank.waila.short",
+"en": "%1$s : %2$s/%3$s mB",
+"jko": null,
+"ov": "%1$s : %2$s/%3$s mB",
+"src": "%1$s : %2$s/%3$s mB"
+},
+{
+"k": "fluidtank.waila.supplier",
+"en": "%s",
+"jko": null,
+"ov": "%s",
+"src": "%s"
+},
+{
+"k": "fluidtank.waila.tier",
+"en": "Tier: %s",
+"jko": null,
+"ov": "등급: %s",
+"src": "등급: %s"
+},
+{
+"k": "item.fluidtank.reservoir_iron",
+"en": "Iron Reservoir",
+"jko": null,
+"ov": "철 저장소",
+"src": "철 저장통"
+},
+{
+"k": "item.fluidtank.reservoir_stone",
+"en": "Stone Reservoir",
+"jko": null,
+"ov": "돌 저장소",
+"src": "돌 저장통"
+},
+{
+"k": "item.fluidtank.reservoir_wood",
+"en": "Wood Reservoir",
+"jko": null,
+"ov": "나무 저장소",
+"src": "나무 저장통"
+},
+{
+"k": "itemGroup.fluidtank",
+"en": "FluidTanks",
+"jko": null,
+"ov": "FluidTanks",
+"src": "유체 탱크"
+},
+{
+"k": "tooltip.fluidtank.source",
+"en": "Only water",
+"jko": null,
+"ov": "물만",
+"src": "물만"
+},
+{
+"k": "tooltip.fluidtank.source_disabled",
+"en": "Disabled",
+"jko": null,
+"ov": "비활성",
+"src": "비활성화됨"
+},
+{
+"k": "tooltip.fluidtank.source_inf",
+"en": "Infinite",
+"jko": null,
+"ov": "무한",
+"src": "무한"
+}
+]

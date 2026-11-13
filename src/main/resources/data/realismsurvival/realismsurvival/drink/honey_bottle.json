@@ -1,0 +1,6 @@
+{
+  "items": "minecraft:honey_bottle",
+  "thirst_restore": 6.0,
+  "temperature_delta": 0.1,
+  "priority": 0
+}

@@ -1,0 +1,366 @@
+[
+{
+"k": "tag.item.c.dyes.black",
+"en": "Black Dyes",
+"jko": null,
+"ov": "검은색 염료",
+"src": null
+},
+{
+"k": "tag.item.c.dyes.blue",
+"en": "Blue Dyes",
+"jko": null,
+"ov": "파란색 염료",
+"src": null
+},
+{
+"k": "tag.item.c.dyes.brown",
+"en": "Brown Dyes",
+"jko": null,
+"ov": "갈색 염료",
+"src": null
+},
+{
+"k": "tag.item.c.dyes.cyan",
+"en": "Cyan Dyes",
+"jko": null,
+"ov": "청록색 염료",
+"src": null
+},
+{
+"k": "tag.item.c.dyes.gray",
+"en": "Gray Dyes",
+"jko": null,
+"ov": "회색 염료",
+"src": null
+},
+{
+"k": "tag.item.c.dyes.green",
+"en": "Green Dyes",
+"jko": null,
+"ov": "초록색 염료",
+"src": null
+},
+{
+"k": "tag.item.c.dyes.light_blue",
+"en": "Light Blue Dyes",
+"jko": null,
+"ov": "하늘색 염료",
+"src": null
+},
+{
+"k": "tag.item.c.dyes.light_gray",
+"en": "Light Gray Dyes",
+"jko": null,
+"ov": "밝은 회색 염료",
+"src": null
+},
+{
+"k": "tag.item.c.dyes.lime",
+"en": "Lime Dyes",
+"jko": null,
+"ov": "연두색 염료",
+"src": null
+},
+{
+"k": "tag.item.c.dyes.magenta",
+"en": "Magenta Dyes",
+"jko": null,
+"ov": "자홍색 염료",
+"src": null
+},
+{
+"k": "tag.item.c.dyes.orange",
+"en": "Orange Dyes",
+"jko": null,
+"ov": "주황색 염료",
+"src": null
+},
+{
+"k": "tag.item.c.dyes.pink",
+"en": "Pink Dyes",
+"jko": null,
+"ov": "분홍색 염료",
+"src": null
+},
+{
+"k": "tag.item.c.dyes.purple",
+"en": "Purple Dyes",
+"jko": null,
+"ov": "보라색 염료",
+"src": null
+},
+{
+"k": "tag.item.c.dyes.red",
+"en": "Red Dyes",
+"jko": null,
+"ov": "빨간색 염료",
+"src": null
+},
+{
+"k": "tag.item.c.dyes.white",
+"en": "White Dyes",
+"jko": null,
+"ov": "하얀색 염료",
+"src": null
+},
+{
+"k": "tag.item.c.dyes.yellow",
+"en": "Yellow Dyes",
+"jko": null,
+"ov": "노란색 염료",
+"src": null
+},
+{
+"k": "tag.item.c.cooking_oil",
+"en": "Cooking Oil",
+"jko": null,
+"ov": "식용유",
+"src": null
+},
+{
+"k": "tag.item.c.gems.diamond",
+"en": "Diamonds",
+"jko": null,
+"ov": "다이아몬드",
+"src": null
+},
+{
+"k": "tag.item.c.dyes",
+"en": "Dyes",
+"jko": null,
+"ov": "염료",
+"src": null
+},
+{
+"k": "tag.item.c.eggs",
+"en": "Eggs",
+"jko": null,
+"ov": "달걀",
+"src": null
+},
+{
+"k": "tag.item.c.gems.emerald",
+"en": "Emeralds",
+"jko": null,
+"ov": "에메랄드",
+"src": null
+},
+{
+"k": "tag.item.c.gems",
+"en": "Gems",
+"jko": null,
+"ov": "보석",
+"src": null
+},
+{
+"k": "tag.item.c.nuggets.gold",
+"en": "Gold Nuggets",
+"jko": null,
+"ov": "금 조각",
+"src": null
+},
+{
+"k": "tag.item.c.ingots",
+"en": "Ingots",
+"jko": null,
+"ov": "주괴",
+"src": null
+},
+{
+"k": "tag.item.c.ingots.iron",
+"en": "Iron Ingots",
+"jko": null,
+"ov": "철 주괴",
+"src": null
+},
+{
+"k": "tag.item.c.nuggets.iron",
+"en": "Iron Nuggets",
+"jko": null,
+"ov": "철 조각",
+"src": null
+},
+{
+"k": "tag.item.c.nuggets",
+"en": "Nuggets",
+"jko": null,
+"ov": "조각",
+"src": null
+},
+{
+"k": "tag.item.c.ores",
+"en": "Ores",
+"jko": null,
+"ov": "광석",
+"src": null
+},
+{
+"k": "tag.item.c.stones",
+"en": "Stones",
+"jko": null,
+"ov": "돌",
+"src": null
+},
+{
+"k": "tag.item.c.chests.chests",
+"en": "Wooden Chests",
+"jko": null,
+"ov": "나무 상자",
+"src": null
+},
+{
+"k": "tag.item.c.rods.wooden",
+"en": "Wooden Rods",
+"jko": null,
+"ov": "나무 막대",
+"src": null
+},
+{
+"k": "balm.configuration.exampleBoolean",
+"en": "Example Boolean",
+"jko": null,
+"ov": "예시 불리언",
+"src": null
+},
+{
+"k": "balm.configuration.exampleInt",
+"en": "Example Int",
+"jko": null,
+"ov": "예시 정수",
+"src": null
+},
+{
+"k": "balm.configuration.exampleString",
+"en": "Example String",
+"jko": null,
+"ov": "예시 문자열",
+"src": null
+},
+{
+"k": "balm.configuration.exampleMultilineString",
+"en": "Example Multiline String",
+"jko": null,
+"ov": "예시 여러 줄 문자열",
+"src": null
+},
+{
+"k": "balm.configuration.exampleEnum",
+"en": "Example Enum",
+"jko": null,
+"ov": "예시 열거형",
+"src": null
+},
+{
+"k": "balm.configuration.exampleStringList",
+"en": "Example String List",
+"jko": null,
+"ov": "예시 문자열 목록",
+"src": null
+},
+{
+"k": "balm.configuration.exampleIdentifierSet",
+"en": "Example Resource Location Set",
+"jko": null,
+"ov": "예시 리소스 위치 집합",
+"src": null
+},
+{
+"k": "balm.configuration.exampleIntList",
+"en": "Example Int List",
+"jko": null,
+"ov": "예시 정수 목록",
+"src": null
+},
+{
+"k": "balm.configuration.exampleEnumList",
+"en": "Example Enum List",
+"jko": null,
+"ov": "예시 열거형 목록",
+"src": null
+},
+{
+"k": "balm.configuration.exampleCategory.innerField",
+"en": "Example Inner Field",
+"jko": null,
+"ov": "예시 내부 필드",
+"src": null
+},
+{
+"k": "balm.configuration.exampleCategory.exampleFloat",
+"en": "Example Float",
+"jko": null,
+"ov": "예시 실수",
+"src": null
+},
+{
+"k": "balm.configuration.exampleCategory",
+"en": "Example Category",
+"jko": null,
+"ov": "예시 카테고리",
+"src": null
+},
+{
+"k": "disconnect.balm.mod_missing_on_server",
+"en": "The server does not have %s installed. Please remove the mod from your game or install it on the server as well.",
+"jko": null,
+"ov": "서버에 %s(이)가 설치되어 있지 않습니다. 클라이언트에서 모드를 제거하거나 서버에도 설치하세요.",
+"src": null
+},
+{
+"k": "disconnect.balm.mod_missing_on_client",
+"en": "You do not have %s installed. Please install %s version %s to play on this server.",
+"jko": null,
+"ov": "%s(이)가 설치되어 있지 않습니다. 이 서버에서 플레이하려면 %s 버전 %s을(를) 설치하세요.",
+"src": null
+},
+{
+"k": "disconnect.balm.mod_version_mismatch",
+"en": "Version mismatch for %s. The server expects version %s, but you currently have %s installed. Please install the correct version.",
+"jko": null,
+"ov": "%s 버전이 일치하지 않습니다. 서버는 %s을(를) 요구하지만 현재 %s이(가) 설치되어 있습니다. 올바른 버전을 설치하세요.",
+"src": null
+},
+{
+"k": "config.jade.plugin_balm.jade",
+"en": "Balm",
+"jko": null,
+"ov": "Balm",
+"src": null
+},
+{
+"k": "gui.balm.configuration.title",
+"en": "%s...",
+"jko": null,
+"ov": "%s...",
+"src": null
+},
+{
+"k": "gui.balm.configuration.edit",
+"en": "Edit",
+"jko": null,
+"ov": "편집",
+"src": null
+},
+{
+"k": "gui.balm.configuration.validation.range",
+"en": "Range: %s to %s",
+"jko": null,
+"ov": "범위: %s ~ %s",
+"src": null
+},
+{
+"k": "gui.balm.configuration.validation.negative_infinity",
+"en": "-inf",
+"jko": null,
+"ov": "-∞",
+"src": null
+},
+{
+"k": "gui.balm.configuration.validation.positive_infinity",
+"en": "+inf",
+"jko": null,
+"ov": "+∞",
+"src": null
+}
+]

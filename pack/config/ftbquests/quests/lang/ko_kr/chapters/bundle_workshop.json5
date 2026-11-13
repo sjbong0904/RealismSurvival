@@ -1,0 +1,90 @@
+{
+	"quest.4CD06890F36FE281.title": "공방 방 입장",
+	"quest.4CD06890F36FE281.quest_desc": [
+		"급수 시설 이후의 공방 번들입니다. 본선에서 이미 만든 상자·관·탱크로는 채워지지 않습니다. 입장하려면 체크하세요."
+	],
+	"quest.17FD81868FD57F05.title": "큰 상자 · 품목 1",
+	"quest.17FD81868FD57F05.quest_desc": [
+		"「큰 상자」꾸러미 품목입니다."
+	],
+	"quest.041080356EA728FE.title": "큰 상자 · 품목 2",
+	"quest.041080356EA728FE.quest_desc": [
+		"「큰 상자」꾸러미 품목입니다."
+	],
+	"quest.2891297D1A291006.title": "큰 상자 · 품목 3",
+	"quest.2891297D1A291006.quest_desc": [
+		"「큰 상자」꾸러미 품목입니다."
+	],
+	"quest.3D4334846AAA3561.title": "큰 상자 · 품목 4",
+	"quest.3D4334846AAA3561.quest_desc": [
+		"「큰 상자」꾸러미 품목입니다."
+	],
+	"quest.1F46DBC1F78BD729.title": "큰 상자 · 완료",
+	"quest.1F46DBC1F78BD729.quest_desc": [
+		"「큰 상자」꾸러미를 완성했습니다. 체크하세요."
+	],
+	"quest.7115C411E934416E.title": "관의 도구 · 품목 1",
+	"quest.7115C411E934416E.quest_desc": [
+		"「관의 도구」꾸러미 품목입니다."
+	],
+	"quest.3EBE50DD04AACEDC.title": "관의 도구 · 품목 2",
+	"quest.3EBE50DD04AACEDC.quest_desc": [
+		"「관의 도구」꾸러미 품목입니다."
+	],
+	"quest.50DA875F8EFB2AC0.title": "관의 도구 · 품목 3",
+	"quest.50DA875F8EFB2AC0.quest_desc": [
+		"「관의 도구」꾸러미 품목입니다."
+	],
+	"quest.05F16DDFB7ABB013.title": "관의 도구 · 품목 4",
+	"quest.05F16DDFB7ABB013.quest_desc": [
+		"「관의 도구」꾸러미 품목입니다."
+	],
+	"quest.3657E86202AFB743.title": "관의 도구 · 완료",
+	"quest.3657E86202AFB743.quest_desc": [
+		"「관의 도구」꾸러미를 완성했습니다. 체크하세요."
+	],
+	"quest.3484C930114E7C4A.title": "물 저장 · 품목 1",
+	"quest.3484C930114E7C4A.quest_desc": [
+		"「물 저장」꾸러미 품목입니다."
+	],
+	"quest.735CD514023E7158.title": "물 저장 · 품목 2",
+	"quest.735CD514023E7158.quest_desc": [
+		"「물 저장」꾸러미 품목입니다."
+	],
+	"quest.4AC5E4D1D4CEE22D.title": "물 저장 · 품목 3",
+	"quest.4AC5E4D1D4CEE22D.quest_desc": [
+		"「물 저장」꾸러미 품목입니다."
+	],
+	"quest.72AAE033D7CFCB26.title": "물 저장 · 품목 4",
+	"quest.72AAE033D7CFCB26.quest_desc": [
+		"「물 저장」꾸러미 품목입니다."
+	],
+	"quest.1E1DB13859234C9A.title": "물 저장 · 완료",
+	"quest.1E1DB13859234C9A.quest_desc": [
+		"「물 저장」꾸러미를 완성했습니다. 체크하세요."
+	],
+	"quest.59B61786ABCFF40B.title": "넵튜늄 가공 · 품목 1",
+	"quest.59B61786ABCFF40B.quest_desc": [
+		"「넵튜늄 가공」꾸러미 품목입니다."
+	],
+	"quest.3651010DC3F10C3B.title": "넵튜늄 가공 · 품목 2",
+	"quest.3651010DC3F10C3B.quest_desc": [
+		"「넵튜늄 가공」꾸러미 품목입니다."
+	],
+	"quest.09019AE314314D35.title": "넵튜늄 가공 · 품목 3",
+	"quest.09019AE314314D35.quest_desc": [
+		"「넵튜늄 가공」꾸러미 품목입니다."
+	],
+	"quest.5FE9487C1F42A44C.title": "넵튜늄 가공 · 품목 4",
+	"quest.5FE9487C1F42A44C.quest_desc": [
+		"「넵튜늄 가공」꾸러미 품목입니다."
+	],
+	"quest.7D5D0335D7A76CF5.title": "넵튜늄 가공 · 완료",
+	"quest.7D5D0335D7A76CF5.quest_desc": [
+		"「넵튜늄 가공」꾸러미를 완성했습니다. 체크하세요."
+	],
+	"quest.7476375D79CCC182.title": "공방 인장",
+	"quest.7476375D79CCC182.quest_desc": [
+		"공방 방의 인장입니다. 보상을 받으려면 체크하세요."
+	]
+}

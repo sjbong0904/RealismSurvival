@@ -1,0 +1,21 @@
+# Realism Survival: SeasonHUD season/date.
+# When the FTB Chunks minimap is visible, SeasonHUD hides this overlay and RS draws season/clock/temp
+# under the biome line. When the minimap is hidden, this overlay returns at TOP_RIGHT.
+[SeasonHUD]
+	enable_mod = true
+
+	[SeasonHUD.HUD]
+		hud_location = "TOP_RIGHT"
+		hud_x_position = 2
+		hud_y_position = 2
+		hud_scale = 1.0
+
+	[SeasonHUD.Season]
+		enable_show_tropical_season = true
+		enable_show_sub_season = false
+		enable_show_day = "SHOW_DAY"
+		enable_show_fertility = false
+
+	[SeasonHUD.Minimap]
+		enable_minimap_integration = true
+		enable_show_minimap_hidden = true

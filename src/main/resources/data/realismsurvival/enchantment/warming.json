@@ -1,0 +1,22 @@
+{
+  "anvil_cost": 2,
+  "description": {
+    "translate": "enchantment.realismsurvival.warming"
+  },
+  "effects": {},
+  "exclusive_set": "#realismsurvival:exclusive_set/bottle_temperature",
+  "max_cost": {
+    "base": 41,
+    "per_level_above_first": 0
+  },
+  "max_level": 1,
+  "min_cost": {
+    "base": 1,
+    "per_level_above_first": 0
+  },
+  "slots": [
+    "any"
+  ],
+  "supported_items": "#realismsurvival:enchantable/temperature_bottle",
+  "weight": 3
+}

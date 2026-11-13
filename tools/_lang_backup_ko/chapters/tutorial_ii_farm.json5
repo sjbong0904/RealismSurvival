@@ -1,0 +1,78 @@
+{
+	"quest.705F054EC036BF3D.title": "밭으로",
+	"quest.705F054EC036BF3D.quest_desc": [
+		"안전한 물을 확보했다면, 이제 밭과 부엌으로 넘어갑니다.",
+		"계절이 작물 성장에 영향을 줍니다. 달력을 옆에 두는 편이 좋아요."
+	],
+	"quest.44E48E20E9552F2A.title": "경작",
+	"quest.44E48E20E9552F2A.quest_desc": [
+		"땅을 갈아 밭을 만들 준비가 되었나요?"
+	],
+	"quest.09ED627D76E33E14.title": "계절 달력",
+	"quest.09ED627D76E33E14.quest_desc": [
+		"달력을 들면 지금이 어떤 계절인지 화면에 나타납니다.",
+		"봄과 가을은 밀처럼 서늘한 작물에 좋고,",
+		"여름은 따뜻한 작물에 유리합니다.",
+		"겨울에는 대부분 작물이 잘 자라지 않으니, 실내나 비료를 생각해 보세요."
+	],
+	"quest.35B0BFB713484039.title": "밀 수확",
+	"quest.35B0BFB713484039.quest_desc": [
+		"밀은 서늘한 작물입니다.",
+		"맞는 계절에 심으면 잘 자라고, 겨울에는 느려집니다."
+	],
+	"quest.350AD42259E84A50.title": "밭에 물을",
+	"quest.350AD42259E84A50.quest_desc": [
+		"물의 종류가 밭에도 영향을 줍니다.",
+		"가능하면 안전한 물로 흙을 적시세요. 바닷물은 쓰지 마세요."
+	],
+	"quest.732F64EBBE9027DC.title": "도마",
+	"quest.732F64EBBE9027DC.quest_desc": [
+		"본격적인 요리의 시작입니다. 재료를 썰 자리가 필요해요."
+	],
+	"quest.7BD2F5A8FDB408AE.title": "냄비",
+	"quest.7BD2F5A8FDB408AE.quest_desc": [
+		"국과 스튜를 끓이려면 냄비가 중심이 됩니다."
+	],
+	"quest.2FB463350074B333.title": "스토브",
+	"quest.2FB463350074B333.quest_desc": [
+		"부엌에 불을 들여 본격적인 주방을 만드세요."
+	],
+	"quest.05CA20DAF3D6CE4E.title": "프라이팬",
+	"quest.05CA20DAF3D6CE4E.quest_desc": [
+		"볶고 굽는 요리가 열립니다."
+	],
+	"quest.6FD17506059DC777.title": "한 끼 요리",
+	"quest.6FD17506059DC777.quest_desc": [
+		"직접 만든 음식으로 한 끼를 해결해 보세요.",
+		"다양한 음식을 먹을수록 몸이 더 잘 회복됩니다."
+	],
+	"quest.3681862A7CB558CA.title": "음식 도감",
+	"quest.3681862A7CB558CA.quest_desc": [
+		"먹은 음식을 기록하는 책이 있습니다.",
+		"메뉴를 넓힐수록 하트가 늘어나는 것을 확인해 보세요."
+	],
+	"quest.6F8A7BA9B0141436.title": "식단 다양화",
+	"quest.6F8A7BA9B0141436.quest_desc": [
+		"같은 것만 먹지 말고, 여러 가지를 맛보세요."
+	],
+	"quest.1438B299CC008F74.title": "낚싯대",
+	"quest.1438B299CC008F74.quest_desc": [
+		"물가에서 시간을 보내 볼까요?"
+	],
+	"quest.44A4568C1A096D4A.title": "미끼 농장",
+	"quest.44A4568C1A096D4A.quest_desc": [
+		"미끼가 있으면 낚시가 한결 수월해집니다."
+	],
+	"quest.3AA49369AA0A5EFF.title": "낚시 도구함",
+	"quest.3AA49369AA0A5EFF.quest_desc": [
+		"바늘과 줄을 정리해 두면 원정에도 편합니다."
+	],
+	"quest.5F2E1CB96109C2E0.title": "큰 물고기",
+	"quest.5F2E1CB96109C2E0.quest_desc": [
+		"조금 특별한 물고기를 한 마리 올려 보세요."
+	],
+	"quest.04BC08B784669EB8.title": "★ 부엌 왕관",
+	"quest.04BC08B784669EB8.quest_desc": [
+		"본편 퀘스트를 모두 완료해야 합니다."
+	]
+}

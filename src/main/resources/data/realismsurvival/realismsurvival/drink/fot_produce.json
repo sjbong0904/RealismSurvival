@@ -1,0 +1,16 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "fishofthieves"
+    }
+  ],
+  "items": [
+    "fishofthieves:banana",
+    "fishofthieves:pomegranate",
+    "fishofthieves:raw_mango"
+  ],
+  "thirst_restore": 3.0,
+  "temperature_delta": 0.0,
+  "priority": 5
+}

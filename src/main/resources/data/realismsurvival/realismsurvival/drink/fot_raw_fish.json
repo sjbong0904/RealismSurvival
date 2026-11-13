@@ -1,0 +1,23 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "fishofthieves"
+    }
+  ],
+  "items": [
+    "fishofthieves:splashtail",
+    "fishofthieves:pondie",
+    "fishofthieves:islehopper",
+    "fishofthieves:ancientscale",
+    "fishofthieves:plentifin",
+    "fishofthieves:wildsplash",
+    "fishofthieves:devilfish",
+    "fishofthieves:battlegill",
+    "fishofthieves:wrecker",
+    "fishofthieves:stormfish"
+  ],
+  "thirst_restore": -1.0,
+  "temperature_delta": -0.05,
+  "priority": 5
+}

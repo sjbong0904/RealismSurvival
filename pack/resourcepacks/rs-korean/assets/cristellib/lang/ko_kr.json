@@ -1,0 +1,6 @@
+{
+  "cristellib.nameAndSource": "%s (§d§nCristel Lib§r 제공)",
+  "cristellib.autoCategoryInfo": "%s에서 자동으로 만든 화면입니다. 설정에서 자동 화면을 끌 수 있습니다.\n모드 제작자는 여기를 클릭해 위키에서 자세한 내용을 확인하세요.",
+  "cristellib.placementCategoryTitle": "구조물 배치",
+  "cristellib.toggleCategoryTitle": "구조물 켜기/끄기"
+}

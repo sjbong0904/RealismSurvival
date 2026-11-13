@@ -1,0 +1,10 @@
+{
+  "items": [
+    "minecraft:leather_helmet",
+    "minecraft:leather_chestplate",
+    "minecraft:leather_leggings",
+    "minecraft:leather_boots"
+  ],
+  "insulation": 0.1,
+  "priority": 0
+}

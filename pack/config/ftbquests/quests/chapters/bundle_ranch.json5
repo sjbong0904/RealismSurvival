@@ -1,0 +1,615 @@
+{
+	"default_hide_dependency_lines": false,
+	"default_quest_shape": "circle",
+	"filename": "bundle_ranch",
+	"group": "43325E0840607D0B",
+	"icon": {
+		"id": "minecraft:hay_block",
+		"count": 1
+	},
+	"id": "42CAF21CD6CE28F1",
+	"order_index": 2,
+	"quest_links": [],
+	"quests": [
+		{
+			"id": "204F962E14D1CDA3",
+			"dependencies": [
+				"03989BC73B2D1FE9"
+			],
+			"x": 0.0,
+			"y": 0.0,
+			"tasks": [
+				{
+					"id": "38294441258F7FD6",
+					"type": "checkmark"
+				}
+			]
+		},
+		{
+			"id": "5508E74EB669FE0B",
+			"dependencies": [
+				"204F962E14D1CDA3"
+			],
+			"consume_items": true,
+			"x": 1.6,
+			"y": -2.4,
+			"tasks": [
+				{
+					"id": "114202EBC31ADFCB",
+					"item": {
+						"id": "minecraft:milk_bucket",
+						"count": 1
+					},
+					"type": "item",
+					"consume_items": true
+				}
+			],
+			"icon": {
+				"id": "minecraft:milk_bucket",
+				"count": 1
+			}
+		},
+		{
+			"id": "294F1281A1A41A00",
+			"dependencies": [
+				"204F962E14D1CDA3"
+			],
+			"consume_items": true,
+			"x": 1.6,
+			"y": -0.8,
+			"tasks": [
+				{
+					"id": "3B330CBC57D1B1C9",
+					"count": 4,
+					"item": {
+						"id": "minecraft:egg",
+						"count": 1
+					},
+					"type": "item",
+					"consume_items": true
+				}
+			],
+			"icon": {
+				"id": "minecraft:egg",
+				"count": 1
+			}
+		},
+		{
+			"id": "270CACB3B36716BC",
+			"dependencies": [
+				"204F962E14D1CDA3"
+			],
+			"consume_items": true,
+			"x": 1.6,
+			"y": 0.8,
+			"tasks": [
+				{
+					"id": "782B1C4E2FAF1509",
+					"count": 4,
+					"item": {
+						"id": "minecraft:leather",
+						"count": 1
+					},
+					"type": "item",
+					"consume_items": true
+				}
+			],
+			"icon": {
+				"id": "minecraft:leather",
+				"count": 1
+			}
+		},
+		{
+			"id": "4556A36704BFC867",
+			"dependencies": [
+				"204F962E14D1CDA3"
+			],
+			"consume_items": true,
+			"x": 1.6,
+			"y": 2.4,
+			"tasks": [
+				{
+					"id": "1649A3413FAEAB8A",
+					"count": 4,
+					"item": {
+						"id": "minecraft:white_wool",
+						"count": 1
+					},
+					"type": "item",
+					"consume_items": true
+				}
+			],
+			"icon": {
+				"id": "minecraft:white_wool",
+				"count": 1
+			}
+		},
+		{
+			"id": "148B92584710A354",
+			"dependencies": [
+				"5508E74EB669FE0B",
+				"294F1281A1A41A00",
+				"270CACB3B36716BC",
+				"4556A36704BFC867"
+			],
+			"x": 8.0,
+			"y": -2.4,
+			"tasks": [
+				{
+					"id": "227BD3FF6C882E81",
+					"type": "checkmark"
+				}
+			],
+			"rewards": [
+				{
+					"id": "4EBA0FF813B482C9",
+					"count": 16,
+					"item": {
+						"id": "minecraft:oak_fence",
+						"count": 1
+					},
+					"type": "item"
+				},
+				{
+					"id": "56742606EA7A21D4",
+					"count": 8,
+					"item": {
+						"id": "minecraft:leather",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:oak_fence",
+				"count": 1
+			}
+		},
+		{
+			"id": "7FECF7C1DAB6D487",
+			"dependencies": [
+				"204F962E14D1CDA3"
+			],
+			"consume_items": true,
+			"x": 3.2,
+			"y": -2.4,
+			"tasks": [
+				{
+					"id": "0A20EFDAD849C3C4",
+					"item": {
+						"id": "minecraft:honey_bottle",
+						"count": 1
+					},
+					"type": "item",
+					"consume_items": true
+				}
+			],
+			"icon": {
+				"id": "minecraft:honey_bottle",
+				"count": 1
+			}
+		},
+		{
+			"id": "19749A3478C478B7",
+			"dependencies": [
+				"204F962E14D1CDA3"
+			],
+			"x": 3.2,
+			"y": -0.8,
+			"tasks": [
+				{
+					"id": "755953B332221260",
+					"item": {
+						"id": "minecraft:beehive",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:beehive",
+				"count": 1
+			}
+		},
+		{
+			"id": "5A178CB1AE924D68",
+			"dependencies": [
+				"204F962E14D1CDA3"
+			],
+			"x": 3.2,
+			"y": 0.8,
+			"tasks": [
+				{
+					"id": "4788E735ADDB76AA",
+					"item": {
+						"id": "minecraft:honey_block",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:honey_block",
+				"count": 1
+			}
+		},
+		{
+			"id": "7F454C1A2E51885C",
+			"dependencies": [
+				"204F962E14D1CDA3"
+			],
+			"consume_items": true,
+			"x": 3.2,
+			"y": 2.4,
+			"tasks": [
+				{
+					"id": "78753456318C81FD",
+					"item": {
+						"id": "minecraft:honeycomb",
+						"count": 1
+					},
+					"type": "item",
+					"consume_items": true
+				}
+			],
+			"icon": {
+				"id": "minecraft:honeycomb",
+				"count": 1
+			}
+		},
+		{
+			"id": "648343AC197C9E23",
+			"dependencies": [
+				"7FECF7C1DAB6D487",
+				"19749A3478C478B7",
+				"5A178CB1AE924D68",
+				"7F454C1A2E51885C"
+			],
+			"x": 8.0,
+			"y": -0.8,
+			"tasks": [
+				{
+					"id": "65D5BB2EA3D0C937",
+					"type": "checkmark"
+				}
+			],
+			"rewards": [
+				{
+					"id": "66C6504B66C5379E",
+					"count": 16,
+					"item": {
+						"id": "minecraft:sugar",
+						"count": 1
+					},
+					"type": "item"
+				},
+				{
+					"id": "1977A5C5018D4DCC",
+					"count": 4,
+					"item": {
+						"id": "minecraft:honey_bottle",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:sugar",
+				"count": 1
+			}
+		},
+		{
+			"id": "05C54FC9BC41D98F",
+			"dependencies": [
+				"204F962E14D1CDA3"
+			],
+			"consume_items": true,
+			"x": 4.8,
+			"y": -2.4,
+			"tasks": [
+				{
+					"id": "6AB0565F72ED036E",
+					"count": 8,
+					"item": {
+						"id": "minecraft:bone",
+						"count": 1
+					},
+					"type": "item",
+					"consume_items": true
+				}
+			],
+			"icon": {
+				"id": "minecraft:bone",
+				"count": 1
+			}
+		},
+		{
+			"id": "4BF44D2C0295C405",
+			"dependencies": [
+				"204F962E14D1CDA3"
+			],
+			"consume_items": true,
+			"x": 4.8,
+			"y": -0.8,
+			"tasks": [
+				{
+					"id": "215D82945556679C",
+					"count": 8,
+					"item": {
+						"id": "minecraft:cod",
+						"count": 1
+					},
+					"type": "item",
+					"consume_items": true
+				}
+			],
+			"icon": {
+				"id": "minecraft:cod",
+				"count": 1
+			}
+		},
+		{
+			"id": "08C4442F546EC3D4",
+			"dependencies": [
+				"204F962E14D1CDA3"
+			],
+			"x": 4.8,
+			"y": 0.8,
+			"tasks": [
+				{
+					"id": "3583F2BA22978A4B",
+					"item": {
+						"id": "pet_home:pet_bed_red",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "pet_home:pet_bed_red",
+				"count": 1
+			}
+		},
+		{
+			"id": "1D1DA7A589475209",
+			"dependencies": [
+				"204F962E14D1CDA3"
+			],
+			"x": 4.8,
+			"y": 2.4,
+			"tasks": [
+				{
+					"id": "57CE912FFE319240",
+					"item": {
+						"id": "waystones:return_scroll",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "waystones:return_scroll",
+				"count": 1
+			}
+		},
+		{
+			"id": "2D27BE1C9F806EA2",
+			"dependencies": [
+				"05C54FC9BC41D98F",
+				"4BF44D2C0295C405",
+				"08C4442F546EC3D4",
+				"1D1DA7A589475209"
+			],
+			"x": 8.0,
+			"y": 0.8,
+			"tasks": [
+				{
+					"id": "5E33F7216D4E2492",
+					"type": "checkmark"
+				}
+			],
+			"rewards": [
+				{
+					"id": "718D28DB53DE19C2",
+					"count": 16,
+					"item": {
+						"id": "minecraft:bone",
+						"count": 1
+					},
+					"type": "item"
+				},
+				{
+					"id": "12F54DB88D825227",
+					"count": 8,
+					"item": {
+						"id": "minecraft:cooked_cod",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:bone",
+				"count": 1
+			}
+		},
+		{
+			"id": "18D92A0FC6DA5318",
+			"dependencies": [
+				"204F962E14D1CDA3"
+			],
+			"x": 6.4,
+			"y": -2.4,
+			"tasks": [
+				{
+					"id": "17FC6BD2E156F805",
+					"item": {
+						"id": "minecraft:saddle",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:saddle",
+				"count": 1
+			}
+		},
+		{
+			"id": "281EC899BDC37C89",
+			"dependencies": [
+				"204F962E14D1CDA3"
+			],
+			"consume_items": true,
+			"x": 6.4,
+			"y": -0.8,
+			"tasks": [
+				{
+					"id": "135926F73FF14B5A",
+					"count": 8,
+					"item": {
+						"id": "minecraft:carrot",
+						"count": 1
+					},
+					"type": "item",
+					"consume_items": true
+				}
+			],
+			"icon": {
+				"id": "minecraft:carrot",
+				"count": 1
+			}
+		},
+		{
+			"id": "4A947F181391E875",
+			"dependencies": [
+				"204F962E14D1CDA3"
+			],
+			"x": 6.4,
+			"y": 0.8,
+			"tasks": [
+				{
+					"id": "58E8B19D5CCEF91E",
+					"item": {
+						"id": "minecraft:leather_horse_armor",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:leather_horse_armor",
+				"count": 1
+			}
+		},
+		{
+			"id": "223287F3FA5A9ADB",
+			"dependencies": [
+				"204F962E14D1CDA3"
+			],
+			"x": 6.4,
+			"y": 2.4,
+			"tasks": [
+				{
+					"id": "1F348B87DB7DA21A",
+					"item": {
+						"id": "minecraft:hay_block",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:hay_block",
+				"count": 1
+			}
+		},
+		{
+			"id": "2E4A0210A418A31E",
+			"dependencies": [
+				"18D92A0FC6DA5318",
+				"281EC899BDC37C89",
+				"4A947F181391E875",
+				"223287F3FA5A9ADB"
+			],
+			"x": 8.0,
+			"y": 2.4,
+			"tasks": [
+				{
+					"id": "6866D562A50A6365",
+					"type": "checkmark"
+				}
+			],
+			"rewards": [
+				{
+					"id": "602C78042537DC23",
+					"count": 8,
+					"item": {
+						"id": "minecraft:leather",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:leather",
+				"count": 1
+			}
+		},
+		{
+			"id": "716925D40C69AF80",
+			"dependencies": [
+				"148B92584710A354",
+				"648343AC197C9E23",
+				"2D27BE1C9F806EA2",
+				"2E4A0210A418A31E"
+			],
+			"shape": "gear",
+			"size": 1.5,
+			"x": 9.85,
+			"y": 0.0,
+			"tasks": [
+				{
+					"id": "70F35022A6F8C85E",
+					"type": "checkmark"
+				}
+			],
+			"rewards": [
+				{
+					"id": "749EFDC228E76B7A",
+					"item": {
+						"id": "minecraft:saddle",
+						"count": 1
+					},
+					"type": "item"
+				},
+				{
+					"id": "78E5AC20F73CE3E3",
+					"item": {
+						"id": "minecraft:name_tag",
+						"count": 1
+					},
+					"type": "item"
+				},
+				{
+					"id": "3EB79C39FA2BE470",
+					"count": 2,
+					"item": {
+						"id": "minecraft:gold_ingot",
+						"count": 1
+					},
+					"type": "item"
+				},
+				{
+					"id": "65388AECF1C97DA2",
+					"xp": 40,
+					"type": "xp"
+				}
+			],
+			"icon": {
+				"id": "minecraft:saddle",
+				"count": 1
+			}
+		}
+	]
+}

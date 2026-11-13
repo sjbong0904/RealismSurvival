@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:rotten_flesh",
+    "realismsurvival:salt",
+    "realismsurvival:salt"
+  ],
+  "result": {
+    "id": "minecraft:leather"
+  }
+}

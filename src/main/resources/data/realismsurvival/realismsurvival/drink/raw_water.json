@@ -1,0 +1,8 @@
+{
+  "items": [
+    "minecraft:air"
+  ],
+  "thirst_restore": 4.0,
+  "temperature_delta": -0.2,
+  "priority": 0
+}

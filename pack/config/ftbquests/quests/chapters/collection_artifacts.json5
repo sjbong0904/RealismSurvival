@@ -1,0 +1,1502 @@
+{
+	"default_hide_dependency_lines": false,
+	"default_quest_shape": "circle",
+	"filename": "collection_artifacts",
+	"group": "1F4528B79F489519",
+	"icon": {
+		"id": "artifacts:umbrella",
+		"count": 1
+	},
+	"id": "4A87EAAF9011DC6E",
+	"order_index": 6,
+	"quest_links": [],
+	"quests": [
+		{
+			"id": "57105F97106B91C8",
+			"dependencies": [
+				"462A515F57917506"
+			],
+			"size": 1.25,
+			"x": 0,
+			"y": 0,
+			"tasks": [
+				{
+					"id": "0CD6F859A0C19702",
+					"type": "checkmark"
+				}
+			]
+		},
+		{
+			"id": "51CC77588CD79506",
+			"dependencies": [
+				"57105F97106B91C8"
+			],
+			"hide_dependency_lines": true,
+			"x": 0.0,
+			"y": 2.6,
+			"tasks": [
+				{
+					"id": "661FF4DACF4AB72C",
+					"item": {
+						"id": "artifacts:anglers_hat",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "artifacts:anglers_hat",
+				"count": 1
+			}
+		},
+		{
+			"id": "3DBD24BF9E4FE6DB",
+			"dependencies": [
+				"57105F97106B91C8"
+			],
+			"hide_dependency_lines": true,
+			"x": 1.45,
+			"y": 2.6,
+			"tasks": [
+				{
+					"id": "5B4DB44C31583065",
+					"item": {
+						"id": "artifacts:antidote_vessel",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "artifacts:antidote_vessel",
+				"count": 1
+			}
+		},
+		{
+			"id": "43218487D07E77E4",
+			"dependencies": [
+				"57105F97106B91C8"
+			],
+			"hide_dependency_lines": true,
+			"x": 2.9,
+			"y": 2.6,
+			"tasks": [
+				{
+					"id": "6D980D4B102E6EA0",
+					"item": {
+						"id": "artifacts:aqua_dashers",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "artifacts:aqua_dashers",
+				"count": 1
+			}
+		},
+		{
+			"id": "69B33C307E714574",
+			"dependencies": [
+				"57105F97106B91C8"
+			],
+			"hide_dependency_lines": true,
+			"x": 4.35,
+			"y": 2.6,
+			"tasks": [
+				{
+					"id": "260F7EAF62CBEDA3",
+					"item": {
+						"id": "artifacts:bunny_hoppers",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "artifacts:bunny_hoppers",
+				"count": 1
+			}
+		},
+		{
+			"id": "2FA512634A6EA244",
+			"dependencies": [
+				"57105F97106B91C8"
+			],
+			"hide_dependency_lines": true,
+			"x": 5.8,
+			"y": 2.6,
+			"tasks": [
+				{
+					"id": "3223365298BA6226",
+					"item": {
+						"id": "artifacts:charm_of_shrinking",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "artifacts:charm_of_shrinking",
+				"count": 1
+			}
+		},
+		{
+			"id": "37AD13C99619838C",
+			"dependencies": [
+				"57105F97106B91C8"
+			],
+			"hide_dependency_lines": true,
+			"x": 7.25,
+			"y": 2.6,
+			"tasks": [
+				{
+					"id": "1A722F12BA599D36",
+					"item": {
+						"id": "artifacts:charm_of_sinking",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "artifacts:charm_of_sinking",
+				"count": 1
+			}
+		},
+		{
+			"id": "266FA6AF41CEAA8B",
+			"dependencies": [
+				"57105F97106B91C8"
+			],
+			"hide_dependency_lines": true,
+			"x": 8.7,
+			"y": 2.6,
+			"tasks": [
+				{
+					"id": "47CBD8F25A67CEFB",
+					"item": {
+						"id": "artifacts:chorus_totem",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "artifacts:chorus_totem",
+				"count": 1
+			}
+		},
+		{
+			"id": "3AE50904F62BECB2",
+			"dependencies": [
+				"57105F97106B91C8"
+			],
+			"hide_dependency_lines": true,
+			"x": 10.15,
+			"y": 2.6,
+			"tasks": [
+				{
+					"id": "35B0EFFA3548B7E7",
+					"item": {
+						"id": "artifacts:cloud_in_a_bottle",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "artifacts:cloud_in_a_bottle",
+				"count": 1
+			}
+		},
+		{
+			"id": "779188A29517F5AC",
+			"dependencies": [
+				"57105F97106B91C8"
+			],
+			"hide_dependency_lines": true,
+			"x": 11.6,
+			"y": 2.6,
+			"tasks": [
+				{
+					"id": "06F204BF15482286",
+					"item": {
+						"id": "artifacts:cowboy_hat",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "artifacts:cowboy_hat",
+				"count": 1
+			}
+		},
+		{
+			"id": "5FC9EE51C89825DF",
+			"dependencies": [
+				"57105F97106B91C8"
+			],
+			"hide_dependency_lines": true,
+			"x": 13.049999999999999,
+			"y": 2.6,
+			"tasks": [
+				{
+					"id": "0184D85BADE69DAE",
+					"item": {
+						"id": "artifacts:cross_necklace",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "artifacts:cross_necklace",
+				"count": 1
+			}
+		},
+		{
+			"id": "3A9E0B04D1241137",
+			"dependencies": [
+				"57105F97106B91C8"
+			],
+			"hide_dependency_lines": true,
+			"x": 0.0,
+			"y": 4.05,
+			"tasks": [
+				{
+					"id": "3447B08F94AD1900",
+					"item": {
+						"id": "artifacts:crystal_heart",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "artifacts:crystal_heart",
+				"count": 1
+			}
+		},
+		{
+			"id": "6A2F8EF969457622",
+			"dependencies": [
+				"57105F97106B91C8"
+			],
+			"hide_dependency_lines": true,
+			"x": 1.45,
+			"y": 4.05,
+			"tasks": [
+				{
+					"id": "54C2BB8CEB06DC1B",
+					"item": {
+						"id": "artifacts:digging_claws",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "artifacts:digging_claws",
+				"count": 1
+			}
+		},
+		{
+			"id": "22120CE7269B5F8C",
+			"dependencies": [
+				"57105F97106B91C8"
+			],
+			"hide_dependency_lines": true,
+			"x": 2.9,
+			"y": 4.05,
+			"tasks": [
+				{
+					"id": "12A1E82B0F976424",
+					"item": {
+						"id": "artifacts:eternal_steak",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "artifacts:eternal_steak",
+				"count": 1
+			}
+		},
+		{
+			"id": "17F995C07F1F503C",
+			"dependencies": [
+				"57105F97106B91C8"
+			],
+			"hide_dependency_lines": true,
+			"x": 4.35,
+			"y": 4.05,
+			"tasks": [
+				{
+					"id": "7C563831D3D0201F",
+					"item": {
+						"id": "artifacts:everlasting_beef",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "artifacts:everlasting_beef",
+				"count": 1
+			}
+		},
+		{
+			"id": "73E379704E34C785",
+			"dependencies": [
+				"57105F97106B91C8"
+			],
+			"hide_dependency_lines": true,
+			"x": 5.8,
+			"y": 4.05,
+			"tasks": [
+				{
+					"id": "4F463C2FAD95A34F",
+					"item": {
+						"id": "artifacts:feral_claws",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "artifacts:feral_claws",
+				"count": 1
+			}
+		},
+		{
+			"id": "270F79D220102E4F",
+			"dependencies": [
+				"57105F97106B91C8"
+			],
+			"hide_dependency_lines": true,
+			"x": 7.25,
+			"y": 4.05,
+			"tasks": [
+				{
+					"id": "50DD651A350319D9",
+					"item": {
+						"id": "artifacts:fire_gauntlet",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "artifacts:fire_gauntlet",
+				"count": 1
+			}
+		},
+		{
+			"id": "1FEEDB36B221E5AA",
+			"dependencies": [
+				"57105F97106B91C8"
+			],
+			"hide_dependency_lines": true,
+			"x": 8.7,
+			"y": 4.05,
+			"tasks": [
+				{
+					"id": "32C133BE25F45018",
+					"item": {
+						"id": "artifacts:flame_pendant",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "artifacts:flame_pendant",
+				"count": 1
+			}
+		},
+		{
+			"id": "5A64643CB92548AA",
+			"dependencies": [
+				"57105F97106B91C8"
+			],
+			"hide_dependency_lines": true,
+			"x": 10.15,
+			"y": 4.05,
+			"tasks": [
+				{
+					"id": "083C972A871A39AD",
+					"item": {
+						"id": "artifacts:flippers",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "artifacts:flippers",
+				"count": 1
+			}
+		},
+		{
+			"id": "49B4BEFDF043259E",
+			"dependencies": [
+				"57105F97106B91C8"
+			],
+			"hide_dependency_lines": true,
+			"x": 11.6,
+			"y": 4.05,
+			"tasks": [
+				{
+					"id": "023A17EDC534168D",
+					"item": {
+						"id": "artifacts:golden_hook",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "artifacts:golden_hook",
+				"count": 1
+			}
+		},
+		{
+			"id": "538535B0614D1FF8",
+			"dependencies": [
+				"57105F97106B91C8"
+			],
+			"hide_dependency_lines": true,
+			"x": 13.049999999999999,
+			"y": 4.05,
+			"tasks": [
+				{
+					"id": "08B93EE6472FB55C",
+					"item": {
+						"id": "artifacts:helium_flamingo",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "artifacts:helium_flamingo",
+				"count": 1
+			}
+		},
+		{
+			"id": "6B51D1EF4E2735BD",
+			"dependencies": [
+				"57105F97106B91C8"
+			],
+			"hide_dependency_lines": true,
+			"x": 0.0,
+			"y": 5.5,
+			"tasks": [
+				{
+					"id": "1CA77F5C0A615379",
+					"item": {
+						"id": "artifacts:kitty_slippers",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "artifacts:kitty_slippers",
+				"count": 1
+			}
+		},
+		{
+			"id": "42E1B274FEFCB190",
+			"dependencies": [
+				"57105F97106B91C8"
+			],
+			"hide_dependency_lines": true,
+			"x": 1.45,
+			"y": 5.5,
+			"tasks": [
+				{
+					"id": "714D3BAC81FFCFBD",
+					"item": {
+						"id": "artifacts:lucky_scarf",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "artifacts:lucky_scarf",
+				"count": 1
+			}
+		},
+		{
+			"id": "3D1D71A85707E7B1",
+			"dependencies": [
+				"57105F97106B91C8"
+			],
+			"hide_dependency_lines": true,
+			"x": 2.9,
+			"y": 5.5,
+			"tasks": [
+				{
+					"id": "164030BD63DA3408",
+					"item": {
+						"id": "artifacts:night_vision_goggles",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "artifacts:night_vision_goggles",
+				"count": 1
+			}
+		},
+		{
+			"id": "4D7AC8C1584BC2C7",
+			"dependencies": [
+				"57105F97106B91C8"
+			],
+			"hide_dependency_lines": true,
+			"x": 4.35,
+			"y": 5.5,
+			"tasks": [
+				{
+					"id": "0B9A480CEE3BB655",
+					"item": {
+						"id": "artifacts:novelty_drinking_hat",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "artifacts:novelty_drinking_hat",
+				"count": 1
+			}
+		},
+		{
+			"id": "332291AA8A56A07B",
+			"dependencies": [
+				"57105F97106B91C8"
+			],
+			"hide_dependency_lines": true,
+			"x": 5.8,
+			"y": 5.5,
+			"tasks": [
+				{
+					"id": "6CC68FEA9C83931E",
+					"item": {
+						"id": "artifacts:obsidian_skull",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "artifacts:obsidian_skull",
+				"count": 1
+			}
+		},
+		{
+			"id": "1025C3863A7A3BA5",
+			"dependencies": [
+				"57105F97106B91C8"
+			],
+			"hide_dependency_lines": true,
+			"x": 7.25,
+			"y": 5.5,
+			"tasks": [
+				{
+					"id": "6134185A6A3B49D4",
+					"item": {
+						"id": "artifacts:onion_ring",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "artifacts:onion_ring",
+				"count": 1
+			}
+		},
+		{
+			"id": "403B62D8C351EF1E",
+			"dependencies": [
+				"57105F97106B91C8"
+			],
+			"hide_dependency_lines": true,
+			"x": 8.7,
+			"y": 5.5,
+			"tasks": [
+				{
+					"id": "753938DBBE3AF905",
+					"item": {
+						"id": "artifacts:panic_necklace",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "artifacts:panic_necklace",
+				"count": 1
+			}
+		},
+		{
+			"id": "2BD02B1D753B16DD",
+			"dependencies": [
+				"57105F97106B91C8"
+			],
+			"hide_dependency_lines": true,
+			"x": 10.15,
+			"y": 5.5,
+			"tasks": [
+				{
+					"id": "5EF9043E4F2F951A",
+					"item": {
+						"id": "artifacts:pickaxe_heater",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "artifacts:pickaxe_heater",
+				"count": 1
+			}
+		},
+		{
+			"id": "24106FC92BB563C3",
+			"dependencies": [
+				"57105F97106B91C8"
+			],
+			"hide_dependency_lines": true,
+			"x": 11.6,
+			"y": 5.5,
+			"tasks": [
+				{
+					"id": "12EEEECA550AAAC7",
+					"item": {
+						"id": "artifacts:plastic_drinking_hat",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "artifacts:plastic_drinking_hat",
+				"count": 1
+			}
+		},
+		{
+			"id": "5373E37518122CBB",
+			"dependencies": [
+				"57105F97106B91C8"
+			],
+			"hide_dependency_lines": true,
+			"x": 13.049999999999999,
+			"y": 5.5,
+			"tasks": [
+				{
+					"id": "7568F3FCD0A8266C",
+					"item": {
+						"id": "artifacts:pocket_piston",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "artifacts:pocket_piston",
+				"count": 1
+			}
+		},
+		{
+			"id": "7B2521496CA7FDC2",
+			"dependencies": [
+				"57105F97106B91C8"
+			],
+			"hide_dependency_lines": true,
+			"x": 0.0,
+			"y": 6.949999999999999,
+			"tasks": [
+				{
+					"id": "01C0CF982AA8426E",
+					"item": {
+						"id": "artifacts:power_glove",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "artifacts:power_glove",
+				"count": 1
+			}
+		},
+		{
+			"id": "2CDE7717CDA841C8",
+			"dependencies": [
+				"57105F97106B91C8"
+			],
+			"hide_dependency_lines": true,
+			"x": 1.45,
+			"y": 6.949999999999999,
+			"tasks": [
+				{
+					"id": "25B581AB48845E6F",
+					"item": {
+						"id": "artifacts:rooted_boots",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "artifacts:rooted_boots",
+				"count": 1
+			}
+		},
+		{
+			"id": "55201E65884E9F37",
+			"dependencies": [
+				"57105F97106B91C8"
+			],
+			"hide_dependency_lines": true,
+			"x": 2.9,
+			"y": 6.949999999999999,
+			"tasks": [
+				{
+					"id": "748616FDC51C1661",
+					"item": {
+						"id": "artifacts:running_shoes",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "artifacts:running_shoes",
+				"count": 1
+			}
+		},
+		{
+			"id": "315C0198A0B36EC6",
+			"dependencies": [
+				"57105F97106B91C8"
+			],
+			"hide_dependency_lines": true,
+			"x": 4.35,
+			"y": 6.949999999999999,
+			"tasks": [
+				{
+					"id": "53896E87D32AE652",
+					"item": {
+						"id": "artifacts:scarf_of_invisibility",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "artifacts:scarf_of_invisibility",
+				"count": 1
+			}
+		},
+		{
+			"id": "6A80A04E9EF41217",
+			"dependencies": [
+				"57105F97106B91C8"
+			],
+			"hide_dependency_lines": true,
+			"x": 5.8,
+			"y": 6.949999999999999,
+			"tasks": [
+				{
+					"id": "53E7E8850962F471",
+					"item": {
+						"id": "artifacts:shock_pendant",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "artifacts:shock_pendant",
+				"count": 1
+			}
+		},
+		{
+			"id": "32A7117BB9F7D3DF",
+			"dependencies": [
+				"57105F97106B91C8"
+			],
+			"hide_dependency_lines": true,
+			"x": 7.25,
+			"y": 6.949999999999999,
+			"tasks": [
+				{
+					"id": "37C6DC96AEE2CEC9",
+					"item": {
+						"id": "artifacts:snorkel",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "artifacts:snorkel",
+				"count": 1
+			}
+		},
+		{
+			"id": "11BC17CE484B20C2",
+			"dependencies": [
+				"57105F97106B91C8"
+			],
+			"hide_dependency_lines": true,
+			"x": 8.7,
+			"y": 6.949999999999999,
+			"tasks": [
+				{
+					"id": "53A34ABBBDD74D79",
+					"item": {
+						"id": "artifacts:snowshoes",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "artifacts:snowshoes",
+				"count": 1
+			}
+		},
+		{
+			"id": "35E222CAF16E9046",
+			"dependencies": [
+				"57105F97106B91C8"
+			],
+			"hide_dependency_lines": true,
+			"x": 10.15,
+			"y": 6.949999999999999,
+			"tasks": [
+				{
+					"id": "7731D4BABB99FED1",
+					"item": {
+						"id": "artifacts:steadfast_spikes",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "artifacts:steadfast_spikes",
+				"count": 1
+			}
+		},
+		{
+			"id": "1C5CA18A685996DF",
+			"dependencies": [
+				"57105F97106B91C8"
+			],
+			"hide_dependency_lines": true,
+			"x": 11.6,
+			"y": 6.949999999999999,
+			"tasks": [
+				{
+					"id": "2184704A06BD1913",
+					"item": {
+						"id": "artifacts:strider_shoes",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "artifacts:strider_shoes",
+				"count": 1
+			}
+		},
+		{
+			"id": "70141B118F2B0857",
+			"dependencies": [
+				"57105F97106B91C8"
+			],
+			"hide_dependency_lines": true,
+			"x": 13.049999999999999,
+			"y": 6.949999999999999,
+			"tasks": [
+				{
+					"id": "023E51A8127425F8",
+					"item": {
+						"id": "artifacts:superstitious_hat",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "artifacts:superstitious_hat",
+				"count": 1
+			}
+		},
+		{
+			"id": "201A72BF41BE94B3",
+			"dependencies": [
+				"57105F97106B91C8"
+			],
+			"hide_dependency_lines": true,
+			"x": 0.0,
+			"y": 8.4,
+			"tasks": [
+				{
+					"id": "27F156662EC02213",
+					"item": {
+						"id": "artifacts:thorn_pendant",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "artifacts:thorn_pendant",
+				"count": 1
+			}
+		},
+		{
+			"id": "366F9734DB109413",
+			"dependencies": [
+				"57105F97106B91C8"
+			],
+			"hide_dependency_lines": true,
+			"x": 1.45,
+			"y": 8.4,
+			"tasks": [
+				{
+					"id": "67CD35176F82EC2F",
+					"item": {
+						"id": "artifacts:umbrella",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "artifacts:umbrella",
+				"count": 1
+			}
+		},
+		{
+			"id": "3783EF3A3CC1906E",
+			"dependencies": [
+				"57105F97106B91C8"
+			],
+			"hide_dependency_lines": true,
+			"x": 2.9,
+			"y": 8.4,
+			"tasks": [
+				{
+					"id": "0B5FD8BBFF291E65",
+					"item": {
+						"id": "artifacts:universal_attractor",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "artifacts:universal_attractor",
+				"count": 1
+			}
+		},
+		{
+			"id": "7C65487900509EF7",
+			"dependencies": [
+				"57105F97106B91C8"
+			],
+			"hide_dependency_lines": true,
+			"x": 4.35,
+			"y": 8.4,
+			"tasks": [
+				{
+					"id": "3E8DED0FA6E4A0D5",
+					"item": {
+						"id": "artifacts:vampiric_glove",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "artifacts:vampiric_glove",
+				"count": 1
+			}
+		},
+		{
+			"id": "0AAC88D7802E8BED",
+			"dependencies": [
+				"57105F97106B91C8"
+			],
+			"hide_dependency_lines": true,
+			"x": 5.8,
+			"y": 8.4,
+			"tasks": [
+				{
+					"id": "18AB585B04042B7F",
+					"item": {
+						"id": "artifacts:villager_hat",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "artifacts:villager_hat",
+				"count": 1
+			}
+		},
+		{
+			"id": "3B613BF0222F5A69",
+			"dependencies": [
+				"57105F97106B91C8"
+			],
+			"hide_dependency_lines": true,
+			"x": 7.25,
+			"y": 8.4,
+			"tasks": [
+				{
+					"id": "389AF15B26A39D1E",
+					"item": {
+						"id": "artifacts:warp_drive",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "artifacts:warp_drive",
+				"count": 1
+			}
+		},
+		{
+			"id": "2675CCE7A11E4DD7",
+			"dependencies": [
+				"57105F97106B91C8"
+			],
+			"hide_dependency_lines": true,
+			"x": 8.7,
+			"y": 8.4,
+			"tasks": [
+				{
+					"id": "192485139410A7D4",
+					"item": {
+						"id": "artifacts:whoopee_cushion",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "artifacts:whoopee_cushion",
+				"count": 1
+			}
+		},
+		{
+			"id": "3537AEE963F966AB",
+			"dependencies": [
+				"57105F97106B91C8"
+			],
+			"hide_dependency_lines": true,
+			"x": 10.15,
+			"y": 8.4,
+			"tasks": [
+				{
+					"id": "0E33AC98A90A6E65",
+					"item": {
+						"id": "artifacts:withered_bracelet",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "artifacts:withered_bracelet",
+				"count": 1
+			}
+		},
+		{
+			"id": "014374E860D3E466",
+			"dependencies": [
+				"57105F97106B91C8",
+				"51CC77588CD79506",
+				"3DBD24BF9E4FE6DB",
+				"43218487D07E77E4",
+				"69B33C307E714574",
+				"2FA512634A6EA244",
+				"37AD13C99619838C",
+				"266FA6AF41CEAA8B",
+				"3AE50904F62BECB2",
+				"779188A29517F5AC",
+				"5FC9EE51C89825DF",
+				"3A9E0B04D1241137",
+				"6A2F8EF969457622",
+				"22120CE7269B5F8C",
+				"17F995C07F1F503C",
+				"73E379704E34C785",
+				"270F79D220102E4F",
+				"1FEEDB36B221E5AA",
+				"5A64643CB92548AA",
+				"49B4BEFDF043259E",
+				"538535B0614D1FF8",
+				"6B51D1EF4E2735BD",
+				"42E1B274FEFCB190",
+				"3D1D71A85707E7B1",
+				"4D7AC8C1584BC2C7",
+				"332291AA8A56A07B",
+				"1025C3863A7A3BA5",
+				"403B62D8C351EF1E",
+				"2BD02B1D753B16DD",
+				"24106FC92BB563C3",
+				"5373E37518122CBB",
+				"7B2521496CA7FDC2",
+				"2CDE7717CDA841C8",
+				"55201E65884E9F37",
+				"315C0198A0B36EC6",
+				"6A80A04E9EF41217",
+				"32A7117BB9F7D3DF",
+				"11BC17CE484B20C2",
+				"35E222CAF16E9046",
+				"1C5CA18A685996DF",
+				"70141B118F2B0857",
+				"201A72BF41BE94B3",
+				"366F9734DB109413",
+				"3783EF3A3CC1906E",
+				"7C65487900509EF7",
+				"0AAC88D7802E8BED",
+				"3B613BF0222F5A69",
+				"2675CCE7A11E4DD7",
+				"3537AEE963F966AB"
+			],
+			"min_required_dependencies": 16,
+			"hide_dependency_lines": true,
+			"size": 1.25,
+			"x": 16.9,
+			"y": 2.6,
+			"tasks": [
+				{
+					"id": "40530B5D93081C22",
+					"type": "checkmark"
+				}
+			],
+			"rewards": [
+				{
+					"id": "67B4131B02078105",
+					"item": {
+						"id": "minecraft:trial_key",
+						"count": 1
+					},
+					"type": "item"
+				},
+				{
+					"id": "342BBCA505B8A91D",
+					"item": {
+						"id": "minecraft:disc_fragment_5",
+						"count": 1
+					},
+					"type": "item"
+				},
+				{
+					"id": "5098BA59869A3536",
+					"xp_levels": 3,
+					"type": "xp_levels"
+				}
+			],
+			"icon": {
+				"id": "minecraft:trial_key",
+				"count": 1
+			}
+		},
+		{
+			"id": "14745B889BD150C8",
+			"dependencies": [
+				"57105F97106B91C8",
+				"51CC77588CD79506",
+				"3DBD24BF9E4FE6DB",
+				"43218487D07E77E4",
+				"69B33C307E714574",
+				"2FA512634A6EA244",
+				"37AD13C99619838C",
+				"266FA6AF41CEAA8B",
+				"3AE50904F62BECB2",
+				"779188A29517F5AC",
+				"5FC9EE51C89825DF",
+				"3A9E0B04D1241137",
+				"6A2F8EF969457622",
+				"22120CE7269B5F8C",
+				"17F995C07F1F503C",
+				"73E379704E34C785",
+				"270F79D220102E4F",
+				"1FEEDB36B221E5AA",
+				"5A64643CB92548AA",
+				"49B4BEFDF043259E",
+				"538535B0614D1FF8",
+				"6B51D1EF4E2735BD",
+				"42E1B274FEFCB190",
+				"3D1D71A85707E7B1",
+				"4D7AC8C1584BC2C7",
+				"332291AA8A56A07B",
+				"1025C3863A7A3BA5",
+				"403B62D8C351EF1E",
+				"2BD02B1D753B16DD",
+				"24106FC92BB563C3",
+				"5373E37518122CBB",
+				"7B2521496CA7FDC2",
+				"2CDE7717CDA841C8",
+				"55201E65884E9F37",
+				"315C0198A0B36EC6",
+				"6A80A04E9EF41217",
+				"32A7117BB9F7D3DF",
+				"11BC17CE484B20C2",
+				"35E222CAF16E9046",
+				"1C5CA18A685996DF",
+				"70141B118F2B0857",
+				"201A72BF41BE94B3",
+				"366F9734DB109413",
+				"3783EF3A3CC1906E",
+				"7C65487900509EF7",
+				"0AAC88D7802E8BED",
+				"3B613BF0222F5A69",
+				"2675CCE7A11E4DD7",
+				"3537AEE963F966AB"
+			],
+			"min_required_dependencies": 30,
+			"hide_dependency_lines": true,
+			"size": 1.25,
+			"x": 16.9,
+			"y": 4.5,
+			"tasks": [
+				{
+					"id": "4B8250609DC15B19",
+					"type": "checkmark"
+				}
+			],
+			"rewards": [
+				{
+					"id": "629E914385BB7CDB",
+					"item": {
+						"id": "minecraft:ominous_trial_key",
+						"count": 1
+					},
+					"type": "item"
+				},
+				{
+					"id": "06BAD9CB2BD41049",
+					"item": {
+						"id": "minecraft:music_disc_pigstep",
+						"count": 1
+					},
+					"type": "item"
+				},
+				{
+					"id": "0F9E24A97A2DB360",
+					"xp_levels": 6,
+					"type": "xp_levels"
+				}
+			],
+			"icon": {
+				"id": "minecraft:ominous_trial_key",
+				"count": 1
+			}
+		},
+		{
+			"id": "5F67E8A0766EB9C8",
+			"dependencies": [
+				"57105F97106B91C8",
+				"51CC77588CD79506",
+				"3DBD24BF9E4FE6DB",
+				"43218487D07E77E4",
+				"69B33C307E714574",
+				"2FA512634A6EA244",
+				"37AD13C99619838C",
+				"266FA6AF41CEAA8B",
+				"3AE50904F62BECB2",
+				"779188A29517F5AC",
+				"5FC9EE51C89825DF",
+				"3A9E0B04D1241137",
+				"6A2F8EF969457622",
+				"22120CE7269B5F8C",
+				"17F995C07F1F503C",
+				"73E379704E34C785",
+				"270F79D220102E4F",
+				"1FEEDB36B221E5AA",
+				"5A64643CB92548AA",
+				"49B4BEFDF043259E",
+				"538535B0614D1FF8",
+				"6B51D1EF4E2735BD",
+				"42E1B274FEFCB190",
+				"3D1D71A85707E7B1",
+				"4D7AC8C1584BC2C7",
+				"332291AA8A56A07B",
+				"1025C3863A7A3BA5",
+				"403B62D8C351EF1E",
+				"2BD02B1D753B16DD",
+				"24106FC92BB563C3",
+				"5373E37518122CBB",
+				"7B2521496CA7FDC2",
+				"2CDE7717CDA841C8",
+				"55201E65884E9F37",
+				"315C0198A0B36EC6",
+				"6A80A04E9EF41217",
+				"32A7117BB9F7D3DF",
+				"11BC17CE484B20C2",
+				"35E222CAF16E9046",
+				"1C5CA18A685996DF",
+				"70141B118F2B0857",
+				"201A72BF41BE94B3",
+				"366F9734DB109413",
+				"3783EF3A3CC1906E",
+				"7C65487900509EF7",
+				"0AAC88D7802E8BED",
+				"3B613BF0222F5A69",
+				"2675CCE7A11E4DD7",
+				"3537AEE963F966AB"
+			],
+			"min_required_dependencies": 45,
+			"hide_dependency_lines": true,
+			"size": 1.25,
+			"x": 16.9,
+			"y": 6.4,
+			"tasks": [
+				{
+					"id": "15743B112F146FC8",
+					"type": "checkmark"
+				}
+			],
+			"rewards": [
+				{
+					"id": "4E04AE4E8F24067A",
+					"item": {
+						"id": "minecraft:flow_armor_trim_smithing_template",
+						"count": 1
+					},
+					"type": "item"
+				},
+				{
+					"id": "2C66DDD42C22BACB",
+					"item": {
+						"id": "minecraft:music_disc_otherside",
+						"count": 1
+					},
+					"type": "item"
+				},
+				{
+					"id": "2FFD1485D3C82B83",
+					"xp_levels": 10,
+					"type": "xp_levels"
+				}
+			],
+			"icon": {
+				"id": "minecraft:flow_armor_trim_smithing_template",
+				"count": 1
+			}
+		},
+		{
+			"id": "79820E97DD40439D",
+			"dependencies": [
+				"57105F97106B91C8",
+				"51CC77588CD79506",
+				"3DBD24BF9E4FE6DB",
+				"43218487D07E77E4",
+				"69B33C307E714574",
+				"2FA512634A6EA244",
+				"37AD13C99619838C",
+				"266FA6AF41CEAA8B",
+				"3AE50904F62BECB2",
+				"779188A29517F5AC",
+				"5FC9EE51C89825DF",
+				"3A9E0B04D1241137",
+				"6A2F8EF969457622",
+				"22120CE7269B5F8C",
+				"17F995C07F1F503C",
+				"73E379704E34C785",
+				"270F79D220102E4F",
+				"1FEEDB36B221E5AA",
+				"5A64643CB92548AA",
+				"49B4BEFDF043259E",
+				"538535B0614D1FF8",
+				"6B51D1EF4E2735BD",
+				"42E1B274FEFCB190",
+				"3D1D71A85707E7B1",
+				"4D7AC8C1584BC2C7",
+				"332291AA8A56A07B",
+				"1025C3863A7A3BA5",
+				"403B62D8C351EF1E",
+				"2BD02B1D753B16DD",
+				"24106FC92BB563C3",
+				"5373E37518122CBB",
+				"7B2521496CA7FDC2",
+				"2CDE7717CDA841C8",
+				"55201E65884E9F37",
+				"315C0198A0B36EC6",
+				"6A80A04E9EF41217",
+				"32A7117BB9F7D3DF",
+				"11BC17CE484B20C2",
+				"35E222CAF16E9046",
+				"1C5CA18A685996DF",
+				"70141B118F2B0857",
+				"201A72BF41BE94B3",
+				"366F9734DB109413",
+				"3783EF3A3CC1906E",
+				"7C65487900509EF7",
+				"0AAC88D7802E8BED",
+				"3B613BF0222F5A69",
+				"2675CCE7A11E4DD7",
+				"3537AEE963F966AB"
+			],
+			"hide_dependency_lines": true,
+			"shape": "gear",
+			"size": 1.5,
+			"x": 16.9,
+			"y": 8.299999999999999,
+			"tasks": [
+				{
+					"id": "424BB07615FCFB41",
+					"type": "checkmark"
+				}
+			],
+			"rewards": [
+				{
+					"id": "61476B66BA4F74CA",
+					"item": {
+						"id": "minecraft:heavy_core",
+						"count": 1
+					},
+					"type": "item"
+				},
+				{
+					"id": "5996E35A74924C93",
+					"item": {
+						"id": "minecraft:dragon_head",
+						"count": 1
+					},
+					"type": "item"
+				},
+				{
+					"id": "5D90377D02C6E01F",
+					"xp_levels": 16,
+					"type": "xp_levels"
+				}
+			],
+			"icon": {
+				"id": "minecraft:heavy_core",
+				"count": 1
+			}
+		}
+	]
+}

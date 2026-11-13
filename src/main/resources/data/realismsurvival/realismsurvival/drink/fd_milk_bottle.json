@@ -1,0 +1,14 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "farmersdelight"
+    }
+  ],
+  "items": [
+    "farmersdelight:milk_bottle"
+  ],
+  "thirst_restore": 10.0,
+  "temperature_delta": -0.15,
+  "priority": 5
+}

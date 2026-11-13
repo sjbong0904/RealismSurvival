@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:glass_bottle",
+    "#c:foods/berry",
+    "minecraft:spider_eye"
+  ],
+  "result": {
+    "id": "rsmedicine:eye_drops",
+    "count": 2
+  }
+}

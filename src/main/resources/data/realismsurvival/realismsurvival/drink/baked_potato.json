@@ -1,0 +1,6 @@
+{
+  "items": "minecraft:baked_potato",
+  "thirst_restore": -2.0,
+  "temperature_delta": 0.2,
+  "priority": 0
+}

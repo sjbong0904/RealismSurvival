@@ -1,0 +1,21 @@
+---
+description: Never use @OnlyIn — NeoForge 26.1 warns and no longer strips members
+globs: "**/*.java"
+alwaysApply: false
+---
+
+# No `@OnlyIn` (NeoForge 26.1)
+
+Do **not** add `@OnlyIn`, `@OnlyIns`, or `import net.neoforged.api.distmarker.OnlyIn` anywhere in this mod.
+
+NeoForge 26.1 no longer strips `@OnlyIn` members at runtime. Any use triggers a load warning:
+
+> The mod realismsurvival uses the @OnlyIn annotation; the runtime member-stripping behaviour of this annotation is no longer present…
+
+## Instead
+
+- Put client-only code under `com.example.realismsurvival.client`
+- Register / reference it only from `RealismSurvivalClient` (`@Mod(..., dist = Dist.CLIENT)`) or `@EventBusSubscriber(..., value = Dist.CLIENT)`
+- Do not copy `@OnlyIn` from vanilla sources (e.g. `ClientTooltipComponent`, `ClientBundleTooltip`)
+
+See `REALISM_SURVIVAL_SPEC.md` §10.1.

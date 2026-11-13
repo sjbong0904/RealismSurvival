@@ -1,0 +1,191 @@
+[
+{
+"k": "text.entityculling.title",
+"en": "EntityCulling",
+"jko": null,
+"ov": "EntityCulling",
+"src": null
+},
+{
+"k": "key.category.minecraft.text.entityculling.title",
+"en": "EntityCulling",
+"jko": null,
+"ov": "EntityCulling",
+"src": null
+},
+{
+"k": "key.entityculling.toggle",
+"en": "Debug toggle culling",
+"jko": null,
+"ov": "컬링 디버그 토글",
+"src": null
+},
+{
+"k": "key.entityculling.toggleBoxes",
+"en": "Show culling boxes",
+"jko": null,
+"ov": "컬링 박스 표시",
+"src": null
+},
+{
+"k": "text.entityculling.tab.general_options",
+"en": "General",
+"jko": null,
+"ov": "일반",
+"src": null
+},
+{
+"k": "text.entityculling.tab.tick_culling",
+"en": "Skip Tick Culling",
+"jko": null,
+"ov": "틱 컬링 건너뛰기",
+"src": null
+},
+{
+"k": "text.entityculling.tab.tick_culling.tooltip",
+"en": "Entities selected in this tab will not have their tick method optimized when culled. This can be useful for entities that need to tick for certain functionality, such as Boats.",
+"jko": null,
+"ov": "이 탭에서 선택한 개체는 컬링될 때 tick 메서드가 최적화되지 않습니다. 보트처럼 틱이 필요한 개체에 유용합니다.",
+"src": null
+},
+{
+"k": "text.entityculling.tab.entity_culling",
+"en": "Skip Entities",
+"jko": null,
+"ov": "개체 건너뛰기",
+"src": null
+},
+{
+"k": "text.entityculling.tab.entity_culling.tooltip",
+"en": "Entities selected in this tab will not be culled at all. This is mainly needed for client-side entities or entities that need to be rendered regardless of their visibility.",
+"jko": null,
+"ov": "이 탭에서 선택한 개체는 컬링되지 않습니다. 주로 클라이언트 전용 개체이거나 보이지 않아도 렌더링해야 하는 개체에 필요합니다.",
+"src": null
+},
+{
+"k": "text.entityculling.tab.block_entity_culling",
+"en": "Skip Blockent.",
+"jko": null,
+"ov": "블록 개체 건너뛰기",
+"src": null
+},
+{
+"k": "text.entityculling.tab.block_entity_culling.tooltip",
+"en": "Block entities selected in this tab will not be culled at all. This is mainly needed for block entities that need to be rendered regardless of their visibility.",
+"jko": null,
+"ov": "이 탭에서 선택한 블록 개체는 컬링되지 않습니다. 보이지 않아도 렌더링해야 하는 블록 개체에 주로 필요합니다.",
+"src": null
+},
+{
+"k": "text.entityculling.renderNametagsThroughWalls",
+"en": "Render nametags through walls",
+"jko": null,
+"ov": "벽 너머 이름표 렌더링",
+"src": null
+},
+{
+"k": "text.entityculling.renderNametagsThroughWalls.tooltip",
+"en": "When turned off, culled entities will not have their nametags rendered through walls.",
+"jko": null,
+"ov": "끄면 컬링된 개체의 이름표가 벽 너머로 렌더링되지 않습니다.",
+"src": null
+},
+{
+"k": "text.entityculling.tickCulling",
+"en": "Tick culling",
+"jko": null,
+"ov": "틱 컬링",
+"src": null
+},
+{
+"k": "text.entityculling.tickCulling.tooltip",
+"en": "When turned on, entities that are culled will not tick. This can improve performance in some cases, but may cause issues with certain mods. Consider the finer control options in the other tab.",
+"jko": null,
+"ov": "켜면 컬링된 개체는 틱하지 않습니다. 성능이 좋아질 수 있지만 일부 모드와 충돌할 수 있습니다. 다른 탭의 세부 옵션도 참고하세요.",
+"src": null
+},
+{
+"k": "text.entityculling.disableF3",
+"en": "Disable F3 debug info",
+"jko": null,
+"ov": "F3 디버그 정보 끄기",
+"src": null
+},
+{
+"k": "text.entityculling.disableF3.tooltip",
+"en": "When turned on, the F3 debug info will not show culling information.",
+"jko": null,
+"ov": "켜면 F3 디버그 화면에 컬링 정보가 표시되지 않습니다.",
+"src": null
+},
+{
+"k": "text.entityculling.skipEntityCulling",
+"en": "Skip entity culling",
+"jko": null,
+"ov": "개체 컬링 건너뛰기",
+"src": null
+},
+{
+"k": "text.entityculling.skipEntityCulling.tooltip",
+"en": "When turned on, culling of entities will be skipped entirely. This can be useful for debugging or when you want to disable culling temporarily.",
+"jko": null,
+"ov": "켜면 개체 컬링을 완전히 건너뜁니다. 디버깅이나 일시적으로 컬링을 끌 때 유용합니다.",
+"src": null
+},
+{
+"k": "text.entityculling.skipBlockEntityCulling",
+"en": "Skip block entity culling",
+"jko": null,
+"ov": "블록 개체 컬링 건너뛰기",
+"src": null
+},
+{
+"k": "text.entityculling.skipBlockEntityCulling.tooltip",
+"en": "When turned on, culling of block entities will be skipped entirely. This can be useful for debugging or when you want to disable culling temporarily.",
+"jko": null,
+"ov": "켜면 블록 개체 컬링을 완전히 건너뜁니다. 디버깅이나 일시적으로 컬링을 끌 때 유용합니다.",
+"src": null
+},
+{
+"k": "text.entityculling.blockEntityFrustumCulling",
+"en": "Block entity frustum culling",
+"jko": null,
+"ov": "블록 개체 절두체 컬링",
+"src": null
+},
+{
+"k": "text.entityculling.blockEntityFrustumCulling.tooltip",
+"en": "When turned on, block entity state extraction will be culled based on the camera's view frustum. This can improve performance in case your modloader/another mod doesn't do this already.",
+"jko": null,
+"ov": "켜면 카메라 시야 절두체 기준으로 블록 개체 상태 추출을 컬링합니다. 모드로더나 다른 모드가 이미 하지 않을 때 성능에 도움이 됩니다.",
+"src": null
+},
+{
+"k": "text.entityculling.forceDisplayCulling",
+"en": "Force display culling",
+"jko": null,
+"ov": "디스플레이 컬링 강제",
+"src": null
+},
+{
+"k": "text.entityculling.forceDisplayCulling.tooltip",
+"en": "When turned on, display entities without a bounding box will get assigned a default bounding box for culling purposes. This can improve performance for maps/servers that do not configure their display entities correctly, but can cause visual issues.",
+"jko": null,
+"ov": "켜면 경계 상자 없는 디스플레이 개체에 컬링용 기본 경계 상자를 부여합니다. 설정이 잘못된 맵/서버에서 성능이 좋아질 수 있지만 시각적 문제가 생길 수 있습니다.",
+"src": null
+},
+{
+"k": "text.entityculling.solidLeaves",
+"en": "Solid leaves",
+"jko": null,
+"ov": "잎을 고체로 처리",
+"src": null
+},
+{
+"k": "text.entityculling.solidLeaves.tooltip",
+"en": "When turned on, leaves will be treated as solid for culling purposes. This can improve performance in forests, but also cause visual issues. Useful when setting 'See-Through Leaves' to Off, or using a bushy leaves resource pack.",
+"jko": null,
+"ov": "켜면 컬링 시 잎을 고체 블록처럼 취급합니다. 숲에서 성능이 좋아질 수 있지만 시각적 문제가 생길 수 있습니다. '잎 투과 보기'를 끄거나 울창한 잎 리소스 팩을 쓸 때 유용합니다.",
+"src": null
+}
+]

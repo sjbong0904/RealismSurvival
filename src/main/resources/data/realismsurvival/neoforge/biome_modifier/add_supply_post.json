@@ -1,0 +1,6 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "#realismsurvival:has_supply_post",
+  "features": "realismsurvival:supply_post",
+  "step": "surface_structures"
+}

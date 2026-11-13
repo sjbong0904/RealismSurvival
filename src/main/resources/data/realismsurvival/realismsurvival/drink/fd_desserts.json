@@ -1,0 +1,19 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "farmersdelight"
+    }
+  ],
+  "items": [
+    "farmersdelight:apple_pie",
+    "farmersdelight:apple_pie_slice",
+    "farmersdelight:chocolate_pie",
+    "farmersdelight:chocolate_pie_slice",
+    "farmersdelight:cake_slice",
+    "farmersdelight:pumpkin_pie_slice"
+  ],
+  "thirst_restore": -2.0,
+  "temperature_delta": 0.1,
+  "priority": 5
+}

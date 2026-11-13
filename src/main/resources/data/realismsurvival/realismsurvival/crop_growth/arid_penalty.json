@@ -1,0 +1,11 @@
+{
+  "biomes": {
+    "type": "neoforge:or",
+    "values": [
+      ["minecraft:desert"],
+      "#minecraft:is_badlands"
+    ]
+  },
+  "growth_multiplier": 0.5,
+  "priority": 10
+}

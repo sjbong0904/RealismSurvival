@@ -1,0 +1,16 @@
+[
+{
+"k": "commands.terrablender.biomeparams.success",
+"en": "Parameters at position %s %s %s: %s",
+"jko": null,
+"ov": "좌표 %s %s %s의 매개변수: %s",
+"src": "위치 %s %s %s의 매개변수: %s"
+},
+{
+"k": "commands.terrablender.biomeparams.failed",
+"en": "Could not determine parameters",
+"jko": null,
+"ov": "매개변수를 확인할 수 없습니다",
+"src": "매개변수를 확인할 수 없습니다"
+}
+]

@@ -1,0 +1,17 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "fishofthieves"
+    }
+  ],
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "fishofthieves:stormfish",
+    "#c:dusts/salt"
+  ],
+  "result": {
+    "id": "fishofthieves:cooked_stormfish"
+  }
+}

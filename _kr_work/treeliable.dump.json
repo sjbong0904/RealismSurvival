@@ -1,0 +1,737 @@
+[
+{
+"k": "treeliable.codec.bad_value",
+"en": "SOMETHING WENT WRONG",
+"jko": null,
+"ov": "오류가 발생했습니다",
+"src": "문제가 발생했습니다"
+},
+{
+"k": "treeliable.key.cycle_sneak_behavior",
+"en": "Cycle Sneak Behavior",
+"jko": null,
+"ov": "웅크리기 동작 순환",
+"src": "웅크리기 동작 순환"
+},
+{
+"k": "treeliable.key.toggle_chopping",
+"en": "Toggle Chopping",
+"jko": null,
+"ov": "벌목 토글",
+"src": "벌목 토글"
+},
+{
+"k": "treeliable.key.toggle_felling",
+"en": "Toggle Felling",
+"jko": null,
+"ov": "쓰러뜨리기 토글",
+"src": "쓰러뜨리기 토글"
+},
+{
+"k": "treeliable.sneak_behavior.invert_chopping",
+"en": "INVERT CHOPPING",
+"jko": null,
+"ov": "벌목 반전",
+"src": "벌목 반전"
+},
+{
+"k": "treeliable.sneak_behavior.invert_felling",
+"en": "INVERT FELLING",
+"jko": null,
+"ov": "쓰러뜨리기 반전",
+"src": "쓰러뜨리기 반전"
+},
+{
+"k": "treeliable.sneak_behavior.none",
+"en": "NONE",
+"jko": null,
+"ov": "없음",
+"src": "없음"
+},
+{
+"k": "treeliable.config.title",
+"en": "Treeliable Config",
+"jko": null,
+"ov": "Treeliable 설정",
+"src": "Treeliable 설정"
+},
+{
+"k": "treeliable.config.category.general",
+"en": "General",
+"jko": null,
+"ov": "일반",
+"src": "일반"
+},
+{
+"k": "treeliable.config.category.limits",
+"en": "Limits & Strategy",
+"jko": null,
+"ov": "한도 및 전략",
+"src": "한도 및 전략"
+},
+{
+"k": "treeliable.config.category.algorithm",
+"en": "Algorithm",
+"jko": null,
+"ov": "알고리즘",
+"src": "알고리즘"
+},
+{
+"k": "treeliable.config.category.visuals",
+"en": "Visuals",
+"jko": null,
+"ov": "시각",
+"src": "시각 효과"
+},
+{
+"k": "treeliable.config.category.compat",
+"en": "Compatibility",
+"jko": null,
+"ov": "호환",
+"src": "호환성"
+},
+{
+"k": "treeliable.config.category.lists",
+"en": "Lists & Blocks",
+"jko": null,
+"ov": "목록 및 블록",
+"src": "목록 및 블록"
+},
+{
+"k": "treeliable.config.enabled",
+"en": "Mod Enabled",
+"jko": null,
+"ov": "모드 사용",
+"src": "모드 사용"
+},
+{
+"k": "treeliable.config.enabled.tooltip",
+"en": "Master switch to enable or disable the entire mod.",
+"jko": null,
+"ov": "모드 전체를 켜거나 끄는 마스터 스위치입니다.",
+"src": "모드 전체를 켜거나 끄는 마스터 스위치입니다."
+},
+{
+"k": "treeliable.config.chopping_enabled",
+"en": "Chopping Enabled",
+"jko": null,
+"ov": "벌목 사용",
+"src": "벌목 사용"
+},
+{
+"k": "treeliable.config.chopping_enabled.tooltip",
+"en": "Toggles chopping behavior by default. Can be toggled in-game.",
+"jko": null,
+"ov": "기본 벌목 동작을 켜거나 끕니다. 게임 중 토글할 수 있습니다.",
+"src": "기본 벌목 동작을 켜거나 끕니다. 게임 내에서 토글할 수 있습니다."
+},
+{
+"k": "treeliable.config.sneak_behavior",
+"en": "Sneak Behavior",
+"jko": null,
+"ov": "웅크리기 동작",
+"src": "웅크리기 동작"
+},
+{
+"k": "treeliable.config.sneak_behavior.tooltip",
+"en": "Defines what happens to chopping when the player is sneaking.",
+"jko": null,
+"ov": "플레이어가 웅크릴 때 벌목에 어떤 일이 일어나는지 정의합니다.",
+"src": "플레이어가 웅크릴 때 벌목에 어떤 일이 일어나는지 정의합니다."
+},
+{
+"k": "treeliable.config.chop_in_creative_mode",
+"en": "Chop in Creative Mode",
+"jko": null,
+"ov": "크리에이티브에서 벌목",
+"src": "크리에이티브에서 벌목"
+},
+{
+"k": "treeliable.config.chop_in_creative_mode.tooltip",
+"en": "If enabled, trees can be chopped down while in creative mode.",
+"jko": null,
+"ov": "켜면 크리에이티브 모드에서도 나무를 벌목할 수 있습니다.",
+"src": "사용 시 크리에이티브 모드에서도 나무를 벌목할 수 있습니다."
+},
+{
+"k": "treeliable.config.hytale_like_felling",
+"en": "Hytale-like Felling",
+"jko": null,
+"ov": "Hytale식 쓰러뜨리기",
+"src": "Hytale식 쓰러뜨리기"
+},
+{
+"k": "treeliable.config.hytale_like_felling.tooltip",
+"en": "When enabled, you must break a whole layer of a tree block-by-block before the rest of the tree above it will fall. (Recommended for large 2x2 or modded trees)",
+"jko": null,
+"ov": "켜면 나무 한 층 전체를 블록마다 부수어야 위쪽 나무가 쓰러집니다. (큰 2×2·모드 나무에 권장)",
+"src": "사용 시 나무 한 층을 블록 단위로 모두 부숴야 그 위 나머지가 쓰러집니다. (큰 2x2 또는 모드 나무에 권장)"
+},
+{
+"k": "treeliable.config.drop_loot_for_chopped_blocks",
+"en": "Drop Loot for Chopped Blocks",
+"jko": null,
+"ov": "벌목 블록 전리품 드롭",
+"src": "벌목 블록 전리품 드롭"
+},
+{
+"k": "treeliable.config.drop_loot_for_chopped_blocks.tooltip",
+"en": "If enabled, each chopped block in the tree drops its appropriate item.",
+"jko": null,
+"ov": "켜면 벌목된 각 블록이 해당 아이템을 드롭합니다.",
+"src": "사용 시 나무의 각 벌목 블록이 해당 아이템을 드롭합니다."
+},
+{
+"k": "treeliable.config.must_use_correct_tool_for_drops",
+"en": "Must Use Correct Tool for Drops",
+"jko": null,
+"ov": "전리품에 올바른 도구 필요",
+"src": "전리품에 올바른 도구 필요"
+},
+{
+"k": "treeliable.config.must_use_correct_tool_for_drops.tooltip",
+"en": "If true, you must use the correct tool (e.g. an axe) to get drops from the tree.",
+"jko": null,
+"ov": "켜면 전리품을 받으려면 올바른 도구(예: 도끼)를 사용해야 합니다.",
+"src": "참이면 나무에서 전리품을 받으려면 올바른 도구(예: 도끼)를 사용해야 합니다."
+},
+{
+"k": "treeliable.config.must_use_fast_breaking_tool",
+"en": "Must Use Fast Breaking Tool",
+"jko": null,
+"ov": "빠른 채굴 도구 필요",
+"src": "빠른 채굴 도구 필요"
+},
+{
+"k": "treeliable.config.must_use_fast_breaking_tool.tooltip",
+"en": "If true, you must use a fast-breaking tool (like an axe) or the mod will essentially do nothing.",
+"jko": null,
+"ov": "켜면 빠르게 부수는 도구(도끼 등)를 써야 하며, 아니면 모드가 거의 동작하지 않습니다.",
+"src": "참이면 빠르게 부수는 도구(도끼 등)를 사용해야 하며, 그렇지 않으면 모드가 거의 동작하지 않습니다."
+},
+{
+"k": "treeliable.config.prevent_chopping_on_right_click",
+"en": "Prevent Chopping on Right Click",
+"jko": null,
+"ov": "우클릭 시 벌목 방지",
+"src": "우클릭 시 벌목 방지"
+},
+{
+"k": "treeliable.config.prevent_chopping_on_right_click.tooltip",
+"en": "Prevents chopping functionality from activating when right-clicking.",
+"jko": null,
+"ov": "우클릭할 때 벌목 기능이 켜지지 않도록 합니다.",
+"src": "우클릭할 때 벌목 기능이 활성화되지 않도록 합니다."
+},
+{
+"k": "treeliable.config.prevent_chop_recursion",
+"en": "Prevent Chop Recursion",
+"jko": null,
+"ov": "벌목 재귀 방지",
+"src": "벌목 재귀 방지"
+},
+{
+"k": "treeliable.config.prevent_chop_recursion.tooltip",
+"en": "Prevents recursive loop crashes if another mod tries to break blocks when chopping.",
+"jko": null,
+"ov": "벌목 시 다른 모드가 블록을 부수며 생기는 재귀 루프 크래시를 방지합니다.",
+"src": "다른 모드가 벌목 시 블록을 부수려 할 때 재귀 루프 크래시를 방지합니다."
+},
+{
+"k": "treeliable.config.trees_must_have_leaves",
+"en": "Trees Must Have Leaves",
+"jko": null,
+"ov": "나무에 잎 필요",
+"src": "나무에 잎 필요"
+},
+{
+"k": "treeliable.config.trees_must_have_leaves.tooltip",
+"en": "If true, logs without connected leaves won't be considered a valid tree.",
+"jko": null,
+"ov": "켜면 잎과 연결되지 않은 원목은 유효한 나무로 보지 않습니다.",
+"src": "참이면 연결된 잎이 없는 원목은 유효한 나무로 간주되지 않습니다."
+},
+{
+"k": "treeliable.config.max_tree_blocks",
+"en": "Max Tree Blocks",
+"jko": null,
+"ov": "최대 나무 블록",
+"src": "최대 나무 블록"
+},
+{
+"k": "treeliable.config.max_tree_blocks.tooltip",
+"en": "Maximum number of logs in a tree before the mod stops counting.",
+"jko": null,
+"ov": "모드가 세기를 멈추기 전 나무 원목 블록 최대 개수입니다.",
+"src": "모드가 세기를 멈추기 전 나무의 최대 원목 수입니다."
+},
+{
+"k": "treeliable.config.max_leaves_blocks",
+"en": "Max Leaves Blocks",
+"jko": null,
+"ov": "최대 잎 블록",
+"src": "최대 잎 블록"
+},
+{
+"k": "treeliable.config.max_leaves_blocks.tooltip",
+"en": "Maximum number of leaf blocks to process.",
+"jko": null,
+"ov": "처리할 잎 블록 최대 개수입니다.",
+"src": "처리할 최대 잎 블록 수입니다."
+},
+{
+"k": "treeliable.config.max_break_leaves_distance",
+"en": "Max Break Leaves Distance",
+"jko": null,
+"ov": "잎 파괴 최대 거리",
+"src": "잎 파괴 최대 거리"
+},
+{
+"k": "treeliable.config.max_break_leaves_distance.tooltip",
+"en": "Maximum shortest-path distance from logs to break connected leaves.",
+"jko": null,
+"ov": "원목에서 연결된 잎을 부술 수 있는 최단 경로 최대 거리입니다.",
+"src": "원목에서 연결된 잎을 부술 수 있는 최단 경로 최대 거리입니다."
+},
+{
+"k": "treeliable.config.ignore_persistent_leaves",
+"en": "Ignore Persistent Leaves",
+"jko": null,
+"ov": "영구 잎 무시",
+"src": "고정 잎 무시"
+},
+{
+"k": "treeliable.config.ignore_persistent_leaves.tooltip",
+"en": "If true, ignores player-placed (persistent) leaves.",
+"jko": null,
+"ov": "켜면 플레이어가 설치한(영구) 잎을 무시합니다.",
+"src": "참이면 플레이어가 설치한(고정) 잎을 무시합니다."
+},
+{
+"k": "treeliable.config.fell_leaves_strategy",
+"en": "Fell Leaves Strategy",
+"jko": null,
+"ov": "잎 쓰러뜨리기 전략",
+"src": "쓰러뜨릴 때 잎 전략"
+},
+{
+"k": "treeliable.config.fell_leaves_strategy.tooltip",
+"en": "How to handle leaves when felling a tree (e.g., ignore, break, decay).",
+"jko": null,
+"ov": "나무를 쓰러뜨릴 때 잎 처리 방식(무시, 파괴, decay 등)입니다.",
+"src": "나무를 쓰러뜨릴 때 잎을 처리하는 방법(무시, 파괴, decay 등)입니다."
+},
+{
+"k": "treeliable.config.fell_credit_strategy",
+"en": "Fell Credit Strategy",
+"jko": null,
+"ov": "쓰러뜨리기 기여 전략",
+"src": "쓰러뜨리기 기여 전략"
+},
+{
+"k": "treeliable.config.fell_credit_strategy.tooltip",
+"en": "Who gets credit for felling the tree (determines statistics and proper tool usage).",
+"jko": null,
+"ov": "누가 나무를 쓰러뜨린 것으로 인정할지(통계·올바른 도구 사용에 영향)입니다.",
+"src": "나무 쓰러뜨리기 공로를 누가 받는지(통계 및 올바른 도구 사용) 결정합니다."
+},
+{
+"k": "treeliable.config.damage_tool_per_log",
+"en": "Damage Tool Per Log",
+"jko": null,
+"ov": "원목당 도구 내구도",
+"src": "원목당 도구 내구도 소모"
+},
+{
+"k": "treeliable.config.damage_tool_per_log.tooltip",
+"en": "If enabled, the tool will take 1 durability damage for every log in the tree that is felled. The felling process will stop if the tool breaks.",
+"jko": null,
+"ov": "켜면 쓰러뜨린 원목마다 도구 내구도 1을 소모합니다. 도구가 부서지면 쓰러뜨리기가 멈춥니다.",
+"src": "사용 시 쓰러뜨린 나무의 원목마다 도구 내구도가 1 감소합니다. 도구가 부서지면 쓰러뜨리기가 중단됩니다."
+},
+{
+"k": "treeliable.config.exhaustion_per_log",
+"en": "Exhaustion Per Log",
+"jko": null,
+"ov": "원목당 배고픔 소모",
+"src": "원목당 배고픔 소모"
+},
+{
+"k": "treeliable.config.exhaustion_per_log.tooltip",
+"en": "If enabled, the player will gain a small amount of hunger exhaustion for every log in the tree that is felled.",
+"jko": null,
+"ov": "켜면 쓰러뜨린 원목마다 소량의 배고픔 소모가 추가됩니다.",
+"src": "사용 시 쓰러뜨린 나무의 원목마다 소량의 배고픔 소모가 추가됩니다."
+},
+{
+"k": "treeliable.config.log_drop_chance",
+"en": "Log Drop Chance",
+"jko": null,
+"ov": "원목 드롭 확률",
+"src": "원목 드롭 확률"
+},
+{
+"k": "treeliable.config.log_drop_chance.tooltip",
+"en": "The chance (0.0 to 1.0) that each felled log will drop an item. For example, 0.5 means roughly 50% of the tree's logs will drop as items.",
+"jko": null,
+"ov": "쓰러뜨린 원목마다 아이템이 드롭될 확률(0.0~1.0)입니다. 예: 0.5는 대략 50%만 드롭.",
+"src": "쓰러뜨린 각 원목이 아이템으로 드롭될 확률(0.0~1.0)입니다. 예: 0.5는 대략 50%의 원목만 아이템으로 드롭됩니다."
+},
+{
+"k": "treeliable.config.chop_counting_algorithm",
+"en": "Chop Counting Algorithm",
+"jko": null,
+"ov": "벌목 횟수 알고리즘",
+"src": "벌목 횟수 알고리즘"
+},
+{
+"k": "treeliable.config.chop_counting_algorithm.tooltip",
+"en": "Algorithm used to calculate how many chops are needed based on tree size.",
+"jko": null,
+"ov": "나무 크기에 따라 필요한 벌목 횟수를 계산하는 알고리즘입니다.",
+"src": "나무 크기에 따라 필요한 벌목 횟수를 계산하는 알고리즘입니다."
+},
+{
+"k": "treeliable.config.chop_count_rounding",
+"en": "Chop Count Rounding",
+"jko": null,
+"ov": "벌목 횟수 반올림",
+"src": "벌목 횟수 반올림"
+},
+{
+"k": "treeliable.config.chop_count_rounding.tooltip",
+"en": "How to round the calculated chop count to a whole number.",
+"jko": null,
+"ov": "계산된 벌목 횟수를 정수로 반올림하는 방법입니다.",
+"src": "계산된 벌목 횟수를 정수로 반올림하는 방법입니다."
+},
+{
+"k": "treeliable.config.can_require_more_chops_than_blocks",
+"en": "Can Require More Chops Than Blocks",
+"jko": null,
+"ov": "블록 수보다 많은 벌목 허용",
+"src": "블록 수보다 많은 벌목 필요 가능"
+},
+{
+"k": "treeliable.config.can_require_more_chops_than_blocks.tooltip",
+"en": "If true, huge trees can require more individual chops than they have logs.",
+"jko": null,
+"ov": "켜면 거대한 나무가 원목 수보다 더 많은 벌목을 요구할 수 있습니다.",
+"src": "참이면 거대한 나무가 원목 수보다 더 많은 벌목을 요구할 수 있습니다."
+},
+{
+"k": "treeliable.config.logarithmic_a",
+"en": "Logarithmic A Factor",
+"jko": null,
+"ov": "로그 A 계수",
+"src": "로그 A 계수"
+},
+{
+"k": "treeliable.config.logarithmic_a.tooltip",
+"en": "The 'A' factor parameter for the logarithmic algorithm.",
+"jko": null,
+"ov": "로그 알고리즘의 'A' 매개변수입니다.",
+"src": "로그 알고리즘의 'A' 계수 매개변수입니다."
+},
+{
+"k": "treeliable.config.linear_m",
+"en": "Linear M Factor",
+"jko": null,
+"ov": "선형 M 계수",
+"src": "선형 M 계수"
+},
+{
+"k": "treeliable.config.linear_m.tooltip",
+"en": "The multiplier (M) for the linear algorithm.",
+"jko": null,
+"ov": "선형 알고리즘의 승수(M)입니다.",
+"src": "선형 알고리즘의 곱셈 계수(M)입니다."
+},
+{
+"k": "treeliable.config.linear_b",
+"en": "Linear B Factor",
+"jko": null,
+"ov": "선형 B 계수",
+"src": "선형 B 계수"
+},
+{
+"k": "treeliable.config.linear_b.tooltip",
+"en": "The base additive (B) for the linear algorithm.",
+"jko": null,
+"ov": "선형 알고리즘의 기본 가산(B)입니다.",
+"src": "선형 알고리즘의 기본 가산(B)입니다."
+},
+{
+"k": "treeliable.config.show_chopping_indicator",
+"en": "Show Chopping Indicator",
+"jko": null,
+"ov": "벌목 표시기 표시",
+"src": "벌목 표시기 표시"
+},
+{
+"k": "treeliable.config.show_chopping_indicator.tooltip",
+"en": "Displays a small icon next to your crosshair when looking at a choppable tree.",
+"jko": null,
+"ov": "벌목 가능한 나무를 볼 때 조준점 옆에 작은 아이콘을 표시합니다.",
+"src": "벌목 가능한 나무를 볼 때 조준점 옆에 작은 아이콘을 표시합니다."
+},
+{
+"k": "treeliable.config.chopping_indicator_x_offset",
+"en": "Indicator X Offset",
+"jko": null,
+"ov": "표시기 X 오프셋",
+"src": "표시기 X 오프셋"
+},
+{
+"k": "treeliable.config.chopping_indicator_x_offset.tooltip",
+"en": "The horizontal distance (in pixels) from the center of the crosshair to the chopping indicator.",
+"jko": null,
+"ov": "조준점 중심에서 벌목 표시기까지 가로 거리(픽셀)입니다.",
+"src": "조준점 중심에서 벌목 표시기까지의 수평 거리(픽셀)입니다."
+},
+{
+"k": "treeliable.config.chopping_indicator_y_offset",
+"en": "Indicator Y Offset",
+"jko": null,
+"ov": "표시기 Y 오프셋",
+"src": "표시기 Y 오프셋"
+},
+{
+"k": "treeliable.config.chopping_indicator_y_offset.tooltip",
+"en": "The vertical distance (in pixels) from the center of the crosshair to the chopping indicator.",
+"jko": null,
+"ov": "조준점 중심에서 벌목 표시기까지 세로 거리(픽셀)입니다.",
+"src": "조준점 중심에서 벌목 표시기까지의 수직 거리(픽셀)입니다."
+},
+{
+"k": "treeliable.config.delay_felling_layers",
+"en": "Delay Felling Layers",
+"jko": null,
+"ov": "층별 쓰러뜨리기 지연",
+"src": "쓰러뜨리기 층 지연"
+},
+{
+"k": "treeliable.config.delay_felling_layers.tooltip",
+"en": "When enabled, the tree will break layer-by-layer starting from the bottom with a delay between each vertical level.",
+"jko": null,
+"ov": "켜면 나무가 아래층부터 층마다 지연을 두고 부서집니다.",
+"src": "사용 시 나무가 아래층부터 층별로 부서지며 각 수직 단계 사이에 지연이 있습니다."
+},
+{
+"k": "treeliable.config.felling_layer_delay_ticks",
+"en": "Felling Layer Delay (Ticks)",
+"jko": null,
+"ov": "층 지연(틱)",
+"src": "쓰러뜨리기 층 지연(틱)"
+},
+{
+"k": "treeliable.config.felling_layer_delay_ticks.tooltip",
+"en": "The amount of time (in game ticks) to wait between breaking each horizontal layer of the tree. 20 ticks = 1 second.",
+"jko": null,
+"ov": "각 수평 층 사이 대기 시간(게임 틱)입니다. 20틱 = 1초.",
+"src": "나무의 각 수평 층을 부수는 사이에 기다리는 시간(게임 틱)입니다. 20틱 = 1초."
+},
+{
+"k": "treeliable.config.exponential_felling_speedup",
+"en": "Exponential Felling Speedup",
+"jko": null,
+"ov": "지수적 쓰러뜨리기 가속",
+"src": "지수적 쓰러뜨리기 가속"
+},
+{
+"k": "treeliable.config.exponential_felling_speedup.tooltip",
+"en": "If true, felling layers start at the initial delay ticks but exponentially speed up as they reach the top of the tree.",
+"jko": null,
+"ov": "켜면 층이 위로 갈수록 지연 시간이 지수적으로 줄어듭니다.",
+"src": "참이면 쓰러뜨리기 층이 초기 지연 틱으로 시작해 나무 꼭대기에 가까워질수록 지수적으로 빨라집니다."
+},
+{
+"k": "treeliable.config.show_feedback_messages",
+"en": "Show Feedback Messages",
+"jko": null,
+"ov": "피드백 메시지 표시",
+"src": "피드백 메시지 표시"
+},
+{
+"k": "treeliable.config.show_feedback_messages.tooltip",
+"en": "Show chat messages when toggling in-game settings.",
+"jko": null,
+"ov": "게임 내 설정을 토글할 때 채팅 메시지를 표시합니다.",
+"src": "게임 내 설정을 토글할 때 채팅 메시지를 표시합니다."
+},
+{
+"k": "treeliable.config.verbose_api",
+"en": "Verbose API Logging",
+"jko": null,
+"ov": "상세 API 로그",
+"src": "상세 API 로깅"
+},
+{
+"k": "treeliable.config.verbose_api.tooltip",
+"en": "Enable detailed API and debugging logging in the console.",
+"jko": null,
+"ov": "콘솔에 API·디버그 상세 로그를 출력합니다.",
+"src": "콘솔에 상세 API 및 디버그 로깅을 사용합니다."
+},
+{
+"k": "treeliable.config.suppress_vanilla_leaf_sounds_on_fell",
+"en": "Suppress Vanilla Leaf Breaking Sounds",
+"jko": null,
+"ov": "바닐라 잎 부수는 소리 억제",
+"src": "바닐라 잎 부수기 소리 억제"
+},
+{
+"k": "treeliable.config.suppress_vanilla_leaf_sounds_on_fell.tooltip",
+"en": "If enabled, leaves won't play a sound when a tree is felled.",
+"jko": null,
+"ov": "켜면 나무가 쓰러질 때 잎 소리가 나지 않습니다.",
+"src": "사용 시 나무를 쓰러뜨릴 때 잎 소리가 나지 않습니다."
+},
+{
+"k": "treeliable.config.compat_for_apotheosis",
+"en": "Compat for Apotheosis",
+"jko": null,
+"ov": "Apotheosis 호환",
+"src": "Apotheosis 호환"
+},
+{
+"k": "treeliable.config.compat_for_apotheosis.tooltip",
+"en": "Enable compatibility logic for Apotheosis.",
+"jko": null,
+"ov": "Apotheosis 호환 로직을 사용합니다.",
+"src": "Apotheosis용 호환 로직을 사용합니다."
+},
+{
+"k": "treeliable.config.compat_for_silentgear",
+"en": "Compat for Silent Gear",
+"jko": null,
+"ov": "Silent Gear 호환",
+"src": "Silent Gear 호환"
+},
+{
+"k": "treeliable.config.compat_for_silentgear.tooltip",
+"en": "Enable compatibility logic for Silent Gear.",
+"jko": null,
+"ov": "Silent Gear 호환 로직을 사용합니다.",
+"src": "Silent Gear용 호환 로직을 사용합니다."
+},
+{
+"k": "treeliable.config.silentgear_saw_chops",
+"en": "Silent Gear Saw Chops",
+"jko": null,
+"ov": "Silent Gear 톱 벌목 횟수",
+"src": "Silent Gear 톱 벌목 횟수"
+},
+{
+"k": "treeliable.config.silentgear_saw_chops.tooltip",
+"en": "Number of chops provided in a single swing by a Silent Gear saw.",
+"jko": null,
+"ov": "Silent Gear 톱 한 번 휘두를 때 제공되는 벌목 횟수입니다.",
+"src": "Silent Gear 톱 한 번 휘두를 때 제공되는 벌목 횟수입니다."
+},
+{
+"k": "treeliable.config.items_filter_type",
+"en": "Items Filter Type",
+"jko": null,
+"ov": "아이템 필터 유형",
+"src": "아이템 필터 유형"
+},
+{
+"k": "treeliable.config.items_filter_type.tooltip",
+"en": "Whether the items list functions as a whitelist or blacklist.",
+"jko": null,
+"ov": "아이템 목록이 화이트리스트인지 블랙리스트인지입니다.",
+"src": "아이템 목록이 허용 목록인지 차단 목록인지 여부입니다."
+},
+{
+"k": "treeliable.config.choppable_blocks",
+"en": "Choppable Blocks",
+"jko": null,
+"ov": "벌목 가능 블록",
+"src": "벌목 가능 블록"
+},
+{
+"k": "treeliable.config.choppable_blocks.tooltip",
+"en": "List of block tags or IDs that can be chopped.",
+"jko": null,
+"ov": "벌목할 수 있는 블록 태그 또는 ID 목록입니다.",
+"src": "벌목할 수 있는 블록 태그 또는 ID 목록입니다."
+},
+{
+"k": "treeliable.config.choppable_blocks_exceptions",
+"en": "Choppable Blocks Exceptions",
+"jko": null,
+"ov": "벌목 예외 블록",
+"src": "벌목 가능 블록 예외"
+},
+{
+"k": "treeliable.config.choppable_blocks_exceptions.tooltip",
+"en": "List of block tags or IDs to explicitly exclude from chopping.",
+"jko": null,
+"ov": "벌목에서 명시적으로 제외할 블록 태그 또는 ID입니다.",
+"src": "벌목에서 명시적으로 제외할 블록 태그 또는 ID 목록입니다."
+},
+{
+"k": "treeliable.config.leaves_blocks",
+"en": "Leaves Blocks",
+"jko": null,
+"ov": "잎 블록",
+"src": "잎 블록"
+},
+{
+"k": "treeliable.config.leaves_blocks.tooltip",
+"en": "List of block tags or IDs to be considered as leaves.",
+"jko": null,
+"ov": "잎으로 간주할 블록 태그 또는 ID 목록입니다.",
+"src": "잎으로 간주할 블록 태그 또는 ID 목록입니다."
+},
+{
+"k": "treeliable.config.leaves_blocks_exceptions",
+"en": "Leaves Blocks Exceptions",
+"jko": null,
+"ov": "잎 예외 블록",
+"src": "잎 블록 예외"
+},
+{
+"k": "treeliable.config.leaves_blocks_exceptions.tooltip",
+"en": "List of block tags or IDs to explicitly exclude from being leaves.",
+"jko": null,
+"ov": "잎에서 명시적으로 제외할 블록 태그 또는 ID입니다.",
+"src": "잎으로 간주하지 않을 블록 태그 또는 ID 목록입니다."
+},
+{
+"k": "treeliable.config.chopping_items",
+"en": "Chopping Items",
+"jko": null,
+"ov": "벌목 아이템",
+"src": "벌목 아이템"
+},
+{
+"k": "treeliable.config.chopping_items.tooltip",
+"en": "List of specific item IDs affected by the filter type.",
+"jko": null,
+"ov": "필터 유형의 영향을 받는 특정 아이템 ID 목록입니다.",
+"src": "필터 유형의 영향을 받는 특정 아이템 ID 목록입니다."
+},
+{
+"k": "key.category.treeliable.keys",
+"en": "Treeliable",
+"jko": null,
+"ov": "Treeliable",
+"src": "Treeliable"
+},
+{
+"k": "key.treeliable.toggle_chopping",
+"en": "Toggle Chopping",
+"jko": null,
+"ov": "벌목 토글",
+"src": "벌목 토글"
+},
+{
+"k": "key.treeliable.cycle_sneak_behavior",
+"en": "Cycle Sneak Behavior",
+"jko": null,
+"ov": "웅크리기 동작 순환",
+"src": "웅크리기 동작 순환"
+}
+]

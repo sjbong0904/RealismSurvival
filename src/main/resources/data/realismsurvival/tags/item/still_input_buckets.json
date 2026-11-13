@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "realismsurvival:fresh_water_bucket",
+    "realismsurvival:salt_water_bucket",
+    "realismsurvival:stagnant_water_bucket",
+    "realismsurvival:distilled_ice_bucket",
+    "realismsurvival:fresh_ice_bucket",
+    "realismsurvival:stagnant_ice_bucket",
+    "realismsurvival:snow_bucket",
+    "minecraft:powder_snow_bucket"
+  ]
+}

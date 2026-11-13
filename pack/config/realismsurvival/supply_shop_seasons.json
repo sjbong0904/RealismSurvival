@@ -1,0 +1,2029 @@
+{
+  "currency": "coins",
+  "displayNameBySeason": {
+    "spring": "계절 공급소 · 봄",
+    "summer": "계절 공급소 · 여름",
+    "autumn": "계절 공급소 · 가을",
+    "winter": "계절 공급소 · 겨울"
+  },
+  "always": {
+    "buy": [],
+    "sell": []
+  },
+  "seasons": {
+    "spring": {
+      "buy": [],
+      "sell": []
+    },
+    "summer": {
+      "buy": [],
+      "sell": []
+    },
+    "autumn": {
+      "buy": [],
+      "sell": []
+    },
+    "winter": {
+      "buy": [],
+      "sell": []
+    }
+  },
+  "climates": {
+    "temperate": {
+      "seasons": {
+        "spring": {
+          "buy": [
+            {
+              "item": "minecraft:torch",
+              "count": 16,
+              "price": 20,
+              "playerLimit": 4
+            },
+            {
+              "item": "minecraft:bread",
+              "count": 4,
+              "price": 32,
+              "playerLimit": 2
+            },
+            {
+              "item": "minecraft:coal",
+              "count": 8,
+              "price": 48,
+              "playerLimit": 3
+            },
+            {
+              "item": "realismsurvival:salt",
+              "count": 4,
+              "price": 100,
+              "playerLimit": 3
+            },
+            {
+              "item": "realismsurvival:filter_cartridge",
+              "count": 1,
+              "price": 160,
+              "playerLimit": 2
+            },
+            {
+              "item": "realismsurvival:fresh_water_bottle",
+              "count": 1,
+              "price": 50,
+              "playerLimit": 2
+            },
+            {
+              "item": "realismsurvival:distilled_water_bottle",
+              "count": 1,
+              "price": 460,
+              "playerLimit": 1
+            },
+            {
+              "item": "minecraft:wheat_seeds",
+              "count": 16,
+              "price": 24,
+              "playerLimit": 6
+            },
+            {
+              "item": "minecraft:beetroot_seeds",
+              "count": 16,
+              "price": 24,
+              "playerLimit": 6
+            },
+            {
+              "item": "minecraft:bone_meal",
+              "count": 8,
+              "price": 40,
+              "playerLimit": 4
+            },
+            {
+              "item": "farmersdelight:cabbage_seeds",
+              "count": 8,
+              "price": 56,
+              "playerLimit": 4
+            },
+            {
+              "item": "farmersdelight:onion",
+              "count": 8,
+              "price": 64,
+              "playerLimit": 4
+            }
+          ],
+          "sell": [
+            {
+              "item": "minecraft:rotten_flesh",
+              "count": 16,
+              "price": 10,
+              "playerLimit": 6
+            },
+            {
+              "item": "minecraft:bone",
+              "count": 8,
+              "price": 28,
+              "playerLimit": 8
+            },
+            {
+              "item": "minecraft:string",
+              "count": 8,
+              "price": 24,
+              "playerLimit": 6
+            },
+            {
+              "item": "realismsurvival:salt",
+              "count": 8,
+              "price": 16,
+              "playerLimit": 4
+            },
+            {
+              "item": "minecraft:beetroot",
+              "count": 16,
+              "price": 32,
+              "playerLimit": 8
+            },
+            {
+              "item": "minecraft:wheat",
+              "count": 16,
+              "price": 40,
+              "playerLimit": 8
+            },
+            {
+              "item": "farmersdelight:cabbage",
+              "count": 8,
+              "price": 44,
+              "playerLimit": 6
+            },
+            {
+              "item": "farmersdelight:onion",
+              "count": 16,
+              "price": 48,
+              "playerLimit": 6
+            },
+            {
+              "item": "minecraft:leather",
+              "count": 4,
+              "price": 64,
+              "playerLimit": 4
+            }
+          ]
+        },
+        "summer": {
+          "buy": [
+            {
+              "item": "minecraft:torch",
+              "count": 16,
+              "price": 16,
+              "playerLimit": 4
+            },
+            {
+              "item": "minecraft:bread",
+              "count": 4,
+              "price": 28,
+              "playerLimit": 2
+            },
+            {
+              "item": "minecraft:coal",
+              "count": 8,
+              "price": 40,
+              "playerLimit": 3
+            },
+            {
+              "item": "realismsurvival:salt",
+              "count": 4,
+              "price": 110,
+              "playerLimit": 3
+            },
+            {
+              "item": "realismsurvival:filter_cartridge",
+              "count": 1,
+              "price": 190,
+              "playerLimit": 2
+            },
+            {
+              "item": "realismsurvival:fresh_water_bottle",
+              "count": 1,
+              "price": 72,
+              "playerLimit": 2
+            },
+            {
+              "item": "realismsurvival:distilled_water_bottle",
+              "count": 1,
+              "price": 540,
+              "playerLimit": 1
+            },
+            {
+              "item": "minecraft:melon_seeds",
+              "count": 8,
+              "price": 24,
+              "playerLimit": 4
+            },
+            {
+              "item": "minecraft:pumpkin_seeds",
+              "count": 8,
+              "price": 24,
+              "playerLimit": 4
+            },
+            {
+              "item": "farmersdelight:tomato_seeds",
+              "count": 8,
+              "price": 64,
+              "playerLimit": 4
+            },
+            {
+              "item": "farmersdelight:rice",
+              "count": 8,
+              "price": 72,
+              "playerLimit": 4
+            },
+            {
+              "item": "minecraft:ice",
+              "count": 8,
+              "price": 100,
+              "playerLimit": 3
+            },
+            {
+              "item": "minecraft:cooked_beef",
+              "count": 4,
+              "price": 800,
+              "playerLimit": 1
+            }
+          ],
+          "sell": [
+            {
+              "item": "minecraft:rotten_flesh",
+              "count": 16,
+              "price": 8,
+              "playerLimit": 6
+            },
+            {
+              "item": "minecraft:bone",
+              "count": 8,
+              "price": 16,
+              "playerLimit": 8
+            },
+            {
+              "item": "minecraft:string",
+              "count": 8,
+              "price": 20,
+              "playerLimit": 6
+            },
+            {
+              "item": "realismsurvival:salt",
+              "count": 8,
+              "price": 20,
+              "playerLimit": 4
+            },
+            {
+              "item": "minecraft:melon_slice",
+              "count": 16,
+              "price": 24,
+              "playerLimit": 8
+            },
+            {
+              "item": "minecraft:carrot",
+              "count": 16,
+              "price": 40,
+              "playerLimit": 8
+            },
+            {
+              "item": "minecraft:potato",
+              "count": 16,
+              "price": 40,
+              "playerLimit": 8
+            },
+            {
+              "item": "minecraft:sweet_berries",
+              "count": 16,
+              "price": 32,
+              "playerLimit": 6
+            },
+            {
+              "item": "farmersdelight:tomato",
+              "count": 8,
+              "price": 40,
+              "playerLimit": 6
+            },
+            {
+              "item": "farmersdelight:rice",
+              "count": 16,
+              "price": 56,
+              "playerLimit": 6
+            },
+            {
+              "item": "minecraft:leather",
+              "count": 4,
+              "price": 96,
+              "playerLimit": 4
+            }
+          ]
+        },
+        "autumn": {
+          "buy": [
+            {
+              "item": "minecraft:torch",
+              "count": 16,
+              "price": 24,
+              "playerLimit": 4
+            },
+            {
+              "item": "minecraft:bread",
+              "count": 4,
+              "price": 24,
+              "playerLimit": 2
+            },
+            {
+              "item": "minecraft:coal",
+              "count": 8,
+              "price": 64,
+              "playerLimit": 3
+            },
+            {
+              "item": "realismsurvival:salt",
+              "count": 4,
+              "price": 130,
+              "playerLimit": 3
+            },
+            {
+              "item": "realismsurvival:filter_cartridge",
+              "count": 1,
+              "price": 170,
+              "playerLimit": 2
+            },
+            {
+              "item": "realismsurvival:fresh_water_bottle",
+              "count": 1,
+              "price": 56,
+              "playerLimit": 2
+            },
+            {
+              "item": "realismsurvival:distilled_water_bottle",
+              "count": 1,
+              "price": 480,
+              "playerLimit": 1
+            },
+            {
+              "item": "minecraft:wheat_seeds",
+              "count": 16,
+              "price": 16,
+              "playerLimit": 4
+            },
+            {
+              "item": "minecraft:pumpkin_seeds",
+              "count": 8,
+              "price": 20,
+              "playerLimit": 4
+            },
+            {
+              "item": "minecraft:apple",
+              "count": 8,
+              "price": 120,
+              "playerLimit": 4
+            },
+            {
+              "item": "minecraft:hay_block",
+              "count": 4,
+              "price": 140,
+              "playerLimit": 3
+            },
+            {
+              "item": "minecraft:pumpkin_pie",
+              "count": 2,
+              "price": 240,
+              "playerLimit": 2
+            },
+            {
+              "item": "minecraft:leather",
+              "count": 4,
+              "price": 2200,
+              "playerLimit": 1
+            }
+          ],
+          "sell": [
+            {
+              "item": "minecraft:rotten_flesh",
+              "count": 16,
+              "price": 10,
+              "playerLimit": 6
+            },
+            {
+              "item": "minecraft:bone",
+              "count": 8,
+              "price": 16,
+              "playerLimit": 8
+            },
+            {
+              "item": "minecraft:string",
+              "count": 8,
+              "price": 28,
+              "playerLimit": 6
+            },
+            {
+              "item": "realismsurvival:salt",
+              "count": 8,
+              "price": 24,
+              "playerLimit": 4
+            },
+            {
+              "item": "minecraft:beetroot",
+              "count": 16,
+              "price": 40,
+              "playerLimit": 6
+            },
+            {
+              "item": "minecraft:sweet_berries",
+              "count": 16,
+              "price": 36,
+              "playerLimit": 6
+            },
+            {
+              "item": "minecraft:carrot",
+              "count": 16,
+              "price": 28,
+              "playerLimit": 6
+            },
+            {
+              "item": "minecraft:potato",
+              "count": 16,
+              "price": 28,
+              "playerLimit": 6
+            },
+            {
+              "item": "farmersdelight:cabbage",
+              "count": 8,
+              "price": 36,
+              "playerLimit": 6
+            },
+            {
+              "item": "minecraft:pumpkin",
+              "count": 4,
+              "price": 64,
+              "playerLimit": 6
+            }
+          ]
+        },
+        "winter": {
+          "buy": [
+            {
+              "item": "minecraft:torch",
+              "count": 16,
+              "price": 36,
+              "playerLimit": 4
+            },
+            {
+              "item": "minecraft:bread",
+              "count": 4,
+              "price": 56,
+              "playerLimit": 2
+            },
+            {
+              "item": "minecraft:coal",
+              "count": 8,
+              "price": 104,
+              "playerLimit": 3
+            },
+            {
+              "item": "realismsurvival:salt",
+              "count": 4,
+              "price": 150,
+              "playerLimit": 3
+            },
+            {
+              "item": "realismsurvival:filter_cartridge",
+              "count": 1,
+              "price": 150,
+              "playerLimit": 2
+            },
+            {
+              "item": "realismsurvival:fresh_water_bottle",
+              "count": 1,
+              "price": 40,
+              "playerLimit": 2
+            },
+            {
+              "item": "realismsurvival:distilled_water_bottle",
+              "count": 1,
+              "price": 440,
+              "playerLimit": 1
+            },
+            {
+              "item": "minecraft:charcoal",
+              "count": 8,
+              "price": 104,
+              "playerLimit": 3
+            },
+            {
+              "item": "minecraft:baked_potato",
+              "count": 8,
+              "price": 140,
+              "playerLimit": 3
+            },
+            {
+              "item": "minecraft:white_wool",
+              "count": 8,
+              "price": 180,
+              "playerLimit": 3
+            },
+            {
+              "item": "minecraft:campfire",
+              "count": 1,
+              "price": 360,
+              "playerLimit": 1
+            },
+            {
+              "item": "minecraft:rabbit_stew",
+              "count": 1,
+              "price": 800,
+              "playerLimit": 1
+            },
+            {
+              "item": "minecraft:leather",
+              "count": 4,
+              "price": 2400,
+              "playerLimit": 1
+            }
+          ],
+          "sell": [
+            {
+              "item": "minecraft:rotten_flesh",
+              "count": 16,
+              "price": 14,
+              "playerLimit": 6
+            },
+            {
+              "item": "minecraft:bone",
+              "count": 8,
+              "price": 12,
+              "playerLimit": 8
+            },
+            {
+              "item": "minecraft:string",
+              "count": 8,
+              "price": 36,
+              "playerLimit": 6
+            },
+            {
+              "item": "realismsurvival:salt",
+              "count": 8,
+              "price": 28,
+              "playerLimit": 4
+            },
+            {
+              "item": "minecraft:rabbit_hide",
+              "count": 8,
+              "price": 40,
+              "playerLimit": 6
+            },
+            {
+              "item": "minecraft:cod",
+              "count": 8,
+              "price": 48,
+              "playerLimit": 6
+            },
+            {
+              "item": "minecraft:salmon",
+              "count": 8,
+              "price": 72,
+              "playerLimit": 6
+            }
+          ]
+        }
+      }
+    },
+    "arid": {
+      "seasons": {
+        "spring": {
+          "buy": [
+            {
+              "item": "minecraft:torch",
+              "count": 16,
+              "price": 24,
+              "playerLimit": 4
+            },
+            {
+              "item": "minecraft:bread",
+              "count": 4,
+              "price": 48,
+              "playerLimit": 2
+            },
+            {
+              "item": "minecraft:coal",
+              "count": 8,
+              "price": 56,
+              "playerLimit": 3
+            },
+            {
+              "item": "realismsurvival:salt",
+              "count": 4,
+              "price": 160,
+              "playerLimit": 3
+            },
+            {
+              "item": "realismsurvival:filter_cartridge",
+              "count": 1,
+              "price": 220,
+              "playerLimit": 2
+            },
+            {
+              "item": "realismsurvival:fresh_water_bottle",
+              "count": 1,
+              "price": 130,
+              "playerLimit": 2
+            },
+            {
+              "item": "realismsurvival:distilled_water_bottle",
+              "count": 1,
+              "price": 700,
+              "playerLimit": 1
+            },
+            {
+              "item": "minecraft:beetroot_seeds",
+              "count": 16,
+              "price": 36,
+              "playerLimit": 4
+            },
+            {
+              "item": "minecraft:bone_meal",
+              "count": 8,
+              "price": 56,
+              "playerLimit": 4
+            },
+            {
+              "item": "minecraft:cactus",
+              "count": 8,
+              "price": 40,
+              "playerLimit": 4
+            }
+          ],
+          "sell": [
+            {
+              "item": "minecraft:rotten_flesh",
+              "count": 16,
+              "price": 8,
+              "playerLimit": 6
+            },
+            {
+              "item": "minecraft:bone",
+              "count": 8,
+              "price": 20,
+              "playerLimit": 8
+            },
+            {
+              "item": "minecraft:string",
+              "count": 8,
+              "price": 20,
+              "playerLimit": 6
+            },
+            {
+              "item": "realismsurvival:salt",
+              "count": 8,
+              "price": 32,
+              "playerLimit": 4
+            },
+            {
+              "item": "minecraft:beetroot",
+              "count": 16,
+              "price": 36,
+              "playerLimit": 6
+            },
+            {
+              "item": "minecraft:cactus",
+              "count": 8,
+              "price": 20,
+              "playerLimit": 6
+            },
+            {
+              "item": "minecraft:leather",
+              "count": 4,
+              "price": 100,
+              "playerLimit": 4
+            }
+          ]
+        },
+        "summer": {
+          "buy": [
+            {
+              "item": "minecraft:torch",
+              "count": 16,
+              "price": 20,
+              "playerLimit": 4
+            },
+            {
+              "item": "minecraft:bread",
+              "count": 4,
+              "price": 72,
+              "playerLimit": 2
+            },
+            {
+              "item": "minecraft:coal",
+              "count": 8,
+              "price": 36,
+              "playerLimit": 3
+            },
+            {
+              "item": "realismsurvival:salt",
+              "count": 4,
+              "price": 200,
+              "playerLimit": 3
+            },
+            {
+              "item": "realismsurvival:filter_cartridge",
+              "count": 1,
+              "price": 300,
+              "playerLimit": 2
+            },
+            {
+              "item": "realismsurvival:fresh_water_bottle",
+              "count": 1,
+              "price": 220,
+              "playerLimit": 2
+            },
+            {
+              "item": "realismsurvival:distilled_water_bottle",
+              "count": 1,
+              "price": 880,
+              "playerLimit": 1
+            },
+            {
+              "item": "minecraft:ice",
+              "count": 4,
+              "price": 280,
+              "playerLimit": 2
+            },
+            {
+              "item": "minecraft:melon_seeds",
+              "count": 8,
+              "price": 44,
+              "playerLimit": 3
+            },
+            {
+              "item": "minecraft:cooked_beef",
+              "count": 4,
+              "price": 1100,
+              "playerLimit": 1
+            },
+            {
+              "item": "minecraft:cactus",
+              "count": 8,
+              "price": 28,
+              "playerLimit": 4
+            }
+          ],
+          "sell": [
+            {
+              "item": "minecraft:rotten_flesh",
+              "count": 16,
+              "price": 6,
+              "playerLimit": 6
+            },
+            {
+              "item": "minecraft:bone",
+              "count": 8,
+              "price": 12,
+              "playerLimit": 8
+            },
+            {
+              "item": "minecraft:string",
+              "count": 8,
+              "price": 16,
+              "playerLimit": 6
+            },
+            {
+              "item": "realismsurvival:salt",
+              "count": 8,
+              "price": 40,
+              "playerLimit": 4
+            },
+            {
+              "item": "minecraft:melon_slice",
+              "count": 16,
+              "price": 28,
+              "playerLimit": 6
+            },
+            {
+              "item": "minecraft:cactus",
+              "count": 8,
+              "price": 14,
+              "playerLimit": 6
+            },
+            {
+              "item": "minecraft:leather",
+              "count": 4,
+              "price": 160,
+              "playerLimit": 4
+            }
+          ]
+        },
+        "autumn": {
+          "buy": [
+            {
+              "item": "minecraft:torch",
+              "count": 16,
+              "price": 28,
+              "playerLimit": 4
+            },
+            {
+              "item": "minecraft:bread",
+              "count": 4,
+              "price": 52,
+              "playerLimit": 2
+            },
+            {
+              "item": "minecraft:coal",
+              "count": 8,
+              "price": 72,
+              "playerLimit": 3
+            },
+            {
+              "item": "realismsurvival:salt",
+              "count": 4,
+              "price": 180,
+              "playerLimit": 3
+            },
+            {
+              "item": "realismsurvival:filter_cartridge",
+              "count": 1,
+              "price": 240,
+              "playerLimit": 2
+            },
+            {
+              "item": "realismsurvival:fresh_water_bottle",
+              "count": 1,
+              "price": 150,
+              "playerLimit": 2
+            },
+            {
+              "item": "realismsurvival:distilled_water_bottle",
+              "count": 1,
+              "price": 620,
+              "playerLimit": 1
+            },
+            {
+              "item": "minecraft:pumpkin_seeds",
+              "count": 8,
+              "price": 44,
+              "playerLimit": 3
+            },
+            {
+              "item": "minecraft:hay_block",
+              "count": 4,
+              "price": 280,
+              "playerLimit": 2
+            },
+            {
+              "item": "minecraft:leather",
+              "count": 4,
+              "price": 2800,
+              "playerLimit": 1
+            },
+            {
+              "item": "minecraft:cactus",
+              "count": 8,
+              "price": 48,
+              "playerLimit": 4
+            }
+          ],
+          "sell": [
+            {
+              "item": "minecraft:rotten_flesh",
+              "count": 16,
+              "price": 8,
+              "playerLimit": 6
+            },
+            {
+              "item": "minecraft:bone",
+              "count": 8,
+              "price": 14,
+              "playerLimit": 8
+            },
+            {
+              "item": "minecraft:string",
+              "count": 8,
+              "price": 24,
+              "playerLimit": 6
+            },
+            {
+              "item": "realismsurvival:salt",
+              "count": 8,
+              "price": 36,
+              "playerLimit": 4
+            },
+            {
+              "item": "minecraft:pumpkin",
+              "count": 4,
+              "price": 48,
+              "playerLimit": 4
+            },
+            {
+              "item": "minecraft:beetroot",
+              "count": 16,
+              "price": 40,
+              "playerLimit": 6
+            },
+            {
+              "item": "minecraft:cactus",
+              "count": 8,
+              "price": 24,
+              "playerLimit": 6
+            }
+          ]
+        },
+        "winter": {
+          "buy": [
+            {
+              "item": "minecraft:torch",
+              "count": 16,
+              "price": 44,
+              "playerLimit": 4
+            },
+            {
+              "item": "minecraft:bread",
+              "count": 4,
+              "price": 80,
+              "playerLimit": 2
+            },
+            {
+              "item": "minecraft:coal",
+              "count": 8,
+              "price": 120,
+              "playerLimit": 3
+            },
+            {
+              "item": "realismsurvival:salt",
+              "count": 4,
+              "price": 220,
+              "playerLimit": 3
+            },
+            {
+              "item": "realismsurvival:filter_cartridge",
+              "count": 1,
+              "price": 200,
+              "playerLimit": 2
+            },
+            {
+              "item": "realismsurvival:fresh_water_bottle",
+              "count": 1,
+              "price": 110,
+              "playerLimit": 2
+            },
+            {
+              "item": "realismsurvival:distilled_water_bottle",
+              "count": 1,
+              "price": 640,
+              "playerLimit": 1
+            },
+            {
+              "item": "minecraft:charcoal",
+              "count": 8,
+              "price": 160,
+              "playerLimit": 2
+            },
+            {
+              "item": "minecraft:baked_potato",
+              "count": 8,
+              "price": 180,
+              "playerLimit": 2
+            },
+            {
+              "item": "minecraft:white_wool",
+              "count": 8,
+              "price": 240,
+              "playerLimit": 2
+            },
+            {
+              "item": "minecraft:campfire",
+              "count": 1,
+              "price": 520,
+              "playerLimit": 1
+            },
+            {
+              "item": "minecraft:leather",
+              "count": 4,
+              "price": 3200,
+              "playerLimit": 1
+            },
+            {
+              "item": "minecraft:cactus",
+              "count": 8,
+              "price": 64,
+              "playerLimit": 4
+            }
+          ],
+          "sell": [
+            {
+              "item": "minecraft:rotten_flesh",
+              "count": 16,
+              "price": 12,
+              "playerLimit": 6
+            },
+            {
+              "item": "minecraft:bone",
+              "count": 8,
+              "price": 10,
+              "playerLimit": 8
+            },
+            {
+              "item": "minecraft:string",
+              "count": 8,
+              "price": 32,
+              "playerLimit": 6
+            },
+            {
+              "item": "realismsurvival:salt",
+              "count": 8,
+              "price": 44,
+              "playerLimit": 4
+            },
+            {
+              "item": "minecraft:rabbit_hide",
+              "count": 8,
+              "price": 28,
+              "playerLimit": 6
+            },
+            {
+              "item": "minecraft:cactus",
+              "count": 8,
+              "price": 32,
+              "playerLimit": 6
+            }
+          ]
+        }
+      }
+    },
+    "cold": {
+      "seasons": {
+        "spring": {
+          "buy": [
+            {
+              "item": "minecraft:torch",
+              "count": 16,
+              "price": 28,
+              "playerLimit": 4
+            },
+            {
+              "item": "minecraft:bread",
+              "count": 4,
+              "price": 44,
+              "playerLimit": 2
+            },
+            {
+              "item": "minecraft:coal",
+              "count": 8,
+              "price": 80,
+              "playerLimit": 3
+            },
+            {
+              "item": "realismsurvival:salt",
+              "count": 4,
+              "price": 90,
+              "playerLimit": 3
+            },
+            {
+              "item": "realismsurvival:filter_cartridge",
+              "count": 1,
+              "price": 150,
+              "playerLimit": 2
+            },
+            {
+              "item": "realismsurvival:fresh_water_bottle",
+              "count": 1,
+              "price": 80,
+              "playerLimit": 2
+            },
+            {
+              "item": "realismsurvival:distilled_water_bottle",
+              "count": 1,
+              "price": 580,
+              "playerLimit": 1
+            },
+            {
+              "item": "minecraft:wheat_seeds",
+              "count": 16,
+              "price": 48,
+              "playerLimit": 4
+            },
+            {
+              "item": "minecraft:sweet_berries",
+              "count": 8,
+              "price": 56,
+              "playerLimit": 4
+            }
+          ],
+          "sell": [
+            {
+              "item": "minecraft:rotten_flesh",
+              "count": 16,
+              "price": 12,
+              "playerLimit": 6
+            },
+            {
+              "item": "minecraft:bone",
+              "count": 8,
+              "price": 16,
+              "playerLimit": 8
+            },
+            {
+              "item": "minecraft:string",
+              "count": 8,
+              "price": 28,
+              "playerLimit": 6
+            },
+            {
+              "item": "realismsurvival:salt",
+              "count": 8,
+              "price": 12,
+              "playerLimit": 4
+            },
+            {
+              "item": "minecraft:sweet_berries",
+              "count": 16,
+              "price": 32,
+              "playerLimit": 6
+            },
+            {
+              "item": "minecraft:rabbit_hide",
+              "count": 8,
+              "price": 36,
+              "playerLimit": 6
+            }
+          ]
+        },
+        "summer": {
+          "buy": [
+            {
+              "item": "minecraft:torch",
+              "count": 16,
+              "price": 20,
+              "playerLimit": 4
+            },
+            {
+              "item": "minecraft:bread",
+              "count": 4,
+              "price": 32,
+              "playerLimit": 2
+            },
+            {
+              "item": "minecraft:coal",
+              "count": 8,
+              "price": 48,
+              "playerLimit": 3
+            },
+            {
+              "item": "realismsurvival:salt",
+              "count": 4,
+              "price": 80,
+              "playerLimit": 3
+            },
+            {
+              "item": "realismsurvival:filter_cartridge",
+              "count": 1,
+              "price": 140,
+              "playerLimit": 2
+            },
+            {
+              "item": "realismsurvival:fresh_water_bottle",
+              "count": 1,
+              "price": 64,
+              "playerLimit": 2
+            },
+            {
+              "item": "realismsurvival:distilled_water_bottle",
+              "count": 1,
+              "price": 520,
+              "playerLimit": 1
+            },
+            {
+              "item": "minecraft:potato",
+              "count": 8,
+              "price": 28,
+              "playerLimit": 4
+            }
+          ],
+          "sell": [
+            {
+              "item": "minecraft:rotten_flesh",
+              "count": 16,
+              "price": 10,
+              "playerLimit": 6
+            },
+            {
+              "item": "minecraft:bone",
+              "count": 8,
+              "price": 12,
+              "playerLimit": 8
+            },
+            {
+              "item": "minecraft:string",
+              "count": 8,
+              "price": 24,
+              "playerLimit": 6
+            },
+            {
+              "item": "realismsurvival:salt",
+              "count": 8,
+              "price": 12,
+              "playerLimit": 4
+            },
+            {
+              "item": "minecraft:potato",
+              "count": 16,
+              "price": 20,
+              "playerLimit": 6
+            },
+            {
+              "item": "minecraft:sweet_berries",
+              "count": 16,
+              "price": 36,
+              "playerLimit": 6
+            },
+            {
+              "item": "minecraft:cod",
+              "count": 8,
+              "price": 48,
+              "playerLimit": 6
+            },
+            {
+              "item": "minecraft:salmon",
+              "count": 8,
+              "price": 72,
+              "playerLimit": 6
+            },
+            {
+              "item": "minecraft:ice",
+              "count": 8,
+              "price": 16,
+              "playerLimit": 6
+            }
+          ]
+        },
+        "autumn": {
+          "buy": [
+            {
+              "item": "minecraft:torch",
+              "count": 16,
+              "price": 36,
+              "playerLimit": 4
+            },
+            {
+              "item": "minecraft:bread",
+              "count": 4,
+              "price": 40,
+              "playerLimit": 2
+            },
+            {
+              "item": "minecraft:coal",
+              "count": 8,
+              "price": 96,
+              "playerLimit": 3
+            },
+            {
+              "item": "realismsurvival:salt",
+              "count": 4,
+              "price": 120,
+              "playerLimit": 3
+            },
+            {
+              "item": "realismsurvival:filter_cartridge",
+              "count": 1,
+              "price": 170,
+              "playerLimit": 2
+            },
+            {
+              "item": "realismsurvival:fresh_water_bottle",
+              "count": 1,
+              "price": 110,
+              "playerLimit": 2
+            },
+            {
+              "item": "realismsurvival:distilled_water_bottle",
+              "count": 1,
+              "price": 600,
+              "playerLimit": 1
+            },
+            {
+              "item": "minecraft:baked_potato",
+              "count": 8,
+              "price": 140,
+              "playerLimit": 3
+            },
+            {
+              "item": "minecraft:white_wool",
+              "count": 8,
+              "price": 180,
+              "playerLimit": 2
+            },
+            {
+              "item": "minecraft:apple",
+              "count": 8,
+              "price": 200,
+              "playerLimit": 2
+            },
+            {
+              "item": "minecraft:pumpkin_pie",
+              "count": 2,
+              "price": 300,
+              "playerLimit": 2
+            },
+            {
+              "item": "minecraft:leather",
+              "count": 4,
+              "price": 2600,
+              "playerLimit": 1
+            }
+          ],
+          "sell": [
+            {
+              "item": "minecraft:rotten_flesh",
+              "count": 16,
+              "price": 14,
+              "playerLimit": 6
+            },
+            {
+              "item": "minecraft:bone",
+              "count": 8,
+              "price": 14,
+              "playerLimit": 8
+            },
+            {
+              "item": "minecraft:string",
+              "count": 8,
+              "price": 36,
+              "playerLimit": 6
+            },
+            {
+              "item": "realismsurvival:salt",
+              "count": 8,
+              "price": 20,
+              "playerLimit": 4
+            },
+            {
+              "item": "minecraft:potato",
+              "count": 16,
+              "price": 36,
+              "playerLimit": 6
+            },
+            {
+              "item": "minecraft:sweet_berries",
+              "count": 16,
+              "price": 48,
+              "playerLimit": 6
+            },
+            {
+              "item": "minecraft:rabbit_hide",
+              "count": 8,
+              "price": 56,
+              "playerLimit": 6
+            }
+          ]
+        },
+        "winter": {
+          "buy": [
+            {
+              "item": "minecraft:torch",
+              "count": 16,
+              "price": 52,
+              "playerLimit": 4
+            },
+            {
+              "item": "minecraft:bread",
+              "count": 4,
+              "price": 84,
+              "playerLimit": 2
+            },
+            {
+              "item": "minecraft:coal",
+              "count": 8,
+              "price": 140,
+              "playerLimit": 3
+            },
+            {
+              "item": "realismsurvival:salt",
+              "count": 4,
+              "price": 160,
+              "playerLimit": 3
+            },
+            {
+              "item": "realismsurvival:filter_cartridge",
+              "count": 1,
+              "price": 200,
+              "playerLimit": 2
+            },
+            {
+              "item": "realismsurvival:fresh_water_bottle",
+              "count": 1,
+              "price": 160,
+              "playerLimit": 2
+            },
+            {
+              "item": "realismsurvival:distilled_water_bottle",
+              "count": 1,
+              "price": 720,
+              "playerLimit": 1
+            },
+            {
+              "item": "minecraft:charcoal",
+              "count": 8,
+              "price": 64,
+              "playerLimit": 3
+            },
+            {
+              "item": "minecraft:baked_potato",
+              "count": 8,
+              "price": 180,
+              "playerLimit": 2
+            },
+            {
+              "item": "minecraft:white_wool",
+              "count": 8,
+              "price": 240,
+              "playerLimit": 2
+            },
+            {
+              "item": "minecraft:campfire",
+              "count": 1,
+              "price": 220,
+              "playerLimit": 1
+            },
+            {
+              "item": "minecraft:rabbit_stew",
+              "count": 1,
+              "price": 960,
+              "playerLimit": 1
+            },
+            {
+              "item": "minecraft:leather",
+              "count": 4,
+              "price": 3200,
+              "playerLimit": 1
+            }
+          ],
+          "sell": [
+            {
+              "item": "minecraft:rotten_flesh",
+              "count": 16,
+              "price": 18,
+              "playerLimit": 6
+            },
+            {
+              "item": "minecraft:bone",
+              "count": 8,
+              "price": 12,
+              "playerLimit": 8
+            },
+            {
+              "item": "minecraft:string",
+              "count": 8,
+              "price": 48,
+              "playerLimit": 6
+            },
+            {
+              "item": "realismsurvival:salt",
+              "count": 8,
+              "price": 28,
+              "playerLimit": 4
+            },
+            {
+              "item": "minecraft:rabbit_hide",
+              "count": 8,
+              "price": 72,
+              "playerLimit": 6
+            },
+            {
+              "item": "minecraft:cod",
+              "count": 8,
+              "price": 96,
+              "playerLimit": 6
+            },
+            {
+              "item": "minecraft:salmon",
+              "count": 8,
+              "price": 140,
+              "playerLimit": 6
+            }
+          ]
+        }
+      }
+    },
+    "tropical": {
+      "seasons": {
+        "spring": {
+          "buy": [
+            {
+              "item": "minecraft:torch",
+              "count": 16,
+              "price": 28,
+              "playerLimit": 4
+            },
+            {
+              "item": "minecraft:bread",
+              "count": 4,
+              "price": 28,
+              "playerLimit": 2
+            },
+            {
+              "item": "minecraft:coal",
+              "count": 8,
+              "price": 36,
+              "playerLimit": 3
+            },
+            {
+              "item": "realismsurvival:salt",
+              "count": 4,
+              "price": 140,
+              "playerLimit": 3
+            },
+            {
+              "item": "realismsurvival:filter_cartridge",
+              "count": 1,
+              "price": 170,
+              "playerLimit": 2
+            },
+            {
+              "item": "realismsurvival:fresh_water_bottle",
+              "count": 1,
+              "price": 32,
+              "playerLimit": 2
+            },
+            {
+              "item": "realismsurvival:distilled_water_bottle",
+              "count": 1,
+              "price": 360,
+              "playerLimit": 1
+            },
+            {
+              "item": "minecraft:melon_seeds",
+              "count": 8,
+              "price": 20,
+              "playerLimit": 4
+            },
+            {
+              "item": "minecraft:cocoa_beans",
+              "count": 8,
+              "price": 36,
+              "playerLimit": 4
+            },
+            {
+              "item": "minecraft:bamboo",
+              "count": 16,
+              "price": 20,
+              "playerLimit": 4
+            },
+            {
+              "item": "farmersdelight:cabbage_seeds",
+              "count": 8,
+              "price": 40,
+              "playerLimit": 4
+            },
+            {
+              "item": "minecraft:bone_meal",
+              "count": 8,
+              "price": 28,
+              "playerLimit": 4
+            }
+          ],
+          "sell": [
+            {
+              "item": "minecraft:rotten_flesh",
+              "count": 16,
+              "price": 8,
+              "playerLimit": 6
+            },
+            {
+              "item": "minecraft:bone",
+              "count": 8,
+              "price": 24,
+              "playerLimit": 8
+            },
+            {
+              "item": "minecraft:string",
+              "count": 8,
+              "price": 20,
+              "playerLimit": 6
+            },
+            {
+              "item": "realismsurvival:salt",
+              "count": 8,
+              "price": 24,
+              "playerLimit": 4
+            },
+            {
+              "item": "minecraft:melon_slice",
+              "count": 16,
+              "price": 16,
+              "playerLimit": 6
+            },
+            {
+              "item": "minecraft:cocoa_beans",
+              "count": 8,
+              "price": 18,
+              "playerLimit": 6
+            },
+            {
+              "item": "minecraft:bamboo",
+              "count": 16,
+              "price": 12,
+              "playerLimit": 6
+            },
+            {
+              "item": "minecraft:sugar_cane",
+              "count": 16,
+              "price": 24,
+              "playerLimit": 6
+            }
+          ]
+        },
+        "summer": {
+          "buy": [
+            {
+              "item": "minecraft:torch",
+              "count": 16,
+              "price": 24,
+              "playerLimit": 4
+            },
+            {
+              "item": "minecraft:bread",
+              "count": 4,
+              "price": 24,
+              "playerLimit": 2
+            },
+            {
+              "item": "minecraft:coal",
+              "count": 8,
+              "price": 28,
+              "playerLimit": 3
+            },
+            {
+              "item": "realismsurvival:salt",
+              "count": 4,
+              "price": 190,
+              "playerLimit": 3
+            },
+            {
+              "item": "realismsurvival:filter_cartridge",
+              "count": 1,
+              "price": 240,
+              "playerLimit": 2
+            },
+            {
+              "item": "realismsurvival:fresh_water_bottle",
+              "count": 1,
+              "price": 56,
+              "playerLimit": 2
+            },
+            {
+              "item": "realismsurvival:distilled_water_bottle",
+              "count": 1,
+              "price": 420,
+              "playerLimit": 1
+            },
+            {
+              "item": "farmersdelight:tomato_seeds",
+              "count": 8,
+              "price": 52,
+              "playerLimit": 4
+            },
+            {
+              "item": "farmersdelight:rice",
+              "count": 8,
+              "price": 60,
+              "playerLimit": 4
+            },
+            {
+              "item": "minecraft:ice",
+              "count": 8,
+              "price": 260,
+              "playerLimit": 2
+            },
+            {
+              "item": "minecraft:cocoa_beans",
+              "count": 8,
+              "price": 28,
+              "playerLimit": 4
+            },
+            {
+              "item": "minecraft:bamboo",
+              "count": 16,
+              "price": 16,
+              "playerLimit": 4
+            }
+          ],
+          "sell": [
+            {
+              "item": "minecraft:rotten_flesh",
+              "count": 16,
+              "price": 6,
+              "playerLimit": 6
+            },
+            {
+              "item": "minecraft:bone",
+              "count": 8,
+              "price": 16,
+              "playerLimit": 8
+            },
+            {
+              "item": "minecraft:string",
+              "count": 8,
+              "price": 16,
+              "playerLimit": 6
+            },
+            {
+              "item": "realismsurvival:salt",
+              "count": 8,
+              "price": 36,
+              "playerLimit": 4
+            },
+            {
+              "item": "farmersdelight:tomato",
+              "count": 8,
+              "price": 36,
+              "playerLimit": 6
+            },
+            {
+              "item": "farmersdelight:rice",
+              "count": 16,
+              "price": 48,
+              "playerLimit": 6
+            },
+            {
+              "item": "minecraft:melon_slice",
+              "count": 16,
+              "price": 24,
+              "playerLimit": 6
+            },
+            {
+              "item": "minecraft:cocoa_beans",
+              "count": 8,
+              "price": 14,
+              "playerLimit": 6
+            },
+            {
+              "item": "minecraft:sugar_cane",
+              "count": 16,
+              "price": 20,
+              "playerLimit": 6
+            },
+            {
+              "item": "minecraft:bamboo",
+              "count": 16,
+              "price": 10,
+              "playerLimit": 6
+            }
+          ]
+        },
+        "autumn": {
+          "buy": [
+            {
+              "item": "minecraft:torch",
+              "count": 16,
+              "price": 28,
+              "playerLimit": 4
+            },
+            {
+              "item": "minecraft:bread",
+              "count": 4,
+              "price": 28,
+              "playerLimit": 2
+            },
+            {
+              "item": "minecraft:coal",
+              "count": 8,
+              "price": 44,
+              "playerLimit": 3
+            },
+            {
+              "item": "realismsurvival:salt",
+              "count": 4,
+              "price": 160,
+              "playerLimit": 3
+            },
+            {
+              "item": "realismsurvival:filter_cartridge",
+              "count": 1,
+              "price": 190,
+              "playerLimit": 2
+            },
+            {
+              "item": "realismsurvival:fresh_water_bottle",
+              "count": 1,
+              "price": 40,
+              "playerLimit": 2
+            },
+            {
+              "item": "realismsurvival:distilled_water_bottle",
+              "count": 1,
+              "price": 380,
+              "playerLimit": 1
+            },
+            {
+              "item": "minecraft:pumpkin_seeds",
+              "count": 8,
+              "price": 20,
+              "playerLimit": 4
+            },
+            {
+              "item": "minecraft:cocoa_beans",
+              "count": 8,
+              "price": 48,
+              "playerLimit": 4
+            },
+            {
+              "item": "minecraft:apple",
+              "count": 8,
+              "price": 200,
+              "playerLimit": 3
+            },
+            {
+              "item": "minecraft:bamboo",
+              "count": 16,
+              "price": 24,
+              "playerLimit": 4
+            }
+          ],
+          "sell": [
+            {
+              "item": "minecraft:rotten_flesh",
+              "count": 16,
+              "price": 8,
+              "playerLimit": 6
+            },
+            {
+              "item": "minecraft:bone",
+              "count": 8,
+              "price": 16,
+              "playerLimit": 8
+            },
+            {
+              "item": "minecraft:string",
+              "count": 8,
+              "price": 22,
+              "playerLimit": 6
+            },
+            {
+              "item": "realismsurvival:salt",
+              "count": 8,
+              "price": 28,
+              "playerLimit": 4
+            },
+            {
+              "item": "minecraft:pumpkin",
+              "count": 4,
+              "price": 56,
+              "playerLimit": 4
+            },
+            {
+              "item": "minecraft:cocoa_beans",
+              "count": 8,
+              "price": 24,
+              "playerLimit": 6
+            },
+            {
+              "item": "minecraft:sugar_cane",
+              "count": 16,
+              "price": 28,
+              "playerLimit": 6
+            },
+            {
+              "item": "minecraft:melon_slice",
+              "count": 16,
+              "price": 20,
+              "playerLimit": 6
+            },
+            {
+              "item": "minecraft:bamboo",
+              "count": 16,
+              "price": 14,
+              "playerLimit": 6
+            }
+          ]
+        },
+        "winter": {
+          "buy": [
+            {
+              "item": "minecraft:torch",
+              "count": 16,
+              "price": 32,
+              "playerLimit": 4
+            },
+            {
+              "item": "minecraft:bread",
+              "count": 4,
+              "price": 40,
+              "playerLimit": 2
+            },
+            {
+              "item": "minecraft:coal",
+              "count": 8,
+              "price": 56,
+              "playerLimit": 3
+            },
+            {
+              "item": "realismsurvival:salt",
+              "count": 4,
+              "price": 130,
+              "playerLimit": 3
+            },
+            {
+              "item": "realismsurvival:filter_cartridge",
+              "count": 1,
+              "price": 150,
+              "playerLimit": 2
+            },
+            {
+              "item": "realismsurvival:fresh_water_bottle",
+              "count": 1,
+              "price": 28,
+              "playerLimit": 2
+            },
+            {
+              "item": "realismsurvival:distilled_water_bottle",
+              "count": 1,
+              "price": 320,
+              "playerLimit": 1
+            },
+            {
+              "item": "minecraft:baked_potato",
+              "count": 8,
+              "price": 80,
+              "playerLimit": 3
+            },
+            {
+              "item": "minecraft:white_wool",
+              "count": 8,
+              "price": 72,
+              "playerLimit": 2
+            },
+            {
+              "item": "minecraft:campfire",
+              "count": 1,
+              "price": 180,
+              "playerLimit": 1
+            },
+            {
+              "item": "minecraft:leather",
+              "count": 4,
+              "price": 1800,
+              "playerLimit": 1
+            },
+            {
+              "item": "minecraft:cocoa_beans",
+              "count": 8,
+              "price": 64,
+              "playerLimit": 4
+            },
+            {
+              "item": "minecraft:bamboo",
+              "count": 16,
+              "price": 32,
+              "playerLimit": 4
+            }
+          ],
+          "sell": [
+            {
+              "item": "minecraft:rotten_flesh",
+              "count": 16,
+              "price": 10,
+              "playerLimit": 6
+            },
+            {
+              "item": "minecraft:bone",
+              "count": 8,
+              "price": 12,
+              "playerLimit": 8
+            },
+            {
+              "item": "minecraft:string",
+              "count": 8,
+              "price": 28,
+              "playerLimit": 6
+            },
+            {
+              "item": "realismsurvival:salt",
+              "count": 8,
+              "price": 20,
+              "playerLimit": 4
+            },
+            {
+              "item": "minecraft:cocoa_beans",
+              "count": 8,
+              "price": 32,
+              "playerLimit": 6
+            },
+            {
+              "item": "minecraft:bamboo",
+              "count": 16,
+              "price": 18,
+              "playerLimit": 6
+            },
+            {
+              "item": "minecraft:sugar_cane",
+              "count": 16,
+              "price": 36,
+              "playerLimit": 6
+            },
+            {
+              "item": "minecraft:cod",
+              "count": 8,
+              "price": 40,
+              "playerLimit": 6
+            }
+          ]
+        }
+      }
+    }
+  }
+}

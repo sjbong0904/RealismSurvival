@@ -1,0 +1,692 @@
+{
+	"default_hide_dependency_lines": false,
+	"default_quest_shape": "circle",
+	"filename": "bundle_kitchen",
+	"group": "43325E0840607D0B",
+	"icon": {
+		"id": "farmersdelight:stove",
+		"count": 1
+	},
+	"id": "6BC2756A5AD36525",
+	"order_index": 1,
+	"quest_links": [],
+	"quests": [
+		{
+			"id": "70E547B5E81C3FAA",
+			"dependencies": [
+				"03989BC73B2D1FE9"
+			],
+			"x": 0.0,
+			"y": 0.0,
+			"tasks": [
+				{
+					"id": "7885FC39C5E693CC",
+					"type": "checkmark"
+				}
+			]
+		},
+		{
+			"id": "41D483EA779295C9",
+			"dependencies": [
+				"70E547B5E81C3FAA"
+			],
+			"consume_items": true,
+			"x": 1.6,
+			"y": -2.4,
+			"tasks": [
+				{
+					"id": "035D767CF2618CDF",
+					"item": {
+						"id": "farmersdelight:cabbage",
+						"count": 1
+					},
+					"type": "item",
+					"consume_items": true
+				}
+			],
+			"icon": {
+				"id": "farmersdelight:cabbage",
+				"count": 1
+			}
+		},
+		{
+			"id": "755F2BDD7E1F5AC9",
+			"dependencies": [
+				"70E547B5E81C3FAA"
+			],
+			"consume_items": true,
+			"x": 1.6,
+			"y": -0.8,
+			"tasks": [
+				{
+					"id": "178C3013669C903B",
+					"item": {
+						"id": "farmersdelight:tomato",
+						"count": 1
+					},
+					"type": "item",
+					"consume_items": true
+				}
+			],
+			"icon": {
+				"id": "farmersdelight:tomato",
+				"count": 1
+			}
+		},
+		{
+			"id": "05C2F7BA901D993D",
+			"dependencies": [
+				"70E547B5E81C3FAA"
+			],
+			"consume_items": true,
+			"x": 1.6,
+			"y": 0.8,
+			"tasks": [
+				{
+					"id": "50984D5DF4F91DC9",
+					"item": {
+						"id": "farmersdelight:onion",
+						"count": 1
+					},
+					"type": "item",
+					"consume_items": true
+				}
+			],
+			"icon": {
+				"id": "farmersdelight:onion",
+				"count": 1
+			}
+		},
+		{
+			"id": "450BF428F8F2E9FC",
+			"dependencies": [
+				"70E547B5E81C3FAA"
+			],
+			"consume_items": true,
+			"x": 1.6,
+			"y": 2.4,
+			"tasks": [
+				{
+					"id": "185AD62AC4DD7D56",
+					"item": {
+						"id": "farmersdelight:rice",
+						"count": 1
+					},
+					"type": "item",
+					"consume_items": true
+				}
+			],
+			"icon": {
+				"id": "farmersdelight:rice",
+				"count": 1
+			}
+		},
+		{
+			"id": "6AF09EB82C36BC07",
+			"dependencies": [
+				"41D483EA779295C9",
+				"755F2BDD7E1F5AC9",
+				"05C2F7BA901D993D",
+				"450BF428F8F2E9FC"
+			],
+			"x": 9.6,
+			"y": -2.4,
+			"tasks": [
+				{
+					"id": "2975A28CE26F0E48",
+					"type": "checkmark"
+				}
+			],
+			"rewards": [
+				{
+					"id": "694595650A4DAA0C",
+					"count": 8,
+					"item": {
+						"id": "farmersdelight:cabbage_seeds",
+						"count": 1
+					},
+					"type": "item"
+				},
+				{
+					"id": "77345A1B5911524C",
+					"count": 8,
+					"item": {
+						"id": "farmersdelight:tomato_seeds",
+						"count": 1
+					},
+					"type": "item"
+				},
+				{
+					"id": "17239B3DC107DFC4",
+					"count": 8,
+					"item": {
+						"id": "farmersdelight:onion",
+						"count": 1
+					},
+					"type": "item"
+				},
+				{
+					"id": "5C0005C39A3E8D7C",
+					"count": 8,
+					"item": {
+						"id": "farmersdelight:rice",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "farmersdelight:cabbage_seeds",
+				"count": 1
+			}
+		},
+		{
+			"id": "699EA75D21FE6090",
+			"dependencies": [
+				"70E547B5E81C3FAA"
+			],
+			"x": 3.2,
+			"y": -2.4,
+			"tasks": [
+				{
+					"id": "414E9C62BB5C2A6D",
+					"item": {
+						"id": "farmersdelight:cutting_board",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "farmersdelight:cutting_board",
+				"count": 1
+			}
+		},
+		{
+			"id": "055F1D66EEC0ECEB",
+			"dependencies": [
+				"70E547B5E81C3FAA"
+			],
+			"x": 3.2,
+			"y": -0.8,
+			"tasks": [
+				{
+					"id": "786621268214E360",
+					"item": {
+						"id": "farmersdelight:flint_knife",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "farmersdelight:flint_knife",
+				"count": 1
+			}
+		},
+		{
+			"id": "5936066FF58878ED",
+			"dependencies": [
+				"70E547B5E81C3FAA"
+			],
+			"x": 3.2,
+			"y": 0.8,
+			"tasks": [
+				{
+					"id": "727FA0E51D70587A",
+					"item": {
+						"id": "farmersdelight:stove",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "farmersdelight:stove",
+				"count": 1
+			}
+		},
+		{
+			"id": "3E5AB918A254B486",
+			"dependencies": [
+				"70E547B5E81C3FAA"
+			],
+			"x": 3.2,
+			"y": 2.4,
+			"tasks": [
+				{
+					"id": "42FF5A4007BEF732",
+					"item": {
+						"id": "farmersdelight:cooking_pot",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "farmersdelight:cooking_pot",
+				"count": 1
+			}
+		},
+		{
+			"id": "1E5C3C064B08EC6F",
+			"dependencies": [
+				"70E547B5E81C3FAA"
+			],
+			"x": 4.8,
+			"y": -2.4,
+			"tasks": [
+				{
+					"id": "1134C5FD813BE6D5",
+					"item": {
+						"id": "farmersdelight:skillet",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "farmersdelight:skillet",
+				"count": 1
+			}
+		},
+		{
+			"id": "1F3C0E30C674B375",
+			"dependencies": [
+				"699EA75D21FE6090",
+				"055F1D66EEC0ECEB",
+				"5936066FF58878ED",
+				"3E5AB918A254B486",
+				"1E5C3C064B08EC6F"
+			],
+			"x": 9.6,
+			"y": -0.8,
+			"tasks": [
+				{
+					"id": "2E6E318CCDD69424",
+					"type": "checkmark"
+				}
+			],
+			"rewards": [
+				{
+					"id": "41A51FBFC2840421",
+					"count": 8,
+					"item": {
+						"id": "farmersdelight:onion",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "farmersdelight:onion",
+				"count": 1
+			}
+		},
+		{
+			"id": "131A51D5ED98BC55",
+			"dependencies": [
+				"70E547B5E81C3FAA"
+			],
+			"consume_items": true,
+			"x": 4.8,
+			"y": -0.8,
+			"tasks": [
+				{
+					"id": "36FF2ACE58F56F3F",
+					"item": {
+						"id": "farmersdelight:vegetable_soup",
+						"count": 1
+					},
+					"type": "item",
+					"consume_items": true
+				}
+			],
+			"icon": {
+				"id": "farmersdelight:vegetable_soup",
+				"count": 1
+			}
+		},
+		{
+			"id": "776005EE487D66AA",
+			"dependencies": [
+				"70E547B5E81C3FAA"
+			],
+			"consume_items": true,
+			"x": 4.8,
+			"y": 0.8,
+			"tasks": [
+				{
+					"id": "516BED97CEC70DD5",
+					"item": {
+						"id": "farmersdelight:beef_stew",
+						"count": 1
+					},
+					"type": "item",
+					"consume_items": true
+				}
+			],
+			"icon": {
+				"id": "farmersdelight:beef_stew",
+				"count": 1
+			}
+		},
+		{
+			"id": "7A318EE00714EAC6",
+			"dependencies": [
+				"70E547B5E81C3FAA"
+			],
+			"x": 4.8,
+			"y": 2.4,
+			"tasks": [
+				{
+					"id": "0EE1A8855E22E510",
+					"item": {
+						"id": "farmersdelight:roast_chicken_block",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "farmersdelight:roast_chicken_block",
+				"count": 1
+			}
+		},
+		{
+			"id": "23E678245B87C4E5",
+			"dependencies": [
+				"70E547B5E81C3FAA"
+			],
+			"consume_items": true,
+			"x": 6.4,
+			"y": -2.4,
+			"tasks": [
+				{
+					"id": "08DC1C7EE9F438AB",
+					"item": {
+						"id": "farmersdelight:fruit_salad",
+						"count": 1
+					},
+					"type": "item",
+					"consume_items": true
+				}
+			],
+			"icon": {
+				"id": "farmersdelight:fruit_salad",
+				"count": 1
+			}
+		},
+		{
+			"id": "35D43327882EB669",
+			"dependencies": [
+				"131A51D5ED98BC55",
+				"776005EE487D66AA",
+				"7A318EE00714EAC6",
+				"23E678245B87C4E5"
+			],
+			"x": 9.6,
+			"y": 0.8,
+			"tasks": [
+				{
+					"id": "1A79F6C7C26B8839",
+					"type": "checkmark"
+				}
+			],
+			"rewards": [
+				{
+					"id": "66B5E08C339F5DFA",
+					"count": 16,
+					"item": {
+						"id": "minecraft:bread",
+						"count": 1
+					},
+					"type": "item"
+				},
+				{
+					"id": "0D5EAEB9C0891E83",
+					"count": 8,
+					"item": {
+						"id": "minecraft:bowl",
+						"count": 1
+					},
+					"type": "item"
+				},
+				{
+					"id": "0E70E89C3BE156AB",
+					"count": 8,
+					"item": {
+						"id": "minecraft:cooked_beef",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:bread",
+				"count": 1
+			}
+		},
+		{
+			"id": "0B6AF6034030A0B5",
+			"dependencies": [
+				"70E547B5E81C3FAA"
+			],
+			"consume_items": true,
+			"x": 6.4,
+			"y": -0.8,
+			"tasks": [
+				{
+					"id": "3F1E0695C928E685",
+					"item": {
+						"id": "fishofthieves:mango",
+						"count": 1
+					},
+					"type": "item",
+					"consume_items": true
+				}
+			],
+			"icon": {
+				"id": "fishofthieves:mango",
+				"count": 1
+			}
+		},
+		{
+			"id": "7CB62A5A1BE98E42",
+			"dependencies": [
+				"70E547B5E81C3FAA"
+			],
+			"consume_items": true,
+			"x": 6.4,
+			"y": 0.8,
+			"tasks": [
+				{
+					"id": "44948C54715B4332",
+					"item": {
+						"id": "fishofthieves:pineapple",
+						"count": 1
+					},
+					"type": "item",
+					"consume_items": true
+				}
+			],
+			"icon": {
+				"id": "fishofthieves:pineapple",
+				"count": 1
+			}
+		},
+		{
+			"id": "742AA46077E8B9DC",
+			"dependencies": [
+				"70E547B5E81C3FAA"
+			],
+			"consume_items": true,
+			"x": 6.4,
+			"y": 2.4,
+			"tasks": [
+				{
+					"id": "033E14FB01F87178",
+					"item": {
+						"id": "fishofthieves:banana",
+						"count": 1
+					},
+					"type": "item",
+					"consume_items": true
+				}
+			],
+			"icon": {
+				"id": "fishofthieves:banana",
+				"count": 1
+			}
+		},
+		{
+			"id": "09B7C853D1E1C8B8",
+			"dependencies": [
+				"70E547B5E81C3FAA"
+			],
+			"consume_items": true,
+			"x": 8.0,
+			"y": 0.0,
+			"tasks": [
+				{
+					"id": "5AE9C29B43D2F566",
+					"item": {
+						"id": "fishofthieves:pomegranate",
+						"count": 1
+					},
+					"type": "item",
+					"consume_items": true
+				}
+			],
+			"icon": {
+				"id": "fishofthieves:pomegranate",
+				"count": 1
+			}
+		},
+		{
+			"id": "18565421A1D70836",
+			"dependencies": [
+				"0B6AF6034030A0B5",
+				"7CB62A5A1BE98E42",
+				"742AA46077E8B9DC",
+				"09B7C853D1E1C8B8"
+			],
+			"x": 9.6,
+			"y": 2.4,
+			"tasks": [
+				{
+					"id": "1ED2424A63764A49",
+					"type": "checkmark"
+				}
+			],
+			"rewards": [
+				{
+					"id": "5F5F5F0D70E1E86C",
+					"count": 8,
+					"item": {
+						"id": "fishofthieves:mango",
+						"count": 1
+					},
+					"type": "item"
+				},
+				{
+					"id": "267357785286FE96",
+					"count": 4,
+					"item": {
+						"id": "fishofthieves:pineapple",
+						"count": 1
+					},
+					"type": "item"
+				},
+				{
+					"id": "0E8D0B1A1C9C9EA0",
+					"count": 4,
+					"item": {
+						"id": "fishofthieves:banana",
+						"count": 1
+					},
+					"type": "item"
+				},
+				{
+					"id": "28362B49176BE1FB",
+					"count": 4,
+					"item": {
+						"id": "fishofthieves:pomegranate",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "fishofthieves:mango",
+				"count": 1
+			}
+		},
+		{
+			"id": "1930323319D47EAA",
+			"dependencies": [
+				"6AF09EB82C36BC07",
+				"1F3C0E30C674B375",
+				"35D43327882EB669",
+				"18565421A1D70836"
+			],
+			"shape": "gear",
+			"size": 1.5,
+			"x": 11.45,
+			"y": 0.0,
+			"tasks": [
+				{
+					"id": "4109730C9E87F758",
+					"type": "checkmark"
+				}
+			],
+			"rewards": [
+				{
+					"id": "361DA74ED678FA3F",
+					"count": 8,
+					"item": {
+						"id": "farmersdelight:cabbage_seeds",
+						"count": 1
+					},
+					"type": "item"
+				},
+				{
+					"id": "1C1D3BC925D25BF6",
+					"count": 8,
+					"item": {
+						"id": "farmersdelight:tomato_seeds",
+						"count": 1
+					},
+					"type": "item"
+				},
+				{
+					"id": "3B61725E21D7EE0B",
+					"count": 8,
+					"item": {
+						"id": "farmersdelight:onion",
+						"count": 1
+					},
+					"type": "item"
+				},
+				{
+					"id": "32EC5A0647FACACD",
+					"count": 2,
+					"item": {
+						"id": "minecraft:gold_ingot",
+						"count": 1
+					},
+					"type": "item"
+				},
+				{
+					"id": "5E1F8DB080C04F0F",
+					"xp": 40,
+					"type": "xp"
+				}
+			],
+			"icon": {
+				"id": "farmersdelight:cabbage_seeds",
+				"count": 1
+			}
+		}
+	]
+}

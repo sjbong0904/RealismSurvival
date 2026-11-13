@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:glass_bottle",
+    "minecraft:fermented_spider_eye",
+    "minecraft:sugar"
+  ],
+  "result": { "id": "rsmedicine:antidote", "count": 2 }
+}

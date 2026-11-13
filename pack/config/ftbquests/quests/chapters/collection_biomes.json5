@@ -1,0 +1,2846 @@
+{
+	"default_hide_dependency_lines": false,
+	"default_quest_shape": "circle",
+	"filename": "collection_biomes",
+	"group": "1F4528B79F489519",
+	"icon": {
+		"id": "naturescompass:naturescompass",
+		"count": 1
+	},
+	"id": "4FBD92CA64A47478",
+	"order_index": 3,
+	"quest_links": [],
+	"quests": [
+		{
+			"id": "515812396D5BC6DC",
+			"dependencies": [
+				"71BFF5F365177C73"
+			],
+			"size": 1.25,
+			"x": 0,
+			"y": 0,
+			"tasks": [
+				{
+					"id": "7E0EC8B2CB243C7F",
+					"type": "checkmark"
+				}
+			]
+		},
+		{
+			"id": "06EE19864A6C339A",
+			"dependencies": [
+				"515812396D5BC6DC"
+			],
+			"hide_dependency_lines": true,
+			"x": 0.0,
+			"y": 2.6,
+			"tasks": [
+				{
+					"id": "6C52E64F9575EFF0",
+					"biome": "minecraft:plains",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "0FEDE2611050265D",
+			"dependencies": [
+				"515812396D5BC6DC"
+			],
+			"hide_dependency_lines": true,
+			"x": 1.45,
+			"y": 2.6,
+			"tasks": [
+				{
+					"id": "7D8D20C5716BD2A2",
+					"biome": "minecraft:sunflower_plains",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "037162DE5DAFB02D",
+			"dependencies": [
+				"515812396D5BC6DC"
+			],
+			"hide_dependency_lines": true,
+			"x": 2.9,
+			"y": 2.6,
+			"tasks": [
+				{
+					"id": "75C9A08E11ECB2CD",
+					"biome": "minecraft:forest",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "6E074B5D22A2FEDE",
+			"dependencies": [
+				"515812396D5BC6DC"
+			],
+			"hide_dependency_lines": true,
+			"x": 4.35,
+			"y": 2.6,
+			"tasks": [
+				{
+					"id": "70822D93B85B128B",
+					"biome": "minecraft:flower_forest",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "73D55F2DB10C933C",
+			"dependencies": [
+				"515812396D5BC6DC"
+			],
+			"hide_dependency_lines": true,
+			"x": 5.8,
+			"y": 2.6,
+			"tasks": [
+				{
+					"id": "2D60C67EA81C84E7",
+					"biome": "minecraft:birch_forest",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "2B8DD8E34031D202",
+			"dependencies": [
+				"515812396D5BC6DC"
+			],
+			"hide_dependency_lines": true,
+			"x": 7.25,
+			"y": 2.6,
+			"tasks": [
+				{
+					"id": "26D994EBBC68001D",
+					"biome": "minecraft:dark_forest",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "2A633922CA461A50",
+			"dependencies": [
+				"515812396D5BC6DC"
+			],
+			"hide_dependency_lines": true,
+			"x": 8.7,
+			"y": 2.6,
+			"tasks": [
+				{
+					"id": "7D4FFC080CD31633",
+					"biome": "minecraft:old_growth_birch_forest",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "53BA63FD8E54B6F9",
+			"dependencies": [
+				"515812396D5BC6DC"
+			],
+			"hide_dependency_lines": true,
+			"x": 10.15,
+			"y": 2.6,
+			"tasks": [
+				{
+					"id": "702DCF438910D1D1",
+					"biome": "minecraft:old_growth_pine_taiga",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "35BB723E8F57D288",
+			"dependencies": [
+				"515812396D5BC6DC"
+			],
+			"hide_dependency_lines": true,
+			"x": 11.6,
+			"y": 2.6,
+			"tasks": [
+				{
+					"id": "585FD4EF5630626E",
+					"biome": "minecraft:old_growth_spruce_taiga",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "075F16715E4D005D",
+			"dependencies": [
+				"515812396D5BC6DC"
+			],
+			"hide_dependency_lines": true,
+			"x": 13.049999999999999,
+			"y": 2.6,
+			"tasks": [
+				{
+					"id": "72AB2031C07AC4DC",
+					"biome": "minecraft:taiga",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "457E6036F3754A22",
+			"dependencies": [
+				"515812396D5BC6DC"
+			],
+			"hide_dependency_lines": true,
+			"x": 14.5,
+			"y": 2.6,
+			"tasks": [
+				{
+					"id": "09CB1BBAD157B833",
+					"biome": "minecraft:snowy_taiga",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "7A1A8B270D711A15",
+			"dependencies": [
+				"515812396D5BC6DC"
+			],
+			"hide_dependency_lines": true,
+			"x": 15.95,
+			"y": 2.6,
+			"tasks": [
+				{
+					"id": "75AB9853FD1A598F",
+					"biome": "minecraft:snowy_plains",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "7F8C524632815F2A",
+			"dependencies": [
+				"515812396D5BC6DC"
+			],
+			"hide_dependency_lines": true,
+			"x": 17.4,
+			"y": 2.6,
+			"tasks": [
+				{
+					"id": "12613E252D6463B1",
+					"biome": "minecraft:ice_spikes",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "6534599D95207758",
+			"dependencies": [
+				"515812396D5BC6DC"
+			],
+			"hide_dependency_lines": true,
+			"x": 18.849999999999998,
+			"y": 2.6,
+			"tasks": [
+				{
+					"id": "42E9666AB5DD1CF9",
+					"biome": "minecraft:desert",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "7EA7754DD3786C66",
+			"dependencies": [
+				"515812396D5BC6DC"
+			],
+			"hide_dependency_lines": true,
+			"x": 20.3,
+			"y": 2.6,
+			"tasks": [
+				{
+					"id": "4AED59C6EB4D3336",
+					"biome": "minecraft:savanna",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "49C68D8CD6B2DB07",
+			"dependencies": [
+				"515812396D5BC6DC"
+			],
+			"hide_dependency_lines": true,
+			"x": 21.75,
+			"y": 2.6,
+			"tasks": [
+				{
+					"id": "337C27F3EE030AF8",
+					"biome": "minecraft:savanna_plateau",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "2FC176D4DDFA2958",
+			"dependencies": [
+				"515812396D5BC6DC"
+			],
+			"hide_dependency_lines": true,
+			"x": 23.2,
+			"y": 2.6,
+			"tasks": [
+				{
+					"id": "059EB0F7441A82F3",
+					"biome": "minecraft:badlands",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "4A6678305383B608",
+			"dependencies": [
+				"515812396D5BC6DC"
+			],
+			"hide_dependency_lines": true,
+			"x": 24.65,
+			"y": 2.6,
+			"tasks": [
+				{
+					"id": "61FEDCC46B04745F",
+					"biome": "minecraft:wooded_badlands",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "59FDB57F5EED7FBB",
+			"dependencies": [
+				"515812396D5BC6DC"
+			],
+			"hide_dependency_lines": true,
+			"x": 26.099999999999998,
+			"y": 2.6,
+			"tasks": [
+				{
+					"id": "19B44F5285B5C0B7",
+					"biome": "minecraft:eroded_badlands",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "142B14342A62C33D",
+			"dependencies": [
+				"515812396D5BC6DC"
+			],
+			"hide_dependency_lines": true,
+			"x": 27.55,
+			"y": 2.6,
+			"tasks": [
+				{
+					"id": "3062C99F6E92109D",
+					"biome": "minecraft:jungle",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "430B516C2B18B36A",
+			"dependencies": [
+				"515812396D5BC6DC"
+			],
+			"hide_dependency_lines": true,
+			"x": 29.0,
+			"y": 2.6,
+			"tasks": [
+				{
+					"id": "3144EE742FE8D23E",
+					"biome": "minecraft:sparse_jungle",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "6332F16932D96CB9",
+			"dependencies": [
+				"515812396D5BC6DC"
+			],
+			"hide_dependency_lines": true,
+			"x": 30.45,
+			"y": 2.6,
+			"tasks": [
+				{
+					"id": "2F210FCB02413DE9",
+					"biome": "minecraft:bamboo_jungle",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "68433EC6002FA024",
+			"dependencies": [
+				"515812396D5BC6DC"
+			],
+			"hide_dependency_lines": true,
+			"x": 31.9,
+			"y": 2.6,
+			"tasks": [
+				{
+					"id": "25AE7E1E6565444D",
+					"biome": "minecraft:swamp",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "45D2FEC883722256",
+			"dependencies": [
+				"515812396D5BC6DC"
+			],
+			"hide_dependency_lines": true,
+			"x": 33.35,
+			"y": 2.6,
+			"tasks": [
+				{
+					"id": "35AFC75B1757616B",
+					"biome": "minecraft:mangrove_swamp",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "2E8BBC40E891FFC9",
+			"dependencies": [
+				"515812396D5BC6DC"
+			],
+			"hide_dependency_lines": true,
+			"x": 34.8,
+			"y": 2.6,
+			"tasks": [
+				{
+					"id": "32B8519A9A81D791",
+					"biome": "minecraft:mushroom_fields",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "76F4DF57B6DD0CE3",
+			"dependencies": [
+				"515812396D5BC6DC"
+			],
+			"hide_dependency_lines": true,
+			"x": 36.25,
+			"y": 2.6,
+			"tasks": [
+				{
+					"id": "0349BBB1671D4F5B",
+					"biome": "minecraft:beach",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "5A3254634AAE7C43",
+			"dependencies": [
+				"515812396D5BC6DC"
+			],
+			"hide_dependency_lines": true,
+			"x": 37.699999999999996,
+			"y": 2.6,
+			"tasks": [
+				{
+					"id": "4457B7635CEB9295",
+					"biome": "minecraft:snowy_beach",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "7194AC15A0E528DF",
+			"dependencies": [
+				"515812396D5BC6DC"
+			],
+			"hide_dependency_lines": true,
+			"x": 0.0,
+			"y": 4.05,
+			"tasks": [
+				{
+					"id": "445C2C1C7645CB39",
+					"biome": "minecraft:stony_shore",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "677E409ABB1AC9EA",
+			"dependencies": [
+				"515812396D5BC6DC"
+			],
+			"hide_dependency_lines": true,
+			"x": 1.45,
+			"y": 4.05,
+			"tasks": [
+				{
+					"id": "5EF066F144EA33E8",
+					"biome": "minecraft:river",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "2A2332ADA47E40E8",
+			"dependencies": [
+				"515812396D5BC6DC"
+			],
+			"hide_dependency_lines": true,
+			"x": 2.9,
+			"y": 4.05,
+			"tasks": [
+				{
+					"id": "4CD3DFCA62F67FE8",
+					"biome": "minecraft:frozen_river",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "7EAAE7002891779C",
+			"dependencies": [
+				"515812396D5BC6DC"
+			],
+			"hide_dependency_lines": true,
+			"x": 4.35,
+			"y": 4.05,
+			"tasks": [
+				{
+					"id": "65E37C693C6A9DDB",
+					"biome": "minecraft:ocean",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "6F852C8B2D6A240A",
+			"dependencies": [
+				"515812396D5BC6DC"
+			],
+			"hide_dependency_lines": true,
+			"x": 5.8,
+			"y": 4.05,
+			"tasks": [
+				{
+					"id": "284AF5C58D9AD627",
+					"biome": "minecraft:warm_ocean",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "6BE58C018B40377B",
+			"dependencies": [
+				"515812396D5BC6DC"
+			],
+			"hide_dependency_lines": true,
+			"x": 7.25,
+			"y": 4.05,
+			"tasks": [
+				{
+					"id": "41ECEACA8AD2C2AE",
+					"biome": "minecraft:lukewarm_ocean",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "2E5B4CC094FDAC40",
+			"dependencies": [
+				"515812396D5BC6DC"
+			],
+			"hide_dependency_lines": true,
+			"x": 8.7,
+			"y": 4.05,
+			"tasks": [
+				{
+					"id": "15D588E0965D6150",
+					"biome": "minecraft:cold_ocean",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "6026F913C559D735",
+			"dependencies": [
+				"515812396D5BC6DC"
+			],
+			"hide_dependency_lines": true,
+			"x": 10.15,
+			"y": 4.05,
+			"tasks": [
+				{
+					"id": "45DB1489ED7781C7",
+					"biome": "minecraft:frozen_ocean",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "42D7AB92FA17C46C",
+			"dependencies": [
+				"515812396D5BC6DC"
+			],
+			"hide_dependency_lines": true,
+			"x": 11.6,
+			"y": 4.05,
+			"tasks": [
+				{
+					"id": "11FF1E8259B1BE33",
+					"biome": "minecraft:deep_ocean",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "534A2F9F52E8BC82",
+			"dependencies": [
+				"515812396D5BC6DC"
+			],
+			"hide_dependency_lines": true,
+			"x": 13.049999999999999,
+			"y": 4.05,
+			"tasks": [
+				{
+					"id": "4D7A976C48532F67",
+					"biome": "minecraft:deep_cold_ocean",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "08D4D84DD45D5572",
+			"dependencies": [
+				"515812396D5BC6DC"
+			],
+			"hide_dependency_lines": true,
+			"x": 14.5,
+			"y": 4.05,
+			"tasks": [
+				{
+					"id": "2A90CA567124FDE1",
+					"biome": "minecraft:deep_frozen_ocean",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "22FCE16D01162848",
+			"dependencies": [
+				"515812396D5BC6DC"
+			],
+			"hide_dependency_lines": true,
+			"x": 15.95,
+			"y": 4.05,
+			"tasks": [
+				{
+					"id": "5136F16D969382FD",
+					"biome": "minecraft:deep_lukewarm_ocean",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "112FA81553C50538",
+			"dependencies": [
+				"515812396D5BC6DC"
+			],
+			"hide_dependency_lines": true,
+			"x": 17.4,
+			"y": 4.05,
+			"tasks": [
+				{
+					"id": "7D11E3D037363000",
+					"biome": "minecraft:lush_caves",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "581CE327CD427834",
+			"dependencies": [
+				"515812396D5BC6DC"
+			],
+			"hide_dependency_lines": true,
+			"x": 18.849999999999998,
+			"y": 4.05,
+			"tasks": [
+				{
+					"id": "58FE8BC8ED434941",
+					"biome": "minecraft:dripstone_caves",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "48220253906861D7",
+			"dependencies": [
+				"515812396D5BC6DC"
+			],
+			"hide_dependency_lines": true,
+			"x": 20.3,
+			"y": 4.05,
+			"tasks": [
+				{
+					"id": "3554B0C9E0D56E99",
+					"biome": "minecraft:deep_dark",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "463B403A18921298",
+			"dependencies": [
+				"515812396D5BC6DC"
+			],
+			"hide_dependency_lines": true,
+			"x": 21.75,
+			"y": 4.05,
+			"tasks": [
+				{
+					"id": "0AB0E17EDE9BD53A",
+					"biome": "minecraft:meadow",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "2EBB0C00DA13A68C",
+			"dependencies": [
+				"515812396D5BC6DC"
+			],
+			"hide_dependency_lines": true,
+			"x": 23.2,
+			"y": 4.05,
+			"tasks": [
+				{
+					"id": "0FE5CC733180C7ED",
+					"biome": "minecraft:cherry_grove",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "494D177D3D10A168",
+			"dependencies": [
+				"515812396D5BC6DC"
+			],
+			"hide_dependency_lines": true,
+			"x": 24.65,
+			"y": 4.05,
+			"tasks": [
+				{
+					"id": "2B1C9E95CBFEBCFD",
+					"biome": "minecraft:grove",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "7600E792507BD046",
+			"dependencies": [
+				"515812396D5BC6DC"
+			],
+			"hide_dependency_lines": true,
+			"x": 26.099999999999998,
+			"y": 4.05,
+			"tasks": [
+				{
+					"id": "595E9EDB5BF3A52E",
+					"biome": "minecraft:snowy_slopes",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "2FD7B55EAFCF549E",
+			"dependencies": [
+				"515812396D5BC6DC"
+			],
+			"hide_dependency_lines": true,
+			"x": 27.55,
+			"y": 4.05,
+			"tasks": [
+				{
+					"id": "2AF1C0A11FBB4FFD",
+					"biome": "minecraft:jagged_peaks",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "46E047CB6B39F345",
+			"dependencies": [
+				"515812396D5BC6DC"
+			],
+			"hide_dependency_lines": true,
+			"x": 29.0,
+			"y": 4.05,
+			"tasks": [
+				{
+					"id": "6B7B0B652A15734E",
+					"biome": "minecraft:frozen_peaks",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "20C6DD8E0F0F9FE5",
+			"dependencies": [
+				"515812396D5BC6DC"
+			],
+			"hide_dependency_lines": true,
+			"x": 30.45,
+			"y": 4.05,
+			"tasks": [
+				{
+					"id": "6D36A6BE9DBA7BC2",
+					"biome": "minecraft:stony_peaks",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "3A839C007DAFF668",
+			"dependencies": [
+				"515812396D5BC6DC"
+			],
+			"hide_dependency_lines": true,
+			"x": 31.9,
+			"y": 4.05,
+			"tasks": [
+				{
+					"id": "66B9BDA4A9416881",
+					"biome": "minecraft:windswept_hills",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "4B6AF9294C2B7EFF",
+			"dependencies": [
+				"515812396D5BC6DC"
+			],
+			"hide_dependency_lines": true,
+			"x": 33.35,
+			"y": 4.05,
+			"tasks": [
+				{
+					"id": "4124D6E31EEE20D0",
+					"biome": "minecraft:windswept_forest",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "2F60E1DD9A450B7E",
+			"dependencies": [
+				"515812396D5BC6DC"
+			],
+			"hide_dependency_lines": true,
+			"x": 34.8,
+			"y": 4.05,
+			"tasks": [
+				{
+					"id": "06D582F970DC6D6A",
+					"biome": "minecraft:windswept_gravelly_hills",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "1DB83D02D20C004D",
+			"dependencies": [
+				"515812396D5BC6DC"
+			],
+			"hide_dependency_lines": true,
+			"x": 36.25,
+			"y": 4.05,
+			"tasks": [
+				{
+					"id": "03BC132F71013A7B",
+					"biome": "minecraft:windswept_savanna",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "78F707396A34656A",
+			"dependencies": [
+				"515812396D5BC6DC"
+			],
+			"hide_dependency_lines": true,
+			"x": 37.699999999999996,
+			"y": 4.05,
+			"tasks": [
+				{
+					"id": "7BF1D26951603AD7",
+					"biome": "minecraft:nether_wastes",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "4A86EBCE4A846773",
+			"dependencies": [
+				"515812396D5BC6DC"
+			],
+			"hide_dependency_lines": true,
+			"x": 0.0,
+			"y": 5.5,
+			"tasks": [
+				{
+					"id": "7A88A700FDBAFA72",
+					"biome": "minecraft:crimson_forest",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "21E52DB4ED933431",
+			"dependencies": [
+				"515812396D5BC6DC"
+			],
+			"hide_dependency_lines": true,
+			"x": 1.45,
+			"y": 5.5,
+			"tasks": [
+				{
+					"id": "7A2BA4E1DD42E032",
+					"biome": "minecraft:warped_forest",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "7A6D891A11E69738",
+			"dependencies": [
+				"515812396D5BC6DC"
+			],
+			"hide_dependency_lines": true,
+			"x": 2.9,
+			"y": 5.5,
+			"tasks": [
+				{
+					"id": "2AD0026B1F1A3C52",
+					"biome": "minecraft:soul_sand_valley",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "444446CE0642C5BA",
+			"dependencies": [
+				"515812396D5BC6DC"
+			],
+			"hide_dependency_lines": true,
+			"x": 4.35,
+			"y": 5.5,
+			"tasks": [
+				{
+					"id": "32C2995F7C5281F1",
+					"biome": "minecraft:basalt_deltas",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "14CF9AA589B18D88",
+			"dependencies": [
+				"515812396D5BC6DC"
+			],
+			"hide_dependency_lines": true,
+			"x": 5.8,
+			"y": 5.5,
+			"tasks": [
+				{
+					"id": "7868C7C881A04336",
+					"biome": "minecraft:the_end",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "124C4D6572B0EDEF",
+			"dependencies": [
+				"515812396D5BC6DC"
+			],
+			"hide_dependency_lines": true,
+			"x": 7.25,
+			"y": 5.5,
+			"tasks": [
+				{
+					"id": "6938E5DBF4400DC0",
+					"biome": "minecraft:end_highlands",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "07A4A09918C4482E",
+			"dependencies": [
+				"515812396D5BC6DC"
+			],
+			"hide_dependency_lines": true,
+			"x": 8.7,
+			"y": 5.5,
+			"tasks": [
+				{
+					"id": "1C70718DDE6C916E",
+					"biome": "minecraft:end_midlands",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "38161A67EECA1431",
+			"dependencies": [
+				"515812396D5BC6DC"
+			],
+			"hide_dependency_lines": true,
+			"x": 10.15,
+			"y": 5.5,
+			"tasks": [
+				{
+					"id": "13C9E7F4322D1E7F",
+					"biome": "minecraft:small_end_islands",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "5158C0DB38FB1343",
+			"dependencies": [
+				"515812396D5BC6DC"
+			],
+			"hide_dependency_lines": true,
+			"x": 11.6,
+			"y": 5.5,
+			"tasks": [
+				{
+					"id": "48770D1D24834C61",
+					"biome": "minecraft:end_barrens",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "14901754CA7E22AF",
+			"dependencies": [
+				"515812396D5BC6DC"
+			],
+			"hide_dependency_lines": true,
+			"x": 13.049999999999999,
+			"y": 5.5,
+			"tasks": [
+				{
+					"id": "511800466E7D9351",
+					"biome": "biomesoplenty:auroral_garden",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "7C1A14E1EC3A26BD",
+			"dependencies": [
+				"515812396D5BC6DC"
+			],
+			"hide_dependency_lines": true,
+			"x": 14.5,
+			"y": 5.5,
+			"tasks": [
+				{
+					"id": "6613914B1A694FC2",
+					"biome": "biomesoplenty:bayou",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "16E6DBDAFD8063A7",
+			"dependencies": [
+				"515812396D5BC6DC"
+			],
+			"hide_dependency_lines": true,
+			"x": 15.95,
+			"y": 5.5,
+			"tasks": [
+				{
+					"id": "11BEDA52F7EFEDAC",
+					"biome": "biomesoplenty:bog",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "6F4A363A14F37B95",
+			"dependencies": [
+				"515812396D5BC6DC"
+			],
+			"hide_dependency_lines": true,
+			"x": 17.4,
+			"y": 5.5,
+			"tasks": [
+				{
+					"id": "35C224EA0266DDEE",
+					"biome": "biomesoplenty:cold_desert",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "02284F3C292EDF8E",
+			"dependencies": [
+				"515812396D5BC6DC"
+			],
+			"hide_dependency_lines": true,
+			"x": 18.849999999999998,
+			"y": 5.5,
+			"tasks": [
+				{
+					"id": "593AC5234D3367AD",
+					"biome": "biomesoplenty:coniferous_forest",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "66C9805C3A65C6F9",
+			"dependencies": [
+				"515812396D5BC6DC"
+			],
+			"hide_dependency_lines": true,
+			"x": 20.3,
+			"y": 5.5,
+			"tasks": [
+				{
+					"id": "4C73433358597B87",
+					"biome": "biomesoplenty:crag",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "6AFFDA32E94E8791",
+			"dependencies": [
+				"515812396D5BC6DC"
+			],
+			"hide_dependency_lines": true,
+			"x": 21.75,
+			"y": 5.5,
+			"tasks": [
+				{
+					"id": "42A38A8CCAD70224",
+					"biome": "biomesoplenty:crystalline_chasm",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "77849A0A4AF7D58F",
+			"dependencies": [
+				"515812396D5BC6DC"
+			],
+			"hide_dependency_lines": true,
+			"x": 23.2,
+			"y": 5.5,
+			"tasks": [
+				{
+					"id": "16709FC632FE4715",
+					"biome": "biomesoplenty:dead_forest",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "29CC9FCB566411C1",
+			"dependencies": [
+				"515812396D5BC6DC"
+			],
+			"hide_dependency_lines": true,
+			"x": 24.65,
+			"y": 5.5,
+			"tasks": [
+				{
+					"id": "5CC86D0658C37FE4",
+					"biome": "biomesoplenty:dryland",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "0BCCBD24B09FED05",
+			"dependencies": [
+				"515812396D5BC6DC"
+			],
+			"hide_dependency_lines": true,
+			"x": 26.099999999999998,
+			"y": 5.5,
+			"tasks": [
+				{
+					"id": "5CE457424E22A5EA",
+					"biome": "biomesoplenty:dune_beach",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "5BD1DF0AFAE33CC0",
+			"dependencies": [
+				"515812396D5BC6DC"
+			],
+			"hide_dependency_lines": true,
+			"x": 27.55,
+			"y": 5.5,
+			"tasks": [
+				{
+					"id": "56862FC2EDB8F705",
+					"biome": "biomesoplenty:end_corruption",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "0F7E6C9470E884BB",
+			"dependencies": [
+				"515812396D5BC6DC"
+			],
+			"hide_dependency_lines": true,
+			"x": 29.0,
+			"y": 5.5,
+			"tasks": [
+				{
+					"id": "3D570BFC9111579E",
+					"biome": "biomesoplenty:end_flats",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "5ABB332EEAE29835",
+			"dependencies": [
+				"515812396D5BC6DC"
+			],
+			"hide_dependency_lines": true,
+			"x": 30.45,
+			"y": 5.5,
+			"tasks": [
+				{
+					"id": "46CF2D65CE0E19BF",
+					"biome": "biomesoplenty:end_reef",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "40FD9A42AA4CE25E",
+			"dependencies": [
+				"515812396D5BC6DC"
+			],
+			"hide_dependency_lines": true,
+			"x": 31.9,
+			"y": 5.5,
+			"tasks": [
+				{
+					"id": "0DC7845401788717",
+					"biome": "biomesoplenty:end_wilds",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "718D7D4E252D7450",
+			"dependencies": [
+				"515812396D5BC6DC"
+			],
+			"hide_dependency_lines": true,
+			"x": 33.35,
+			"y": 5.5,
+			"tasks": [
+				{
+					"id": "0BB97CF0D0C1E912",
+					"biome": "biomesoplenty:erupting_inferno",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "1311B813F0540A42",
+			"dependencies": [
+				"515812396D5BC6DC"
+			],
+			"hide_dependency_lines": true,
+			"x": 34.8,
+			"y": 5.5,
+			"tasks": [
+				{
+					"id": "19C9260F1CA72634",
+					"biome": "biomesoplenty:field",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "4F4792927D9CD63C",
+			"dependencies": [
+				"515812396D5BC6DC"
+			],
+			"hide_dependency_lines": true,
+			"x": 36.25,
+			"y": 5.5,
+			"tasks": [
+				{
+					"id": "1050861F4FF284B5",
+					"biome": "biomesoplenty:fir_clearing",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "27B639DCF392D7D6",
+			"dependencies": [
+				"515812396D5BC6DC"
+			],
+			"hide_dependency_lines": true,
+			"x": 37.699999999999996,
+			"y": 5.5,
+			"tasks": [
+				{
+					"id": "2E254FD57F7A24BD",
+					"biome": "biomesoplenty:floodplain",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "01380D4746234739",
+			"dependencies": [
+				"515812396D5BC6DC"
+			],
+			"hide_dependency_lines": true,
+			"x": 0.0,
+			"y": 6.949999999999999,
+			"tasks": [
+				{
+					"id": "0B970F1639762B78",
+					"biome": "biomesoplenty:forested_field",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "7098ADAA8FCE5CD3",
+			"dependencies": [
+				"515812396D5BC6DC"
+			],
+			"hide_dependency_lines": true,
+			"x": 1.45,
+			"y": 6.949999999999999,
+			"tasks": [
+				{
+					"id": "38E6B41C4AD260D1",
+					"biome": "biomesoplenty:fungal_jungle",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "16B57095C1D71EC9",
+			"dependencies": [
+				"515812396D5BC6DC"
+			],
+			"hide_dependency_lines": true,
+			"x": 2.9,
+			"y": 6.949999999999999,
+			"tasks": [
+				{
+					"id": "7B975170AFDDD7E7",
+					"biome": "biomesoplenty:glowing_grotto",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "6345CC4D7814DD08",
+			"dependencies": [
+				"515812396D5BC6DC"
+			],
+			"hide_dependency_lines": true,
+			"x": 4.35,
+			"y": 6.949999999999999,
+			"tasks": [
+				{
+					"id": "035CFDB8AB714C64",
+					"biome": "biomesoplenty:gravel_beach",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "589EEDE3C3326591",
+			"dependencies": [
+				"515812396D5BC6DC"
+			],
+			"hide_dependency_lines": true,
+			"x": 5.8,
+			"y": 6.949999999999999,
+			"tasks": [
+				{
+					"id": "1572F3BC0074C141",
+					"biome": "biomesoplenty:highland",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "4F3D5086796B833E",
+			"dependencies": [
+				"515812396D5BC6DC"
+			],
+			"hide_dependency_lines": true,
+			"x": 7.25,
+			"y": 6.949999999999999,
+			"tasks": [
+				{
+					"id": "0150E48199FC0E41",
+					"biome": "biomesoplenty:hot_springs",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "38D85F82AB4728DE",
+			"dependencies": [
+				"515812396D5BC6DC"
+			],
+			"hide_dependency_lines": true,
+			"x": 8.7,
+			"y": 6.949999999999999,
+			"tasks": [
+				{
+					"id": "403CF19F14868CF1",
+					"biome": "biomesoplenty:jade_cliffs",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "712852A28EE7E2BB",
+			"dependencies": [
+				"515812396D5BC6DC"
+			],
+			"hide_dependency_lines": true,
+			"x": 10.15,
+			"y": 6.949999999999999,
+			"tasks": [
+				{
+					"id": "65D265C83ABC0FDA",
+					"biome": "biomesoplenty:lavender_field",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "6AA07DE5EBAA9FDA",
+			"dependencies": [
+				"515812396D5BC6DC"
+			],
+			"hide_dependency_lines": true,
+			"x": 11.6,
+			"y": 6.949999999999999,
+			"tasks": [
+				{
+					"id": "66D530FE3F47C271",
+					"biome": "biomesoplenty:lush_desert",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "7CEFE4BD6DCFBE2F",
+			"dependencies": [
+				"515812396D5BC6DC"
+			],
+			"hide_dependency_lines": true,
+			"x": 13.049999999999999,
+			"y": 6.949999999999999,
+			"tasks": [
+				{
+					"id": "2F8951640A63DAFB",
+					"biome": "biomesoplenty:lush_savanna",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "2BC94416D18135E8",
+			"dependencies": [
+				"515812396D5BC6DC"
+			],
+			"hide_dependency_lines": true,
+			"x": 14.5,
+			"y": 6.949999999999999,
+			"tasks": [
+				{
+					"id": "7485DB16911A6C02",
+					"biome": "biomesoplenty:maple_woods",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "7E0BB67077DFCE8F",
+			"dependencies": [
+				"515812396D5BC6DC"
+			],
+			"hide_dependency_lines": true,
+			"x": 15.95,
+			"y": 6.949999999999999,
+			"tasks": [
+				{
+					"id": "7114DF6D1E8265CB",
+					"biome": "biomesoplenty:marsh",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "3DD8B486C3EB3880",
+			"dependencies": [
+				"515812396D5BC6DC"
+			],
+			"hide_dependency_lines": true,
+			"x": 17.4,
+			"y": 6.949999999999999,
+			"tasks": [
+				{
+					"id": "09A8C6DFC2D582D8",
+					"biome": "biomesoplenty:mediterranean_forest",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "65D2C433CC83021B",
+			"dependencies": [
+				"515812396D5BC6DC"
+			],
+			"hide_dependency_lines": true,
+			"x": 18.849999999999998,
+			"y": 6.949999999999999,
+			"tasks": [
+				{
+					"id": "40C07932EE066062",
+					"biome": "biomesoplenty:moor",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "4B0ABC5F6EDBD338",
+			"dependencies": [
+				"515812396D5BC6DC"
+			],
+			"hide_dependency_lines": true,
+			"x": 20.3,
+			"y": 6.949999999999999,
+			"tasks": [
+				{
+					"id": "2E4B24E0A087B72C",
+					"biome": "biomesoplenty:muskeg",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "2D0EDF0C845CE646",
+			"dependencies": [
+				"515812396D5BC6DC"
+			],
+			"hide_dependency_lines": true,
+			"x": 21.75,
+			"y": 6.949999999999999,
+			"tasks": [
+				{
+					"id": "202D6DB0165CB3D8",
+					"biome": "biomesoplenty:mystic_grove",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "16CEF9D62A11C55D",
+			"dependencies": [
+				"515812396D5BC6DC"
+			],
+			"hide_dependency_lines": true,
+			"x": 23.2,
+			"y": 6.949999999999999,
+			"tasks": [
+				{
+					"id": "5F3D3D0B97BB8573",
+					"biome": "biomesoplenty:old_growth_dead_forest",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "353B0546688B6D27",
+			"dependencies": [
+				"515812396D5BC6DC"
+			],
+			"hide_dependency_lines": true,
+			"x": 24.65,
+			"y": 6.949999999999999,
+			"tasks": [
+				{
+					"id": "7BB74A651F78E35B",
+					"biome": "biomesoplenty:old_growth_woodland",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "7766D22CAB9417C4",
+			"dependencies": [
+				"515812396D5BC6DC"
+			],
+			"hide_dependency_lines": true,
+			"x": 26.099999999999998,
+			"y": 6.949999999999999,
+			"tasks": [
+				{
+					"id": "5AA708E2891E2239",
+					"biome": "biomesoplenty:ominous_woods",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "2CCFBBC6F3AA1B0D",
+			"dependencies": [
+				"515812396D5BC6DC"
+			],
+			"hide_dependency_lines": true,
+			"x": 27.55,
+			"y": 6.949999999999999,
+			"tasks": [
+				{
+					"id": "36EE48635FD428AA",
+					"biome": "biomesoplenty:orchard",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "0A9A16829DBC2D5D",
+			"dependencies": [
+				"515812396D5BC6DC"
+			],
+			"hide_dependency_lines": true,
+			"x": 29.0,
+			"y": 6.949999999999999,
+			"tasks": [
+				{
+					"id": "4A917E04803BF852",
+					"biome": "biomesoplenty:origin_valley",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "4985B80EE740CC98",
+			"dependencies": [
+				"515812396D5BC6DC"
+			],
+			"hide_dependency_lines": true,
+			"x": 30.45,
+			"y": 6.949999999999999,
+			"tasks": [
+				{
+					"id": "6991F19A1D30EB82",
+					"biome": "biomesoplenty:overgrown_greens",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "4C444325DFCBB20F",
+			"dependencies": [
+				"515812396D5BC6DC"
+			],
+			"hide_dependency_lines": true,
+			"x": 31.9,
+			"y": 6.949999999999999,
+			"tasks": [
+				{
+					"id": "0FD99014037169DC",
+					"biome": "biomesoplenty:pasture",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "5C197E41A89664E5",
+			"dependencies": [
+				"515812396D5BC6DC"
+			],
+			"hide_dependency_lines": true,
+			"x": 33.35,
+			"y": 6.949999999999999,
+			"tasks": [
+				{
+					"id": "1A5CC7CA8A273619",
+					"biome": "biomesoplenty:prairie",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "035ABAF7093640B6",
+			"dependencies": [
+				"515812396D5BC6DC"
+			],
+			"hide_dependency_lines": true,
+			"x": 34.8,
+			"y": 6.949999999999999,
+			"tasks": [
+				{
+					"id": "43439816B5D51D01",
+					"biome": "biomesoplenty:pumpkin_patch",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "4516CFDBE33BC946",
+			"dependencies": [
+				"515812396D5BC6DC"
+			],
+			"hide_dependency_lines": true,
+			"x": 36.25,
+			"y": 6.949999999999999,
+			"tasks": [
+				{
+					"id": "4B83FF4D6E9F5D83",
+					"biome": "biomesoplenty:rainforest",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "450837E9CEF2D506",
+			"dependencies": [
+				"515812396D5BC6DC"
+			],
+			"hide_dependency_lines": true,
+			"x": 37.699999999999996,
+			"y": 6.949999999999999,
+			"tasks": [
+				{
+					"id": "11214C640345815D",
+					"biome": "biomesoplenty:redwood_forest",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "2D3D271C79DAE464",
+			"dependencies": [
+				"515812396D5BC6DC"
+			],
+			"hide_dependency_lines": true,
+			"x": 0.0,
+			"y": 8.4,
+			"tasks": [
+				{
+					"id": "7FD450F1DBA6FF3F",
+					"biome": "biomesoplenty:rocky_rainforest",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "0375ADE78FC4107D",
+			"dependencies": [
+				"515812396D5BC6DC"
+			],
+			"hide_dependency_lines": true,
+			"x": 1.45,
+			"y": 8.4,
+			"tasks": [
+				{
+					"id": "0C9802582C45DE71",
+					"biome": "biomesoplenty:rocky_shrubland",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "566049EAEF9289B3",
+			"dependencies": [
+				"515812396D5BC6DC"
+			],
+			"hide_dependency_lines": true,
+			"x": 2.9,
+			"y": 8.4,
+			"tasks": [
+				{
+					"id": "76A3BF815CDF1D2F",
+					"biome": "biomesoplenty:scrubland",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "644FB597086DE973",
+			"dependencies": [
+				"515812396D5BC6DC"
+			],
+			"hide_dependency_lines": true,
+			"x": 4.35,
+			"y": 8.4,
+			"tasks": [
+				{
+					"id": "56ACDDDBD2F362A7",
+					"biome": "biomesoplenty:seasonal_forest",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "2E78FC1028B68D0C",
+			"dependencies": [
+				"515812396D5BC6DC"
+			],
+			"hide_dependency_lines": true,
+			"x": 5.8,
+			"y": 8.4,
+			"tasks": [
+				{
+					"id": "23E8377B76354CB7",
+					"biome": "biomesoplenty:shrubland",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "66554D49C8C49F29",
+			"dependencies": [
+				"515812396D5BC6DC"
+			],
+			"hide_dependency_lines": true,
+			"x": 7.25,
+			"y": 8.4,
+			"tasks": [
+				{
+					"id": "43F0053352B7F633",
+					"biome": "biomesoplenty:snowblossom_grove",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "470D3B16D15F449A",
+			"dependencies": [
+				"515812396D5BC6DC"
+			],
+			"hide_dependency_lines": true,
+			"x": 8.7,
+			"y": 8.4,
+			"tasks": [
+				{
+					"id": "5AEDB271DED49962",
+					"biome": "biomesoplenty:snowy_coniferous_forest",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "6EC7DBA96BCFFC7A",
+			"dependencies": [
+				"515812396D5BC6DC"
+			],
+			"hide_dependency_lines": true,
+			"x": 10.15,
+			"y": 8.4,
+			"tasks": [
+				{
+					"id": "5B45A9FFE41698B4",
+					"biome": "biomesoplenty:snowy_fir_clearing",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "53E6576C06B3C3FE",
+			"dependencies": [
+				"515812396D5BC6DC"
+			],
+			"hide_dependency_lines": true,
+			"x": 11.6,
+			"y": 8.4,
+			"tasks": [
+				{
+					"id": "1E08CA782DABDBE3",
+					"biome": "biomesoplenty:snowy_maple_woods",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "57A0BB34DFD00897",
+			"dependencies": [
+				"515812396D5BC6DC"
+			],
+			"hide_dependency_lines": true,
+			"x": 13.049999999999999,
+			"y": 8.4,
+			"tasks": [
+				{
+					"id": "50ECFDE4094D3140",
+					"biome": "biomesoplenty:spider_nest",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "3AD51EB84F87F709",
+			"dependencies": [
+				"515812396D5BC6DC"
+			],
+			"hide_dependency_lines": true,
+			"x": 14.5,
+			"y": 8.4,
+			"tasks": [
+				{
+					"id": "468D0219156934F7",
+					"biome": "biomesoplenty:subtropics",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "19FEB1A412379AC6",
+			"dependencies": [
+				"515812396D5BC6DC"
+			],
+			"hide_dependency_lines": true,
+			"x": 15.95,
+			"y": 8.4,
+			"tasks": [
+				{
+					"id": "7D50CDB913955A4E",
+					"biome": "biomesoplenty:tropics",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "3F2B6A36CA261294",
+			"dependencies": [
+				"515812396D5BC6DC"
+			],
+			"hide_dependency_lines": true,
+			"x": 17.4,
+			"y": 8.4,
+			"tasks": [
+				{
+					"id": "7EBDE603196A3E1B",
+					"biome": "biomesoplenty:tundra",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "01BE53E072A09608",
+			"dependencies": [
+				"515812396D5BC6DC"
+			],
+			"hide_dependency_lines": true,
+			"x": 18.849999999999998,
+			"y": 8.4,
+			"tasks": [
+				{
+					"id": "72235802D6C87AC3",
+					"biome": "biomesoplenty:undergrowth",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "3CFCA650F5CB5BC7",
+			"dependencies": [
+				"515812396D5BC6DC"
+			],
+			"hide_dependency_lines": true,
+			"x": 20.3,
+			"y": 8.4,
+			"tasks": [
+				{
+					"id": "2C5A2B0D53D1D78E",
+					"biome": "biomesoplenty:visceral_heap",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "57E5EC5364E28D33",
+			"dependencies": [
+				"515812396D5BC6DC"
+			],
+			"hide_dependency_lines": true,
+			"x": 21.75,
+			"y": 8.4,
+			"tasks": [
+				{
+					"id": "66264BCF47CF80CB",
+					"biome": "biomesoplenty:volcanic_plains",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "6A43C9447876235B",
+			"dependencies": [
+				"515812396D5BC6DC"
+			],
+			"hide_dependency_lines": true,
+			"x": 23.2,
+			"y": 8.4,
+			"tasks": [
+				{
+					"id": "1B8188F2CD921AD2",
+					"biome": "biomesoplenty:volcano",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "179DB2824A375DF2",
+			"dependencies": [
+				"515812396D5BC6DC"
+			],
+			"hide_dependency_lines": true,
+			"x": 24.65,
+			"y": 8.4,
+			"tasks": [
+				{
+					"id": "168E09BED9D6645B",
+					"biome": "biomesoplenty:wasteland",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "10DE3F359A34C033",
+			"dependencies": [
+				"515812396D5BC6DC"
+			],
+			"hide_dependency_lines": true,
+			"x": 26.099999999999998,
+			"y": 8.4,
+			"tasks": [
+				{
+					"id": "120DDCE5650D02FA",
+					"biome": "biomesoplenty:wasteland_steppe",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "272CD3DA41189125",
+			"dependencies": [
+				"515812396D5BC6DC"
+			],
+			"hide_dependency_lines": true,
+			"x": 27.55,
+			"y": 8.4,
+			"tasks": [
+				{
+					"id": "739E90295F06A0C7",
+					"biome": "biomesoplenty:wetland",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "3EF4C3C463C24232",
+			"dependencies": [
+				"515812396D5BC6DC"
+			],
+			"hide_dependency_lines": true,
+			"x": 29.0,
+			"y": 8.4,
+			"tasks": [
+				{
+					"id": "53BE3B2FCE6EE5D1",
+					"biome": "biomesoplenty:wintry_origin_valley",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "2EABBA15464EB5A7",
+			"dependencies": [
+				"515812396D5BC6DC"
+			],
+			"hide_dependency_lines": true,
+			"x": 30.45,
+			"y": 8.4,
+			"tasks": [
+				{
+					"id": "142C69C079A38108",
+					"biome": "biomesoplenty:withered_abyss",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "44639AAFFCFC33DD",
+			"dependencies": [
+				"515812396D5BC6DC"
+			],
+			"hide_dependency_lines": true,
+			"x": 31.9,
+			"y": 8.4,
+			"tasks": [
+				{
+					"id": "27FB9394DF85352E",
+					"biome": "biomesoplenty:woodland",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "6C9EC7136705A59C",
+			"dependencies": [
+				"515812396D5BC6DC"
+			],
+			"hide_dependency_lines": true,
+			"x": 33.35,
+			"y": 8.4,
+			"tasks": [
+				{
+					"id": "4CDBB2AE02FD1B69",
+					"biome": "fishofthieves:tropical_island",
+					"type": "biome"
+				}
+			]
+		},
+		{
+			"id": "6D5F9203120D74FB",
+			"dependencies": [
+				"515812396D5BC6DC",
+				"06EE19864A6C339A",
+				"0FEDE2611050265D",
+				"037162DE5DAFB02D",
+				"6E074B5D22A2FEDE",
+				"73D55F2DB10C933C",
+				"2B8DD8E34031D202",
+				"2A633922CA461A50",
+				"53BA63FD8E54B6F9",
+				"35BB723E8F57D288",
+				"075F16715E4D005D",
+				"457E6036F3754A22",
+				"7A1A8B270D711A15",
+				"7F8C524632815F2A",
+				"6534599D95207758",
+				"7EA7754DD3786C66",
+				"49C68D8CD6B2DB07",
+				"2FC176D4DDFA2958",
+				"4A6678305383B608",
+				"59FDB57F5EED7FBB",
+				"142B14342A62C33D",
+				"430B516C2B18B36A",
+				"6332F16932D96CB9",
+				"68433EC6002FA024",
+				"45D2FEC883722256",
+				"2E8BBC40E891FFC9",
+				"76F4DF57B6DD0CE3",
+				"5A3254634AAE7C43",
+				"7194AC15A0E528DF",
+				"677E409ABB1AC9EA",
+				"2A2332ADA47E40E8",
+				"7EAAE7002891779C",
+				"6F852C8B2D6A240A",
+				"6BE58C018B40377B",
+				"2E5B4CC094FDAC40",
+				"6026F913C559D735",
+				"42D7AB92FA17C46C",
+				"534A2F9F52E8BC82",
+				"08D4D84DD45D5572",
+				"22FCE16D01162848",
+				"112FA81553C50538",
+				"581CE327CD427834",
+				"48220253906861D7",
+				"463B403A18921298",
+				"2EBB0C00DA13A68C",
+				"494D177D3D10A168",
+				"7600E792507BD046",
+				"2FD7B55EAFCF549E",
+				"46E047CB6B39F345",
+				"20C6DD8E0F0F9FE5",
+				"3A839C007DAFF668",
+				"4B6AF9294C2B7EFF",
+				"2F60E1DD9A450B7E",
+				"1DB83D02D20C004D",
+				"78F707396A34656A",
+				"4A86EBCE4A846773",
+				"21E52DB4ED933431",
+				"7A6D891A11E69738",
+				"444446CE0642C5BA",
+				"14CF9AA589B18D88",
+				"124C4D6572B0EDEF",
+				"07A4A09918C4482E",
+				"38161A67EECA1431",
+				"5158C0DB38FB1343",
+				"14901754CA7E22AF",
+				"7C1A14E1EC3A26BD",
+				"16E6DBDAFD8063A7",
+				"6F4A363A14F37B95",
+				"02284F3C292EDF8E",
+				"66C9805C3A65C6F9",
+				"6AFFDA32E94E8791",
+				"77849A0A4AF7D58F",
+				"29CC9FCB566411C1",
+				"0BCCBD24B09FED05",
+				"5BD1DF0AFAE33CC0",
+				"0F7E6C9470E884BB",
+				"5ABB332EEAE29835",
+				"40FD9A42AA4CE25E",
+				"718D7D4E252D7450",
+				"1311B813F0540A42",
+				"4F4792927D9CD63C",
+				"27B639DCF392D7D6",
+				"01380D4746234739",
+				"7098ADAA8FCE5CD3",
+				"16B57095C1D71EC9",
+				"6345CC4D7814DD08",
+				"589EEDE3C3326591",
+				"4F3D5086796B833E",
+				"38D85F82AB4728DE",
+				"712852A28EE7E2BB",
+				"6AA07DE5EBAA9FDA",
+				"7CEFE4BD6DCFBE2F",
+				"2BC94416D18135E8",
+				"7E0BB67077DFCE8F",
+				"3DD8B486C3EB3880",
+				"65D2C433CC83021B",
+				"4B0ABC5F6EDBD338",
+				"2D0EDF0C845CE646",
+				"16CEF9D62A11C55D",
+				"353B0546688B6D27",
+				"7766D22CAB9417C4",
+				"2CCFBBC6F3AA1B0D",
+				"0A9A16829DBC2D5D",
+				"4985B80EE740CC98",
+				"4C444325DFCBB20F",
+				"5C197E41A89664E5",
+				"035ABAF7093640B6",
+				"4516CFDBE33BC946",
+				"450837E9CEF2D506",
+				"2D3D271C79DAE464",
+				"0375ADE78FC4107D",
+				"566049EAEF9289B3",
+				"644FB597086DE973",
+				"2E78FC1028B68D0C",
+				"66554D49C8C49F29",
+				"470D3B16D15F449A",
+				"6EC7DBA96BCFFC7A",
+				"53E6576C06B3C3FE",
+				"57A0BB34DFD00897",
+				"3AD51EB84F87F709",
+				"19FEB1A412379AC6",
+				"3F2B6A36CA261294",
+				"01BE53E072A09608",
+				"3CFCA650F5CB5BC7",
+				"57E5EC5364E28D33",
+				"6A43C9447876235B",
+				"179DB2824A375DF2",
+				"10DE3F359A34C033",
+				"272CD3DA41189125",
+				"3EF4C3C463C24232",
+				"2EABBA15464EB5A7",
+				"44639AAFFCFC33DD",
+				"6C9EC7136705A59C"
+			],
+			"min_required_dependencies": 41,
+			"hide_dependency_lines": true,
+			"size": 1.25,
+			"x": 41.55,
+			"y": 2.6,
+			"tasks": [
+				{
+					"id": "2F3833F60BB7BC29",
+					"type": "checkmark"
+				}
+			],
+			"rewards": [
+				{
+					"id": "5035722DA607BF19",
+					"item": {
+						"id": "minecraft:ender_chest",
+						"count": 1
+					},
+					"type": "item"
+				},
+				{
+					"id": "31833FCD22B31738",
+					"item": {
+						"id": "minecraft:ender_eye",
+						"count": 1
+					},
+					"type": "item"
+				},
+				{
+					"id": "6D422120C7E378FE",
+					"xp_levels": 4,
+					"type": "xp_levels"
+				}
+			],
+			"icon": {
+				"id": "minecraft:ender_chest",
+				"count": 1
+			}
+		},
+		{
+			"id": "26DC1CBE34128207",
+			"dependencies": [
+				"515812396D5BC6DC",
+				"06EE19864A6C339A",
+				"0FEDE2611050265D",
+				"037162DE5DAFB02D",
+				"6E074B5D22A2FEDE",
+				"73D55F2DB10C933C",
+				"2B8DD8E34031D202",
+				"2A633922CA461A50",
+				"53BA63FD8E54B6F9",
+				"35BB723E8F57D288",
+				"075F16715E4D005D",
+				"457E6036F3754A22",
+				"7A1A8B270D711A15",
+				"7F8C524632815F2A",
+				"6534599D95207758",
+				"7EA7754DD3786C66",
+				"49C68D8CD6B2DB07",
+				"2FC176D4DDFA2958",
+				"4A6678305383B608",
+				"59FDB57F5EED7FBB",
+				"142B14342A62C33D",
+				"430B516C2B18B36A",
+				"6332F16932D96CB9",
+				"68433EC6002FA024",
+				"45D2FEC883722256",
+				"2E8BBC40E891FFC9",
+				"76F4DF57B6DD0CE3",
+				"5A3254634AAE7C43",
+				"7194AC15A0E528DF",
+				"677E409ABB1AC9EA",
+				"2A2332ADA47E40E8",
+				"7EAAE7002891779C",
+				"6F852C8B2D6A240A",
+				"6BE58C018B40377B",
+				"2E5B4CC094FDAC40",
+				"6026F913C559D735",
+				"42D7AB92FA17C46C",
+				"534A2F9F52E8BC82",
+				"08D4D84DD45D5572",
+				"22FCE16D01162848",
+				"112FA81553C50538",
+				"581CE327CD427834",
+				"48220253906861D7",
+				"463B403A18921298",
+				"2EBB0C00DA13A68C",
+				"494D177D3D10A168",
+				"7600E792507BD046",
+				"2FD7B55EAFCF549E",
+				"46E047CB6B39F345",
+				"20C6DD8E0F0F9FE5",
+				"3A839C007DAFF668",
+				"4B6AF9294C2B7EFF",
+				"2F60E1DD9A450B7E",
+				"1DB83D02D20C004D",
+				"78F707396A34656A",
+				"4A86EBCE4A846773",
+				"21E52DB4ED933431",
+				"7A6D891A11E69738",
+				"444446CE0642C5BA",
+				"14CF9AA589B18D88",
+				"124C4D6572B0EDEF",
+				"07A4A09918C4482E",
+				"38161A67EECA1431",
+				"5158C0DB38FB1343",
+				"14901754CA7E22AF",
+				"7C1A14E1EC3A26BD",
+				"16E6DBDAFD8063A7",
+				"6F4A363A14F37B95",
+				"02284F3C292EDF8E",
+				"66C9805C3A65C6F9",
+				"6AFFDA32E94E8791",
+				"77849A0A4AF7D58F",
+				"29CC9FCB566411C1",
+				"0BCCBD24B09FED05",
+				"5BD1DF0AFAE33CC0",
+				"0F7E6C9470E884BB",
+				"5ABB332EEAE29835",
+				"40FD9A42AA4CE25E",
+				"718D7D4E252D7450",
+				"1311B813F0540A42",
+				"4F4792927D9CD63C",
+				"27B639DCF392D7D6",
+				"01380D4746234739",
+				"7098ADAA8FCE5CD3",
+				"16B57095C1D71EC9",
+				"6345CC4D7814DD08",
+				"589EEDE3C3326591",
+				"4F3D5086796B833E",
+				"38D85F82AB4728DE",
+				"712852A28EE7E2BB",
+				"6AA07DE5EBAA9FDA",
+				"7CEFE4BD6DCFBE2F",
+				"2BC94416D18135E8",
+				"7E0BB67077DFCE8F",
+				"3DD8B486C3EB3880",
+				"65D2C433CC83021B",
+				"4B0ABC5F6EDBD338",
+				"2D0EDF0C845CE646",
+				"16CEF9D62A11C55D",
+				"353B0546688B6D27",
+				"7766D22CAB9417C4",
+				"2CCFBBC6F3AA1B0D",
+				"0A9A16829DBC2D5D",
+				"4985B80EE740CC98",
+				"4C444325DFCBB20F",
+				"5C197E41A89664E5",
+				"035ABAF7093640B6",
+				"4516CFDBE33BC946",
+				"450837E9CEF2D506",
+				"2D3D271C79DAE464",
+				"0375ADE78FC4107D",
+				"566049EAEF9289B3",
+				"644FB597086DE973",
+				"2E78FC1028B68D0C",
+				"66554D49C8C49F29",
+				"470D3B16D15F449A",
+				"6EC7DBA96BCFFC7A",
+				"53E6576C06B3C3FE",
+				"57A0BB34DFD00897",
+				"3AD51EB84F87F709",
+				"19FEB1A412379AC6",
+				"3F2B6A36CA261294",
+				"01BE53E072A09608",
+				"3CFCA650F5CB5BC7",
+				"57E5EC5364E28D33",
+				"6A43C9447876235B",
+				"179DB2824A375DF2",
+				"10DE3F359A34C033",
+				"272CD3DA41189125",
+				"3EF4C3C463C24232",
+				"2EABBA15464EB5A7",
+				"44639AAFFCFC33DD",
+				"6C9EC7136705A59C"
+			],
+			"min_required_dependencies": 81,
+			"hide_dependency_lines": true,
+			"size": 1.25,
+			"x": 41.55,
+			"y": 4.5,
+			"tasks": [
+				{
+					"id": "177E133BFBD1346C",
+					"type": "checkmark"
+				}
+			],
+			"rewards": [
+				{
+					"id": "3BD4BADEBD483745",
+					"item": {
+						"id": "waystones:warp_scroll",
+						"count": 1
+					},
+					"type": "item"
+				},
+				{
+					"id": "3E26EA8296987B94",
+					"item": {
+						"id": "minecraft:recovery_compass",
+						"count": 1
+					},
+					"type": "item"
+				},
+				{
+					"id": "6DFB51096AEBDD76",
+					"xp_levels": 7,
+					"type": "xp_levels"
+				}
+			],
+			"icon": {
+				"id": "waystones:warp_scroll",
+				"count": 1
+			}
+		},
+		{
+			"id": "59F9D77A9E1581E0",
+			"dependencies": [
+				"515812396D5BC6DC",
+				"06EE19864A6C339A",
+				"0FEDE2611050265D",
+				"037162DE5DAFB02D",
+				"6E074B5D22A2FEDE",
+				"73D55F2DB10C933C",
+				"2B8DD8E34031D202",
+				"2A633922CA461A50",
+				"53BA63FD8E54B6F9",
+				"35BB723E8F57D288",
+				"075F16715E4D005D",
+				"457E6036F3754A22",
+				"7A1A8B270D711A15",
+				"7F8C524632815F2A",
+				"6534599D95207758",
+				"7EA7754DD3786C66",
+				"49C68D8CD6B2DB07",
+				"2FC176D4DDFA2958",
+				"4A6678305383B608",
+				"59FDB57F5EED7FBB",
+				"142B14342A62C33D",
+				"430B516C2B18B36A",
+				"6332F16932D96CB9",
+				"68433EC6002FA024",
+				"45D2FEC883722256",
+				"2E8BBC40E891FFC9",
+				"76F4DF57B6DD0CE3",
+				"5A3254634AAE7C43",
+				"7194AC15A0E528DF",
+				"677E409ABB1AC9EA",
+				"2A2332ADA47E40E8",
+				"7EAAE7002891779C",
+				"6F852C8B2D6A240A",
+				"6BE58C018B40377B",
+				"2E5B4CC094FDAC40",
+				"6026F913C559D735",
+				"42D7AB92FA17C46C",
+				"534A2F9F52E8BC82",
+				"08D4D84DD45D5572",
+				"22FCE16D01162848",
+				"112FA81553C50538",
+				"581CE327CD427834",
+				"48220253906861D7",
+				"463B403A18921298",
+				"2EBB0C00DA13A68C",
+				"494D177D3D10A168",
+				"7600E792507BD046",
+				"2FD7B55EAFCF549E",
+				"46E047CB6B39F345",
+				"20C6DD8E0F0F9FE5",
+				"3A839C007DAFF668",
+				"4B6AF9294C2B7EFF",
+				"2F60E1DD9A450B7E",
+				"1DB83D02D20C004D",
+				"78F707396A34656A",
+				"4A86EBCE4A846773",
+				"21E52DB4ED933431",
+				"7A6D891A11E69738",
+				"444446CE0642C5BA",
+				"14CF9AA589B18D88",
+				"124C4D6572B0EDEF",
+				"07A4A09918C4482E",
+				"38161A67EECA1431",
+				"5158C0DB38FB1343",
+				"14901754CA7E22AF",
+				"7C1A14E1EC3A26BD",
+				"16E6DBDAFD8063A7",
+				"6F4A363A14F37B95",
+				"02284F3C292EDF8E",
+				"66C9805C3A65C6F9",
+				"6AFFDA32E94E8791",
+				"77849A0A4AF7D58F",
+				"29CC9FCB566411C1",
+				"0BCCBD24B09FED05",
+				"5BD1DF0AFAE33CC0",
+				"0F7E6C9470E884BB",
+				"5ABB332EEAE29835",
+				"40FD9A42AA4CE25E",
+				"718D7D4E252D7450",
+				"1311B813F0540A42",
+				"4F4792927D9CD63C",
+				"27B639DCF392D7D6",
+				"01380D4746234739",
+				"7098ADAA8FCE5CD3",
+				"16B57095C1D71EC9",
+				"6345CC4D7814DD08",
+				"589EEDE3C3326591",
+				"4F3D5086796B833E",
+				"38D85F82AB4728DE",
+				"712852A28EE7E2BB",
+				"6AA07DE5EBAA9FDA",
+				"7CEFE4BD6DCFBE2F",
+				"2BC94416D18135E8",
+				"7E0BB67077DFCE8F",
+				"3DD8B486C3EB3880",
+				"65D2C433CC83021B",
+				"4B0ABC5F6EDBD338",
+				"2D0EDF0C845CE646",
+				"16CEF9D62A11C55D",
+				"353B0546688B6D27",
+				"7766D22CAB9417C4",
+				"2CCFBBC6F3AA1B0D",
+				"0A9A16829DBC2D5D",
+				"4985B80EE740CC98",
+				"4C444325DFCBB20F",
+				"5C197E41A89664E5",
+				"035ABAF7093640B6",
+				"4516CFDBE33BC946",
+				"450837E9CEF2D506",
+				"2D3D271C79DAE464",
+				"0375ADE78FC4107D",
+				"566049EAEF9289B3",
+				"644FB597086DE973",
+				"2E78FC1028B68D0C",
+				"66554D49C8C49F29",
+				"470D3B16D15F449A",
+				"6EC7DBA96BCFFC7A",
+				"53E6576C06B3C3FE",
+				"57A0BB34DFD00897",
+				"3AD51EB84F87F709",
+				"19FEB1A412379AC6",
+				"3F2B6A36CA261294",
+				"01BE53E072A09608",
+				"3CFCA650F5CB5BC7",
+				"57E5EC5364E28D33",
+				"6A43C9447876235B",
+				"179DB2824A375DF2",
+				"10DE3F359A34C033",
+				"272CD3DA41189125",
+				"3EF4C3C463C24232",
+				"2EABBA15464EB5A7",
+				"44639AAFFCFC33DD",
+				"6C9EC7136705A59C"
+			],
+			"min_required_dependencies": 120,
+			"hide_dependency_lines": true,
+			"size": 1.25,
+			"x": 41.55,
+			"y": 6.4,
+			"tasks": [
+				{
+					"id": "3ACEBBD92B350E03",
+					"type": "checkmark"
+				}
+			],
+			"rewards": [
+				{
+					"id": "2112879B3FE63F0F",
+					"item": {
+						"id": "minecraft:shulker_shell",
+						"count": 1
+					},
+					"type": "item"
+				},
+				{
+					"id": "55ECDB57F18BD1B5",
+					"item": {
+						"id": "minecraft:shulker_box",
+						"count": 1
+					},
+					"type": "item"
+				},
+				{
+					"id": "677EACD838E81CFA",
+					"xp_levels": 11,
+					"type": "xp_levels"
+				}
+			],
+			"icon": {
+				"id": "minecraft:shulker_shell",
+				"count": 1
+			}
+		},
+		{
+			"id": "0C93477884AFAD51",
+			"dependencies": [
+				"515812396D5BC6DC",
+				"06EE19864A6C339A",
+				"0FEDE2611050265D",
+				"037162DE5DAFB02D",
+				"6E074B5D22A2FEDE",
+				"73D55F2DB10C933C",
+				"2B8DD8E34031D202",
+				"2A633922CA461A50",
+				"53BA63FD8E54B6F9",
+				"35BB723E8F57D288",
+				"075F16715E4D005D",
+				"457E6036F3754A22",
+				"7A1A8B270D711A15",
+				"7F8C524632815F2A",
+				"6534599D95207758",
+				"7EA7754DD3786C66",
+				"49C68D8CD6B2DB07",
+				"2FC176D4DDFA2958",
+				"4A6678305383B608",
+				"59FDB57F5EED7FBB",
+				"142B14342A62C33D",
+				"430B516C2B18B36A",
+				"6332F16932D96CB9",
+				"68433EC6002FA024",
+				"45D2FEC883722256",
+				"2E8BBC40E891FFC9",
+				"76F4DF57B6DD0CE3",
+				"5A3254634AAE7C43",
+				"7194AC15A0E528DF",
+				"677E409ABB1AC9EA",
+				"2A2332ADA47E40E8",
+				"7EAAE7002891779C",
+				"6F852C8B2D6A240A",
+				"6BE58C018B40377B",
+				"2E5B4CC094FDAC40",
+				"6026F913C559D735",
+				"42D7AB92FA17C46C",
+				"534A2F9F52E8BC82",
+				"08D4D84DD45D5572",
+				"22FCE16D01162848",
+				"112FA81553C50538",
+				"581CE327CD427834",
+				"48220253906861D7",
+				"463B403A18921298",
+				"2EBB0C00DA13A68C",
+				"494D177D3D10A168",
+				"7600E792507BD046",
+				"2FD7B55EAFCF549E",
+				"46E047CB6B39F345",
+				"20C6DD8E0F0F9FE5",
+				"3A839C007DAFF668",
+				"4B6AF9294C2B7EFF",
+				"2F60E1DD9A450B7E",
+				"1DB83D02D20C004D",
+				"78F707396A34656A",
+				"4A86EBCE4A846773",
+				"21E52DB4ED933431",
+				"7A6D891A11E69738",
+				"444446CE0642C5BA",
+				"14CF9AA589B18D88",
+				"124C4D6572B0EDEF",
+				"07A4A09918C4482E",
+				"38161A67EECA1431",
+				"5158C0DB38FB1343",
+				"14901754CA7E22AF",
+				"7C1A14E1EC3A26BD",
+				"16E6DBDAFD8063A7",
+				"6F4A363A14F37B95",
+				"02284F3C292EDF8E",
+				"66C9805C3A65C6F9",
+				"6AFFDA32E94E8791",
+				"77849A0A4AF7D58F",
+				"29CC9FCB566411C1",
+				"0BCCBD24B09FED05",
+				"5BD1DF0AFAE33CC0",
+				"0F7E6C9470E884BB",
+				"5ABB332EEAE29835",
+				"40FD9A42AA4CE25E",
+				"718D7D4E252D7450",
+				"1311B813F0540A42",
+				"4F4792927D9CD63C",
+				"27B639DCF392D7D6",
+				"01380D4746234739",
+				"7098ADAA8FCE5CD3",
+				"16B57095C1D71EC9",
+				"6345CC4D7814DD08",
+				"589EEDE3C3326591",
+				"4F3D5086796B833E",
+				"38D85F82AB4728DE",
+				"712852A28EE7E2BB",
+				"6AA07DE5EBAA9FDA",
+				"7CEFE4BD6DCFBE2F",
+				"2BC94416D18135E8",
+				"7E0BB67077DFCE8F",
+				"3DD8B486C3EB3880",
+				"65D2C433CC83021B",
+				"4B0ABC5F6EDBD338",
+				"2D0EDF0C845CE646",
+				"16CEF9D62A11C55D",
+				"353B0546688B6D27",
+				"7766D22CAB9417C4",
+				"2CCFBBC6F3AA1B0D",
+				"0A9A16829DBC2D5D",
+				"4985B80EE740CC98",
+				"4C444325DFCBB20F",
+				"5C197E41A89664E5",
+				"035ABAF7093640B6",
+				"4516CFDBE33BC946",
+				"450837E9CEF2D506",
+				"2D3D271C79DAE464",
+				"0375ADE78FC4107D",
+				"566049EAEF9289B3",
+				"644FB597086DE973",
+				"2E78FC1028B68D0C",
+				"66554D49C8C49F29",
+				"470D3B16D15F449A",
+				"6EC7DBA96BCFFC7A",
+				"53E6576C06B3C3FE",
+				"57A0BB34DFD00897",
+				"3AD51EB84F87F709",
+				"19FEB1A412379AC6",
+				"3F2B6A36CA261294",
+				"01BE53E072A09608",
+				"3CFCA650F5CB5BC7",
+				"57E5EC5364E28D33",
+				"6A43C9447876235B",
+				"179DB2824A375DF2",
+				"10DE3F359A34C033",
+				"272CD3DA41189125",
+				"3EF4C3C463C24232",
+				"2EABBA15464EB5A7",
+				"44639AAFFCFC33DD",
+				"6C9EC7136705A59C"
+			],
+			"hide_dependency_lines": true,
+			"shape": "gear",
+			"size": 1.5,
+			"x": 41.55,
+			"y": 8.299999999999999,
+			"tasks": [
+				{
+					"id": "6D661C73B392BE2C",
+					"type": "checkmark"
+				}
+			],
+			"rewards": [
+				{
+					"id": "155A1FFA3ECB3CD5",
+					"item": {
+						"id": "minecraft:elytra",
+						"count": 1
+					},
+					"type": "item"
+				},
+				{
+					"id": "0473E697D96D0B06",
+					"item": {
+						"id": "minecraft:phantom_membrane",
+						"count": 1
+					},
+					"type": "item"
+				},
+				{
+					"id": "68779588D02CFC69",
+					"xp_levels": 18,
+					"type": "xp_levels"
+				}
+			],
+			"icon": {
+				"id": "minecraft:elytra",
+				"count": 1
+			}
+		}
+	]
+}

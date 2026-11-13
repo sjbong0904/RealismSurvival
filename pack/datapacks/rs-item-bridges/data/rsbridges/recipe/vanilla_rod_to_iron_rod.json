@@ -1,0 +1,15 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "aquaculture"
+    }
+  ],
+  "type": "minecraft:crafting_transmute",
+  "category": "equipment",
+  "input": "minecraft:fishing_rod",
+  "material": "#c:ingots/iron",
+  "result": {
+    "id": "aquaculture:iron_fishing_rod"
+  }
+}

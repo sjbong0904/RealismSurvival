@@ -1,0 +1,35 @@
+{
+  "type": "oritech:centrifuge_fluid",
+  "fluidInput": {
+    "amount": 1000,
+    "ingredient": {
+      "neoforge:ingredient_type": "neoforge:components",
+      "fluids": [
+        "realismsurvival:graded_water"
+      ],
+      "components": {
+        "realismsurvival:water_quality": 0
+      }
+    }
+  },
+  "itemInputs": [
+    "#c:clumps/gold"
+  ],
+  "itemResults": [
+    {
+      "count": 2,
+      "id": "oritech:gold_gem"
+    }
+  ],
+  "time": 150,
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "oritech"
+    },
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "realismsurvival"
+    }
+  ]
+}

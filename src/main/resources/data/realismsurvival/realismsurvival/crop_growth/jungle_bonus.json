@@ -1,0 +1,13 @@
+{
+  "biomes": "#minecraft:is_jungle",
+  "crops": [
+    "minecraft:wheat",
+    "minecraft:carrots",
+    "minecraft:potatoes",
+    "minecraft:beetroots",
+    "minecraft:melon_stem",
+    "minecraft:pumpkin_stem"
+  ],
+  "growth_multiplier": 1.35,
+  "priority": 10
+}

@@ -1,0 +1,571 @@
+{
+	"default_hide_dependency_lines": false,
+	"default_quest_shape": "circle",
+	"filename": "tutorial_v_auto",
+	"group": "6F3FA9FF9CB3BA4B",
+	"icon": {
+		"id": "pipez:item_pipe",
+		"count": 1
+	},
+	"id": "4A8979AE7B6FC1FC",
+	"order_index": 5,
+	"quest_links": [],
+	"quests": [
+		{
+			"id": "62ACC082B71D8EFC",
+			"x": 0.0,
+			"y": -1.6,
+			"tasks": [
+				{
+					"id": "0824A0F142084AAE",
+					"item": {
+						"id": "ironchest:copper_chest",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "ironchest:copper_chest",
+				"count": 1
+			}
+		},
+		{
+			"id": "305D29E406DD390E",
+			"dependencies": [
+				"62ACC082B71D8EFC"
+			],
+			"x": 1.6,
+			"y": -1.6,
+			"tasks": [
+				{
+					"id": "63514818ACFFAB19",
+					"item": {
+						"id": "ironchest:wood_to_copper_chest_upgrade",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "ironchest:wood_to_copper_chest_upgrade",
+				"count": 1
+			}
+		},
+		{
+			"id": "70335B391DBA2734",
+			"dependencies": [
+				"305D29E406DD390E"
+			],
+			"x": 3.2,
+			"y": -0.8,
+			"tasks": [
+				{
+					"id": "5124C3CAAC06147F",
+					"item": {
+						"id": "ironchest:iron_chest",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "ironchest:iron_chest",
+				"count": 1
+			}
+		},
+		{
+			"id": "79F0AE9686190E9D",
+			"dependencies": [
+				"70335B391DBA2734"
+			],
+			"x": 4.8,
+			"y": -2.4,
+			"tasks": [
+				{
+					"id": "07DD00CBC44E5ABD",
+					"item": {
+						"id": "ironchest:gold_chest",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"rewards": [
+				{
+					"id": "57F3177779517C2B",
+					"count": 4,
+					"item": {
+						"id": "minecraft:gold_ingot",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "ironchest:gold_chest",
+				"count": 1
+			}
+		},
+		{
+			"id": "3CD49C8B1B5EA3A8",
+			"dependencies": [
+				"62ACC082B71D8EFC"
+			],
+			"x": 1.6,
+			"y": 0.0,
+			"tasks": [
+				{
+					"id": "130E601F2B9B6BAB",
+					"item": {
+						"id": "pipez:wrench",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"rewards": [
+				{
+					"id": "5722CFE1D4477E9F",
+					"count": 8,
+					"item": {
+						"id": "minecraft:copper_ingot",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "pipez:wrench",
+				"count": 1
+			}
+		},
+		{
+			"id": "2B304446BC54A00C",
+			"dependencies": [
+				"3CD49C8B1B5EA3A8"
+			],
+			"x": 3.2,
+			"y": 0.8,
+			"tasks": [
+				{
+					"id": "7F3070D93548A226",
+					"count": 8,
+					"item": {
+						"id": "pipez:item_pipe",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"rewards": [
+				{
+					"id": "4B72F98D2112BF28",
+					"count": 8,
+					"item": {
+						"id": "pipez:item_pipe",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "pipez:item_pipe",
+				"count": 1
+			}
+		},
+		{
+			"id": "405D80A08437B9A2",
+			"dependencies": [
+				"2B304446BC54A00C"
+			],
+			"x": 4.8,
+			"y": -0.8,
+			"tasks": [
+				{
+					"id": "45122A147553A48C",
+					"count": 8,
+					"item": {
+						"id": "pipez:fluid_pipe",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "pipez:fluid_pipe",
+				"count": 1
+			}
+		},
+		{
+			"id": "6E888C55ADD03BA9",
+			"dependencies": [
+				"2B304446BC54A00C"
+			],
+			"optional": true,
+			"x": 4.8,
+			"y": 0.8,
+			"tasks": [
+				{
+					"id": "26B0071FE1EEA3B1",
+					"item": {
+						"id": "pipez:improved_upgrade",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "pipez:improved_upgrade",
+				"count": 1
+			}
+		},
+		{
+			"id": "2739523D880D76B1",
+			"dependencies": [
+				"405D80A08437B9A2"
+			],
+			"x": 8.0,
+			"y": 0.0,
+			"tasks": [
+				{
+					"id": "220F463AD307CDB7",
+					"item": {
+						"id": "fluidtank:tank_copper",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "fluidtank:tank_copper",
+				"count": 1
+			}
+		},
+		{
+			"id": "30534F49CB803F11",
+			"dependencies": [
+				"2739523D880D76B1"
+			],
+			"x": 9.6,
+			"y": -0.8,
+			"tasks": [
+				{
+					"id": "1F7D52373496C5C3",
+					"item": {
+						"id": "fluidtank:tank_iron",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "fluidtank:tank_iron",
+				"count": 1
+			}
+		},
+		{
+			"id": "4479935B138C17F3",
+			"dependencies": [
+				"30534F49CB803F11"
+			],
+			"x": 11.2,
+			"y": -1.6,
+			"tasks": [
+				{
+					"id": "2A7AC7CBB67CF00E",
+					"item": {
+						"id": "fluidtank:reservoir_iron",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "fluidtank:reservoir_iron",
+				"count": 1
+			}
+		},
+		{
+			"id": "6DA2A9B3E5CFC27F",
+			"dependencies": [
+				"405D80A08437B9A2",
+				"2739523D880D76B1"
+			],
+			"x": 9.6,
+			"y": 0.8,
+			"tasks": [
+				{
+					"id": "6BD7FB7A3C5EC2A7",
+					"count": 16,
+					"item": {
+						"id": "realismsurvival:distilled_water_bottle",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "realismsurvival:distilled_water_bottle",
+				"count": 1
+			}
+		},
+		{
+			"id": "3C6D7E17DEAF6CED",
+			"dependencies": [
+				"6DA2A9B3E5CFC27F"
+			],
+			"x": 11.2,
+			"y": 0.0,
+			"tasks": [
+				{
+					"id": "74AB92A2EBD6DF48",
+					"count": 16,
+					"item": {
+						"id": "realismsurvival:fresh_water_bottle",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"rewards": [
+				{
+					"id": "3E2622860A8519D1",
+					"count": 4,
+					"item": {
+						"id": "realismsurvival:filter_cartridge",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "realismsurvival:fresh_water_bottle",
+				"count": 1
+			}
+		},
+		{
+			"id": "3557C64F80EC8314",
+			"dependencies": [
+				"4479935B138C17F3",
+				"3C6D7E17DEAF6CED"
+			],
+			"x": 12.8,
+			"y": 0.0,
+			"tasks": [
+				{
+					"id": "5A8A09731A06AB71",
+					"count": 4,
+					"item": {
+						"id": "realismsurvival:distilled_water_bucket",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "realismsurvival:distilled_water_bucket",
+				"count": 1
+			}
+		},
+		{
+			"id": "512AAE6A5E05FF27",
+			"dependencies": [
+				"6DA2A9B3E5CFC27F",
+				"2140E3AD1708060E"
+			],
+			"x": 11.2,
+			"y": 1.6,
+			"tasks": [
+				{
+					"id": "7D9498CDD9C70ECD",
+					"count": 32,
+					"item": {
+						"id": "realismsurvival:salt",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"rewards": [
+				{
+					"id": "4A793B46E35BE41F",
+					"count": 4,
+					"item": {
+						"id": "realismsurvival:salt_block",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "realismsurvival:salt",
+				"count": 1
+			}
+		},
+		{
+			"id": "4B21F5A24114FD21",
+			"dependencies": [
+				"2B304446BC54A00C",
+				"03989BC73B2D1FE9"
+			],
+			"x": 4.8,
+			"y": 2.4,
+			"tasks": [
+				{
+					"id": "30554F5E61DBA119",
+					"type": "checkmark"
+				}
+			]
+		},
+		{
+			"id": "338F53CBF816ADAD",
+			"dependencies": [
+				"2B304446BC54A00C",
+				"6997797D673F4017"
+			],
+			"x": 6.4,
+			"y": 0.0,
+			"tasks": [
+				{
+					"id": "489FE99AF7AA6B9F",
+					"type": "checkmark"
+				}
+			]
+		},
+		{
+			"id": "0842462F9A62C823",
+			"dependencies": [
+				"271C2A4403E737A5"
+			],
+			"x": 0.0,
+			"y": 0.0,
+			"tasks": [
+				{
+					"id": "0246FFDD91386643",
+					"item": {
+						"id": "sophisticatedbackpacks:iron_backpack",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "sophisticatedbackpacks:iron_backpack",
+				"count": 1
+			}
+		},
+		{
+			"id": "20C6A855D971E0C7",
+			"dependencies": [
+				"3557C64F80EC8314",
+				"4B21F5A24114FD21",
+				"338F53CBF816ADAD",
+				"0842462F9A62C823"
+			],
+			"shape": "gear",
+			"size": 1.75,
+			"x": 14.77,
+			"y": -0.8,
+			"tasks": [
+				{
+					"id": "514651BBE773BB40",
+					"type": "checkmark"
+				}
+			],
+			"rewards": [
+				{
+					"id": "2F3A691D7000030C",
+					"count": 2,
+					"item": {
+						"id": "minecraft:gold_block",
+						"count": 1
+					},
+					"type": "item"
+				},
+				{
+					"id": "157F5BC807C08A05",
+					"count": 8,
+					"item": {
+						"id": "realismsurvival:filter_cartridge",
+						"count": 1
+					},
+					"type": "item"
+				},
+				{
+					"id": "467551A8DC477B6A",
+					"xp_levels": 15,
+					"type": "xp_levels"
+				}
+			],
+			"icon": {
+				"id": "minecraft:gold_block",
+				"count": 1
+			}
+		},
+		{
+			"id": "3059BE8DE14E8D4D",
+			"dependencies": [
+				"5482E963E7E6F16A",
+				"3557C64F80EC8314",
+				"4B21F5A24114FD21",
+				"338F53CBF816ADAD"
+			],
+			"optional": true,
+			"x": 14.77,
+			"y": 1.18,
+			"tasks": [
+				{
+					"id": "464656727870896D",
+					"type": "checkmark"
+				}
+			]
+		},
+		{
+			"id": "3C1301788B81ED97",
+			"dependencies": [
+				"49D80AA1C5E8BB6B"
+			],
+			"optional": true,
+			"x": 0.0,
+			"y": 1.6,
+			"tasks": [
+				{
+					"id": "172738EE8938EA3C",
+					"item": {
+						"id": "oritech:resource_node_resonator",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "oritech:resource_node_resonator",
+				"count": 1
+			}
+		},
+		{
+			"id": "46D063E9E931F815",
+			"dependencies": [
+				"3C1301788B81ED97"
+			],
+			"optional": true,
+			"x": 1.6,
+			"y": 1.6,
+			"tasks": [
+				{
+					"id": "18B8D53689B598E8",
+					"item": {
+						"id": "oritech:bedrock_extractor",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "oritech:bedrock_extractor",
+				"count": 1
+			}
+		}
+	]
+}

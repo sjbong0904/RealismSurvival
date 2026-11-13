@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "CGC",
+    "IUI",
+    "IFI"
+  ],
+  "key": {
+    "C": "minecraft:copper_ingot",
+    "G": "minecraft:glass",
+    "I": "minecraft:iron_ingot",
+    "U": "minecraft:cauldron",
+    "F": "minecraft:furnace"
+  },
+  "result": {
+    "id": "realismsurvival:water_still"
+  }
+}

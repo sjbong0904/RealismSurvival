@@ -1,0 +1,7 @@
+gradle.projectsLoaded {
+  gradle.rootProject.afterEvaluate { p ->
+    p.configurations.localRuntime.resolve().each { f ->
+      println f.absolutePath
+    }
+  }
+}

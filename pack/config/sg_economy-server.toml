@@ -1,0 +1,7 @@
+["ECONOMY SETTINGS"]
+	# Whole-number gold. Changing this on an existing world rewrites balances — leave false.
+	is_decimal_currency = false
+
+["PAY COMMAND"]
+	# Player-to-player /coins pay. Safe for multiplayer; disable if unwanted.
+	is_enable_pay_command = true

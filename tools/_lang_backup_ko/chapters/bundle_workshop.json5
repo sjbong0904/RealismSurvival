@@ -1,0 +1,28 @@
+{
+	"quest.0054EB17E0E1814A.title": "공방 방",
+	"quest.0054EB17E0E1814A.quest_desc": [
+		"큰 상자, 관, 탱크, 자동 증류까지 이어지는 번들입니다.",
+		"체크하면 이어집니다."
+	],
+	"quest.0852F9F266A5F52D.title": "상자 티어",
+	"quest.0852F9F266A5F52D.quest_desc": [
+		"철과 금으로 된 큰 상자를 갖추세요."
+	],
+	"quest.118EE6F7DCDF4C8B.title": "관 세트",
+	"quest.118EE6F7DCDF4C8B.quest_desc": [
+		"물건과 물을 옮기는 관을 준비하세요."
+	],
+	"quest.0E2D9D61F3BAA42A.title": "탱크",
+	"quest.0E2D9D61F3BAA42A.quest_desc": [
+		"물을 모아 둘 큰 통을 세우세요."
+	],
+	"quest.1C036B3336D9BC34.title": "자동 증류 루프",
+	"quest.1C036B3336D9BC34.quest_desc": [
+		"증류기에 재료와 연료가 저절로 들어가게 만든 뒤 체크하세요."
+	],
+	"quest.35BDD6FD441E72EA.title": "★ 산업 인장",
+	"quest.35BDD6FD441E72EA.quest_desc": [
+		"본편 퀘스트를 모두 완료해야 합니다.",
+		"여기까지 오면 도감과 엔딩으로 이어집니다."
+	]
+}

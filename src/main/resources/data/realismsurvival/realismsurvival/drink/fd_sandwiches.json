@@ -1,0 +1,18 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "farmersdelight"
+    }
+  ],
+  "items": [
+    "farmersdelight:hamburger",
+    "farmersdelight:chicken_sandwich",
+    "farmersdelight:egg_sandwich",
+    "farmersdelight:bacon_sandwich",
+    "farmersdelight:mutton_wrap"
+  ],
+  "thirst_restore": 2.0,
+  "temperature_delta": 0.0,
+  "priority": 5
+}

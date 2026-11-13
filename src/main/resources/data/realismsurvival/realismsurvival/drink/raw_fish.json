@@ -1,0 +1,10 @@
+{
+  "items": [
+    "minecraft:cod",
+    "minecraft:salmon",
+    "minecraft:tropical_fish"
+  ],
+  "thirst_restore": -1.0,
+  "temperature_delta": -0.05,
+  "priority": 0
+}

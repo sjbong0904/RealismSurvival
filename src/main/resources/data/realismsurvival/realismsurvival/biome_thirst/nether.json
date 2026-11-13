@@ -1,0 +1,6 @@
+{
+  "biomes": "#minecraft:is_nether",
+  "thirst_per_second": 0.30,
+  "sprint_multiplier": 2.0,
+  "priority": 20
+}

@@ -1,0 +1,45 @@
+[rules]
+	# Gold toll is charged by Realism Survival; keep Waystones XP off.
+	enableXpCosts = false
+	enableDurability = true
+	enableCooldowns = true
+	warpSettings = ["$xp_per_block = 0.01", "$min_xp_cost = 0", "$max_xp_cost = 27", "$interdimensional_xp_cost = 27", "$inventory_button_cooldown = '300s'"]
+	warpRequirements = ["is_warp_stone -> damage_item(80)", "is_inventory_button -> cooldown_cost('inventory_button', $inventory_button_cooldown)"]
+	transportPets = "DISABLED"
+	transportLeashed = "ENABLED"
+	entityDenyList = ["minecraft:wither"]
+	enableModifiers = true
+	defaultVisibility = "ACTIVATION"
+	allowEveryoneToManageGlobalWaystones = false
+
+[worldGen]
+	wildWaystoneStyle = "BIOME"
+	chunksBetweenWildWaystones = 25
+	wildWaystonesDimensionAllowList = ["minecraft:the_nether", "minecraft:overworld", "minecraft:the_end"]
+	wildWaystonesDimensionDenyList = []
+	nameGenerationMode = "PRESET_FIRST"
+	nameGenerationTemplate = "{MrPork}"
+	nameGenerationPresets = []
+	spawnInVillages = "REGULAR"
+
+[inventoryButton]
+	inventoryButton = ""
+	inventoryButtonX = 58
+	inventoryButtonY = 60
+	creativeInventoryButtonX = 88
+	creativeInventoryButtonY = 33
+
+[client]
+	disableTextGlow = false
+
+[dynmap]
+	enabled = true
+
+[journeyMap]
+	enabled = true
+	preferJourneyMapIntegrationMod = true
+
+[blueMap]
+	enabled = true
+	includeWaystones = true
+	includeSharestones = true

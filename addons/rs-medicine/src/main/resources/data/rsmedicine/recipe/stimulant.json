@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:glass_bottle",
+    "minecraft:sugar",
+    "minecraft:redstone"
+  ],
+  "result": { "id": "rsmedicine:stimulant", "count": 2 }
+}

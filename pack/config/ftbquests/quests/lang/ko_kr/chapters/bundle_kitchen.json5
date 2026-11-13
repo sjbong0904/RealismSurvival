@@ -1,0 +1,94 @@
+{
+	"quest.70E547B5E81C3FAA.title": "부엌 방 입장",
+	"quest.70E547B5E81C3FAA.quest_desc": [
+		"부엌 번들 방입니다. 입장하려면 체크하세요."
+	],
+	"quest.41D483EA779295C9.title": "텃밭의 네 가지 · 품목 1",
+	"quest.41D483EA779295C9.quest_desc": [
+		"「텃밭의 네 가지」꾸러미 품목입니다."
+	],
+	"quest.755F2BDD7E1F5AC9.title": "텃밭의 네 가지 · 품목 2",
+	"quest.755F2BDD7E1F5AC9.quest_desc": [
+		"「텃밭의 네 가지」꾸러미 품목입니다."
+	],
+	"quest.05C2F7BA901D993D.title": "텃밭의 네 가지 · 품목 3",
+	"quest.05C2F7BA901D993D.quest_desc": [
+		"「텃밭의 네 가지」꾸러미 품목입니다."
+	],
+	"quest.450BF428F8F2E9FC.title": "텃밭의 네 가지 · 품목 4",
+	"quest.450BF428F8F2E9FC.quest_desc": [
+		"「텃밭의 네 가지」꾸러미 품목입니다."
+	],
+	"quest.6AF09EB82C36BC07.title": "텃밭의 네 가지 · 완료",
+	"quest.6AF09EB82C36BC07.quest_desc": [
+		"「텃밭의 네 가지」꾸러미를 완성했습니다. 체크하세요."
+	],
+	"quest.699EA75D21FE6090.title": "손에 쥔 도구 · 품목 1",
+	"quest.699EA75D21FE6090.quest_desc": [
+		"「손에 쥔 도구」꾸러미 품목입니다."
+	],
+	"quest.055F1D66EEC0ECEB.title": "손에 쥔 도구 · 품목 2",
+	"quest.055F1D66EEC0ECEB.quest_desc": [
+		"「손에 쥔 도구」꾸러미 품목입니다."
+	],
+	"quest.5936066FF58878ED.title": "손에 쥔 도구 · 품목 3",
+	"quest.5936066FF58878ED.quest_desc": [
+		"「손에 쥔 도구」꾸러미 품목입니다."
+	],
+	"quest.3E5AB918A254B486.title": "손에 쥔 도구 · 품목 4",
+	"quest.3E5AB918A254B486.quest_desc": [
+		"「손에 쥔 도구」꾸러미 품목입니다."
+	],
+	"quest.1E5C3C064B08EC6F.title": "손에 쥔 도구 · 품목 5",
+	"quest.1E5C3C064B08EC6F.quest_desc": [
+		"「손에 쥔 도구」꾸러미 품목입니다."
+	],
+	"quest.1F3C0E30C674B375.title": "손에 쥔 도구 · 완료",
+	"quest.1F3C0E30C674B375.quest_desc": [
+		"「손에 쥔 도구」꾸러미를 완성했습니다. 체크하세요."
+	],
+	"quest.131A51D5ED98BC55.title": "한 상 차림 · 품목 1",
+	"quest.131A51D5ED98BC55.quest_desc": [
+		"「한 상 차림」꾸러미 품목입니다."
+	],
+	"quest.776005EE487D66AA.title": "한 상 차림 · 품목 2",
+	"quest.776005EE487D66AA.quest_desc": [
+		"「한 상 차림」꾸러미 품목입니다."
+	],
+	"quest.7A318EE00714EAC6.title": "한 상 차림 · 품목 3",
+	"quest.7A318EE00714EAC6.quest_desc": [
+		"「한 상 차림」꾸러미 품목입니다."
+	],
+	"quest.23E678245B87C4E5.title": "한 상 차림 · 품목 4",
+	"quest.23E678245B87C4E5.quest_desc": [
+		"「한 상 차림」꾸러미 품목입니다."
+	],
+	"quest.35D43327882EB669.title": "한 상 차림 · 완료",
+	"quest.35D43327882EB669.quest_desc": [
+		"「한 상 차림」꾸러미를 완성했습니다. 체크하세요."
+	],
+	"quest.0B6AF6034030A0B5.title": "열대의 과일 · 품목 1",
+	"quest.0B6AF6034030A0B5.quest_desc": [
+		"「열대의 과일」꾸러미 품목입니다."
+	],
+	"quest.7CB62A5A1BE98E42.title": "열대의 과일 · 품목 2",
+	"quest.7CB62A5A1BE98E42.quest_desc": [
+		"「열대의 과일」꾸러미 품목입니다."
+	],
+	"quest.742AA46077E8B9DC.title": "열대의 과일 · 품목 3",
+	"quest.742AA46077E8B9DC.quest_desc": [
+		"「열대의 과일」꾸러미 품목입니다."
+	],
+	"quest.09B7C853D1E1C8B8.title": "열대의 과일 · 품목 4",
+	"quest.09B7C853D1E1C8B8.quest_desc": [
+		"「열대의 과일」꾸러미 품목입니다."
+	],
+	"quest.18565421A1D70836.title": "열대의 과일 · 완료",
+	"quest.18565421A1D70836.quest_desc": [
+		"「열대의 과일」꾸러미를 완성했습니다. 체크하세요."
+	],
+	"quest.1930323319D47EAA.title": "부엌 인장",
+	"quest.1930323319D47EAA.quest_desc": [
+		"부엌 방의 인장입니다. 보상을 받으려면 체크하세요."
+	]
+}

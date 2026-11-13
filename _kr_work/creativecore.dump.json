@@ -1,0 +1,233 @@
+[
+{
+"k": "gui.true",
+"en": "true",
+"jko": null,
+"ov": "진실",
+"src": "참"
+},
+{
+"k": "gui.false",
+"en": "false",
+"jko": null,
+"ov": "거짓",
+"src": "거짓"
+},
+{
+"k": "gui.minus",
+"en": "-",
+"jko": null,
+"ov": "-",
+"src": "-"
+},
+{
+"k": "gui.plus",
+"en": "+",
+"jko": null,
+"ov": "+",
+"src": "+"
+},
+{
+"k": "gui.del",
+"en": "x",
+"jko": null,
+"ov": "엑스",
+"src": "x"
+},
+{
+"k": "gui.config.reset",
+"en": "r",
+"jko": null,
+"ov": "아르 자형",
+"src": "r"
+},
+{
+"k": "gui.volume",
+"en": "volume",
+"jko": null,
+"ov": "용량",
+"src": "음량"
+},
+{
+"k": "gui.pitch",
+"en": "pitch",
+"jko": null,
+"ov": "정점",
+"src": "음높이"
+},
+{
+"k": "gui.close",
+"en": "Close",
+"jko": null,
+"ov": "닫다",
+"src": "닫기"
+},
+{
+"k": "gui.perm.open",
+"en": "Open Permissions",
+"jko": null,
+"ov": "권한 열기",
+"src": "권한 열기"
+},
+{
+"k": "gui.perm.add",
+"en": "Add Group",
+"jko": null,
+"ov": "그룹 추가",
+"src": "그룹 추가"
+},
+{
+"k": "gui.content",
+"en": "Content",
+"jko": null,
+"ov": "콘텐츠",
+"src": "내용"
+},
+{
+"k": "gui.config.enabled",
+"en": "Enabled",
+"jko": null,
+"ov": "활성화됨",
+"src": "사용"
+},
+{
+"k": "gui.day",
+"en": "d",
+"jko": null,
+"ov": "디",
+"src": "일"
+},
+{
+"k": "gui.hour",
+"en": "h",
+"jko": null,
+"ov": "시간",
+"src": "시"
+},
+{
+"k": "gui.minute",
+"en": "m",
+"jko": null,
+"ov": "중",
+"src": "분"
+},
+{
+"k": "gui.second",
+"en": "s",
+"jko": null,
+"ov": "에스",
+"src": "초"
+},
+{
+"k": "gui.play",
+"en": "play",
+"jko": null,
+"ov": "놀다",
+"src": "재생"
+},
+{
+"k": "gui.ingredient.latest",
+"en": "Recent ingredients:",
+"jko": null,
+"ov": "최근 성분:",
+"src": "최근 재료:"
+},
+{
+"k": "minecraft.block",
+"en": "Block",
+"jko": null,
+"ov": "차단하다",
+"src": null
+},
+{
+"k": "minecraft.blocks",
+"en": "Blocks",
+"jko": null,
+"ov": "블록",
+"src": null
+},
+{
+"k": "minecraft.blocks.counting",
+"en": "%s Block(s)",
+"jko": null,
+"ov": "%s 블록",
+"src": null
+},
+{
+"k": "minecraft.item",
+"en": "Item",
+"jko": null,
+"ov": "목",
+"src": null
+},
+{
+"k": "minecraft.block_tag",
+"en": "Blocktag",
+"jko": null,
+"ov": "블록태그",
+"src": null
+},
+{
+"k": "minecraft.item_tag",
+"en": "Itemtag",
+"jko": null,
+"ov": "아이템태그",
+"src": null
+},
+{
+"k": "minecraft.fuel",
+"en": "Fuel",
+"jko": null,
+"ov": "연료",
+"src": null
+},
+{
+"k": "minecraft.stack",
+"en": "Stack",
+"jko": null,
+"ov": "스택",
+"src": null
+},
+{
+"k": "facing.east",
+"en": "East",
+"jko": null,
+"ov": "동쪽",
+"src": null
+},
+{
+"k": "facing.west",
+"en": "West",
+"jko": null,
+"ov": "서쪽",
+"src": null
+},
+{
+"k": "facing.up",
+"en": "Up",
+"jko": null,
+"ov": "위로",
+"src": null
+},
+{
+"k": "facing.down",
+"en": "Down",
+"jko": null,
+"ov": "아래에",
+"src": null
+},
+{
+"k": "facing.south",
+"en": "South",
+"jko": null,
+"ov": "남쪽",
+"src": null
+},
+{
+"k": "facing.north",
+"en": "North",
+"jko": null,
+"ov": "북쪽",
+"src": null
+}
+]

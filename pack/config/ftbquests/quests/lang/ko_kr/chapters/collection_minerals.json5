@@ -1,0 +1,159 @@
+{
+	"quest.15A6DA337CBC08A1.title": "광물 도감 시작",
+	"quest.15A6DA337CBC08A1.quest_desc": [
+		"광물 도감입니다. 항목을 하나씩 완료해 보세요.",
+		"직접 체크하세요."
+	],
+	"quest.1B0D19E2A806F2E0.title": "석탄",
+	"quest.1B0D19E2A806F2E0.quest_desc": [
+		"석탄을 보유하세요."
+	],
+	"quest.6D0D3BDA328FEF55.title": "숯",
+	"quest.6D0D3BDA328FEF55.quest_desc": [
+		"숯을 보유하세요."
+	],
+	"quest.5F5D769EAF261CE9.title": "철 원석",
+	"quest.5F5D769EAF261CE9.quest_desc": [
+		"철 원석을 보유하세요."
+	],
+	"quest.7ADAEAC4A1037725.title": "철 주괴",
+	"quest.7ADAEAC4A1037725.quest_desc": [
+		"철 주괴를 보유하세요."
+	],
+	"quest.60AE337A9554F983.title": "구리 원석",
+	"quest.60AE337A9554F983.quest_desc": [
+		"구리 원석을 보유하세요."
+	],
+	"quest.0DB5237F2ACB0E2E.title": "구리 주괴",
+	"quest.0DB5237F2ACB0E2E.quest_desc": [
+		"구리 주괴를 보유하세요."
+	],
+	"quest.595D5FB4B7396272.title": "금 원석",
+	"quest.595D5FB4B7396272.quest_desc": [
+		"금 원석을 보유하세요."
+	],
+	"quest.3430A8AC1B53A77C.title": "금 주괴",
+	"quest.3430A8AC1B53A77C.quest_desc": [
+		"금 주괴를 보유하세요."
+	],
+	"quest.0593A1724DA0881E.title": "레드스톤 가루",
+	"quest.0593A1724DA0881E.quest_desc": [
+		"레드스톤 가루를 보유하세요."
+	],
+	"quest.5542AC68FF705E68.title": "청금석",
+	"quest.5542AC68FF705E68.quest_desc": [
+		"청금석을 보유하세요."
+	],
+	"quest.6FC50E44FB0CD3E2.title": "다이아몬드",
+	"quest.6FC50E44FB0CD3E2.quest_desc": [
+		"다이아몬드를 보유하세요."
+	],
+	"quest.4527ECF63C8A6081.title": "에메랄드",
+	"quest.4527ECF63C8A6081.quest_desc": [
+		"에메랄드를 보유하세요."
+	],
+	"quest.2888388111F2ECC8.title": "자수정 조각",
+	"quest.2888388111F2ECC8.quest_desc": [
+		"자수정 조각을 보유하세요."
+	],
+	"quest.6303AE4EE78A511E.title": "네더 석영",
+	"quest.6303AE4EE78A511E.quest_desc": [
+		"네더 석영을 보유하세요."
+	],
+	"quest.02BAF21EFEC5DD3F.title": "네더라이트 파편",
+	"quest.02BAF21EFEC5DD3F.quest_desc": [
+		"네더라이트 파편을 보유하세요."
+	],
+	"quest.4930F6FB9D3CAE7B.title": "네더라이트 주괴",
+	"quest.4930F6FB9D3CAE7B.quest_desc": [
+		"네더라이트 주괴를 보유하세요."
+	],
+	"quest.2230D5055FFCC96F.title": "고대 잔해",
+	"quest.2230D5055FFCC96F.quest_desc": [
+		"고대 잔해를 보유하세요."
+	],
+	"quest.3E7AAEBCCD6C2C1D.title": "흑요석",
+	"quest.3E7AAEBCCD6C2C1D.quest_desc": [
+		"흑요석을 보유하세요."
+	],
+	"quest.4C0172D6B62F4C98.title": "우는 흑요석",
+	"quest.4C0172D6B62F4C98.quest_desc": [
+		"우는 흑요석을 보유하세요."
+	],
+	"quest.173D934174556FC5.title": "발광석 가루",
+	"quest.173D934174556FC5.quest_desc": [
+		"발광석 가루를 보유하세요."
+	],
+	"quest.5A7F75B70B6652A5.title": "블레이즈 막대",
+	"quest.5A7F75B70B6652A5.quest_desc": [
+		"블레이즈 막대를 보유하세요."
+	],
+	"quest.6A612CEAAB30AB51.title": "가스트의 눈물",
+	"quest.6A612CEAAB30AB51.quest_desc": [
+		"가스트의 눈물을 보유하세요."
+	],
+	"quest.0078503638FC21BC.title": "엔더 진주",
+	"quest.0078503638FC21BC.quest_desc": [
+		"엔더 진주를 보유하세요."
+	],
+	"quest.263706F85BB91B8E.title": "메아리 조각",
+	"quest.263706F85BB91B8E.quest_desc": [
+		"메아리 조각을 보유하세요."
+	],
+	"quest.378E187AE04FA99C.title": "프리즈마린 조각",
+	"quest.378E187AE04FA99C.quest_desc": [
+		"프리즈마린 조각을 보유하세요."
+	],
+	"quest.4DE09D436221959F.title": "프리즈마린 수정",
+	"quest.4DE09D436221959F.quest_desc": [
+		"프리즈마린 수정을 보유하세요."
+	],
+	"quest.0210EB0FDB8DCA13.title": "네더의 별",
+	"quest.0210EB0FDB8DCA13.quest_desc": [
+		"네더의 별을 보유하세요."
+	],
+	"quest.16B1ADD2DF5184A3.title": "소금",
+	"quest.16B1ADD2DF5184A3.quest_desc": [
+		"소금을 보유하세요."
+	],
+	"quest.358B783E0364437A.title": "소금 블록",
+	"quest.358B783E0364437A.quest_desc": [
+		"소금 블록을 보유하세요."
+	],
+	"quest.665C90E79D6F5282.title": "필터 카트리지",
+	"quest.665C90E79D6F5282.quest_desc": [
+		"필터 카트리지를 보유하세요."
+	],
+	"quest.21B5C7EB59E16196.title": "온도계",
+	"quest.21B5C7EB59E16196.quest_desc": [
+		"온도계를 보유하세요."
+	],
+	"quest.2884D85D30F7AC54.title": "등급 얼음",
+	"quest.2884D85D30F7AC54.quest_desc": [
+		"등급 얼음을 보유하세요."
+	],
+	"quest.22739962E755A67D.title": "달력",
+	"quest.22739962E755A67D.quest_desc": [
+		"달력을 보유하세요."
+	],
+	"quest.479C90FCCF5F45BA.title": "계절 센서",
+	"quest.479C90FCCF5F45BA.quest_desc": [
+		"계절 센서를 보유하세요."
+	],
+	"quest.539DA6E030C6D920.title": "도감 30% 달성",
+	"quest.539DA6E030C6D920.quest_desc": [
+		"시작 과제를 포함해 11개 이상을 완료하면 이 단계가 열립니다."
+	],
+	"quest.5A0008DE738EB22C.title": "도감 60% 달성",
+	"quest.5A0008DE738EB22C.quest_desc": [
+		"시작 과제를 포함해 21개 이상을 완료하면 이 단계가 열립니다."
+	],
+	"quest.4EB392A429E6AB10.title": "도감 90% 달성",
+	"quest.4EB392A429E6AB10.quest_desc": [
+		"시작 과제를 포함해 31개 이상을 완료하면 이 단계가 열립니다."
+	],
+	"quest.1C35EB8C079AE6B7.title": "도감 100% 달성",
+	"quest.1C35EB8C079AE6B7.quest_desc": [
+		"시작 과제를 포함해 모든 항목을 완료하면 도감을 마칩니다."
+	]
+}

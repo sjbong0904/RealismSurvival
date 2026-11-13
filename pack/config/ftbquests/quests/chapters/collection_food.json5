@@ -1,0 +1,3716 @@
+{
+	"default_hide_dependency_lines": false,
+	"default_quest_shape": "circle",
+	"filename": "collection_food",
+	"group": "1F4528B79F489519",
+	"icon": {
+		"id": "farmersdelight:cooking_pot",
+		"count": 1
+	},
+	"id": "06ADB6D1093B7760",
+	"order_index": 1,
+	"quest_links": [],
+	"quests": [
+		{
+			"id": "153EB1E173B3D952",
+			"dependencies": [
+				"3C73B574ED1797F4"
+			],
+			"size": 1.25,
+			"x": 0,
+			"y": 0,
+			"tasks": [
+				{
+					"id": "057FA0F7755E2A7B",
+					"type": "checkmark"
+				}
+			]
+		},
+		{
+			"id": "02952F8A8278635B",
+			"dependencies": [
+				"153EB1E173B3D952"
+			],
+			"hide_dependency_lines": true,
+			"x": 0.0,
+			"y": 2.6,
+			"tasks": [
+				{
+					"id": "0A2F77211656CD58",
+					"item": {
+						"id": "minecraft:bread",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:bread",
+				"count": 1
+			}
+		},
+		{
+			"id": "19BF977FCF2B63EF",
+			"dependencies": [
+				"153EB1E173B3D952"
+			],
+			"hide_dependency_lines": true,
+			"x": 1.45,
+			"y": 2.6,
+			"tasks": [
+				{
+					"id": "62ED910A36AECCDC",
+					"item": {
+						"id": "minecraft:cookie",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:cookie",
+				"count": 1
+			}
+		},
+		{
+			"id": "76D3BC45CF2A83E3",
+			"dependencies": [
+				"153EB1E173B3D952"
+			],
+			"hide_dependency_lines": true,
+			"x": 2.9,
+			"y": 2.6,
+			"tasks": [
+				{
+					"id": "474FFE2F4B078CD0",
+					"item": {
+						"id": "minecraft:cake",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:cake",
+				"count": 1
+			}
+		},
+		{
+			"id": "064C301EBC625987",
+			"dependencies": [
+				"153EB1E173B3D952"
+			],
+			"hide_dependency_lines": true,
+			"x": 4.35,
+			"y": 2.6,
+			"tasks": [
+				{
+					"id": "6A9ADA57CEC64A04",
+					"item": {
+						"id": "minecraft:pumpkin_pie",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:pumpkin_pie",
+				"count": 1
+			}
+		},
+		{
+			"id": "25CF198A65CD6CD9",
+			"dependencies": [
+				"153EB1E173B3D952"
+			],
+			"hide_dependency_lines": true,
+			"x": 5.8,
+			"y": 2.6,
+			"tasks": [
+				{
+					"id": "363C21EA940033B3",
+					"item": {
+						"id": "minecraft:mushroom_stew",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:mushroom_stew",
+				"count": 1
+			}
+		},
+		{
+			"id": "66CE1B399760B731",
+			"dependencies": [
+				"153EB1E173B3D952"
+			],
+			"hide_dependency_lines": true,
+			"x": 7.25,
+			"y": 2.6,
+			"tasks": [
+				{
+					"id": "415099ED9B639DEF",
+					"item": {
+						"id": "minecraft:rabbit_stew",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:rabbit_stew",
+				"count": 1
+			}
+		},
+		{
+			"id": "06BF2F7CFA5A3DC3",
+			"dependencies": [
+				"153EB1E173B3D952"
+			],
+			"hide_dependency_lines": true,
+			"x": 8.7,
+			"y": 2.6,
+			"tasks": [
+				{
+					"id": "2D937D0A116F58FB",
+					"item": {
+						"id": "minecraft:beetroot_soup",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:beetroot_soup",
+				"count": 1
+			}
+		},
+		{
+			"id": "2FA13EBA6A45D4A5",
+			"dependencies": [
+				"153EB1E173B3D952"
+			],
+			"hide_dependency_lines": true,
+			"x": 10.15,
+			"y": 2.6,
+			"tasks": [
+				{
+					"id": "0DC25C343D681B23",
+					"item": {
+						"id": "minecraft:suspicious_stew",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:suspicious_stew",
+				"count": 1
+			}
+		},
+		{
+			"id": "53A0D54396F6596B",
+			"dependencies": [
+				"153EB1E173B3D952"
+			],
+			"hide_dependency_lines": true,
+			"x": 11.6,
+			"y": 2.6,
+			"tasks": [
+				{
+					"id": "32714326C3C021B9",
+					"item": {
+						"id": "minecraft:cooked_beef",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:cooked_beef",
+				"count": 1
+			}
+		},
+		{
+			"id": "414EEB97DF4C6512",
+			"dependencies": [
+				"153EB1E173B3D952"
+			],
+			"hide_dependency_lines": true,
+			"x": 13.049999999999999,
+			"y": 2.6,
+			"tasks": [
+				{
+					"id": "49BDF6E7A60B8113",
+					"item": {
+						"id": "minecraft:cooked_porkchop",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:cooked_porkchop",
+				"count": 1
+			}
+		},
+		{
+			"id": "6D53ED72FF4C8D5A",
+			"dependencies": [
+				"153EB1E173B3D952"
+			],
+			"hide_dependency_lines": true,
+			"x": 14.5,
+			"y": 2.6,
+			"tasks": [
+				{
+					"id": "180A6C3AB4A54F85",
+					"item": {
+						"id": "minecraft:cooked_chicken",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:cooked_chicken",
+				"count": 1
+			}
+		},
+		{
+			"id": "68306390D87D10C7",
+			"dependencies": [
+				"153EB1E173B3D952"
+			],
+			"hide_dependency_lines": true,
+			"x": 15.95,
+			"y": 2.6,
+			"tasks": [
+				{
+					"id": "072BBA3B1459488D",
+					"item": {
+						"id": "minecraft:cooked_mutton",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:cooked_mutton",
+				"count": 1
+			}
+		},
+		{
+			"id": "017DDF8A0BA8CC22",
+			"dependencies": [
+				"153EB1E173B3D952"
+			],
+			"hide_dependency_lines": true,
+			"x": 17.4,
+			"y": 2.6,
+			"tasks": [
+				{
+					"id": "44A81FF893453EF3",
+					"item": {
+						"id": "minecraft:cooked_rabbit",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:cooked_rabbit",
+				"count": 1
+			}
+		},
+		{
+			"id": "7C8C740ED42D757D",
+			"dependencies": [
+				"153EB1E173B3D952"
+			],
+			"hide_dependency_lines": true,
+			"x": 18.849999999999998,
+			"y": 2.6,
+			"tasks": [
+				{
+					"id": "28BE7A836355B53B",
+					"item": {
+						"id": "minecraft:cooked_cod",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:cooked_cod",
+				"count": 1
+			}
+		},
+		{
+			"id": "0E573AB2EEA9E1FB",
+			"dependencies": [
+				"153EB1E173B3D952"
+			],
+			"hide_dependency_lines": true,
+			"x": 20.3,
+			"y": 2.6,
+			"tasks": [
+				{
+					"id": "3848E3094F88CBA3",
+					"item": {
+						"id": "minecraft:cooked_salmon",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:cooked_salmon",
+				"count": 1
+			}
+		},
+		{
+			"id": "5421FE129D215172",
+			"dependencies": [
+				"153EB1E173B3D952"
+			],
+			"hide_dependency_lines": true,
+			"x": 21.75,
+			"y": 2.6,
+			"tasks": [
+				{
+					"id": "1556290F07FC5CE4",
+					"item": {
+						"id": "minecraft:beef",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:beef",
+				"count": 1
+			}
+		},
+		{
+			"id": "460CB642EF7EE2E6",
+			"dependencies": [
+				"153EB1E173B3D952"
+			],
+			"hide_dependency_lines": true,
+			"x": 23.2,
+			"y": 2.6,
+			"tasks": [
+				{
+					"id": "74208935E3D2DDC5",
+					"item": {
+						"id": "minecraft:porkchop",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:porkchop",
+				"count": 1
+			}
+		},
+		{
+			"id": "7DBA238E14310A50",
+			"dependencies": [
+				"153EB1E173B3D952"
+			],
+			"hide_dependency_lines": true,
+			"x": 24.65,
+			"y": 2.6,
+			"tasks": [
+				{
+					"id": "123E5E85584A2373",
+					"item": {
+						"id": "minecraft:chicken",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:chicken",
+				"count": 1
+			}
+		},
+		{
+			"id": "3BC174E9B48364F4",
+			"dependencies": [
+				"153EB1E173B3D952"
+			],
+			"hide_dependency_lines": true,
+			"x": 26.099999999999998,
+			"y": 2.6,
+			"tasks": [
+				{
+					"id": "5B48784F25FB153A",
+					"item": {
+						"id": "minecraft:mutton",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:mutton",
+				"count": 1
+			}
+		},
+		{
+			"id": "2D4CA1A72D772808",
+			"dependencies": [
+				"153EB1E173B3D952"
+			],
+			"hide_dependency_lines": true,
+			"x": 27.55,
+			"y": 2.6,
+			"tasks": [
+				{
+					"id": "5F5297AE41F8D4CA",
+					"item": {
+						"id": "minecraft:rabbit",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:rabbit",
+				"count": 1
+			}
+		},
+		{
+			"id": "09814F3F0E3B5DB9",
+			"dependencies": [
+				"153EB1E173B3D952"
+			],
+			"hide_dependency_lines": true,
+			"x": 29.0,
+			"y": 2.6,
+			"tasks": [
+				{
+					"id": "4784A7823AB3F8DD",
+					"item": {
+						"id": "minecraft:cod",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:cod",
+				"count": 1
+			}
+		},
+		{
+			"id": "687E5088BCEFEC8B",
+			"dependencies": [
+				"153EB1E173B3D952"
+			],
+			"hide_dependency_lines": true,
+			"x": 30.45,
+			"y": 2.6,
+			"tasks": [
+				{
+					"id": "750047CBB9594CD8",
+					"item": {
+						"id": "minecraft:salmon",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:salmon",
+				"count": 1
+			}
+		},
+		{
+			"id": "14239234FCACCC70",
+			"dependencies": [
+				"153EB1E173B3D952"
+			],
+			"hide_dependency_lines": true,
+			"x": 31.9,
+			"y": 2.6,
+			"tasks": [
+				{
+					"id": "2DA8371DCD949221",
+					"item": {
+						"id": "minecraft:tropical_fish",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:tropical_fish",
+				"count": 1
+			}
+		},
+		{
+			"id": "643C2B41EDBAB874",
+			"dependencies": [
+				"153EB1E173B3D952"
+			],
+			"hide_dependency_lines": true,
+			"x": 33.35,
+			"y": 2.6,
+			"tasks": [
+				{
+					"id": "096E6F6894F0E775",
+					"item": {
+						"id": "minecraft:pufferfish",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:pufferfish",
+				"count": 1
+			}
+		},
+		{
+			"id": "16281BFC984E3965",
+			"dependencies": [
+				"153EB1E173B3D952"
+			],
+			"hide_dependency_lines": true,
+			"x": 34.8,
+			"y": 2.6,
+			"tasks": [
+				{
+					"id": "7338BC81BFEA7E4C",
+					"item": {
+						"id": "minecraft:rotten_flesh",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:rotten_flesh",
+				"count": 1
+			}
+		},
+		{
+			"id": "183F170D87FBC0E8",
+			"dependencies": [
+				"153EB1E173B3D952"
+			],
+			"hide_dependency_lines": true,
+			"x": 36.25,
+			"y": 2.6,
+			"tasks": [
+				{
+					"id": "78394676A031AE12",
+					"item": {
+						"id": "minecraft:spider_eye",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:spider_eye",
+				"count": 1
+			}
+		},
+		{
+			"id": "56F35A283503A846",
+			"dependencies": [
+				"153EB1E173B3D952"
+			],
+			"hide_dependency_lines": true,
+			"x": 0.0,
+			"y": 4.05,
+			"tasks": [
+				{
+					"id": "438AFEC1C24BD6F6",
+					"item": {
+						"id": "minecraft:fermented_spider_eye",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:fermented_spider_eye",
+				"count": 1
+			}
+		},
+		{
+			"id": "187D98B440077DC7",
+			"dependencies": [
+				"153EB1E173B3D952"
+			],
+			"hide_dependency_lines": true,
+			"x": 1.45,
+			"y": 4.05,
+			"tasks": [
+				{
+					"id": "2729C127F7845ECD",
+					"item": {
+						"id": "minecraft:golden_carrot",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:golden_carrot",
+				"count": 1
+			}
+		},
+		{
+			"id": "56B2DC710ADDFB3D",
+			"dependencies": [
+				"153EB1E173B3D952"
+			],
+			"hide_dependency_lines": true,
+			"x": 2.9,
+			"y": 4.05,
+			"tasks": [
+				{
+					"id": "10D03F25035D93FF",
+					"item": {
+						"id": "minecraft:honey_bottle",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:honey_bottle",
+				"count": 1
+			}
+		},
+		{
+			"id": "6020DAB765222CB8",
+			"dependencies": [
+				"153EB1E173B3D952"
+			],
+			"hide_dependency_lines": true,
+			"x": 4.35,
+			"y": 4.05,
+			"tasks": [
+				{
+					"id": "3A026F2E776F08CA",
+					"item": {
+						"id": "minecraft:dried_kelp",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:dried_kelp",
+				"count": 1
+			}
+		},
+		{
+			"id": "2212241908BBC32C",
+			"dependencies": [
+				"153EB1E173B3D952"
+			],
+			"hide_dependency_lines": true,
+			"x": 5.8,
+			"y": 4.05,
+			"tasks": [
+				{
+					"id": "72EE2178B0DF9D2D",
+					"item": {
+						"id": "minecraft:apple",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:apple",
+				"count": 1
+			}
+		},
+		{
+			"id": "01D31A05A6EB0A91",
+			"dependencies": [
+				"153EB1E173B3D952"
+			],
+			"hide_dependency_lines": true,
+			"x": 7.25,
+			"y": 4.05,
+			"tasks": [
+				{
+					"id": "4A460C5EA5ABEE31",
+					"item": {
+						"id": "minecraft:golden_apple",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:golden_apple",
+				"count": 1
+			}
+		},
+		{
+			"id": "70924391448F2B18",
+			"dependencies": [
+				"153EB1E173B3D952"
+			],
+			"hide_dependency_lines": true,
+			"x": 8.7,
+			"y": 4.05,
+			"tasks": [
+				{
+					"id": "1D0D0C43DAD83AE1",
+					"item": {
+						"id": "minecraft:enchanted_golden_apple",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:enchanted_golden_apple",
+				"count": 1
+			}
+		},
+		{
+			"id": "2560B62E9D0D0356",
+			"dependencies": [
+				"153EB1E173B3D952"
+			],
+			"hide_dependency_lines": true,
+			"x": 10.15,
+			"y": 4.05,
+			"tasks": [
+				{
+					"id": "524745B5438593FE",
+					"item": {
+						"id": "minecraft:carrot",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:carrot",
+				"count": 1
+			}
+		},
+		{
+			"id": "1CE218AD5EF1B782",
+			"dependencies": [
+				"153EB1E173B3D952"
+			],
+			"hide_dependency_lines": true,
+			"x": 11.6,
+			"y": 4.05,
+			"tasks": [
+				{
+					"id": "314B6B433AD97E9D",
+					"item": {
+						"id": "minecraft:potato",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:potato",
+				"count": 1
+			}
+		},
+		{
+			"id": "0CFB50EEFBC00644",
+			"dependencies": [
+				"153EB1E173B3D952"
+			],
+			"hide_dependency_lines": true,
+			"x": 13.049999999999999,
+			"y": 4.05,
+			"tasks": [
+				{
+					"id": "5187AA2DBD0AC120",
+					"item": {
+						"id": "minecraft:baked_potato",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:baked_potato",
+				"count": 1
+			}
+		},
+		{
+			"id": "2972F6FFE405065B",
+			"dependencies": [
+				"153EB1E173B3D952"
+			],
+			"hide_dependency_lines": true,
+			"x": 14.5,
+			"y": 4.05,
+			"tasks": [
+				{
+					"id": "181392BE31BE03B6",
+					"item": {
+						"id": "minecraft:poisonous_potato",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:poisonous_potato",
+				"count": 1
+			}
+		},
+		{
+			"id": "38B6C1672A6076B9",
+			"dependencies": [
+				"153EB1E173B3D952"
+			],
+			"hide_dependency_lines": true,
+			"x": 15.95,
+			"y": 4.05,
+			"tasks": [
+				{
+					"id": "2B74DD0141A4B04B",
+					"item": {
+						"id": "minecraft:beetroot",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:beetroot",
+				"count": 1
+			}
+		},
+		{
+			"id": "211092160B80FAFC",
+			"dependencies": [
+				"153EB1E173B3D952"
+			],
+			"hide_dependency_lines": true,
+			"x": 17.4,
+			"y": 4.05,
+			"tasks": [
+				{
+					"id": "433EA5FE2719284C",
+					"item": {
+						"id": "minecraft:melon_slice",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:melon_slice",
+				"count": 1
+			}
+		},
+		{
+			"id": "4ECE92FF8D68F582",
+			"dependencies": [
+				"153EB1E173B3D952"
+			],
+			"hide_dependency_lines": true,
+			"x": 18.849999999999998,
+			"y": 4.05,
+			"tasks": [
+				{
+					"id": "5DDCFB91604C2CDB",
+					"item": {
+						"id": "minecraft:sweet_berries",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:sweet_berries",
+				"count": 1
+			}
+		},
+		{
+			"id": "2EE11D1AC6B7E520",
+			"dependencies": [
+				"153EB1E173B3D952"
+			],
+			"hide_dependency_lines": true,
+			"x": 20.3,
+			"y": 4.05,
+			"tasks": [
+				{
+					"id": "789758952CFB931A",
+					"item": {
+						"id": "minecraft:glow_berries",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:glow_berries",
+				"count": 1
+			}
+		},
+		{
+			"id": "71DF90DFADD121AA",
+			"dependencies": [
+				"153EB1E173B3D952"
+			],
+			"hide_dependency_lines": true,
+			"x": 21.75,
+			"y": 4.05,
+			"tasks": [
+				{
+					"id": "5A7CA2943E24C680",
+					"item": {
+						"id": "minecraft:chorus_fruit",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:chorus_fruit",
+				"count": 1
+			}
+		},
+		{
+			"id": "70A2695952E5A540",
+			"dependencies": [
+				"153EB1E173B3D952"
+			],
+			"hide_dependency_lines": true,
+			"x": 23.2,
+			"y": 4.05,
+			"tasks": [
+				{
+					"id": "73876A874587CFB1",
+					"item": {
+						"id": "farmersdelight:apple_cider",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "farmersdelight:apple_cider",
+				"count": 1
+			}
+		},
+		{
+			"id": "35D9D40E3F86F387",
+			"dependencies": [
+				"153EB1E173B3D952"
+			],
+			"hide_dependency_lines": true,
+			"x": 24.65,
+			"y": 4.05,
+			"tasks": [
+				{
+					"id": "02471F18F0D1F8F6",
+					"item": {
+						"id": "farmersdelight:apple_pie",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "farmersdelight:apple_pie",
+				"count": 1
+			}
+		},
+		{
+			"id": "70EA663849C427F3",
+			"dependencies": [
+				"153EB1E173B3D952"
+			],
+			"hide_dependency_lines": true,
+			"x": 26.099999999999998,
+			"y": 4.05,
+			"tasks": [
+				{
+					"id": "73E9A8B37C9FA75B",
+					"item": {
+						"id": "farmersdelight:apple_pie_slice",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "farmersdelight:apple_pie_slice",
+				"count": 1
+			}
+		},
+		{
+			"id": "3BAF07153450A2BA",
+			"dependencies": [
+				"153EB1E173B3D952"
+			],
+			"hide_dependency_lines": true,
+			"x": 27.55,
+			"y": 4.05,
+			"tasks": [
+				{
+					"id": "73117FB716341EB5",
+					"item": {
+						"id": "farmersdelight:bacon_and_eggs",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "farmersdelight:bacon_and_eggs",
+				"count": 1
+			}
+		},
+		{
+			"id": "78CC6E8037D5A137",
+			"dependencies": [
+				"153EB1E173B3D952"
+			],
+			"hide_dependency_lines": true,
+			"x": 29.0,
+			"y": 4.05,
+			"tasks": [
+				{
+					"id": "6B7CCA0E4C08B65F",
+					"item": {
+						"id": "farmersdelight:bacon_sandwich",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "farmersdelight:bacon_sandwich",
+				"count": 1
+			}
+		},
+		{
+			"id": "6BAD54E3571D8A03",
+			"dependencies": [
+				"153EB1E173B3D952"
+			],
+			"hide_dependency_lines": true,
+			"x": 30.45,
+			"y": 4.05,
+			"tasks": [
+				{
+					"id": "6EEAAD1C467B8560",
+					"item": {
+						"id": "farmersdelight:baked_cod_stew",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "farmersdelight:baked_cod_stew",
+				"count": 1
+			}
+		},
+		{
+			"id": "339E54A2194BE05B",
+			"dependencies": [
+				"153EB1E173B3D952"
+			],
+			"hide_dependency_lines": true,
+			"x": 31.9,
+			"y": 4.05,
+			"tasks": [
+				{
+					"id": "3EFCD8CFB304F3C1",
+					"item": {
+						"id": "farmersdelight:barbecue_stick",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "farmersdelight:barbecue_stick",
+				"count": 1
+			}
+		},
+		{
+			"id": "6A1E92EBBADBF70B",
+			"dependencies": [
+				"153EB1E173B3D952"
+			],
+			"hide_dependency_lines": true,
+			"x": 33.35,
+			"y": 4.05,
+			"tasks": [
+				{
+					"id": "0B0F083793EAFEA4",
+					"item": {
+						"id": "farmersdelight:beef_patty",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "farmersdelight:beef_patty",
+				"count": 1
+			}
+		},
+		{
+			"id": "4DFE5A158EE330E8",
+			"dependencies": [
+				"153EB1E173B3D952"
+			],
+			"hide_dependency_lines": true,
+			"x": 34.8,
+			"y": 4.05,
+			"tasks": [
+				{
+					"id": "7EEE06E1643ACB60",
+					"item": {
+						"id": "farmersdelight:beef_stew",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "farmersdelight:beef_stew",
+				"count": 1
+			}
+		},
+		{
+			"id": "0FD03E539A3870E3",
+			"dependencies": [
+				"153EB1E173B3D952"
+			],
+			"hide_dependency_lines": true,
+			"x": 36.25,
+			"y": 4.05,
+			"tasks": [
+				{
+					"id": "4EC738C06AB74D46",
+					"item": {
+						"id": "farmersdelight:bone_broth",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "farmersdelight:bone_broth",
+				"count": 1
+			}
+		},
+		{
+			"id": "677D779A6271BC24",
+			"dependencies": [
+				"153EB1E173B3D952"
+			],
+			"hide_dependency_lines": true,
+			"x": 0.0,
+			"y": 5.5,
+			"tasks": [
+				{
+					"id": "5D302D635DBD7A75",
+					"item": {
+						"id": "farmersdelight:cabbage_rolls",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "farmersdelight:cabbage_rolls",
+				"count": 1
+			}
+		},
+		{
+			"id": "7F19A573572FC552",
+			"dependencies": [
+				"153EB1E173B3D952"
+			],
+			"hide_dependency_lines": true,
+			"x": 1.45,
+			"y": 5.5,
+			"tasks": [
+				{
+					"id": "1189B06C35E55977",
+					"item": {
+						"id": "farmersdelight:cake_slice",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "farmersdelight:cake_slice",
+				"count": 1
+			}
+		},
+		{
+			"id": "326960BB2C381C91",
+			"dependencies": [
+				"153EB1E173B3D952"
+			],
+			"hide_dependency_lines": true,
+			"x": 2.9,
+			"y": 5.5,
+			"tasks": [
+				{
+					"id": "43AAC31DB36CEB52",
+					"item": {
+						"id": "farmersdelight:chicken_sandwich",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "farmersdelight:chicken_sandwich",
+				"count": 1
+			}
+		},
+		{
+			"id": "2D797846EF1BB038",
+			"dependencies": [
+				"153EB1E173B3D952"
+			],
+			"hide_dependency_lines": true,
+			"x": 4.35,
+			"y": 5.5,
+			"tasks": [
+				{
+					"id": "2E7F60923397F8F5",
+					"item": {
+						"id": "farmersdelight:chicken_soup",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "farmersdelight:chicken_soup",
+				"count": 1
+			}
+		},
+		{
+			"id": "5ED67E3D9C986638",
+			"dependencies": [
+				"153EB1E173B3D952"
+			],
+			"hide_dependency_lines": true,
+			"x": 5.8,
+			"y": 5.5,
+			"tasks": [
+				{
+					"id": "07FD61CC87865474",
+					"item": {
+						"id": "farmersdelight:chocolate_pie",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "farmersdelight:chocolate_pie",
+				"count": 1
+			}
+		},
+		{
+			"id": "7097ECF212C0F618",
+			"dependencies": [
+				"153EB1E173B3D952"
+			],
+			"hide_dependency_lines": true,
+			"x": 7.25,
+			"y": 5.5,
+			"tasks": [
+				{
+					"id": "3D624B30B477BD15",
+					"item": {
+						"id": "farmersdelight:chocolate_pie_slice",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "farmersdelight:chocolate_pie_slice",
+				"count": 1
+			}
+		},
+		{
+			"id": "55D900A0E5EBCC2D",
+			"dependencies": [
+				"153EB1E173B3D952"
+			],
+			"hide_dependency_lines": true,
+			"x": 8.7,
+			"y": 5.5,
+			"tasks": [
+				{
+					"id": "597D9B92A7307E39",
+					"item": {
+						"id": "farmersdelight:cod_roll",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "farmersdelight:cod_roll",
+				"count": 1
+			}
+		},
+		{
+			"id": "258F2DD1CA80ABEC",
+			"dependencies": [
+				"153EB1E173B3D952"
+			],
+			"hide_dependency_lines": true,
+			"x": 10.15,
+			"y": 5.5,
+			"tasks": [
+				{
+					"id": "07975A4B677D2901",
+					"item": {
+						"id": "farmersdelight:cooked_bacon",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "farmersdelight:cooked_bacon",
+				"count": 1
+			}
+		},
+		{
+			"id": "20F5EAC3C7FC2802",
+			"dependencies": [
+				"153EB1E173B3D952"
+			],
+			"hide_dependency_lines": true,
+			"x": 11.6,
+			"y": 5.5,
+			"tasks": [
+				{
+					"id": "6C9850A5869826A9",
+					"item": {
+						"id": "farmersdelight:cooked_chicken_cuts",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "farmersdelight:cooked_chicken_cuts",
+				"count": 1
+			}
+		},
+		{
+			"id": "08D86587ED93AE05",
+			"dependencies": [
+				"153EB1E173B3D952"
+			],
+			"hide_dependency_lines": true,
+			"x": 13.049999999999999,
+			"y": 5.5,
+			"tasks": [
+				{
+					"id": "6A572A40A34C7508",
+					"item": {
+						"id": "farmersdelight:cooked_cod_slice",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "farmersdelight:cooked_cod_slice",
+				"count": 1
+			}
+		},
+		{
+			"id": "1B4558016C45D539",
+			"dependencies": [
+				"153EB1E173B3D952"
+			],
+			"hide_dependency_lines": true,
+			"x": 14.5,
+			"y": 5.5,
+			"tasks": [
+				{
+					"id": "46F0DB848D7DE46F",
+					"item": {
+						"id": "farmersdelight:cooked_mutton_chops",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "farmersdelight:cooked_mutton_chops",
+				"count": 1
+			}
+		},
+		{
+			"id": "21CDB4F7AD99227E",
+			"dependencies": [
+				"153EB1E173B3D952"
+			],
+			"hide_dependency_lines": true,
+			"x": 15.95,
+			"y": 5.5,
+			"tasks": [
+				{
+					"id": "5E1ACA87B05948D5",
+					"item": {
+						"id": "farmersdelight:cooked_rice",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "farmersdelight:cooked_rice",
+				"count": 1
+			}
+		},
+		{
+			"id": "01365E9F16D39D7D",
+			"dependencies": [
+				"153EB1E173B3D952"
+			],
+			"hide_dependency_lines": true,
+			"x": 17.4,
+			"y": 5.5,
+			"tasks": [
+				{
+					"id": "29519CBA34ACFF94",
+					"item": {
+						"id": "farmersdelight:cooked_salmon_slice",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "farmersdelight:cooked_salmon_slice",
+				"count": 1
+			}
+		},
+		{
+			"id": "22BF3AB1D8DEEDB5",
+			"dependencies": [
+				"153EB1E173B3D952"
+			],
+			"hide_dependency_lines": true,
+			"x": 18.849999999999998,
+			"y": 5.5,
+			"tasks": [
+				{
+					"id": "16EF0D556A53FA40",
+					"item": {
+						"id": "farmersdelight:dumplings",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "farmersdelight:dumplings",
+				"count": 1
+			}
+		},
+		{
+			"id": "2D4F1A26EEACF27E",
+			"dependencies": [
+				"153EB1E173B3D952"
+			],
+			"hide_dependency_lines": true,
+			"x": 20.3,
+			"y": 5.5,
+			"tasks": [
+				{
+					"id": "4A07B9E6B1E4F1D7",
+					"item": {
+						"id": "farmersdelight:egg_sandwich",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "farmersdelight:egg_sandwich",
+				"count": 1
+			}
+		},
+		{
+			"id": "4BEB9A9D0FC82166",
+			"dependencies": [
+				"153EB1E173B3D952"
+			],
+			"hide_dependency_lines": true,
+			"x": 21.75,
+			"y": 5.5,
+			"tasks": [
+				{
+					"id": "11EC1E1A2148A5E5",
+					"item": {
+						"id": "farmersdelight:fish_stew",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "farmersdelight:fish_stew",
+				"count": 1
+			}
+		},
+		{
+			"id": "1AE323A8BF3068C4",
+			"dependencies": [
+				"153EB1E173B3D952"
+			],
+			"hide_dependency_lines": true,
+			"x": 23.2,
+			"y": 5.5,
+			"tasks": [
+				{
+					"id": "0B3448207D07CF86",
+					"item": {
+						"id": "farmersdelight:fried_egg",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "farmersdelight:fried_egg",
+				"count": 1
+			}
+		},
+		{
+			"id": "7AE67EAC4ACCC53E",
+			"dependencies": [
+				"153EB1E173B3D952"
+			],
+			"hide_dependency_lines": true,
+			"x": 24.65,
+			"y": 5.5,
+			"tasks": [
+				{
+					"id": "3F4429633EF47876",
+					"item": {
+						"id": "farmersdelight:fried_rice",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "farmersdelight:fried_rice",
+				"count": 1
+			}
+		},
+		{
+			"id": "54B0FD42D07F2F3A",
+			"dependencies": [
+				"153EB1E173B3D952"
+			],
+			"hide_dependency_lines": true,
+			"x": 26.099999999999998,
+			"y": 5.5,
+			"tasks": [
+				{
+					"id": "7475D62881C7060C",
+					"item": {
+						"id": "farmersdelight:fruit_salad",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "farmersdelight:fruit_salad",
+				"count": 1
+			}
+		},
+		{
+			"id": "19F81EB8A7020095",
+			"dependencies": [
+				"153EB1E173B3D952"
+			],
+			"hide_dependency_lines": true,
+			"x": 27.55,
+			"y": 5.5,
+			"tasks": [
+				{
+					"id": "1C0F2F128F4F20E0",
+					"item": {
+						"id": "farmersdelight:gleaming_salad",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "farmersdelight:gleaming_salad",
+				"count": 1
+			}
+		},
+		{
+			"id": "2998E405CCE916D6",
+			"dependencies": [
+				"153EB1E173B3D952"
+			],
+			"hide_dependency_lines": true,
+			"x": 29.0,
+			"y": 5.5,
+			"tasks": [
+				{
+					"id": "38855D657409A461",
+					"item": {
+						"id": "farmersdelight:glow_berry_custard",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "farmersdelight:glow_berry_custard",
+				"count": 1
+			}
+		},
+		{
+			"id": "696533AF843C96A7",
+			"dependencies": [
+				"153EB1E173B3D952"
+			],
+			"hide_dependency_lines": true,
+			"x": 30.45,
+			"y": 5.5,
+			"tasks": [
+				{
+					"id": "69826806D295EB67",
+					"item": {
+						"id": "farmersdelight:grilled_salmon",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "farmersdelight:grilled_salmon",
+				"count": 1
+			}
+		},
+		{
+			"id": "190E58608D1ADCE5",
+			"dependencies": [
+				"153EB1E173B3D952"
+			],
+			"hide_dependency_lines": true,
+			"x": 31.9,
+			"y": 5.5,
+			"tasks": [
+				{
+					"id": "113C9692FFB2B9F7",
+					"item": {
+						"id": "farmersdelight:hamburger",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "farmersdelight:hamburger",
+				"count": 1
+			}
+		},
+		{
+			"id": "5AFC2859A2268678",
+			"dependencies": [
+				"153EB1E173B3D952"
+			],
+			"hide_dependency_lines": true,
+			"x": 33.35,
+			"y": 5.5,
+			"tasks": [
+				{
+					"id": "1FF2CF43C270BFCB",
+					"item": {
+						"id": "farmersdelight:honey_cookie",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "farmersdelight:honey_cookie",
+				"count": 1
+			}
+		},
+		{
+			"id": "6ED539D70DB01A30",
+			"dependencies": [
+				"153EB1E173B3D952"
+			],
+			"hide_dependency_lines": true,
+			"x": 34.8,
+			"y": 5.5,
+			"tasks": [
+				{
+					"id": "5297701C5A1F2908",
+					"item": {
+						"id": "farmersdelight:honey_glazed_ham",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "farmersdelight:honey_glazed_ham",
+				"count": 1
+			}
+		},
+		{
+			"id": "7E8C9CD124CB888A",
+			"dependencies": [
+				"153EB1E173B3D952"
+			],
+			"hide_dependency_lines": true,
+			"x": 36.25,
+			"y": 5.5,
+			"tasks": [
+				{
+					"id": "315CEF1B095568E7",
+					"item": {
+						"id": "farmersdelight:hot_cocoa",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "farmersdelight:hot_cocoa",
+				"count": 1
+			}
+		},
+		{
+			"id": "3393DAEBC5FC09BA",
+			"dependencies": [
+				"153EB1E173B3D952"
+			],
+			"hide_dependency_lines": true,
+			"x": 0.0,
+			"y": 6.949999999999999,
+			"tasks": [
+				{
+					"id": "1AA0D049CC37B983",
+					"item": {
+						"id": "farmersdelight:kelp_roll",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "farmersdelight:kelp_roll",
+				"count": 1
+			}
+		},
+		{
+			"id": "4AED2CE37CE314F4",
+			"dependencies": [
+				"153EB1E173B3D952"
+			],
+			"hide_dependency_lines": true,
+			"x": 1.45,
+			"y": 6.949999999999999,
+			"tasks": [
+				{
+					"id": "23ABFFD0674828A7",
+					"item": {
+						"id": "farmersdelight:kelp_roll_slice",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "farmersdelight:kelp_roll_slice",
+				"count": 1
+			}
+		},
+		{
+			"id": "46F0E247AD446AC2",
+			"dependencies": [
+				"153EB1E173B3D952"
+			],
+			"hide_dependency_lines": true,
+			"x": 2.9,
+			"y": 6.949999999999999,
+			"tasks": [
+				{
+					"id": "41658A8DECDBDC7C",
+					"item": {
+						"id": "farmersdelight:melon_juice",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "farmersdelight:melon_juice",
+				"count": 1
+			}
+		},
+		{
+			"id": "21FA4BB387D82A6D",
+			"dependencies": [
+				"153EB1E173B3D952"
+			],
+			"hide_dependency_lines": true,
+			"x": 4.35,
+			"y": 6.949999999999999,
+			"tasks": [
+				{
+					"id": "6ECDD0ECE242FBE8",
+					"item": {
+						"id": "farmersdelight:melon_popsicle",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "farmersdelight:melon_popsicle",
+				"count": 1
+			}
+		},
+		{
+			"id": "4A2D595B08ACB902",
+			"dependencies": [
+				"153EB1E173B3D952"
+			],
+			"hide_dependency_lines": true,
+			"x": 5.8,
+			"y": 6.949999999999999,
+			"tasks": [
+				{
+					"id": "02C017507060A8C3",
+					"item": {
+						"id": "farmersdelight:milk_bottle",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "farmersdelight:milk_bottle",
+				"count": 1
+			}
+		},
+		{
+			"id": "07F6870FEEA31E7A",
+			"dependencies": [
+				"153EB1E173B3D952"
+			],
+			"hide_dependency_lines": true,
+			"x": 7.25,
+			"y": 6.949999999999999,
+			"tasks": [
+				{
+					"id": "61DC756F6BBDA8B7",
+					"item": {
+						"id": "farmersdelight:mixed_salad",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "farmersdelight:mixed_salad",
+				"count": 1
+			}
+		},
+		{
+			"id": "5E6E8816B5EAEA0C",
+			"dependencies": [
+				"153EB1E173B3D952"
+			],
+			"hide_dependency_lines": true,
+			"x": 8.7,
+			"y": 6.949999999999999,
+			"tasks": [
+				{
+					"id": "6DB06181848975EA",
+					"item": {
+						"id": "farmersdelight:mushroom_rice",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "farmersdelight:mushroom_rice",
+				"count": 1
+			}
+		},
+		{
+			"id": "74D5424F380784A9",
+			"dependencies": [
+				"153EB1E173B3D952"
+			],
+			"hide_dependency_lines": true,
+			"x": 10.15,
+			"y": 6.949999999999999,
+			"tasks": [
+				{
+					"id": "4A1E7A2D75BA29CD",
+					"item": {
+						"id": "farmersdelight:mutton_wrap",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "farmersdelight:mutton_wrap",
+				"count": 1
+			}
+		},
+		{
+			"id": "73A1A1489C39A20B",
+			"dependencies": [
+				"153EB1E173B3D952"
+			],
+			"hide_dependency_lines": true,
+			"x": 11.6,
+			"y": 6.949999999999999,
+			"tasks": [
+				{
+					"id": "334D069D8E2D8164",
+					"item": {
+						"id": "farmersdelight:nether_salad",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "farmersdelight:nether_salad",
+				"count": 1
+			}
+		},
+		{
+			"id": "7F7C8BD0875FE647",
+			"dependencies": [
+				"153EB1E173B3D952"
+			],
+			"hide_dependency_lines": true,
+			"x": 13.049999999999999,
+			"y": 6.949999999999999,
+			"tasks": [
+				{
+					"id": "7C3BCA180E835426",
+					"item": {
+						"id": "farmersdelight:noodle_soup",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "farmersdelight:noodle_soup",
+				"count": 1
+			}
+		},
+		{
+			"id": "6B9F096E3667D13A",
+			"dependencies": [
+				"153EB1E173B3D952"
+			],
+			"hide_dependency_lines": true,
+			"x": 14.5,
+			"y": 6.949999999999999,
+			"tasks": [
+				{
+					"id": "596A2D9127AB1022",
+					"item": {
+						"id": "farmersdelight:onion_soup",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "farmersdelight:onion_soup",
+				"count": 1
+			}
+		},
+		{
+			"id": "29D8CE4F0E86DBFB",
+			"dependencies": [
+				"153EB1E173B3D952"
+			],
+			"hide_dependency_lines": true,
+			"x": 15.95,
+			"y": 6.949999999999999,
+			"tasks": [
+				{
+					"id": "045E99B96E98A01E",
+					"item": {
+						"id": "farmersdelight:pasta_with_meatballs",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "farmersdelight:pasta_with_meatballs",
+				"count": 1
+			}
+		},
+		{
+			"id": "563E90F70E039305",
+			"dependencies": [
+				"153EB1E173B3D952"
+			],
+			"hide_dependency_lines": true,
+			"x": 17.4,
+			"y": 6.949999999999999,
+			"tasks": [
+				{
+					"id": "00A6F3EFBB1702AD",
+					"item": {
+						"id": "farmersdelight:pasta_with_mutton_chop",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "farmersdelight:pasta_with_mutton_chop",
+				"count": 1
+			}
+		},
+		{
+			"id": "426D2F0DFE40E760",
+			"dependencies": [
+				"153EB1E173B3D952"
+			],
+			"hide_dependency_lines": true,
+			"x": 18.849999999999998,
+			"y": 6.949999999999999,
+			"tasks": [
+				{
+					"id": "5B182B3CE15292B0",
+					"item": {
+						"id": "farmersdelight:pumpkin_pie",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "farmersdelight:pumpkin_pie",
+				"count": 1
+			}
+		},
+		{
+			"id": "37ACE9C0CF3C0A3A",
+			"dependencies": [
+				"153EB1E173B3D952"
+			],
+			"hide_dependency_lines": true,
+			"x": 20.3,
+			"y": 6.949999999999999,
+			"tasks": [
+				{
+					"id": "7DABDE579874BE54",
+					"item": {
+						"id": "farmersdelight:pumpkin_pie_slice",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "farmersdelight:pumpkin_pie_slice",
+				"count": 1
+			}
+		},
+		{
+			"id": "5C7B5FA347D4DC90",
+			"dependencies": [
+				"153EB1E173B3D952"
+			],
+			"hide_dependency_lines": true,
+			"x": 21.75,
+			"y": 6.949999999999999,
+			"tasks": [
+				{
+					"id": "5AE321977B878438",
+					"item": {
+						"id": "farmersdelight:pumpkin_slice",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "farmersdelight:pumpkin_slice",
+				"count": 1
+			}
+		},
+		{
+			"id": "4CFCAAD28D3CA58F",
+			"dependencies": [
+				"153EB1E173B3D952"
+			],
+			"hide_dependency_lines": true,
+			"x": 23.2,
+			"y": 6.949999999999999,
+			"tasks": [
+				{
+					"id": "25B77DA9DC67A2C3",
+					"item": {
+						"id": "farmersdelight:pumpkin_soup",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "farmersdelight:pumpkin_soup",
+				"count": 1
+			}
+		},
+		{
+			"id": "623188E435DA8ACF",
+			"dependencies": [
+				"153EB1E173B3D952"
+			],
+			"hide_dependency_lines": true,
+			"x": 24.65,
+			"y": 6.949999999999999,
+			"tasks": [
+				{
+					"id": "0D83C0F58BD38548",
+					"item": {
+						"id": "farmersdelight:ratatouille",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "farmersdelight:ratatouille",
+				"count": 1
+			}
+		},
+		{
+			"id": "33B6AB941C6031E9",
+			"dependencies": [
+				"153EB1E173B3D952"
+			],
+			"hide_dependency_lines": true,
+			"x": 26.099999999999998,
+			"y": 6.949999999999999,
+			"tasks": [
+				{
+					"id": "398C68C15A870E45",
+					"item": {
+						"id": "farmersdelight:roast_chicken",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "farmersdelight:roast_chicken",
+				"count": 1
+			}
+		},
+		{
+			"id": "252C2D61C6264421",
+			"dependencies": [
+				"153EB1E173B3D952"
+			],
+			"hide_dependency_lines": true,
+			"x": 27.55,
+			"y": 6.949999999999999,
+			"tasks": [
+				{
+					"id": "24D7CDC259FE3668",
+					"item": {
+						"id": "farmersdelight:roasted_mutton_chops",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "farmersdelight:roasted_mutton_chops",
+				"count": 1
+			}
+		},
+		{
+			"id": "4C97F1800F812453",
+			"dependencies": [
+				"153EB1E173B3D952"
+			],
+			"hide_dependency_lines": true,
+			"x": 29.0,
+			"y": 6.949999999999999,
+			"tasks": [
+				{
+					"id": "5DC9104B28FA5A02",
+					"item": {
+						"id": "farmersdelight:salmon_roll",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "farmersdelight:salmon_roll",
+				"count": 1
+			}
+		},
+		{
+			"id": "377E1CC133C4E259",
+			"dependencies": [
+				"153EB1E173B3D952"
+			],
+			"hide_dependency_lines": true,
+			"x": 30.45,
+			"y": 6.949999999999999,
+			"tasks": [
+				{
+					"id": "5C43FB3FDDA336FF",
+					"item": {
+						"id": "farmersdelight:shepherds_pie",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "farmersdelight:shepherds_pie",
+				"count": 1
+			}
+		},
+		{
+			"id": "2F0182EECBB0DF4E",
+			"dependencies": [
+				"153EB1E173B3D952"
+			],
+			"hide_dependency_lines": true,
+			"x": 31.9,
+			"y": 6.949999999999999,
+			"tasks": [
+				{
+					"id": "52805ED72D9BA21C",
+					"item": {
+						"id": "farmersdelight:smoked_ham",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "farmersdelight:smoked_ham",
+				"count": 1
+			}
+		},
+		{
+			"id": "45B7C7900EC607FD",
+			"dependencies": [
+				"153EB1E173B3D952"
+			],
+			"hide_dependency_lines": true,
+			"x": 33.35,
+			"y": 6.949999999999999,
+			"tasks": [
+				{
+					"id": "382994F7580094EF",
+					"item": {
+						"id": "farmersdelight:squid_ink_pasta",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "farmersdelight:squid_ink_pasta",
+				"count": 1
+			}
+		},
+		{
+			"id": "26B519C611FF0617",
+			"dependencies": [
+				"153EB1E173B3D952"
+			],
+			"hide_dependency_lines": true,
+			"x": 34.8,
+			"y": 6.949999999999999,
+			"tasks": [
+				{
+					"id": "1E5FBB74D4B66187",
+					"item": {
+						"id": "farmersdelight:steak_and_potatoes",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "farmersdelight:steak_and_potatoes",
+				"count": 1
+			}
+		},
+		{
+			"id": "56704CB6245DCCB1",
+			"dependencies": [
+				"153EB1E173B3D952"
+			],
+			"hide_dependency_lines": true,
+			"x": 36.25,
+			"y": 6.949999999999999,
+			"tasks": [
+				{
+					"id": "5495C5B3EEBF7BA3",
+					"item": {
+						"id": "farmersdelight:stuffed_potato",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "farmersdelight:stuffed_potato",
+				"count": 1
+			}
+		},
+		{
+			"id": "6179C65510B66CC3",
+			"dependencies": [
+				"153EB1E173B3D952"
+			],
+			"hide_dependency_lines": true,
+			"x": 0.0,
+			"y": 8.4,
+			"tasks": [
+				{
+					"id": "71E9F0074FEB7000",
+					"item": {
+						"id": "farmersdelight:stuffed_pumpkin",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "farmersdelight:stuffed_pumpkin",
+				"count": 1
+			}
+		},
+		{
+			"id": "105AFA713C777AA0",
+			"dependencies": [
+				"153EB1E173B3D952"
+			],
+			"hide_dependency_lines": true,
+			"x": 1.45,
+			"y": 8.4,
+			"tasks": [
+				{
+					"id": "785A55009DAE3E47",
+					"item": {
+						"id": "farmersdelight:sweet_berry_cheesecake",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "farmersdelight:sweet_berry_cheesecake",
+				"count": 1
+			}
+		},
+		{
+			"id": "5A0408DA57C95D1A",
+			"dependencies": [
+				"153EB1E173B3D952"
+			],
+			"hide_dependency_lines": true,
+			"x": 2.9,
+			"y": 8.4,
+			"tasks": [
+				{
+					"id": "3EBA73E08E583E5C",
+					"item": {
+						"id": "farmersdelight:sweet_berry_cheesecake_slice",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "farmersdelight:sweet_berry_cheesecake_slice",
+				"count": 1
+			}
+		},
+		{
+			"id": "4E76F08B9FDFAF45",
+			"dependencies": [
+				"153EB1E173B3D952"
+			],
+			"hide_dependency_lines": true,
+			"x": 4.35,
+			"y": 8.4,
+			"tasks": [
+				{
+					"id": "4493D7F654962797",
+					"item": {
+						"id": "farmersdelight:sweet_berry_cookie",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "farmersdelight:sweet_berry_cookie",
+				"count": 1
+			}
+		},
+		{
+			"id": "12CD16B81807A106",
+			"dependencies": [
+				"153EB1E173B3D952"
+			],
+			"hide_dependency_lines": true,
+			"x": 5.8,
+			"y": 8.4,
+			"tasks": [
+				{
+					"id": "4DEFC8A6D0B5EF1D",
+					"item": {
+						"id": "farmersdelight:vegetable_noodles",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "farmersdelight:vegetable_noodles",
+				"count": 1
+			}
+		},
+		{
+			"id": "5493081334393AFA",
+			"dependencies": [
+				"153EB1E173B3D952"
+			],
+			"hide_dependency_lines": true,
+			"x": 7.25,
+			"y": 8.4,
+			"tasks": [
+				{
+					"id": "4522119F79C42B73",
+					"item": {
+						"id": "farmersdelight:vegetable_soup",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "farmersdelight:vegetable_soup",
+				"count": 1
+			}
+		},
+		{
+			"id": "01688C6CCD80301A",
+			"dependencies": [
+				"153EB1E173B3D952"
+			],
+			"hide_dependency_lines": true,
+			"x": 8.7,
+			"y": 8.4,
+			"tasks": [
+				{
+					"id": "3F5A6D3ECDDDAD96",
+					"item": {
+						"id": "realismsurvival:distilled_water_bottle",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "realismsurvival:distilled_water_bottle",
+				"count": 1
+			}
+		},
+		{
+			"id": "5FA9D3F6F884DE60",
+			"dependencies": [
+				"153EB1E173B3D952"
+			],
+			"hide_dependency_lines": true,
+			"x": 10.15,
+			"y": 8.4,
+			"tasks": [
+				{
+					"id": "0793292886B64A25",
+					"item": {
+						"id": "realismsurvival:fresh_water_bottle",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "realismsurvival:fresh_water_bottle",
+				"count": 1
+			}
+		},
+		{
+			"id": "20005B83BFB6FDDB",
+			"dependencies": [
+				"153EB1E173B3D952"
+			],
+			"hide_dependency_lines": true,
+			"x": 11.6,
+			"y": 8.4,
+			"tasks": [
+				{
+					"id": "1E23F5D04420A9A6",
+					"item": {
+						"id": "realismsurvival:stagnant_water_bottle",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "realismsurvival:stagnant_water_bottle",
+				"count": 1
+			}
+		},
+		{
+			"id": "30E982C1FAF007FA",
+			"dependencies": [
+				"153EB1E173B3D952"
+			],
+			"hide_dependency_lines": true,
+			"x": 13.049999999999999,
+			"y": 8.4,
+			"tasks": [
+				{
+					"id": "0F4E6F27BC45573A",
+					"item": {
+						"id": "realismsurvival:salt_water_bottle",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "realismsurvival:salt_water_bottle",
+				"count": 1
+			}
+		},
+		{
+			"id": "6CAEE75ACA58D2C4",
+			"dependencies": [
+				"153EB1E173B3D952"
+			],
+			"hide_dependency_lines": true,
+			"x": 14.5,
+			"y": 8.4,
+			"tasks": [
+				{
+					"id": "39006B60B9E5E284",
+					"item": {
+						"id": "realismsurvival:distilled_water_bucket",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "realismsurvival:distilled_water_bucket",
+				"count": 1
+			}
+		},
+		{
+			"id": "7101C96C5090533F",
+			"dependencies": [
+				"153EB1E173B3D952"
+			],
+			"hide_dependency_lines": true,
+			"x": 15.95,
+			"y": 8.4,
+			"tasks": [
+				{
+					"id": "2BE528FEC5115A66",
+					"item": {
+						"id": "realismsurvival:fresh_water_bucket",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "realismsurvival:fresh_water_bucket",
+				"count": 1
+			}
+		},
+		{
+			"id": "40FC663B42FBAE7A",
+			"dependencies": [
+				"153EB1E173B3D952"
+			],
+			"hide_dependency_lines": true,
+			"x": 17.4,
+			"y": 8.4,
+			"tasks": [
+				{
+					"id": "397DD378CA7FC155",
+					"item": {
+						"id": "realismsurvival:stagnant_water_bucket",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "realismsurvival:stagnant_water_bucket",
+				"count": 1
+			}
+		},
+		{
+			"id": "07C67695F2715D2F",
+			"dependencies": [
+				"153EB1E173B3D952"
+			],
+			"hide_dependency_lines": true,
+			"x": 18.849999999999998,
+			"y": 8.4,
+			"tasks": [
+				{
+					"id": "4676339F9B02CFA9",
+					"item": {
+						"id": "realismsurvival:salt_water_bucket",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "realismsurvival:salt_water_bucket",
+				"count": 1
+			}
+		},
+		{
+			"id": "0B23685E3FC39146",
+			"dependencies": [
+				"153EB1E173B3D952"
+			],
+			"hide_dependency_lines": true,
+			"x": 20.3,
+			"y": 8.4,
+			"tasks": [
+				{
+					"id": "2582E29897A7448B",
+					"item": {
+						"id": "realismsurvival:distilled_ice_bucket",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "realismsurvival:distilled_ice_bucket",
+				"count": 1
+			}
+		},
+		{
+			"id": "072716D364655B0D",
+			"dependencies": [
+				"153EB1E173B3D952"
+			],
+			"hide_dependency_lines": true,
+			"x": 21.75,
+			"y": 8.4,
+			"tasks": [
+				{
+					"id": "460908FEC862C9E7",
+					"item": {
+						"id": "realismsurvival:fresh_ice_bucket",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "realismsurvival:fresh_ice_bucket",
+				"count": 1
+			}
+		},
+		{
+			"id": "17E37A3BB127550B",
+			"dependencies": [
+				"153EB1E173B3D952"
+			],
+			"hide_dependency_lines": true,
+			"x": 23.2,
+			"y": 8.4,
+			"tasks": [
+				{
+					"id": "4C620D28E9BFDE3E",
+					"item": {
+						"id": "realismsurvival:stagnant_ice_bucket",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "realismsurvival:stagnant_ice_bucket",
+				"count": 1
+			}
+		},
+		{
+			"id": "1D34330DAF97C7DF",
+			"dependencies": [
+				"153EB1E173B3D952"
+			],
+			"hide_dependency_lines": true,
+			"x": 24.65,
+			"y": 8.4,
+			"tasks": [
+				{
+					"id": "7B48A74F8BAC75FB",
+					"item": {
+						"id": "realismsurvival:snow_bucket",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "realismsurvival:snow_bucket",
+				"count": 1
+			}
+		},
+		{
+			"id": "114FC69FA19FB0DE",
+			"dependencies": [
+				"153EB1E173B3D952"
+			],
+			"hide_dependency_lines": true,
+			"x": 26.099999999999998,
+			"y": 8.4,
+			"tasks": [
+				{
+					"id": "590131CEE7C4FE48",
+					"item": {
+						"id": "minecraft:honey_bottle",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:honey_bottle",
+				"count": 1
+			}
+		},
+		{
+			"id": "47E2D26AD06965D2",
+			"dependencies": [
+				"153EB1E173B3D952"
+			],
+			"hide_dependency_lines": true,
+			"x": 27.55,
+			"y": 8.4,
+			"tasks": [
+				{
+					"id": "357E22E12F5E57B5",
+					"item": {
+						"id": "minecraft:milk_bucket",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:milk_bucket",
+				"count": 1
+			}
+		},
+		{
+			"id": "64D5F7336076E7C4",
+			"dependencies": [
+				"153EB1E173B3D952"
+			],
+			"hide_dependency_lines": true,
+			"x": 29.0,
+			"y": 8.4,
+			"tasks": [
+				{
+					"id": "4DEDF643AFBF3A3C",
+					"item": {
+						"id": "minecraft:potion",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:potion",
+				"count": 1
+			}
+		},
+		{
+			"id": "572C2E4C6A159465",
+			"dependencies": [
+				"153EB1E173B3D952"
+			],
+			"hide_dependency_lines": true,
+			"x": 30.45,
+			"y": 8.4,
+			"tasks": [
+				{
+					"id": "7F9F3BAC7B1E2A35",
+					"item": {
+						"id": "farmersdelight:apple_cider",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "farmersdelight:apple_cider",
+				"count": 1
+			}
+		},
+		{
+			"id": "5B81A77CA1F774DF",
+			"dependencies": [
+				"153EB1E173B3D952"
+			],
+			"hide_dependency_lines": true,
+			"x": 31.9,
+			"y": 8.4,
+			"tasks": [
+				{
+					"id": "729B80FA707682D2",
+					"item": {
+						"id": "farmersdelight:melon_juice",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "farmersdelight:melon_juice",
+				"count": 1
+			}
+		},
+		{
+			"id": "1E499F14C35FD41B",
+			"dependencies": [
+				"153EB1E173B3D952"
+			],
+			"hide_dependency_lines": true,
+			"x": 33.35,
+			"y": 8.4,
+			"tasks": [
+				{
+					"id": "4A475C079CACD401",
+					"item": {
+						"id": "farmersdelight:hot_cocoa",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "farmersdelight:hot_cocoa",
+				"count": 1
+			}
+		},
+		{
+			"id": "76D216AFADF903AA",
+			"dependencies": [
+				"153EB1E173B3D952"
+			],
+			"hide_dependency_lines": true,
+			"x": 34.8,
+			"y": 8.4,
+			"tasks": [
+				{
+					"id": "39CF7591A9E9D502",
+					"item": {
+						"id": "farmersdelight:milk_bottle",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "farmersdelight:milk_bottle",
+				"count": 1
+			}
+		},
+		{
+			"id": "5C77864B0E3ACD44",
+			"dependencies": [
+				"153EB1E173B3D952"
+			],
+			"hide_dependency_lines": true,
+			"x": 36.25,
+			"y": 8.4,
+			"tasks": [
+				{
+					"id": "6C0A2E2E428876E8",
+					"item": {
+						"id": "farmersdelight:bone_broth",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "farmersdelight:bone_broth",
+				"count": 1
+			}
+		},
+		{
+			"id": "4FB9F6707E3CEC03",
+			"dependencies": [
+				"153EB1E173B3D952",
+				"02952F8A8278635B",
+				"19BF977FCF2B63EF",
+				"76D3BC45CF2A83E3",
+				"064C301EBC625987",
+				"25CF198A65CD6CD9",
+				"66CE1B399760B731",
+				"06BF2F7CFA5A3DC3",
+				"2FA13EBA6A45D4A5",
+				"53A0D54396F6596B",
+				"414EEB97DF4C6512",
+				"6D53ED72FF4C8D5A",
+				"68306390D87D10C7",
+				"017DDF8A0BA8CC22",
+				"7C8C740ED42D757D",
+				"0E573AB2EEA9E1FB",
+				"5421FE129D215172",
+				"460CB642EF7EE2E6",
+				"7DBA238E14310A50",
+				"3BC174E9B48364F4",
+				"2D4CA1A72D772808",
+				"09814F3F0E3B5DB9",
+				"687E5088BCEFEC8B",
+				"14239234FCACCC70",
+				"643C2B41EDBAB874",
+				"16281BFC984E3965",
+				"183F170D87FBC0E8",
+				"56F35A283503A846",
+				"187D98B440077DC7",
+				"56B2DC710ADDFB3D",
+				"6020DAB765222CB8",
+				"2212241908BBC32C",
+				"01D31A05A6EB0A91",
+				"70924391448F2B18",
+				"2560B62E9D0D0356",
+				"1CE218AD5EF1B782",
+				"0CFB50EEFBC00644",
+				"2972F6FFE405065B",
+				"38B6C1672A6076B9",
+				"211092160B80FAFC",
+				"4ECE92FF8D68F582",
+				"2EE11D1AC6B7E520",
+				"71DF90DFADD121AA",
+				"70A2695952E5A540",
+				"35D9D40E3F86F387",
+				"70EA663849C427F3",
+				"3BAF07153450A2BA",
+				"78CC6E8037D5A137",
+				"6BAD54E3571D8A03",
+				"339E54A2194BE05B",
+				"6A1E92EBBADBF70B",
+				"4DFE5A158EE330E8",
+				"0FD03E539A3870E3",
+				"677D779A6271BC24",
+				"7F19A573572FC552",
+				"326960BB2C381C91",
+				"2D797846EF1BB038",
+				"5ED67E3D9C986638",
+				"7097ECF212C0F618",
+				"55D900A0E5EBCC2D",
+				"258F2DD1CA80ABEC",
+				"20F5EAC3C7FC2802",
+				"08D86587ED93AE05",
+				"1B4558016C45D539",
+				"21CDB4F7AD99227E",
+				"01365E9F16D39D7D",
+				"22BF3AB1D8DEEDB5",
+				"2D4F1A26EEACF27E",
+				"4BEB9A9D0FC82166",
+				"1AE323A8BF3068C4",
+				"7AE67EAC4ACCC53E",
+				"54B0FD42D07F2F3A",
+				"19F81EB8A7020095",
+				"2998E405CCE916D6",
+				"696533AF843C96A7",
+				"190E58608D1ADCE5",
+				"5AFC2859A2268678",
+				"6ED539D70DB01A30",
+				"7E8C9CD124CB888A",
+				"3393DAEBC5FC09BA",
+				"4AED2CE37CE314F4",
+				"46F0E247AD446AC2",
+				"21FA4BB387D82A6D",
+				"4A2D595B08ACB902",
+				"07F6870FEEA31E7A",
+				"5E6E8816B5EAEA0C",
+				"74D5424F380784A9",
+				"73A1A1489C39A20B",
+				"7F7C8BD0875FE647",
+				"6B9F096E3667D13A",
+				"29D8CE4F0E86DBFB",
+				"563E90F70E039305",
+				"426D2F0DFE40E760",
+				"37ACE9C0CF3C0A3A",
+				"5C7B5FA347D4DC90",
+				"4CFCAAD28D3CA58F",
+				"623188E435DA8ACF",
+				"33B6AB941C6031E9",
+				"252C2D61C6264421",
+				"4C97F1800F812453",
+				"377E1CC133C4E259",
+				"2F0182EECBB0DF4E",
+				"45B7C7900EC607FD",
+				"26B519C611FF0617",
+				"56704CB6245DCCB1",
+				"6179C65510B66CC3",
+				"105AFA713C777AA0",
+				"5A0408DA57C95D1A",
+				"4E76F08B9FDFAF45",
+				"12CD16B81807A106",
+				"5493081334393AFA",
+				"01688C6CCD80301A",
+				"5FA9D3F6F884DE60",
+				"20005B83BFB6FDDB",
+				"30E982C1FAF007FA",
+				"6CAEE75ACA58D2C4",
+				"7101C96C5090533F",
+				"40FC663B42FBAE7A",
+				"07C67695F2715D2F",
+				"0B23685E3FC39146",
+				"072716D364655B0D",
+				"17E37A3BB127550B",
+				"1D34330DAF97C7DF",
+				"114FC69FA19FB0DE",
+				"47E2D26AD06965D2",
+				"64D5F7336076E7C4",
+				"572C2E4C6A159465",
+				"5B81A77CA1F774DF",
+				"1E499F14C35FD41B",
+				"76D216AFADF903AA",
+				"5C77864B0E3ACD44"
+			],
+			"min_required_dependencies": 40,
+			"hide_dependency_lines": true,
+			"size": 1.25,
+			"x": 40.099999999999994,
+			"y": 2.6,
+			"tasks": [
+				{
+					"id": "0A359CE7FE3F7DE0",
+					"type": "checkmark"
+				}
+			],
+			"rewards": [
+				{
+					"id": "0724A062652FA775",
+					"item": {
+						"id": "minecraft:glistering_melon_slice",
+						"count": 1
+					},
+					"type": "item"
+				},
+				{
+					"id": "1A59FE45645EF6BC",
+					"item": {
+						"id": "farmersdelight:honey_glazed_ham_block",
+						"count": 1
+					},
+					"type": "item"
+				},
+				{
+					"id": "7F3CC6D7075D21B2",
+					"xp_levels": 2,
+					"type": "xp_levels"
+				}
+			],
+			"icon": {
+				"id": "minecraft:glistering_melon_slice",
+				"count": 1
+			}
+		},
+		{
+			"id": "6195A1428FB64B93",
+			"dependencies": [
+				"153EB1E173B3D952",
+				"02952F8A8278635B",
+				"19BF977FCF2B63EF",
+				"76D3BC45CF2A83E3",
+				"064C301EBC625987",
+				"25CF198A65CD6CD9",
+				"66CE1B399760B731",
+				"06BF2F7CFA5A3DC3",
+				"2FA13EBA6A45D4A5",
+				"53A0D54396F6596B",
+				"414EEB97DF4C6512",
+				"6D53ED72FF4C8D5A",
+				"68306390D87D10C7",
+				"017DDF8A0BA8CC22",
+				"7C8C740ED42D757D",
+				"0E573AB2EEA9E1FB",
+				"5421FE129D215172",
+				"460CB642EF7EE2E6",
+				"7DBA238E14310A50",
+				"3BC174E9B48364F4",
+				"2D4CA1A72D772808",
+				"09814F3F0E3B5DB9",
+				"687E5088BCEFEC8B",
+				"14239234FCACCC70",
+				"643C2B41EDBAB874",
+				"16281BFC984E3965",
+				"183F170D87FBC0E8",
+				"56F35A283503A846",
+				"187D98B440077DC7",
+				"56B2DC710ADDFB3D",
+				"6020DAB765222CB8",
+				"2212241908BBC32C",
+				"01D31A05A6EB0A91",
+				"70924391448F2B18",
+				"2560B62E9D0D0356",
+				"1CE218AD5EF1B782",
+				"0CFB50EEFBC00644",
+				"2972F6FFE405065B",
+				"38B6C1672A6076B9",
+				"211092160B80FAFC",
+				"4ECE92FF8D68F582",
+				"2EE11D1AC6B7E520",
+				"71DF90DFADD121AA",
+				"70A2695952E5A540",
+				"35D9D40E3F86F387",
+				"70EA663849C427F3",
+				"3BAF07153450A2BA",
+				"78CC6E8037D5A137",
+				"6BAD54E3571D8A03",
+				"339E54A2194BE05B",
+				"6A1E92EBBADBF70B",
+				"4DFE5A158EE330E8",
+				"0FD03E539A3870E3",
+				"677D779A6271BC24",
+				"7F19A573572FC552",
+				"326960BB2C381C91",
+				"2D797846EF1BB038",
+				"5ED67E3D9C986638",
+				"7097ECF212C0F618",
+				"55D900A0E5EBCC2D",
+				"258F2DD1CA80ABEC",
+				"20F5EAC3C7FC2802",
+				"08D86587ED93AE05",
+				"1B4558016C45D539",
+				"21CDB4F7AD99227E",
+				"01365E9F16D39D7D",
+				"22BF3AB1D8DEEDB5",
+				"2D4F1A26EEACF27E",
+				"4BEB9A9D0FC82166",
+				"1AE323A8BF3068C4",
+				"7AE67EAC4ACCC53E",
+				"54B0FD42D07F2F3A",
+				"19F81EB8A7020095",
+				"2998E405CCE916D6",
+				"696533AF843C96A7",
+				"190E58608D1ADCE5",
+				"5AFC2859A2268678",
+				"6ED539D70DB01A30",
+				"7E8C9CD124CB888A",
+				"3393DAEBC5FC09BA",
+				"4AED2CE37CE314F4",
+				"46F0E247AD446AC2",
+				"21FA4BB387D82A6D",
+				"4A2D595B08ACB902",
+				"07F6870FEEA31E7A",
+				"5E6E8816B5EAEA0C",
+				"74D5424F380784A9",
+				"73A1A1489C39A20B",
+				"7F7C8BD0875FE647",
+				"6B9F096E3667D13A",
+				"29D8CE4F0E86DBFB",
+				"563E90F70E039305",
+				"426D2F0DFE40E760",
+				"37ACE9C0CF3C0A3A",
+				"5C7B5FA347D4DC90",
+				"4CFCAAD28D3CA58F",
+				"623188E435DA8ACF",
+				"33B6AB941C6031E9",
+				"252C2D61C6264421",
+				"4C97F1800F812453",
+				"377E1CC133C4E259",
+				"2F0182EECBB0DF4E",
+				"45B7C7900EC607FD",
+				"26B519C611FF0617",
+				"56704CB6245DCCB1",
+				"6179C65510B66CC3",
+				"105AFA713C777AA0",
+				"5A0408DA57C95D1A",
+				"4E76F08B9FDFAF45",
+				"12CD16B81807A106",
+				"5493081334393AFA",
+				"01688C6CCD80301A",
+				"5FA9D3F6F884DE60",
+				"20005B83BFB6FDDB",
+				"30E982C1FAF007FA",
+				"6CAEE75ACA58D2C4",
+				"7101C96C5090533F",
+				"40FC663B42FBAE7A",
+				"07C67695F2715D2F",
+				"0B23685E3FC39146",
+				"072716D364655B0D",
+				"17E37A3BB127550B",
+				"1D34330DAF97C7DF",
+				"114FC69FA19FB0DE",
+				"47E2D26AD06965D2",
+				"64D5F7336076E7C4",
+				"572C2E4C6A159465",
+				"5B81A77CA1F774DF",
+				"1E499F14C35FD41B",
+				"76D216AFADF903AA",
+				"5C77864B0E3ACD44"
+			],
+			"min_required_dependencies": 79,
+			"hide_dependency_lines": true,
+			"size": 1.25,
+			"x": 40.099999999999994,
+			"y": 4.5,
+			"tasks": [
+				{
+					"id": "254241DE6B3DE628",
+					"type": "checkmark"
+				}
+			],
+			"rewards": [
+				{
+					"id": "6E8B45BF4BB179A6",
+					"item": {
+						"id": "farmersdelight:roast_chicken_block",
+						"count": 1
+					},
+					"type": "item"
+				},
+				{
+					"id": "6C070A3BC4AA9FBF",
+					"item": {
+						"id": "farmersdelight:rice_roll_medley_block",
+						"count": 1
+					},
+					"type": "item"
+				},
+				{
+					"id": "524645E25AC0EFCA",
+					"xp_levels": 4,
+					"type": "xp_levels"
+				}
+			],
+			"icon": {
+				"id": "farmersdelight:roast_chicken_block",
+				"count": 1
+			}
+		},
+		{
+			"id": "69EE235DFA6B27F4",
+			"dependencies": [
+				"153EB1E173B3D952",
+				"02952F8A8278635B",
+				"19BF977FCF2B63EF",
+				"76D3BC45CF2A83E3",
+				"064C301EBC625987",
+				"25CF198A65CD6CD9",
+				"66CE1B399760B731",
+				"06BF2F7CFA5A3DC3",
+				"2FA13EBA6A45D4A5",
+				"53A0D54396F6596B",
+				"414EEB97DF4C6512",
+				"6D53ED72FF4C8D5A",
+				"68306390D87D10C7",
+				"017DDF8A0BA8CC22",
+				"7C8C740ED42D757D",
+				"0E573AB2EEA9E1FB",
+				"5421FE129D215172",
+				"460CB642EF7EE2E6",
+				"7DBA238E14310A50",
+				"3BC174E9B48364F4",
+				"2D4CA1A72D772808",
+				"09814F3F0E3B5DB9",
+				"687E5088BCEFEC8B",
+				"14239234FCACCC70",
+				"643C2B41EDBAB874",
+				"16281BFC984E3965",
+				"183F170D87FBC0E8",
+				"56F35A283503A846",
+				"187D98B440077DC7",
+				"56B2DC710ADDFB3D",
+				"6020DAB765222CB8",
+				"2212241908BBC32C",
+				"01D31A05A6EB0A91",
+				"70924391448F2B18",
+				"2560B62E9D0D0356",
+				"1CE218AD5EF1B782",
+				"0CFB50EEFBC00644",
+				"2972F6FFE405065B",
+				"38B6C1672A6076B9",
+				"211092160B80FAFC",
+				"4ECE92FF8D68F582",
+				"2EE11D1AC6B7E520",
+				"71DF90DFADD121AA",
+				"70A2695952E5A540",
+				"35D9D40E3F86F387",
+				"70EA663849C427F3",
+				"3BAF07153450A2BA",
+				"78CC6E8037D5A137",
+				"6BAD54E3571D8A03",
+				"339E54A2194BE05B",
+				"6A1E92EBBADBF70B",
+				"4DFE5A158EE330E8",
+				"0FD03E539A3870E3",
+				"677D779A6271BC24",
+				"7F19A573572FC552",
+				"326960BB2C381C91",
+				"2D797846EF1BB038",
+				"5ED67E3D9C986638",
+				"7097ECF212C0F618",
+				"55D900A0E5EBCC2D",
+				"258F2DD1CA80ABEC",
+				"20F5EAC3C7FC2802",
+				"08D86587ED93AE05",
+				"1B4558016C45D539",
+				"21CDB4F7AD99227E",
+				"01365E9F16D39D7D",
+				"22BF3AB1D8DEEDB5",
+				"2D4F1A26EEACF27E",
+				"4BEB9A9D0FC82166",
+				"1AE323A8BF3068C4",
+				"7AE67EAC4ACCC53E",
+				"54B0FD42D07F2F3A",
+				"19F81EB8A7020095",
+				"2998E405CCE916D6",
+				"696533AF843C96A7",
+				"190E58608D1ADCE5",
+				"5AFC2859A2268678",
+				"6ED539D70DB01A30",
+				"7E8C9CD124CB888A",
+				"3393DAEBC5FC09BA",
+				"4AED2CE37CE314F4",
+				"46F0E247AD446AC2",
+				"21FA4BB387D82A6D",
+				"4A2D595B08ACB902",
+				"07F6870FEEA31E7A",
+				"5E6E8816B5EAEA0C",
+				"74D5424F380784A9",
+				"73A1A1489C39A20B",
+				"7F7C8BD0875FE647",
+				"6B9F096E3667D13A",
+				"29D8CE4F0E86DBFB",
+				"563E90F70E039305",
+				"426D2F0DFE40E760",
+				"37ACE9C0CF3C0A3A",
+				"5C7B5FA347D4DC90",
+				"4CFCAAD28D3CA58F",
+				"623188E435DA8ACF",
+				"33B6AB941C6031E9",
+				"252C2D61C6264421",
+				"4C97F1800F812453",
+				"377E1CC133C4E259",
+				"2F0182EECBB0DF4E",
+				"45B7C7900EC607FD",
+				"26B519C611FF0617",
+				"56704CB6245DCCB1",
+				"6179C65510B66CC3",
+				"105AFA713C777AA0",
+				"5A0408DA57C95D1A",
+				"4E76F08B9FDFAF45",
+				"12CD16B81807A106",
+				"5493081334393AFA",
+				"01688C6CCD80301A",
+				"5FA9D3F6F884DE60",
+				"20005B83BFB6FDDB",
+				"30E982C1FAF007FA",
+				"6CAEE75ACA58D2C4",
+				"7101C96C5090533F",
+				"40FC663B42FBAE7A",
+				"07C67695F2715D2F",
+				"0B23685E3FC39146",
+				"072716D364655B0D",
+				"17E37A3BB127550B",
+				"1D34330DAF97C7DF",
+				"114FC69FA19FB0DE",
+				"47E2D26AD06965D2",
+				"64D5F7336076E7C4",
+				"572C2E4C6A159465",
+				"5B81A77CA1F774DF",
+				"1E499F14C35FD41B",
+				"76D216AFADF903AA",
+				"5C77864B0E3ACD44"
+			],
+			"min_required_dependencies": 118,
+			"hide_dependency_lines": true,
+			"size": 1.25,
+			"x": 40.099999999999994,
+			"y": 6.4,
+			"tasks": [
+				{
+					"id": "659B1C4D84CC93E2",
+					"type": "checkmark"
+				}
+			],
+			"rewards": [
+				{
+					"id": "62175863C197B6BD",
+					"item": {
+						"id": "minecraft:honey_block",
+						"count": 1
+					},
+					"type": "item"
+				},
+				{
+					"id": "01CE2E59E697379B",
+					"item": {
+						"id": "farmersdelight:stuffed_pumpkin_block",
+						"count": 1
+					},
+					"type": "item"
+				},
+				{
+					"id": "11B4E7FA8C3CE6A4",
+					"xp_levels": 6,
+					"type": "xp_levels"
+				}
+			],
+			"icon": {
+				"id": "minecraft:honey_block",
+				"count": 1
+			}
+		},
+		{
+			"id": "151FF3AC1019A643",
+			"dependencies": [
+				"153EB1E173B3D952",
+				"02952F8A8278635B",
+				"19BF977FCF2B63EF",
+				"76D3BC45CF2A83E3",
+				"064C301EBC625987",
+				"25CF198A65CD6CD9",
+				"66CE1B399760B731",
+				"06BF2F7CFA5A3DC3",
+				"2FA13EBA6A45D4A5",
+				"53A0D54396F6596B",
+				"414EEB97DF4C6512",
+				"6D53ED72FF4C8D5A",
+				"68306390D87D10C7",
+				"017DDF8A0BA8CC22",
+				"7C8C740ED42D757D",
+				"0E573AB2EEA9E1FB",
+				"5421FE129D215172",
+				"460CB642EF7EE2E6",
+				"7DBA238E14310A50",
+				"3BC174E9B48364F4",
+				"2D4CA1A72D772808",
+				"09814F3F0E3B5DB9",
+				"687E5088BCEFEC8B",
+				"14239234FCACCC70",
+				"643C2B41EDBAB874",
+				"16281BFC984E3965",
+				"183F170D87FBC0E8",
+				"56F35A283503A846",
+				"187D98B440077DC7",
+				"56B2DC710ADDFB3D",
+				"6020DAB765222CB8",
+				"2212241908BBC32C",
+				"01D31A05A6EB0A91",
+				"70924391448F2B18",
+				"2560B62E9D0D0356",
+				"1CE218AD5EF1B782",
+				"0CFB50EEFBC00644",
+				"2972F6FFE405065B",
+				"38B6C1672A6076B9",
+				"211092160B80FAFC",
+				"4ECE92FF8D68F582",
+				"2EE11D1AC6B7E520",
+				"71DF90DFADD121AA",
+				"70A2695952E5A540",
+				"35D9D40E3F86F387",
+				"70EA663849C427F3",
+				"3BAF07153450A2BA",
+				"78CC6E8037D5A137",
+				"6BAD54E3571D8A03",
+				"339E54A2194BE05B",
+				"6A1E92EBBADBF70B",
+				"4DFE5A158EE330E8",
+				"0FD03E539A3870E3",
+				"677D779A6271BC24",
+				"7F19A573572FC552",
+				"326960BB2C381C91",
+				"2D797846EF1BB038",
+				"5ED67E3D9C986638",
+				"7097ECF212C0F618",
+				"55D900A0E5EBCC2D",
+				"258F2DD1CA80ABEC",
+				"20F5EAC3C7FC2802",
+				"08D86587ED93AE05",
+				"1B4558016C45D539",
+				"21CDB4F7AD99227E",
+				"01365E9F16D39D7D",
+				"22BF3AB1D8DEEDB5",
+				"2D4F1A26EEACF27E",
+				"4BEB9A9D0FC82166",
+				"1AE323A8BF3068C4",
+				"7AE67EAC4ACCC53E",
+				"54B0FD42D07F2F3A",
+				"19F81EB8A7020095",
+				"2998E405CCE916D6",
+				"696533AF843C96A7",
+				"190E58608D1ADCE5",
+				"5AFC2859A2268678",
+				"6ED539D70DB01A30",
+				"7E8C9CD124CB888A",
+				"3393DAEBC5FC09BA",
+				"4AED2CE37CE314F4",
+				"46F0E247AD446AC2",
+				"21FA4BB387D82A6D",
+				"4A2D595B08ACB902",
+				"07F6870FEEA31E7A",
+				"5E6E8816B5EAEA0C",
+				"74D5424F380784A9",
+				"73A1A1489C39A20B",
+				"7F7C8BD0875FE647",
+				"6B9F096E3667D13A",
+				"29D8CE4F0E86DBFB",
+				"563E90F70E039305",
+				"426D2F0DFE40E760",
+				"37ACE9C0CF3C0A3A",
+				"5C7B5FA347D4DC90",
+				"4CFCAAD28D3CA58F",
+				"623188E435DA8ACF",
+				"33B6AB941C6031E9",
+				"252C2D61C6264421",
+				"4C97F1800F812453",
+				"377E1CC133C4E259",
+				"2F0182EECBB0DF4E",
+				"45B7C7900EC607FD",
+				"26B519C611FF0617",
+				"56704CB6245DCCB1",
+				"6179C65510B66CC3",
+				"105AFA713C777AA0",
+				"5A0408DA57C95D1A",
+				"4E76F08B9FDFAF45",
+				"12CD16B81807A106",
+				"5493081334393AFA",
+				"01688C6CCD80301A",
+				"5FA9D3F6F884DE60",
+				"20005B83BFB6FDDB",
+				"30E982C1FAF007FA",
+				"6CAEE75ACA58D2C4",
+				"7101C96C5090533F",
+				"40FC663B42FBAE7A",
+				"07C67695F2715D2F",
+				"0B23685E3FC39146",
+				"072716D364655B0D",
+				"17E37A3BB127550B",
+				"1D34330DAF97C7DF",
+				"114FC69FA19FB0DE",
+				"47E2D26AD06965D2",
+				"64D5F7336076E7C4",
+				"572C2E4C6A159465",
+				"5B81A77CA1F774DF",
+				"1E499F14C35FD41B",
+				"76D216AFADF903AA",
+				"5C77864B0E3ACD44"
+			],
+			"hide_dependency_lines": true,
+			"shape": "gear",
+			"size": 1.5,
+			"x": 40.099999999999994,
+			"y": 8.299999999999999,
+			"tasks": [
+				{
+					"id": "123C45B530F77FFD",
+					"type": "checkmark"
+				}
+			],
+			"rewards": [
+				{
+					"id": "267111147CC54C03",
+					"item": {
+						"id": "minecraft:experience_bottle",
+						"count": 1
+					},
+					"type": "item"
+				},
+				{
+					"id": "71D11858033AC419",
+					"item": {
+						"id": "minecraft:enchanted_golden_apple",
+						"count": 1
+					},
+					"type": "item"
+				},
+				{
+					"id": "244B19053ABA24EF",
+					"xp_levels": 10,
+					"type": "xp_levels"
+				}
+			],
+			"icon": {
+				"id": "minecraft:experience_bottle",
+				"count": 1
+			}
+		}
+	]
+}

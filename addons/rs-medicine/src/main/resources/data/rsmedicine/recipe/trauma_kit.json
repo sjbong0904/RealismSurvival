@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["BBB", "BIB", "BBB"],
+  "key": {
+    "B": "rsmedicine:bandage",
+    "I": "minecraft:iron_ingot"
+  },
+  "result": { "id": "rsmedicine:trauma_kit", "count": 1 }
+}

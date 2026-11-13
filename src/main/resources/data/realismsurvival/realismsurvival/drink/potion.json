@@ -1,0 +1,6 @@
+{
+  "items": "minecraft:potion",
+  "thirst_restore": 8.0,
+  "temperature_delta": -0.25,
+  "priority": 0
+}

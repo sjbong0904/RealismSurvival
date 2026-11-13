@@ -1,0 +1,5 @@
+# Realism Survival: season HUD only when the player has a Serene Seasons calendar
+# (hand / inventory / Curios — same gate SeasonHUD uses).
+[Season]
+	need_calendar = true
+	calendar_detail = false

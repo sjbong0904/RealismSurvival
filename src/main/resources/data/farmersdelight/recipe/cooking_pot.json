@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "farmersdelight"
+    }
+  ],
+  "category": "misc",
+  "key": {
+    "S": "minecraft:wooden_shovel",
+    "W": "#realismsurvival:cooking_water_buckets",
+    "b": "minecraft:brick",
+    "i": "#c:ingots/iron"
+  },
+  "pattern": [
+    "bSb",
+    "iWi",
+    "iii"
+  ],
+  "result": {
+    "count": 1,
+    "id": "farmersdelight:cooking_pot"
+  }
+}

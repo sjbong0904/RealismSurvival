@@ -1,0 +1,7 @@
+{
+  "pack": {
+    "description": "RS pack item bridges (Neptunium / FoT fruit / BoP materials)",
+    "min_format": [88, 0],
+    "max_format": 200
+  }
+}

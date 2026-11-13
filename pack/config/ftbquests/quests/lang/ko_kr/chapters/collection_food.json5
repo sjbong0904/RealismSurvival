@@ -1,0 +1,544 @@
+{
+	"quest.153EB1E173B3D952.title": "음식·음료 도감 시작",
+	"quest.153EB1E173B3D952.quest_desc": [
+		"음식·음료 도감입니다. 항목을 하나씩 완료해 보세요.",
+		"해당 아이템을 보유하면 완료됩니다. 수집한 요리를 먹으면 Farmer's Delight 탭의 음식 과제도 진행됩니다.",
+		"직접 체크하세요."
+	],
+	"quest.02952F8A8278635B.title": "빵",
+	"quest.02952F8A8278635B.quest_desc": [
+		"빵을 보유하세요."
+	],
+	"quest.19BF977FCF2B63EF.title": "쿠키",
+	"quest.19BF977FCF2B63EF.quest_desc": [
+		"쿠키를 보유하세요."
+	],
+	"quest.76D3BC45CF2A83E3.title": "케이크",
+	"quest.76D3BC45CF2A83E3.quest_desc": [
+		"케이크를 보유하세요."
+	],
+	"quest.064C301EBC625987.title": "호박파이",
+	"quest.064C301EBC625987.quest_desc": [
+		"호박파이를 보유하세요."
+	],
+	"quest.25CF198A65CD6CD9.title": "버섯 스튜",
+	"quest.25CF198A65CD6CD9.quest_desc": [
+		"버섯 스튜를 보유하세요."
+	],
+	"quest.66CE1B399760B731.title": "토끼 스튜",
+	"quest.66CE1B399760B731.quest_desc": [
+		"토끼 스튜를 보유하세요."
+	],
+	"quest.06BF2F7CFA5A3DC3.title": "비트 수프",
+	"quest.06BF2F7CFA5A3DC3.quest_desc": [
+		"비트 수프를 보유하세요."
+	],
+	"quest.2FA13EBA6A45D4A5.title": "수상한 스튜",
+	"quest.2FA13EBA6A45D4A5.quest_desc": [
+		"수상한 스튜를 보유하세요."
+	],
+	"quest.53A0D54396F6596B.title": "스테이크",
+	"quest.53A0D54396F6596B.quest_desc": [
+		"스테이크를 보유하세요."
+	],
+	"quest.414EEB97DF4C6512.title": "익힌 돼지고기",
+	"quest.414EEB97DF4C6512.quest_desc": [
+		"익힌 돼지고기를 보유하세요."
+	],
+	"quest.6D53ED72FF4C8D5A.title": "익힌 닭고기",
+	"quest.6D53ED72FF4C8D5A.quest_desc": [
+		"익힌 닭고기를 보유하세요."
+	],
+	"quest.68306390D87D10C7.title": "익힌 양고기",
+	"quest.68306390D87D10C7.quest_desc": [
+		"익힌 양고기를 보유하세요."
+	],
+	"quest.017DDF8A0BA8CC22.title": "익힌 토끼고기",
+	"quest.017DDF8A0BA8CC22.quest_desc": [
+		"익힌 토끼고기를 보유하세요."
+	],
+	"quest.7C8C740ED42D757D.title": "익힌 대구",
+	"quest.7C8C740ED42D757D.quest_desc": [
+		"익힌 대구를 보유하세요."
+	],
+	"quest.0E573AB2EEA9E1FB.title": "익힌 연어",
+	"quest.0E573AB2EEA9E1FB.quest_desc": [
+		"익힌 연어를 보유하세요."
+	],
+	"quest.5421FE129D215172.title": "익히지 않은 소고기",
+	"quest.5421FE129D215172.quest_desc": [
+		"익히지 않은 소고기를 보유하세요."
+	],
+	"quest.460CB642EF7EE2E6.title": "익히지 않은 돼지고기",
+	"quest.460CB642EF7EE2E6.quest_desc": [
+		"익히지 않은 돼지고기를 보유하세요."
+	],
+	"quest.7DBA238E14310A50.title": "익히지 않은 닭고기",
+	"quest.7DBA238E14310A50.quest_desc": [
+		"익히지 않은 닭고기를 보유하세요."
+	],
+	"quest.3BC174E9B48364F4.title": "익히지 않은 양고기",
+	"quest.3BC174E9B48364F4.quest_desc": [
+		"익히지 않은 양고기를 보유하세요."
+	],
+	"quest.2D4CA1A72D772808.title": "익히지 않은 토끼고기",
+	"quest.2D4CA1A72D772808.quest_desc": [
+		"익히지 않은 토끼고기를 보유하세요."
+	],
+	"quest.09814F3F0E3B5DB9.title": "대구",
+	"quest.09814F3F0E3B5DB9.quest_desc": [
+		"대구를 보유하세요."
+	],
+	"quest.687E5088BCEFEC8B.title": "연어",
+	"quest.687E5088BCEFEC8B.quest_desc": [
+		"연어를 보유하세요."
+	],
+	"quest.14239234FCACCC70.title": "열대어",
+	"quest.14239234FCACCC70.quest_desc": [
+		"열대어를 보유하세요."
+	],
+	"quest.643C2B41EDBAB874.title": "복어",
+	"quest.643C2B41EDBAB874.quest_desc": [
+		"복어를 보유하세요."
+	],
+	"quest.16281BFC984E3965.title": "썩은 살점",
+	"quest.16281BFC984E3965.quest_desc": [
+		"썩은 살점을 보유하세요."
+	],
+	"quest.183F170D87FBC0E8.title": "거미 눈",
+	"quest.183F170D87FBC0E8.quest_desc": [
+		"거미 눈을 보유하세요."
+	],
+	"quest.56F35A283503A846.title": "발효된 거미 눈",
+	"quest.56F35A283503A846.quest_desc": [
+		"발효된 거미 눈을 보유하세요."
+	],
+	"quest.187D98B440077DC7.title": "황금 당근",
+	"quest.187D98B440077DC7.quest_desc": [
+		"황금 당근을 보유하세요."
+	],
+	"quest.56B2DC710ADDFB3D.title": "꿀병",
+	"quest.56B2DC710ADDFB3D.quest_desc": [
+		"꿀병을 보유하세요."
+	],
+	"quest.6020DAB765222CB8.title": "말린 켈프",
+	"quest.6020DAB765222CB8.quest_desc": [
+		"말린 켈프를 보유하세요."
+	],
+	"quest.2212241908BBC32C.title": "사과",
+	"quest.2212241908BBC32C.quest_desc": [
+		"사과를 보유하세요."
+	],
+	"quest.01D31A05A6EB0A91.title": "황금 사과",
+	"quest.01D31A05A6EB0A91.quest_desc": [
+		"황금 사과를 보유하세요."
+	],
+	"quest.70924391448F2B18.title": "마법이 부여된 황금 사과",
+	"quest.70924391448F2B18.quest_desc": [
+		"마법이 부여된 황금 사과를 보유하세요."
+	],
+	"quest.2560B62E9D0D0356.title": "당근",
+	"quest.2560B62E9D0D0356.quest_desc": [
+		"당근을 보유하세요."
+	],
+	"quest.1CE218AD5EF1B782.title": "감자",
+	"quest.1CE218AD5EF1B782.quest_desc": [
+		"감자를 보유하세요."
+	],
+	"quest.0CFB50EEFBC00644.title": "구운 감자",
+	"quest.0CFB50EEFBC00644.quest_desc": [
+		"구운 감자를 보유하세요."
+	],
+	"quest.2972F6FFE405065B.title": "독이 있는 감자",
+	"quest.2972F6FFE405065B.quest_desc": [
+		"독이 있는 감자를 보유하세요."
+	],
+	"quest.38B6C1672A6076B9.title": "비트",
+	"quest.38B6C1672A6076B9.quest_desc": [
+		"비트를 보유하세요."
+	],
+	"quest.211092160B80FAFC.title": "수박 조각",
+	"quest.211092160B80FAFC.quest_desc": [
+		"수박 조각을 보유하세요."
+	],
+	"quest.4ECE92FF8D68F582.title": "달콤한 열매",
+	"quest.4ECE92FF8D68F582.quest_desc": [
+		"달콤한 열매를 보유하세요."
+	],
+	"quest.2EE11D1AC6B7E520.title": "발광 열매",
+	"quest.2EE11D1AC6B7E520.quest_desc": [
+		"발광 열매를 보유하세요."
+	],
+	"quest.71DF90DFADD121AA.title": "후렴과",
+	"quest.71DF90DFADD121AA.quest_desc": [
+		"후렴과를 보유하세요."
+	],
+	"quest.70A2695952E5A540.title": "사과주",
+	"quest.70A2695952E5A540.quest_desc": [
+		"사과주를 보유하세요."
+	],
+	"quest.35D9D40E3F86F387.title": "사과 파이",
+	"quest.35D9D40E3F86F387.quest_desc": [
+		"사과 파이를 보유하세요."
+	],
+	"quest.70EA663849C427F3.title": "사과 파이 조각",
+	"quest.70EA663849C427F3.quest_desc": [
+		"사과 파이 조각을 보유하세요."
+	],
+	"quest.3BAF07153450A2BA.title": "베이컨과 계란 프라이",
+	"quest.3BAF07153450A2BA.quest_desc": [
+		"베이컨과 계란 프라이를 보유하세요."
+	],
+	"quest.78CC6E8037D5A137.title": "베이컨 샌드위치",
+	"quest.78CC6E8037D5A137.quest_desc": [
+		"베이컨 샌드위치를 보유하세요."
+	],
+	"quest.6BAD54E3571D8A03.title": "구운 대구 스튜",
+	"quest.6BAD54E3571D8A03.quest_desc": [
+		"구운 대구 스튜를 보유하세요."
+	],
+	"quest.339E54A2194BE05B.title": "바비큐 꼬치",
+	"quest.339E54A2194BE05B.quest_desc": [
+		"바비큐 꼬치를 보유하세요."
+	],
+	"quest.6A1E92EBBADBF70B.title": "소고기 패티",
+	"quest.6A1E92EBBADBF70B.quest_desc": [
+		"소고기 패티를 보유하세요."
+	],
+	"quest.4DFE5A158EE330E8.title": "소고기 스튜",
+	"quest.4DFE5A158EE330E8.quest_desc": [
+		"소고기 스튜를 보유하세요."
+	],
+	"quest.0FD03E539A3870E3.title": "사골국",
+	"quest.0FD03E539A3870E3.quest_desc": [
+		"사골국을 보유하세요."
+	],
+	"quest.677D779A6271BC24.title": "양배추 쌈",
+	"quest.677D779A6271BC24.quest_desc": [
+		"양배추 쌈을 보유하세요."
+	],
+	"quest.7F19A573572FC552.title": "케이크 조각",
+	"quest.7F19A573572FC552.quest_desc": [
+		"케이크 조각을 보유하세요."
+	],
+	"quest.326960BB2C381C91.title": "닭고기 샌드위치",
+	"quest.326960BB2C381C91.quest_desc": [
+		"닭고기 샌드위치를 보유하세요."
+	],
+	"quest.2D797846EF1BB038.title": "닭고기 수프",
+	"quest.2D797846EF1BB038.quest_desc": [
+		"닭고기 수프를 보유하세요."
+	],
+	"quest.5ED67E3D9C986638.title": "초콜릿 파이",
+	"quest.5ED67E3D9C986638.quest_desc": [
+		"초콜릿 파이를 보유하세요."
+	],
+	"quest.7097ECF212C0F618.title": "초콜릿 파이 조각",
+	"quest.7097ECF212C0F618.quest_desc": [
+		"초콜릿 파이 조각을 보유하세요."
+	],
+	"quest.55D900A0E5EBCC2D.title": "대구 초밥",
+	"quest.55D900A0E5EBCC2D.quest_desc": [
+		"대구 초밥을 보유하세요."
+	],
+	"quest.258F2DD1CA80ABEC.title": "구운 베이컨",
+	"quest.258F2DD1CA80ABEC.quest_desc": [
+		"구운 베이컨을 보유하세요."
+	],
+	"quest.20F5EAC3C7FC2802.title": "익힌 닭고기 살점",
+	"quest.20F5EAC3C7FC2802.quest_desc": [
+		"익힌 닭고기 살점을 보유하세요."
+	],
+	"quest.08D86587ED93AE05.title": "익힌 대구 살점",
+	"quest.08D86587ED93AE05.quest_desc": [
+		"익힌 대구 살점을 보유하세요."
+	],
+	"quest.1B4558016C45D539.title": "익힌 양고기 살점",
+	"quest.1B4558016C45D539.quest_desc": [
+		"익힌 양고기 살점을 보유하세요."
+	],
+	"quest.21CDB4F7AD99227E.title": "밥",
+	"quest.21CDB4F7AD99227E.quest_desc": [
+		"밥을 보유하세요."
+	],
+	"quest.01365E9F16D39D7D.title": "익힌 연어 살점",
+	"quest.01365E9F16D39D7D.quest_desc": [
+		"익힌 연어 살점을 보유하세요."
+	],
+	"quest.22BF3AB1D8DEEDB5.title": "만두",
+	"quest.22BF3AB1D8DEEDB5.quest_desc": [
+		"만두를 보유하세요."
+	],
+	"quest.2D4F1A26EEACF27E.title": "달걀 샌드위치",
+	"quest.2D4F1A26EEACF27E.quest_desc": [
+		"달걀 샌드위치를 보유하세요."
+	],
+	"quest.4BEB9A9D0FC82166.title": "생선 스튜",
+	"quest.4BEB9A9D0FC82166.quest_desc": [
+		"생선 스튜를 보유하세요."
+	],
+	"quest.1AE323A8BF3068C4.title": "계란 프라이",
+	"quest.1AE323A8BF3068C4.quest_desc": [
+		"계란 프라이를 보유하세요."
+	],
+	"quest.7AE67EAC4ACCC53E.title": "볶음밥",
+	"quest.7AE67EAC4ACCC53E.quest_desc": [
+		"볶음밥을 보유하세요."
+	],
+	"quest.54B0FD42D07F2F3A.title": "과일 샐러드",
+	"quest.54B0FD42D07F2F3A.quest_desc": [
+		"과일 샐러드를 보유하세요."
+	],
+	"quest.19F81EB8A7020095.title": "그릇에 담긴 빛나는 샐러드",
+	"quest.19F81EB8A7020095.quest_desc": [
+		"그릇에 담긴 빛나는 샐러드를 보유하세요."
+	],
+	"quest.2998E405CCE916D6.title": "발광 열매 커스터드",
+	"quest.2998E405CCE916D6.quest_desc": [
+		"발광 열매 커스터드를 보유하세요."
+	],
+	"quest.696533AF843C96A7.title": "구운 연어요리",
+	"quest.696533AF843C96A7.quest_desc": [
+		"구운 연어요리를 보유하세요."
+	],
+	"quest.190E58608D1ADCE5.title": "햄버거",
+	"quest.190E58608D1ADCE5.quest_desc": [
+		"햄버거를 보유하세요."
+	],
+	"quest.5AFC2859A2268678.title": "꿀 쿠키",
+	"quest.5AFC2859A2268678.quest_desc": [
+		"꿀 쿠키를 보유하세요."
+	],
+	"quest.6ED539D70DB01A30.title": "그릇에 담긴 꿀 바른 햄",
+	"quest.6ED539D70DB01A30.quest_desc": [
+		"그릇에 담긴 꿀 바른 햄을 보유하세요."
+	],
+	"quest.7E8C9CD124CB888A.title": "핫 코코아",
+	"quest.7E8C9CD124CB888A.quest_desc": [
+		"핫 코코아를 보유하세요."
+	],
+	"quest.3393DAEBC5FC09BA.title": "김밥",
+	"quest.3393DAEBC5FC09BA.quest_desc": [
+		"김밥을 보유하세요."
+	],
+	"quest.4AED2CE37CE314F4.title": "김밥 조각",
+	"quest.4AED2CE37CE314F4.quest_desc": [
+		"김밥 조각을 보유하세요."
+	],
+	"quest.46F0E247AD446AC2.title": "수박 주스",
+	"quest.46F0E247AD446AC2.quest_desc": [
+		"수박 주스를 보유하세요."
+	],
+	"quest.21FA4BB387D82A6D.title": "수박바",
+	"quest.21FA4BB387D82A6D.quest_desc": [
+		"수박바를 보유하세요."
+	],
+	"quest.4A2D595B08ACB902.title": "우유 병",
+	"quest.4A2D595B08ACB902.quest_desc": [
+		"우유 병을 보유하세요."
+	],
+	"quest.07F6870FEEA31E7A.title": "샐러드",
+	"quest.07F6870FEEA31E7A.quest_desc": [
+		"샐러드를 보유하세요."
+	],
+	"quest.5E6E8816B5EAEA0C.title": "버섯 볶음밥",
+	"quest.5E6E8816B5EAEA0C.quest_desc": [
+		"버섯 볶음밥을 보유하세요."
+	],
+	"quest.74D5424F380784A9.title": "케밥",
+	"quest.74D5424F380784A9.quest_desc": [
+		"케밥을 보유하세요."
+	],
+	"quest.73A1A1489C39A20B.title": "네더 샐러드",
+	"quest.73A1A1489C39A20B.quest_desc": [
+		"네더 샐러드를 보유하세요."
+	],
+	"quest.7F7C8BD0875FE647.title": "우동",
+	"quest.7F7C8BD0875FE647.quest_desc": [
+		"우동을 보유하세요."
+	],
+	"quest.6B9F096E3667D13A.title": "양파 수프",
+	"quest.6B9F096E3667D13A.quest_desc": [
+		"양파 수프를 보유하세요."
+	],
+	"quest.29D8CE4F0E86DBFB.title": "미트볼 파스타",
+	"quest.29D8CE4F0E86DBFB.quest_desc": [
+		"미트볼 파스타를 보유하세요."
+	],
+	"quest.563E90F70E039305.title": "양고기 파스타",
+	"quest.563E90F70E039305.quest_desc": [
+		"양고기 파스타를 보유하세요."
+	],
+	"quest.426D2F0DFE40E760.title": "호박 파이",
+	"quest.426D2F0DFE40E760.quest_desc": [
+		"호박 파이를 보유하세요."
+	],
+	"quest.37ACE9C0CF3C0A3A.title": "호박 파이 조각",
+	"quest.37ACE9C0CF3C0A3A.quest_desc": [
+		"호박 파이 조각을 보유하세요."
+	],
+	"quest.5C7B5FA347D4DC90.title": "호박 조각",
+	"quest.5C7B5FA347D4DC90.quest_desc": [
+		"호박 조각을 보유하세요."
+	],
+	"quest.4CFCAAD28D3CA58F.title": "호박 수프",
+	"quest.4CFCAAD28D3CA58F.quest_desc": [
+		"호박 수프를 보유하세요."
+	],
+	"quest.623188E435DA8ACF.title": "라따뚜이",
+	"quest.623188E435DA8ACF.quest_desc": [
+		"라따뚜이를 보유하세요."
+	],
+	"quest.33B6AB941C6031E9.title": "그릇에 담긴 로스트 치킨",
+	"quest.33B6AB941C6031E9.quest_desc": [
+		"그릇에 담긴 로스트 치킨을 보유하세요."
+	],
+	"quest.252C2D61C6264421.title": "구운 양고기 요리",
+	"quest.252C2D61C6264421.quest_desc": [
+		"구운 양고기 요리를 보유하세요."
+	],
+	"quest.4C97F1800F812453.title": "연어 초밥",
+	"quest.4C97F1800F812453.quest_desc": [
+		"연어 초밥을 보유하세요."
+	],
+	"quest.377E1CC133C4E259.title": "그릇에 담긴 셰퍼드 파이",
+	"quest.377E1CC133C4E259.quest_desc": [
+		"그릇에 담긴 셰퍼드 파이를 보유하세요."
+	],
+	"quest.2F0182EECBB0DF4E.title": "훈제 햄",
+	"quest.2F0182EECBB0DF4E.quest_desc": [
+		"훈제 햄을 보유하세요."
+	],
+	"quest.45B7C7900EC607FD.title": "오징어 먹물 파스타",
+	"quest.45B7C7900EC607FD.quest_desc": [
+		"오징어 먹물 파스타를 보유하세요."
+	],
+	"quest.26B519C611FF0617.title": "스테이크와 감자",
+	"quest.26B519C611FF0617.quest_desc": [
+		"스테이크와 감자를 보유하세요."
+	],
+	"quest.56704CB6245DCCB1.title": "속 채운 감자",
+	"quest.56704CB6245DCCB1.quest_desc": [
+		"속 채운 감자를 보유하세요."
+	],
+	"quest.6179C65510B66CC3.title": "그릇에 담긴 속 채운 호박",
+	"quest.6179C65510B66CC3.quest_desc": [
+		"그릇에 담긴 속 채운 호박을 보유하세요."
+	],
+	"quest.105AFA713C777AA0.title": "달콤한 열매 치즈케이크",
+	"quest.105AFA713C777AA0.quest_desc": [
+		"달콤한 열매 치즈케이크를 보유하세요."
+	],
+	"quest.5A0408DA57C95D1A.title": "달콤한 열매 치즈케이크 조각",
+	"quest.5A0408DA57C95D1A.quest_desc": [
+		"달콤한 열매 치즈케이크 조각을 보유하세요."
+	],
+	"quest.4E76F08B9FDFAF45.title": "달콤한 열매 쿠키",
+	"quest.4E76F08B9FDFAF45.quest_desc": [
+		"달콤한 열매 쿠키를 보유하세요."
+	],
+	"quest.12CD16B81807A106.title": "잡채",
+	"quest.12CD16B81807A106.quest_desc": [
+		"잡채를 보유하세요."
+	],
+	"quest.5493081334393AFA.title": "야채 수프",
+	"quest.5493081334393AFA.quest_desc": [
+		"야채 수프를 보유하세요."
+	],
+	"quest.01688C6CCD80301A.title": "증류수 병",
+	"quest.01688C6CCD80301A.quest_desc": [
+		"증류수 병을 보유하세요."
+	],
+	"quest.5FA9D3F6F884DE60.title": "민물 병",
+	"quest.5FA9D3F6F884DE60.quest_desc": [
+		"민물 병을 보유하세요."
+	],
+	"quest.20005B83BFB6FDDB.title": "오염된 물 병",
+	"quest.20005B83BFB6FDDB.quest_desc": [
+		"오염된 물 병을 보유하세요."
+	],
+	"quest.30E982C1FAF007FA.title": "바닷물 병",
+	"quest.30E982C1FAF007FA.quest_desc": [
+		"바닷물 병을 보유하세요."
+	],
+	"quest.6CAEE75ACA58D2C4.title": "증류수 양동이",
+	"quest.6CAEE75ACA58D2C4.quest_desc": [
+		"증류수 양동이를 보유하세요."
+	],
+	"quest.7101C96C5090533F.title": "민물 양동이",
+	"quest.7101C96C5090533F.quest_desc": [
+		"민물 양동이를 보유하세요."
+	],
+	"quest.40FC663B42FBAE7A.title": "오염된 물 양동이",
+	"quest.40FC663B42FBAE7A.quest_desc": [
+		"오염된 물 양동이를 보유하세요."
+	],
+	"quest.07C67695F2715D2F.title": "바닷물 양동이",
+	"quest.07C67695F2715D2F.quest_desc": [
+		"바닷물 양동이를 보유하세요."
+	],
+	"quest.0B23685E3FC39146.title": "증류수 얼음 양동이",
+	"quest.0B23685E3FC39146.quest_desc": [
+		"증류수 얼음 양동이를 보유하세요."
+	],
+	"quest.072716D364655B0D.title": "민물 얼음 양동이",
+	"quest.072716D364655B0D.quest_desc": [
+		"민물 얼음 양동이를 보유하세요."
+	],
+	"quest.17E37A3BB127550B.title": "오염된 얼음 양동이",
+	"quest.17E37A3BB127550B.quest_desc": [
+		"오염된 얼음 양동이를 보유하세요."
+	],
+	"quest.1D34330DAF97C7DF.title": "눈 양동이",
+	"quest.1D34330DAF97C7DF.quest_desc": [
+		"눈 양동이를 보유하세요."
+	],
+	"quest.114FC69FA19FB0DE.title": "꿀병",
+	"quest.114FC69FA19FB0DE.quest_desc": [
+		"꿀병을 보유하세요."
+	],
+	"quest.47E2D26AD06965D2.title": "우유 양동이",
+	"quest.47E2D26AD06965D2.quest_desc": [
+		"우유 양동이를 보유하세요."
+	],
+	"quest.64D5F7336076E7C4.title": "물약",
+	"quest.64D5F7336076E7C4.quest_desc": [
+		"물약을 보유하세요."
+	],
+	"quest.572C2E4C6A159465.title": "사과주",
+	"quest.572C2E4C6A159465.quest_desc": [
+		"사과주를 보유하세요."
+	],
+	"quest.5B81A77CA1F774DF.title": "수박 주스",
+	"quest.5B81A77CA1F774DF.quest_desc": [
+		"수박 주스를 보유하세요."
+	],
+	"quest.1E499F14C35FD41B.title": "핫 코코아",
+	"quest.1E499F14C35FD41B.quest_desc": [
+		"핫 코코아를 보유하세요."
+	],
+	"quest.76D216AFADF903AA.title": "우유 병",
+	"quest.76D216AFADF903AA.quest_desc": [
+		"우유 병을 보유하세요."
+	],
+	"quest.5C77864B0E3ACD44.title": "사골국",
+	"quest.5C77864B0E3ACD44.quest_desc": [
+		"사골국을 보유하세요."
+	],
+	"quest.4FB9F6707E3CEC03.title": "도감 30% 달성",
+	"quest.4FB9F6707E3CEC03.quest_desc": [
+		"시작 과제를 포함해 39개 이상을 완료하면 이 단계가 열립니다."
+	],
+	"quest.6195A1428FB64B93.title": "도감 60% 달성",
+	"quest.6195A1428FB64B93.quest_desc": [
+		"시작 과제를 포함해 78개 이상을 완료하면 이 단계가 열립니다."
+	],
+	"quest.69EE235DFA6B27F4.title": "도감 90% 달성",
+	"quest.69EE235DFA6B27F4.quest_desc": [
+		"시작 과제를 포함해 117개 이상을 완료하면 이 단계가 열립니다."
+	],
+	"quest.151FF3AC1019A643.title": "도감 100% 달성",
+	"quest.151FF3AC1019A643.quest_desc": [
+		"시작 과제를 포함해 모든 항목을 완료하면 도감을 마칩니다."
+	]
+}

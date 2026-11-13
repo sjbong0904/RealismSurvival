@@ -1,0 +1,11 @@
+{
+  "items": [
+    "minecraft:mushroom_stew",
+    "minecraft:beetroot_soup",
+    "minecraft:rabbit_stew",
+    "minecraft:suspicious_stew"
+  ],
+  "thirst_restore": 12.0,
+  "temperature_delta": 0.35,
+  "priority": 0
+}

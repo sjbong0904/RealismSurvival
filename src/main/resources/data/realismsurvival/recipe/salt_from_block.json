@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "realismsurvival:salt_block"
+  ],
+  "result": {
+    "id": "realismsurvival:salt",
+    "count": 9
+  }
+}

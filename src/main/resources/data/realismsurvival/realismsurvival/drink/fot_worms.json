@@ -1,0 +1,16 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "fishofthieves"
+    }
+  ],
+  "items": [
+    "fishofthieves:earthworms",
+    "fishofthieves:grubs",
+    "fishofthieves:leeches"
+  ],
+  "thirst_restore": -5.0,
+  "temperature_delta": 0.0,
+  "priority": 5
+}

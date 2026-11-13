@@ -1,0 +1,16 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "farmersdelight"
+    }
+  ],
+  "items": [
+    "farmersdelight:glow_berry_custard",
+    "farmersdelight:sweet_berry_cheesecake",
+    "farmersdelight:sweet_berry_cheesecake_slice"
+  ],
+  "thirst_restore": 5.0,
+  "temperature_delta": -0.1,
+  "priority": 5
+}

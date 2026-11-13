@@ -1,0 +1,301 @@
+{
+	"default_hide_dependency_lines": false,
+	"default_quest_shape": "circle",
+	"filename": "collection_perfection",
+	"group": "1F4528B79F489519",
+	"icon": {
+		"id": "minecraft:nether_star",
+		"count": 1
+	},
+	"id": "05A945806CBC991A",
+	"order_index": 10,
+	"quest_links": [],
+	"quests": [
+		{
+			"id": "258EA42E353B165B",
+			"dependencies": [
+				"557996549A2A142E",
+				"1930323319D47EAA",
+				"1F39D03F11567665",
+				"716925D40C69AF80",
+				"7476375D79CCC182"
+			],
+			"size": 1.25,
+			"x": 0.0,
+			"y": -2.52,
+			"tasks": [
+				{
+					"id": "374A4836C9EAED4C",
+					"type": "checkmark"
+				}
+			]
+		},
+		{
+			"id": "69F88F96DE1D5D24",
+			"dependencies": [
+				"4B9D3D7CCAEC39DC",
+				"151FF3AC1019A643",
+				"7EDA860C1CD22A45",
+				"0C93477884AFAD51",
+				"2AB20D24FCF379A9",
+				"1C35EB8C079AE6B7",
+				"79820E97DD40439D"
+			],
+			"size": 1.25,
+			"x": 0.0,
+			"y": -0.67,
+			"tasks": [
+				{
+					"id": "35F2233260B0E83D",
+					"type": "checkmark"
+				}
+			]
+		},
+		{
+			"id": "2592F21283B56701",
+			"dependencies": [
+				"258EA42E353B165B",
+				"69F88F96DE1D5D24"
+			],
+			"shape": "gear",
+			"size": 1.5,
+			"x": 1.98,
+			"y": 0.0,
+			"tasks": [
+				{
+					"id": "3AF3676E08AADFDB",
+					"type": "checkmark"
+				}
+			],
+			"rewards": [
+				{
+					"id": "2ED4DDC6176EA0BA",
+					"xp": 50,
+					"type": "xp"
+				}
+			]
+		},
+		{
+			"id": "225577333A75DFC9",
+			"dependencies": [
+				"49D80AA1C5E8BB6B"
+			],
+			"x": 0.0,
+			"y": 1.05,
+			"tasks": [
+				{
+					"id": "7B2FFFF8A4067DDB",
+					"stat": "minecraft:time_since_death",
+					"value": 192000,
+					"type": "stat"
+				}
+			],
+			"rewards": [
+				{
+					"id": "5A920B5684457B25",
+					"count": 8,
+					"item": {
+						"id": "minecraft:gold_ingot",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:gold_ingot",
+				"count": 1
+			}
+		},
+		{
+			"id": "57B52EDD2B7F7426",
+			"dependencies": [
+				"2592F21283B56701"
+			],
+			"x": 3.83,
+			"y": -2.4,
+			"tasks": [
+				{
+					"id": "242EBCF7121C958C",
+					"type": "checkmark"
+				}
+			],
+			"rewards": [
+				{
+					"id": "3C0D5CB25248F58A",
+					"count": 8,
+					"item": {
+						"id": "minecraft:gold_ingot",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:gold_ingot",
+				"count": 1
+			}
+		},
+		{
+			"id": "50146B147ECAE9A9",
+			"dependencies": [
+				"2592F21283B56701"
+			],
+			"x": 3.83,
+			"y": -0.8,
+			"tasks": [
+				{
+					"id": "76DA5B632E90F0AD",
+					"stat": "minecraft:walk_one_cm",
+					"value": 2000000,
+					"type": "stat"
+				}
+			],
+			"rewards": [
+				{
+					"id": "0BD23378A5AB90C1",
+					"count": 8,
+					"item": {
+						"id": "minecraft:gold_ingot",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:gold_ingot",
+				"count": 1
+			}
+		},
+		{
+			"id": "54CEDC4992F3E28B",
+			"dependencies": [
+				"2592F21283B56701"
+			],
+			"x": 3.83,
+			"y": 0.8,
+			"tasks": [
+				{
+					"id": "2DF3BA509656A1EF",
+					"stat": "minecraft:animals_bred",
+					"value": 20,
+					"type": "stat"
+				}
+			],
+			"rewards": [
+				{
+					"id": "7E808E0BDD2062B5",
+					"count": 8,
+					"item": {
+						"id": "minecraft:gold_ingot",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:gold_ingot",
+				"count": 1
+			}
+		},
+		{
+			"id": "1217B1FCB52FC3A0",
+			"dependencies": [
+				"2592F21283B56701"
+			],
+			"x": 3.83,
+			"y": 2.4,
+			"tasks": [
+				{
+					"id": "1ABE77C9992E8CF3",
+					"type": "checkmark"
+				}
+			],
+			"rewards": [
+				{
+					"id": "4AFAF603AE7826EC",
+					"count": 8,
+					"item": {
+						"id": "minecraft:gold_ingot",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:gold_ingot",
+				"count": 1
+			}
+		},
+		{
+			"id": "4D121C46C7EE00C7",
+			"dependencies": [
+				"49D80AA1C5E8BB6B"
+			],
+			"x": 0.0,
+			"y": 2.65,
+			"tasks": [
+				{
+					"id": "009138492E562351",
+					"stat": "minecraft:play_time",
+					"value": 2304000,
+					"type": "stat"
+				}
+			],
+			"rewards": [
+				{
+					"id": "019C9D26B609B4F8",
+					"count": 8,
+					"item": {
+						"id": "minecraft:gold_ingot",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:gold_ingot",
+				"count": 1
+			}
+		},
+		{
+			"id": "04E71D4348EC8DC0",
+			"dependencies": [
+				"225577333A75DFC9",
+				"57B52EDD2B7F7426",
+				"50146B147ECAE9A9",
+				"54CEDC4992F3E28B",
+				"1217B1FCB52FC3A0",
+				"4D121C46C7EE00C7"
+			],
+			"shape": "gear",
+			"size": 2.0,
+			"x": 5.93,
+			"y": 0.0,
+			"tasks": [
+				{
+					"id": "1C6936ED11DEDB36",
+					"type": "checkmark"
+				}
+			],
+			"rewards": [
+				{
+					"id": "489BAF5DCFD724FA",
+					"item": {
+						"id": "minecraft:dragon_egg",
+						"count": 1
+					},
+					"type": "item"
+				},
+				{
+					"id": "7E57DB8ABC75251E",
+					"xp": 500,
+					"type": "xp"
+				}
+			],
+			"icon": {
+				"id": "minecraft:dragon_egg",
+				"count": 1
+			}
+		}
+	]
+}

@@ -1,0 +1,1 @@
+﻿E={"biome.biomesoplenty.subtropics":"아열대"}

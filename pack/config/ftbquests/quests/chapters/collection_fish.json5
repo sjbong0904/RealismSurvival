@@ -1,0 +1,1610 @@
+{
+	"default_hide_dependency_lines": false,
+	"default_quest_shape": "circle",
+	"filename": "collection_fish",
+	"group": "1F4528B79F489519",
+	"icon": {
+		"id": "aquaculture:iron_fishing_rod",
+		"count": 1
+	},
+	"id": "310B28A09464367B",
+	"order_index": 2,
+	"quest_links": [],
+	"quests": [
+		{
+			"id": "36DD97021B8D7AF8",
+			"dependencies": [
+				"66B4C79F0A58423E"
+			],
+			"size": 1.25,
+			"x": 0,
+			"y": 0,
+			"tasks": [
+				{
+					"id": "477C66213E47C45C",
+					"type": "checkmark"
+				}
+			]
+		},
+		{
+			"id": "16DC079C89BF0D58",
+			"dependencies": [
+				"36DD97021B8D7AF8"
+			],
+			"hide_dependency_lines": true,
+			"x": 0.0,
+			"y": 2.6,
+			"tasks": [
+				{
+					"id": "3BA010357E3B0235",
+					"item": {
+						"id": "minecraft:cod",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:cod",
+				"count": 1
+			}
+		},
+		{
+			"id": "53C1FE63F1DB4F68",
+			"dependencies": [
+				"36DD97021B8D7AF8"
+			],
+			"hide_dependency_lines": true,
+			"x": 1.45,
+			"y": 2.6,
+			"tasks": [
+				{
+					"id": "59A6168A82BF5842",
+					"item": {
+						"id": "minecraft:salmon",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:salmon",
+				"count": 1
+			}
+		},
+		{
+			"id": "7A82B5A65EB6BDE8",
+			"dependencies": [
+				"36DD97021B8D7AF8"
+			],
+			"hide_dependency_lines": true,
+			"x": 2.9,
+			"y": 2.6,
+			"tasks": [
+				{
+					"id": "10723C6303AAAAFC",
+					"item": {
+						"id": "minecraft:tropical_fish",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:tropical_fish",
+				"count": 1
+			}
+		},
+		{
+			"id": "2F89B6CDED7ADC7B",
+			"dependencies": [
+				"36DD97021B8D7AF8"
+			],
+			"hide_dependency_lines": true,
+			"x": 4.35,
+			"y": 2.6,
+			"tasks": [
+				{
+					"id": "205C359D336A1D9A",
+					"item": {
+						"id": "minecraft:pufferfish",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:pufferfish",
+				"count": 1
+			}
+		},
+		{
+			"id": "3014C3E2672817F6",
+			"dependencies": [
+				"36DD97021B8D7AF8"
+			],
+			"hide_dependency_lines": true,
+			"x": 5.8,
+			"y": 2.6,
+			"tasks": [
+				{
+					"id": "476E51A35C7D6076",
+					"item": {
+						"id": "aquaculture:arapaima",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "aquaculture:arapaima",
+				"count": 1
+			}
+		},
+		{
+			"id": "3DA89931ABD99DF4",
+			"dependencies": [
+				"36DD97021B8D7AF8"
+			],
+			"hide_dependency_lines": true,
+			"x": 7.25,
+			"y": 2.6,
+			"tasks": [
+				{
+					"id": "5A4B28B49578830B",
+					"item": {
+						"id": "aquaculture:arrau_turtle",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "aquaculture:arrau_turtle",
+				"count": 1
+			}
+		},
+		{
+			"id": "3F6180EF4170CF9A",
+			"dependencies": [
+				"36DD97021B8D7AF8"
+			],
+			"hide_dependency_lines": true,
+			"x": 8.7,
+			"y": 2.6,
+			"tasks": [
+				{
+					"id": "6091238A808877BD",
+					"item": {
+						"id": "aquaculture:atlantic_cod",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "aquaculture:atlantic_cod",
+				"count": 1
+			}
+		},
+		{
+			"id": "2E21AC1294203D29",
+			"dependencies": [
+				"36DD97021B8D7AF8"
+			],
+			"hide_dependency_lines": true,
+			"x": 10.15,
+			"y": 2.6,
+			"tasks": [
+				{
+					"id": "08ACAB7F092DE394",
+					"item": {
+						"id": "aquaculture:atlantic_halibut",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "aquaculture:atlantic_halibut",
+				"count": 1
+			}
+		},
+		{
+			"id": "520535E870A65BDA",
+			"dependencies": [
+				"36DD97021B8D7AF8"
+			],
+			"hide_dependency_lines": true,
+			"x": 11.6,
+			"y": 2.6,
+			"tasks": [
+				{
+					"id": "43E7DB0B0BC2A320",
+					"item": {
+						"id": "aquaculture:atlantic_herring",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "aquaculture:atlantic_herring",
+				"count": 1
+			}
+		},
+		{
+			"id": "13AE43E865DE12D1",
+			"dependencies": [
+				"36DD97021B8D7AF8"
+			],
+			"hide_dependency_lines": true,
+			"x": 13.049999999999999,
+			"y": 2.6,
+			"tasks": [
+				{
+					"id": "1915E90DE140BCA4",
+					"item": {
+						"id": "aquaculture:bayad",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "aquaculture:bayad",
+				"count": 1
+			}
+		},
+		{
+			"id": "021C364C0A52611F",
+			"dependencies": [
+				"36DD97021B8D7AF8"
+			],
+			"hide_dependency_lines": true,
+			"x": 14.5,
+			"y": 2.6,
+			"tasks": [
+				{
+					"id": "5AEBFF798F64723E",
+					"item": {
+						"id": "aquaculture:blackfish",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "aquaculture:blackfish",
+				"count": 1
+			}
+		},
+		{
+			"id": "116E11A76D31088A",
+			"dependencies": [
+				"36DD97021B8D7AF8"
+			],
+			"hide_dependency_lines": true,
+			"x": 0.0,
+			"y": 4.05,
+			"tasks": [
+				{
+					"id": "634DA6E22DEFE619",
+					"item": {
+						"id": "aquaculture:bluegill",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "aquaculture:bluegill",
+				"count": 1
+			}
+		},
+		{
+			"id": "2AE1A1C7BDDC22F9",
+			"dependencies": [
+				"36DD97021B8D7AF8"
+			],
+			"hide_dependency_lines": true,
+			"x": 1.45,
+			"y": 4.05,
+			"tasks": [
+				{
+					"id": "4430867D9274D170",
+					"item": {
+						"id": "aquaculture:boulti",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "aquaculture:boulti",
+				"count": 1
+			}
+		},
+		{
+			"id": "74358708B0B24F58",
+			"dependencies": [
+				"36DD97021B8D7AF8"
+			],
+			"hide_dependency_lines": true,
+			"x": 2.9,
+			"y": 4.05,
+			"tasks": [
+				{
+					"id": "21EFEF39CE6D0446",
+					"item": {
+						"id": "aquaculture:brown_shrooma",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "aquaculture:brown_shrooma",
+				"count": 1
+			}
+		},
+		{
+			"id": "528E3B722B9A3C75",
+			"dependencies": [
+				"36DD97021B8D7AF8"
+			],
+			"hide_dependency_lines": true,
+			"x": 4.35,
+			"y": 4.05,
+			"tasks": [
+				{
+					"id": "6673AC14E3D81F6A",
+					"item": {
+						"id": "aquaculture:brown_trout",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "aquaculture:brown_trout",
+				"count": 1
+			}
+		},
+		{
+			"id": "6EF235DBB1AC4E29",
+			"dependencies": [
+				"36DD97021B8D7AF8"
+			],
+			"hide_dependency_lines": true,
+			"x": 5.8,
+			"y": 4.05,
+			"tasks": [
+				{
+					"id": "689D7150C9896A86",
+					"item": {
+						"id": "aquaculture:capitaine",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "aquaculture:capitaine",
+				"count": 1
+			}
+		},
+		{
+			"id": "678213F093052C99",
+			"dependencies": [
+				"36DD97021B8D7AF8"
+			],
+			"hide_dependency_lines": true,
+			"x": 7.25,
+			"y": 4.05,
+			"tasks": [
+				{
+					"id": "0FB9DC3AA3D0FFF0",
+					"item": {
+						"id": "aquaculture:carp",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "aquaculture:carp",
+				"count": 1
+			}
+		},
+		{
+			"id": "758C47733651B524",
+			"dependencies": [
+				"36DD97021B8D7AF8"
+			],
+			"hide_dependency_lines": true,
+			"x": 8.7,
+			"y": 4.05,
+			"tasks": [
+				{
+					"id": "66FA78E2001BA251",
+					"item": {
+						"id": "aquaculture:catfish",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "aquaculture:catfish",
+				"count": 1
+			}
+		},
+		{
+			"id": "54C51C7E307CE1F1",
+			"dependencies": [
+				"36DD97021B8D7AF8"
+			],
+			"hide_dependency_lines": true,
+			"x": 10.15,
+			"y": 4.05,
+			"tasks": [
+				{
+					"id": "3828E9F669F533B6",
+					"item": {
+						"id": "aquaculture:gar",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "aquaculture:gar",
+				"count": 1
+			}
+		},
+		{
+			"id": "1028994DE4BDAEC8",
+			"dependencies": [
+				"36DD97021B8D7AF8"
+			],
+			"hide_dependency_lines": true,
+			"x": 11.6,
+			"y": 4.05,
+			"tasks": [
+				{
+					"id": "08A90958709EAC82",
+					"item": {
+						"id": "aquaculture:goldfish",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "aquaculture:goldfish",
+				"count": 1
+			}
+		},
+		{
+			"id": "634FB465A0D9AAB1",
+			"dependencies": [
+				"36DD97021B8D7AF8"
+			],
+			"hide_dependency_lines": true,
+			"x": 13.049999999999999,
+			"y": 4.05,
+			"tasks": [
+				{
+					"id": "1E25870ADB4ECCA3",
+					"item": {
+						"id": "aquaculture:jellyfish",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "aquaculture:jellyfish",
+				"count": 1
+			}
+		},
+		{
+			"id": "008B55036BBC9A03",
+			"dependencies": [
+				"36DD97021B8D7AF8"
+			],
+			"hide_dependency_lines": true,
+			"x": 14.5,
+			"y": 4.05,
+			"tasks": [
+				{
+					"id": "5E5C38E95F17836A",
+					"item": {
+						"id": "aquaculture:largemouth_bass",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "aquaculture:largemouth_bass",
+				"count": 1
+			}
+		},
+		{
+			"id": "598ECD9C9FE3D974",
+			"dependencies": [
+				"36DD97021B8D7AF8"
+			],
+			"hide_dependency_lines": true,
+			"x": 0.0,
+			"y": 5.5,
+			"tasks": [
+				{
+					"id": "364ECC541D64850A",
+					"item": {
+						"id": "aquaculture:leech",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "aquaculture:leech",
+				"count": 1
+			}
+		},
+		{
+			"id": "6DCB97B826303345",
+			"dependencies": [
+				"36DD97021B8D7AF8"
+			],
+			"hide_dependency_lines": true,
+			"x": 1.45,
+			"y": 5.5,
+			"tasks": [
+				{
+					"id": "0558819719AEC729",
+					"item": {
+						"id": "aquaculture:minnow",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "aquaculture:minnow",
+				"count": 1
+			}
+		},
+		{
+			"id": "5E980E1CE2586B2B",
+			"dependencies": [
+				"36DD97021B8D7AF8"
+			],
+			"hide_dependency_lines": true,
+			"x": 2.9,
+			"y": 5.5,
+			"tasks": [
+				{
+					"id": "71EF76C0846F4CAE",
+					"item": {
+						"id": "aquaculture:muskellunge",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "aquaculture:muskellunge",
+				"count": 1
+			}
+		},
+		{
+			"id": "36C7C67495A57D75",
+			"dependencies": [
+				"36DD97021B8D7AF8"
+			],
+			"hide_dependency_lines": true,
+			"x": 4.35,
+			"y": 5.5,
+			"tasks": [
+				{
+					"id": "69837E78848673EE",
+					"item": {
+						"id": "aquaculture:pacific_halibut",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "aquaculture:pacific_halibut",
+				"count": 1
+			}
+		},
+		{
+			"id": "5495024B0C7BD1CE",
+			"dependencies": [
+				"36DD97021B8D7AF8"
+			],
+			"hide_dependency_lines": true,
+			"x": 5.8,
+			"y": 5.5,
+			"tasks": [
+				{
+					"id": "18DBE191C188BCB7",
+					"item": {
+						"id": "aquaculture:perch",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "aquaculture:perch",
+				"count": 1
+			}
+		},
+		{
+			"id": "4D3D7594F085B967",
+			"dependencies": [
+				"36DD97021B8D7AF8"
+			],
+			"hide_dependency_lines": true,
+			"x": 7.25,
+			"y": 5.5,
+			"tasks": [
+				{
+					"id": "1CBEB0026DFA9FA4",
+					"item": {
+						"id": "aquaculture:pink_salmon",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "aquaculture:pink_salmon",
+				"count": 1
+			}
+		},
+		{
+			"id": "36593AB98ADEE05F",
+			"dependencies": [
+				"36DD97021B8D7AF8"
+			],
+			"hide_dependency_lines": true,
+			"x": 8.7,
+			"y": 5.5,
+			"tasks": [
+				{
+					"id": "0FB1F5C628C34535",
+					"item": {
+						"id": "aquaculture:piranha",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "aquaculture:piranha",
+				"count": 1
+			}
+		},
+		{
+			"id": "640D88481EA9A3F1",
+			"dependencies": [
+				"36DD97021B8D7AF8"
+			],
+			"hide_dependency_lines": true,
+			"x": 10.15,
+			"y": 5.5,
+			"tasks": [
+				{
+					"id": "25F9BDD72ED40811",
+					"item": {
+						"id": "aquaculture:pollock",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "aquaculture:pollock",
+				"count": 1
+			}
+		},
+		{
+			"id": "16206EB01133ACB9",
+			"dependencies": [
+				"36DD97021B8D7AF8"
+			],
+			"hide_dependency_lines": true,
+			"x": 11.6,
+			"y": 5.5,
+			"tasks": [
+				{
+					"id": "58847BD70B99B324",
+					"item": {
+						"id": "aquaculture:rainbow_trout",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "aquaculture:rainbow_trout",
+				"count": 1
+			}
+		},
+		{
+			"id": "742A4BA6EE054E8B",
+			"dependencies": [
+				"36DD97021B8D7AF8"
+			],
+			"hide_dependency_lines": true,
+			"x": 13.049999999999999,
+			"y": 5.5,
+			"tasks": [
+				{
+					"id": "54ECC2681649954C",
+					"item": {
+						"id": "aquaculture:red_grouper",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "aquaculture:red_grouper",
+				"count": 1
+			}
+		},
+		{
+			"id": "2950004F28AB3EBA",
+			"dependencies": [
+				"36DD97021B8D7AF8"
+			],
+			"hide_dependency_lines": true,
+			"x": 14.5,
+			"y": 5.5,
+			"tasks": [
+				{
+					"id": "2CFF686C46E9B00A",
+					"item": {
+						"id": "aquaculture:red_shrooma",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "aquaculture:red_shrooma",
+				"count": 1
+			}
+		},
+		{
+			"id": "5C12CE653CB64685",
+			"dependencies": [
+				"36DD97021B8D7AF8"
+			],
+			"hide_dependency_lines": true,
+			"x": 0.0,
+			"y": 6.949999999999999,
+			"tasks": [
+				{
+					"id": "177772239340B368",
+					"item": {
+						"id": "aquaculture:smallmouth_bass",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "aquaculture:smallmouth_bass",
+				"count": 1
+			}
+		},
+		{
+			"id": "2C6A128F88861FF7",
+			"dependencies": [
+				"36DD97021B8D7AF8"
+			],
+			"hide_dependency_lines": true,
+			"x": 1.45,
+			"y": 6.949999999999999,
+			"tasks": [
+				{
+					"id": "4F5FD47169F5F100",
+					"item": {
+						"id": "aquaculture:starshell_turtle",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "aquaculture:starshell_turtle",
+				"count": 1
+			}
+		},
+		{
+			"id": "53675B994F579099",
+			"dependencies": [
+				"36DD97021B8D7AF8"
+			],
+			"hide_dependency_lines": true,
+			"x": 2.9,
+			"y": 6.949999999999999,
+			"tasks": [
+				{
+					"id": "02C73C7A7DC1B148",
+					"item": {
+						"id": "aquaculture:sushi",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "aquaculture:sushi",
+				"count": 1
+			}
+		},
+		{
+			"id": "6E04B58471599EDA",
+			"dependencies": [
+				"36DD97021B8D7AF8"
+			],
+			"hide_dependency_lines": true,
+			"x": 4.35,
+			"y": 6.949999999999999,
+			"tasks": [
+				{
+					"id": "444FB7E237F2E329",
+					"item": {
+						"id": "aquaculture:synodontis",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "aquaculture:synodontis",
+				"count": 1
+			}
+		},
+		{
+			"id": "5E44E311094B2A6C",
+			"dependencies": [
+				"36DD97021B8D7AF8"
+			],
+			"hide_dependency_lines": true,
+			"x": 5.8,
+			"y": 6.949999999999999,
+			"tasks": [
+				{
+					"id": "152EFCB76D428EA5",
+					"item": {
+						"id": "aquaculture:tambaqui",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "aquaculture:tambaqui",
+				"count": 1
+			}
+		},
+		{
+			"id": "38426E22844445B1",
+			"dependencies": [
+				"36DD97021B8D7AF8"
+			],
+			"hide_dependency_lines": true,
+			"x": 7.25,
+			"y": 6.949999999999999,
+			"tasks": [
+				{
+					"id": "7C67E002119887DF",
+					"item": {
+						"id": "aquaculture:tuna",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "aquaculture:tuna",
+				"count": 1
+			}
+		},
+		{
+			"id": "0D5C06A227E11F43",
+			"dependencies": [
+				"36DD97021B8D7AF8"
+			],
+			"hide_dependency_lines": true,
+			"x": 8.7,
+			"y": 6.949999999999999,
+			"tasks": [
+				{
+					"id": "1A86D05C3B20D0CE",
+					"item": {
+						"id": "aquaculture:turtle_soup",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "aquaculture:turtle_soup",
+				"count": 1
+			}
+		},
+		{
+			"id": "33355D54404C329B",
+			"dependencies": [
+				"36DD97021B8D7AF8"
+			],
+			"hide_dependency_lines": true,
+			"x": 10.15,
+			"y": 6.949999999999999,
+			"tasks": [
+				{
+					"id": "3159B530D4F5E005",
+					"item": {
+						"id": "aquaculture:fish_fillet_raw",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "aquaculture:fish_fillet_raw",
+				"count": 1
+			}
+		},
+		{
+			"id": "0EEB5D2F67C4DD7F",
+			"dependencies": [
+				"36DD97021B8D7AF8"
+			],
+			"hide_dependency_lines": true,
+			"x": 11.6,
+			"y": 6.949999999999999,
+			"tasks": [
+				{
+					"id": "57B44ADC9E144C4D",
+					"item": {
+						"id": "aquaculture:fish_fillet_cooked",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "aquaculture:fish_fillet_cooked",
+				"count": 1
+			}
+		},
+		{
+			"id": "4AB10A7F2E0C96E2",
+			"dependencies": [
+				"36DD97021B8D7AF8"
+			],
+			"hide_dependency_lines": true,
+			"x": 13.049999999999999,
+			"y": 6.949999999999999,
+			"tasks": [
+				{
+					"id": "29B534B9E7D3A5AA",
+					"item": {
+						"id": "fishofthieves:ancientscale",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "fishofthieves:ancientscale",
+				"count": 1
+			}
+		},
+		{
+			"id": "3F55ED3B6A204C69",
+			"dependencies": [
+				"36DD97021B8D7AF8"
+			],
+			"hide_dependency_lines": true,
+			"x": 14.5,
+			"y": 6.949999999999999,
+			"tasks": [
+				{
+					"id": "320CB191C01799AC",
+					"item": {
+						"id": "fishofthieves:battlegill",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "fishofthieves:battlegill",
+				"count": 1
+			}
+		},
+		{
+			"id": "386DC1A3EDC6577C",
+			"dependencies": [
+				"36DD97021B8D7AF8"
+			],
+			"hide_dependency_lines": true,
+			"x": 0.0,
+			"y": 8.4,
+			"tasks": [
+				{
+					"id": "573AED8071E682C1",
+					"item": {
+						"id": "fishofthieves:devilfish",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "fishofthieves:devilfish",
+				"count": 1
+			}
+		},
+		{
+			"id": "77CCE6027DF96D05",
+			"dependencies": [
+				"36DD97021B8D7AF8"
+			],
+			"hide_dependency_lines": true,
+			"x": 1.45,
+			"y": 8.4,
+			"tasks": [
+				{
+					"id": "01BD8EE15E3ADD70",
+					"item": {
+						"id": "fishofthieves:islehopper",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "fishofthieves:islehopper",
+				"count": 1
+			}
+		},
+		{
+			"id": "14840D9257B0AD1E",
+			"dependencies": [
+				"36DD97021B8D7AF8"
+			],
+			"hide_dependency_lines": true,
+			"x": 2.9,
+			"y": 8.4,
+			"tasks": [
+				{
+					"id": "71EE4EFFF60E431A",
+					"item": {
+						"id": "fishofthieves:plentifin",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "fishofthieves:plentifin",
+				"count": 1
+			}
+		},
+		{
+			"id": "1D4BB3DED192DD75",
+			"dependencies": [
+				"36DD97021B8D7AF8"
+			],
+			"hide_dependency_lines": true,
+			"x": 4.35,
+			"y": 8.4,
+			"tasks": [
+				{
+					"id": "0529F35FFA86E908",
+					"item": {
+						"id": "fishofthieves:pondie",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "fishofthieves:pondie",
+				"count": 1
+			}
+		},
+		{
+			"id": "2F244D012E0B158A",
+			"dependencies": [
+				"36DD97021B8D7AF8"
+			],
+			"hide_dependency_lines": true,
+			"x": 5.8,
+			"y": 8.4,
+			"tasks": [
+				{
+					"id": "6E6E481A93970D98",
+					"item": {
+						"id": "fishofthieves:splashtail",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "fishofthieves:splashtail",
+				"count": 1
+			}
+		},
+		{
+			"id": "7A8695F3425A65B0",
+			"dependencies": [
+				"36DD97021B8D7AF8"
+			],
+			"hide_dependency_lines": true,
+			"x": 7.25,
+			"y": 8.4,
+			"tasks": [
+				{
+					"id": "254D05C942E1F433",
+					"item": {
+						"id": "fishofthieves:stormfish",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "fishofthieves:stormfish",
+				"count": 1
+			}
+		},
+		{
+			"id": "2C658E598F3AEE5C",
+			"dependencies": [
+				"36DD97021B8D7AF8"
+			],
+			"hide_dependency_lines": true,
+			"x": 8.7,
+			"y": 8.4,
+			"tasks": [
+				{
+					"id": "3D48F13FEAC6611D",
+					"item": {
+						"id": "fishofthieves:wildsplash",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "fishofthieves:wildsplash",
+				"count": 1
+			}
+		},
+		{
+			"id": "17D85C706FEC1D2A",
+			"dependencies": [
+				"36DD97021B8D7AF8"
+			],
+			"hide_dependency_lines": true,
+			"x": 10.15,
+			"y": 8.4,
+			"tasks": [
+				{
+					"id": "699D294E24C796A1",
+					"item": {
+						"id": "fishofthieves:wrecker",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "fishofthieves:wrecker",
+				"count": 1
+			}
+		},
+		{
+			"id": "72957804A8DD406B",
+			"dependencies": [
+				"36DD97021B8D7AF8",
+				"16DC079C89BF0D58",
+				"53C1FE63F1DB4F68",
+				"7A82B5A65EB6BDE8",
+				"2F89B6CDED7ADC7B",
+				"3014C3E2672817F6",
+				"3DA89931ABD99DF4",
+				"3F6180EF4170CF9A",
+				"2E21AC1294203D29",
+				"520535E870A65BDA",
+				"13AE43E865DE12D1",
+				"021C364C0A52611F",
+				"116E11A76D31088A",
+				"2AE1A1C7BDDC22F9",
+				"74358708B0B24F58",
+				"528E3B722B9A3C75",
+				"6EF235DBB1AC4E29",
+				"678213F093052C99",
+				"758C47733651B524",
+				"54C51C7E307CE1F1",
+				"1028994DE4BDAEC8",
+				"634FB465A0D9AAB1",
+				"008B55036BBC9A03",
+				"598ECD9C9FE3D974",
+				"6DCB97B826303345",
+				"5E980E1CE2586B2B",
+				"36C7C67495A57D75",
+				"5495024B0C7BD1CE",
+				"4D3D7594F085B967",
+				"36593AB98ADEE05F",
+				"640D88481EA9A3F1",
+				"16206EB01133ACB9",
+				"742A4BA6EE054E8B",
+				"2950004F28AB3EBA",
+				"5C12CE653CB64685",
+				"2C6A128F88861FF7",
+				"53675B994F579099",
+				"6E04B58471599EDA",
+				"5E44E311094B2A6C",
+				"38426E22844445B1",
+				"0D5C06A227E11F43",
+				"33355D54404C329B",
+				"0EEB5D2F67C4DD7F",
+				"4AB10A7F2E0C96E2",
+				"3F55ED3B6A204C69",
+				"386DC1A3EDC6577C",
+				"77CCE6027DF96D05",
+				"14840D9257B0AD1E",
+				"1D4BB3DED192DD75",
+				"2F244D012E0B158A",
+				"7A8695F3425A65B0",
+				"2C658E598F3AEE5C",
+				"17D85C706FEC1D2A"
+			],
+			"min_required_dependencies": 17,
+			"hide_dependency_lines": true,
+			"size": 1.25,
+			"x": 18.349999999999998,
+			"y": 2.6,
+			"tasks": [
+				{
+					"id": "4ECC4A6064FE7C97",
+					"type": "checkmark"
+				}
+			],
+			"rewards": [
+				{
+					"id": "557D92B9D9482DC5",
+					"item": {
+						"id": "minecraft:nautilus_shell",
+						"count": 1
+					},
+					"type": "item"
+				},
+				{
+					"id": "5A40A87CCF6CCCB9",
+					"item": {
+						"id": "minecraft:sea_lantern",
+						"count": 1
+					},
+					"type": "item"
+				},
+				{
+					"id": "0A38C2FE29400012",
+					"xp_levels": 3,
+					"type": "xp_levels"
+				}
+			],
+			"icon": {
+				"id": "minecraft:nautilus_shell",
+				"count": 1
+			}
+		},
+		{
+			"id": "46166A247935D187",
+			"dependencies": [
+				"36DD97021B8D7AF8",
+				"16DC079C89BF0D58",
+				"53C1FE63F1DB4F68",
+				"7A82B5A65EB6BDE8",
+				"2F89B6CDED7ADC7B",
+				"3014C3E2672817F6",
+				"3DA89931ABD99DF4",
+				"3F6180EF4170CF9A",
+				"2E21AC1294203D29",
+				"520535E870A65BDA",
+				"13AE43E865DE12D1",
+				"021C364C0A52611F",
+				"116E11A76D31088A",
+				"2AE1A1C7BDDC22F9",
+				"74358708B0B24F58",
+				"528E3B722B9A3C75",
+				"6EF235DBB1AC4E29",
+				"678213F093052C99",
+				"758C47733651B524",
+				"54C51C7E307CE1F1",
+				"1028994DE4BDAEC8",
+				"634FB465A0D9AAB1",
+				"008B55036BBC9A03",
+				"598ECD9C9FE3D974",
+				"6DCB97B826303345",
+				"5E980E1CE2586B2B",
+				"36C7C67495A57D75",
+				"5495024B0C7BD1CE",
+				"4D3D7594F085B967",
+				"36593AB98ADEE05F",
+				"640D88481EA9A3F1",
+				"16206EB01133ACB9",
+				"742A4BA6EE054E8B",
+				"2950004F28AB3EBA",
+				"5C12CE653CB64685",
+				"2C6A128F88861FF7",
+				"53675B994F579099",
+				"6E04B58471599EDA",
+				"5E44E311094B2A6C",
+				"38426E22844445B1",
+				"0D5C06A227E11F43",
+				"33355D54404C329B",
+				"0EEB5D2F67C4DD7F",
+				"4AB10A7F2E0C96E2",
+				"3F55ED3B6A204C69",
+				"386DC1A3EDC6577C",
+				"77CCE6027DF96D05",
+				"14840D9257B0AD1E",
+				"1D4BB3DED192DD75",
+				"2F244D012E0B158A",
+				"7A8695F3425A65B0",
+				"2C658E598F3AEE5C",
+				"17D85C706FEC1D2A"
+			],
+			"min_required_dependencies": 33,
+			"hide_dependency_lines": true,
+			"size": 1.25,
+			"x": 18.349999999999998,
+			"y": 4.5,
+			"tasks": [
+				{
+					"id": "5D0AABC97628A094",
+					"type": "checkmark"
+				}
+			],
+			"rewards": [
+				{
+					"id": "35393759EBEC483E",
+					"item": {
+						"id": "minecraft:sponge",
+						"count": 1
+					},
+					"type": "item"
+				},
+				{
+					"id": "4D35A76158124640",
+					"item": {
+						"id": "minecraft:heart_of_the_sea",
+						"count": 1
+					},
+					"type": "item"
+				},
+				{
+					"id": "28DE3C3AB36742CC",
+					"xp_levels": 5,
+					"type": "xp_levels"
+				}
+			],
+			"icon": {
+				"id": "minecraft:sponge",
+				"count": 1
+			}
+		},
+		{
+			"id": "44D4F64C8CF05497",
+			"dependencies": [
+				"36DD97021B8D7AF8",
+				"16DC079C89BF0D58",
+				"53C1FE63F1DB4F68",
+				"7A82B5A65EB6BDE8",
+				"2F89B6CDED7ADC7B",
+				"3014C3E2672817F6",
+				"3DA89931ABD99DF4",
+				"3F6180EF4170CF9A",
+				"2E21AC1294203D29",
+				"520535E870A65BDA",
+				"13AE43E865DE12D1",
+				"021C364C0A52611F",
+				"116E11A76D31088A",
+				"2AE1A1C7BDDC22F9",
+				"74358708B0B24F58",
+				"528E3B722B9A3C75",
+				"6EF235DBB1AC4E29",
+				"678213F093052C99",
+				"758C47733651B524",
+				"54C51C7E307CE1F1",
+				"1028994DE4BDAEC8",
+				"634FB465A0D9AAB1",
+				"008B55036BBC9A03",
+				"598ECD9C9FE3D974",
+				"6DCB97B826303345",
+				"5E980E1CE2586B2B",
+				"36C7C67495A57D75",
+				"5495024B0C7BD1CE",
+				"4D3D7594F085B967",
+				"36593AB98ADEE05F",
+				"640D88481EA9A3F1",
+				"16206EB01133ACB9",
+				"742A4BA6EE054E8B",
+				"2950004F28AB3EBA",
+				"5C12CE653CB64685",
+				"2C6A128F88861FF7",
+				"53675B994F579099",
+				"6E04B58471599EDA",
+				"5E44E311094B2A6C",
+				"38426E22844445B1",
+				"0D5C06A227E11F43",
+				"33355D54404C329B",
+				"0EEB5D2F67C4DD7F",
+				"4AB10A7F2E0C96E2",
+				"3F55ED3B6A204C69",
+				"386DC1A3EDC6577C",
+				"77CCE6027DF96D05",
+				"14840D9257B0AD1E",
+				"1D4BB3DED192DD75",
+				"2F244D012E0B158A",
+				"7A8695F3425A65B0",
+				"2C658E598F3AEE5C",
+				"17D85C706FEC1D2A"
+			],
+			"min_required_dependencies": 48,
+			"hide_dependency_lines": true,
+			"size": 1.25,
+			"x": 18.349999999999998,
+			"y": 6.4,
+			"tasks": [
+				{
+					"id": "48D8230E230F86CB",
+					"type": "checkmark"
+				}
+			],
+			"rewards": [
+				{
+					"id": "0AEB8851F42C7F8C",
+					"item": {
+						"id": "minecraft:tide_armor_trim_smithing_template",
+						"count": 1
+					},
+					"type": "item"
+				},
+				{
+					"id": "56BB6510B70BA0A1",
+					"item": {
+						"id": "aquaculture:neptunium_block",
+						"count": 1
+					},
+					"type": "item"
+				},
+				{
+					"id": "409EE39D5BBA2E25",
+					"xp_levels": 8,
+					"type": "xp_levels"
+				}
+			],
+			"icon": {
+				"id": "minecraft:tide_armor_trim_smithing_template",
+				"count": 1
+			}
+		},
+		{
+			"id": "7EDA860C1CD22A45",
+			"dependencies": [
+				"36DD97021B8D7AF8",
+				"16DC079C89BF0D58",
+				"53C1FE63F1DB4F68",
+				"7A82B5A65EB6BDE8",
+				"2F89B6CDED7ADC7B",
+				"3014C3E2672817F6",
+				"3DA89931ABD99DF4",
+				"3F6180EF4170CF9A",
+				"2E21AC1294203D29",
+				"520535E870A65BDA",
+				"13AE43E865DE12D1",
+				"021C364C0A52611F",
+				"116E11A76D31088A",
+				"2AE1A1C7BDDC22F9",
+				"74358708B0B24F58",
+				"528E3B722B9A3C75",
+				"6EF235DBB1AC4E29",
+				"678213F093052C99",
+				"758C47733651B524",
+				"54C51C7E307CE1F1",
+				"1028994DE4BDAEC8",
+				"634FB465A0D9AAB1",
+				"008B55036BBC9A03",
+				"598ECD9C9FE3D974",
+				"6DCB97B826303345",
+				"5E980E1CE2586B2B",
+				"36C7C67495A57D75",
+				"5495024B0C7BD1CE",
+				"4D3D7594F085B967",
+				"36593AB98ADEE05F",
+				"640D88481EA9A3F1",
+				"16206EB01133ACB9",
+				"742A4BA6EE054E8B",
+				"2950004F28AB3EBA",
+				"5C12CE653CB64685",
+				"2C6A128F88861FF7",
+				"53675B994F579099",
+				"6E04B58471599EDA",
+				"5E44E311094B2A6C",
+				"38426E22844445B1",
+				"0D5C06A227E11F43",
+				"33355D54404C329B",
+				"0EEB5D2F67C4DD7F",
+				"4AB10A7F2E0C96E2",
+				"3F55ED3B6A204C69",
+				"386DC1A3EDC6577C",
+				"77CCE6027DF96D05",
+				"14840D9257B0AD1E",
+				"1D4BB3DED192DD75",
+				"2F244D012E0B158A",
+				"7A8695F3425A65B0",
+				"2C658E598F3AEE5C",
+				"17D85C706FEC1D2A"
+			],
+			"hide_dependency_lines": true,
+			"shape": "gear",
+			"size": 1.5,
+			"x": 18.349999999999998,
+			"y": 8.299999999999999,
+			"tasks": [
+				{
+					"id": "24094020E17BD81E",
+					"type": "checkmark"
+				}
+			],
+			"rewards": [
+				{
+					"id": "388D7EFDAE965849",
+					"item": {
+						"id": "aquaculture:neptunium_fishing_rod",
+						"count": 1
+					},
+					"type": "item"
+				},
+				{
+					"id": "793395250C7C5878",
+					"item": {
+						"id": "minecraft:conduit",
+						"count": 1
+					},
+					"type": "item"
+				},
+				{
+					"id": "5D676A9E22E3DBAF",
+					"xp_levels": 12,
+					"type": "xp_levels"
+				}
+			],
+			"icon": {
+				"id": "aquaculture:neptunium_fishing_rod",
+				"count": 1
+			}
+		}
+	]
+}

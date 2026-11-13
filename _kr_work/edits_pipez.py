@@ -1,0 +1,1 @@
+﻿E={"config.jade.plugin_pipez.pipe":"Pipez"}

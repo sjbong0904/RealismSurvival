@@ -1,0 +1,6 @@
+{
+  "biomes": "#minecraft:is_overworld",
+  "thirst_per_second": 0.05,
+  "sprint_multiplier": 1.5,
+  "priority": -100
+}

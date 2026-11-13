@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:water",
+    "minecraft:flowing_water",
+    "realismsurvival:graded_water",
+    "realismsurvival:flowing_graded_water"
+  ]
+}

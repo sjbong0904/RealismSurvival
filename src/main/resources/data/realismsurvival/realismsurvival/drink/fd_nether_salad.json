@@ -1,0 +1,14 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "farmersdelight"
+    }
+  ],
+  "items": [
+    "farmersdelight:nether_salad"
+  ],
+  "thirst_restore": 3.0,
+  "temperature_delta": 0.1,
+  "priority": 5
+}

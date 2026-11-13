@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "realismsurvival:fresh_water_bucket",
+    "realismsurvival:stagnant_water_bucket",
+    "realismsurvival:salt_water_bucket",
+    "minecraft:water_bucket"
+  ]
+}

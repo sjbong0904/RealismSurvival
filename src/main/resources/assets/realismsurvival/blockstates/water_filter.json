@@ -1,0 +1,12 @@
+{
+  "variants": {
+    "facing=north,filtering=false": { "model": "realismsurvival:block/water_filter" },
+    "facing=east,filtering=false": { "model": "realismsurvival:block/water_filter", "y": 90 },
+    "facing=south,filtering=false": { "model": "realismsurvival:block/water_filter", "y": 180 },
+    "facing=west,filtering=false": { "model": "realismsurvival:block/water_filter", "y": 270 },
+    "facing=north,filtering=true": { "model": "realismsurvival:block/water_filter_active" },
+    "facing=east,filtering=true": { "model": "realismsurvival:block/water_filter_active", "y": 90 },
+    "facing=south,filtering=true": { "model": "realismsurvival:block/water_filter_active", "y": 180 },
+    "facing=west,filtering=true": { "model": "realismsurvival:block/water_filter_active", "y": 270 }
+  }
+}

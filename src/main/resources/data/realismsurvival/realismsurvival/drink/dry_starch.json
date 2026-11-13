@@ -1,0 +1,9 @@
+{
+  "items": [
+    "minecraft:bread",
+    "minecraft:cookie"
+  ],
+  "thirst_restore": -3.0,
+  "temperature_delta": 0.0,
+  "priority": 0
+}

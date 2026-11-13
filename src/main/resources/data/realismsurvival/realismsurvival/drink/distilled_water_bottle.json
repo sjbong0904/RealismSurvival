@@ -1,0 +1,6 @@
+{
+  "items": "realismsurvival:distilled_water_bottle",
+  "thirst_restore": 40.0,
+  "temperature_delta": -0.4,
+  "priority": 10
+}

@@ -1,0 +1,17 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "farmersdelight"
+    }
+  ],
+  "items": [
+    "farmersdelight:salmon_roll",
+    "farmersdelight:cod_roll",
+    "farmersdelight:kelp_roll",
+    "farmersdelight:kelp_roll_slice"
+  ],
+  "thirst_restore": 4.0,
+  "temperature_delta": -0.1,
+  "priority": 5
+}

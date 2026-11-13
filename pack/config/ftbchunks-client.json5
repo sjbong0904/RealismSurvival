@@ -1,0 +1,36 @@
+/*
+ * Client defaults for FTB Chunks.
+ * GUI scale 3: non-proportional scale 1.5 ≈ 128 GUI px (vanilla default is ~85).
+ * Info font 1.0 matches the rest of the HUD (FTB default 0.5 is half-size and hard to read).
+ * RS switches appearance.map_mode none↔night from the overworld clock (not saved).
+ * RS season/clock/ambient_temp sit under biome (hidden until calendar/clock/thermometer is held).
+ * Existing run/config files are not overwritten by this file automatically.
+ */
+{
+  minimap: {
+    enabled: true,
+    proportional: false,
+    scale: 1.5,
+    info: {
+      font_scale: 1.0,
+      info_hidden: [
+        "ftbchunks:fps",
+        "ftbchunks:real_time",
+        "ftbchunks:debug",
+        "ftbchunks:game_time",
+      ],
+      info_order: [
+        "ftbchunks:player_pos",
+        "ftbchunks:biome",
+        "realismsurvival:season",
+        "realismsurvival:clock",
+        "realismsurvival:ambient_temp",
+        "ftbchunks:zone",
+        "ftbchunks:fps",
+        "ftbchunks:game_time",
+        "ftbchunks:real_time",
+        "ftbchunks:debug",
+      ],
+    },
+  },
+}

@@ -1,0 +1,2120 @@
+{
+  "crops": [
+    [
+      "minecraft:wheat",
+      "밀"
+    ],
+    [
+      "minecraft:wheat_seeds",
+      "밀 씨앗"
+    ],
+    [
+      "minecraft:carrot",
+      "당근"
+    ],
+    [
+      "minecraft:potato",
+      "감자"
+    ],
+    [
+      "minecraft:baked_potato",
+      "구운 감자"
+    ],
+    [
+      "minecraft:poisonous_potato",
+      "독이 있는 감자"
+    ],
+    [
+      "minecraft:beetroot",
+      "비트"
+    ],
+    [
+      "minecraft:beetroot_seeds",
+      "비트 씨앗"
+    ],
+    [
+      "minecraft:melon_slice",
+      "수박 조각"
+    ],
+    [
+      "minecraft:melon",
+      "수박"
+    ],
+    [
+      "minecraft:pumpkin",
+      "호박"
+    ],
+    [
+      "minecraft:pumpkin_seeds",
+      "호박 씨앗"
+    ],
+    [
+      "minecraft:melon_seeds",
+      "수박 씨앗"
+    ],
+    [
+      "minecraft:sugar_cane",
+      "사탕수수"
+    ],
+    [
+      "minecraft:cocoa_beans",
+      "코코아 콩"
+    ],
+    [
+      "minecraft:nether_wart",
+      "네더 와트"
+    ],
+    [
+      "minecraft:sweet_berries",
+      "달콤한 열매"
+    ],
+    [
+      "minecraft:glow_berries",
+      "발광 열매"
+    ],
+    [
+      "minecraft:chorus_fruit",
+      "후렴과"
+    ],
+    [
+      "minecraft:apple",
+      "사과"
+    ],
+    [
+      "minecraft:golden_apple",
+      "황금 사과"
+    ],
+    [
+      "minecraft:enchanted_golden_apple",
+      "마법이 부여된 황금 사과"
+    ],
+    [
+      "minecraft:brown_mushroom",
+      "갈색 버섯"
+    ],
+    [
+      "minecraft:red_mushroom",
+      "빨간 버섯"
+    ],
+    [
+      "minecraft:crimson_fungus",
+      "진홍빛 균"
+    ],
+    [
+      "minecraft:warped_fungus",
+      "뒤틀린 균"
+    ],
+    [
+      "minecraft:kelp",
+      "켈프"
+    ],
+    [
+      "minecraft:dried_kelp",
+      "말린 켈프"
+    ],
+    [
+      "minecraft:sea_pickle",
+      "불우렁쉥이"
+    ],
+    [
+      "minecraft:bamboo",
+      "대나무"
+    ],
+    [
+      "minecraft:cactus",
+      "선인장"
+    ],
+    [
+      "minecraft:torchflower",
+      "횃불꽃"
+    ],
+    [
+      "minecraft:torchflower_seeds",
+      "횃불꽃 씨앗"
+    ],
+    [
+      "minecraft:pitcher_pod",
+      "피처 포드"
+    ],
+    [
+      "minecraft:pitcher_plant",
+      "피처 플랜트"
+    ],
+    [
+      "farmersdelight:cabbage",
+      "양배추"
+    ],
+    [
+      "farmersdelight:cabbage_leaf",
+      "양배추 잎"
+    ],
+    [
+      "farmersdelight:cabbage_seeds",
+      "양배추 씨앗"
+    ],
+    [
+      "farmersdelight:onion",
+      "양파"
+    ],
+    [
+      "farmersdelight:rice",
+      "쌀"
+    ],
+    [
+      "farmersdelight:rice_panicle",
+      "벼"
+    ],
+    [
+      "farmersdelight:tomato",
+      "토마토"
+    ],
+    [
+      "farmersdelight:tomato_seeds",
+      "토마토 씨앗"
+    ],
+    [
+      "biomesoplenty:barley",
+      "보리"
+    ],
+    [
+      "biomesoplenty:blackstone_bulb",
+      "흑암 구근"
+    ],
+    [
+      "biomesoplenty:blue_hydrangea",
+      "파란 수국"
+    ],
+    [
+      "biomesoplenty:burning_blossom",
+      "불타는 꽃"
+    ],
+    [
+      "biomesoplenty:cattail",
+      "부들"
+    ],
+    [
+      "biomesoplenty:clover",
+      "클로버"
+    ],
+    [
+      "biomesoplenty:cypress_sapling",
+      "편백나무 묘목"
+    ],
+    [
+      "biomesoplenty:dead_sapling",
+      "죽은 나무 묘목"
+    ],
+    [
+      "biomesoplenty:empyreal_sapling",
+      "엠피리얼 나무 묘목"
+    ],
+    [
+      "biomesoplenty:fir_sapling",
+      "전나무 묘목"
+    ],
+    [
+      "biomesoplenty:flowering_oak_sapling",
+      "꽃피는 참나무 묘목"
+    ],
+    [
+      "biomesoplenty:glowflower",
+      "빛나는 꽃"
+    ],
+    [
+      "biomesoplenty:glowshroom",
+      "빛나는 버섯"
+    ],
+    [
+      "biomesoplenty:goldenrod",
+      "미역취"
+    ],
+    [
+      "biomesoplenty:hellbark_sapling",
+      "지옥껍질나무 묘목"
+    ],
+    [
+      "biomesoplenty:huge_clover_petal",
+      "거대한 클로버 꽃잎"
+    ],
+    [
+      "biomesoplenty:icy_iris",
+      "차가운 붓꽃"
+    ],
+    [
+      "biomesoplenty:jacaranda_sapling",
+      "자카란다나무 묘목"
+    ],
+    [
+      "biomesoplenty:lavender",
+      "라벤더"
+    ],
+    [
+      "biomesoplenty:magic_sapling",
+      "마법나무 묘목"
+    ],
+    [
+      "biomesoplenty:mahogany_sapling",
+      "마호가니 묘목"
+    ],
+    [
+      "biomesoplenty:orange_cosmos",
+      "주황 코스모스"
+    ],
+    [
+      "biomesoplenty:orange_maple_sapling",
+      "주황 단풍나무 묘목"
+    ],
+    [
+      "biomesoplenty:palm_sapling",
+      "야자나무 묘목"
+    ],
+    [
+      "biomesoplenty:pine_sapling",
+      "소나무 묘목"
+    ],
+    [
+      "biomesoplenty:pink_daffodil",
+      "분홍 수선화"
+    ],
+    [
+      "biomesoplenty:pink_hibiscus",
+      "분홍 히비스커스"
+    ]
+  ],
+  "cooking": [
+    [
+      "minecraft:bread",
+      "빵"
+    ],
+    [
+      "minecraft:cookie",
+      "쿠키"
+    ],
+    [
+      "minecraft:cake",
+      "케이크"
+    ],
+    [
+      "minecraft:pumpkin_pie",
+      "호박파이"
+    ],
+    [
+      "minecraft:mushroom_stew",
+      "버섯 스튜"
+    ],
+    [
+      "minecraft:rabbit_stew",
+      "토끼 스튜"
+    ],
+    [
+      "minecraft:beetroot_soup",
+      "비트 수프"
+    ],
+    [
+      "minecraft:suspicious_stew",
+      "수상한 스튜"
+    ],
+    [
+      "minecraft:cooked_beef",
+      "스테이크"
+    ],
+    [
+      "minecraft:cooked_porkchop",
+      "익힌 돼지고기"
+    ],
+    [
+      "minecraft:cooked_chicken",
+      "익힌 닭고기"
+    ],
+    [
+      "minecraft:cooked_mutton",
+      "익힌 양고기"
+    ],
+    [
+      "minecraft:cooked_rabbit",
+      "익힌 토끼고기"
+    ],
+    [
+      "minecraft:cooked_cod",
+      "익힌 대구"
+    ],
+    [
+      "minecraft:cooked_salmon",
+      "익힌 연어"
+    ],
+    [
+      "minecraft:beef",
+      "익히지 않은 소고기"
+    ],
+    [
+      "minecraft:porkchop",
+      "익히지 않은 돼지고기"
+    ],
+    [
+      "minecraft:chicken",
+      "익히지 않은 닭고기"
+    ],
+    [
+      "minecraft:mutton",
+      "익히지 않은 양고기"
+    ],
+    [
+      "minecraft:rabbit",
+      "익히지 않은 토끼고기"
+    ],
+    [
+      "minecraft:cod",
+      "대구"
+    ],
+    [
+      "minecraft:salmon",
+      "연어"
+    ],
+    [
+      "minecraft:tropical_fish",
+      "열대어"
+    ],
+    [
+      "minecraft:pufferfish",
+      "복어"
+    ],
+    [
+      "minecraft:rotten_flesh",
+      "썩은 살점"
+    ],
+    [
+      "minecraft:spider_eye",
+      "거미 눈"
+    ],
+    [
+      "minecraft:fermented_spider_eye",
+      "발효된 거미 눈"
+    ],
+    [
+      "minecraft:golden_carrot",
+      "황금 당근"
+    ],
+    [
+      "minecraft:honey_bottle",
+      "꿀병"
+    ],
+    [
+      "minecraft:dried_kelp",
+      "말린 켈프"
+    ],
+    [
+      "minecraft:apple",
+      "사과"
+    ],
+    [
+      "minecraft:golden_apple",
+      "황금 사과"
+    ],
+    [
+      "minecraft:enchanted_golden_apple",
+      "마법이 부여된 황금 사과"
+    ],
+    [
+      "minecraft:carrot",
+      "당근"
+    ],
+    [
+      "minecraft:potato",
+      "감자"
+    ],
+    [
+      "minecraft:baked_potato",
+      "구운 감자"
+    ],
+    [
+      "minecraft:poisonous_potato",
+      "독이 있는 감자"
+    ],
+    [
+      "minecraft:beetroot",
+      "비트"
+    ],
+    [
+      "minecraft:melon_slice",
+      "수박 조각"
+    ],
+    [
+      "minecraft:sweet_berries",
+      "달콤한 열매"
+    ],
+    [
+      "minecraft:glow_berries",
+      "발광 열매"
+    ],
+    [
+      "minecraft:chorus_fruit",
+      "후렴과"
+    ],
+    [
+      "farmersdelight:apple_cider",
+      "사과주"
+    ],
+    [
+      "farmersdelight:apple_pie",
+      "사과 파이"
+    ],
+    [
+      "farmersdelight:apple_pie_slice",
+      "사과 파이 조각"
+    ],
+    [
+      "farmersdelight:bacon_and_eggs",
+      "베이컨과 계란 프라이"
+    ],
+    [
+      "farmersdelight:bacon_sandwich",
+      "베이컨 샌드위치"
+    ],
+    [
+      "farmersdelight:baked_cod_stew",
+      "구운 대구 스튜"
+    ],
+    [
+      "farmersdelight:barbecue_stick",
+      "바비큐 꼬치"
+    ],
+    [
+      "farmersdelight:beef_patty",
+      "소고기 패티"
+    ],
+    [
+      "farmersdelight:beef_stew",
+      "소고기 스튜"
+    ],
+    [
+      "farmersdelight:bone_broth",
+      "사골국"
+    ],
+    [
+      "farmersdelight:cabbage_rolls",
+      "양배추 쌈"
+    ],
+    [
+      "farmersdelight:cake_slice",
+      "케이크 조각"
+    ],
+    [
+      "farmersdelight:chicken_sandwich",
+      "닭고기 샌드위치"
+    ],
+    [
+      "farmersdelight:chicken_soup",
+      "닭고기 수프"
+    ],
+    [
+      "farmersdelight:chocolate_pie",
+      "초콜릿 파이"
+    ],
+    [
+      "farmersdelight:chocolate_pie_slice",
+      "초콜릿 파이 조각"
+    ],
+    [
+      "farmersdelight:cod_roll",
+      "대구 초밥"
+    ],
+    [
+      "farmersdelight:cooked_bacon",
+      "구운 베이컨"
+    ],
+    [
+      "farmersdelight:cooked_chicken_cuts",
+      "익힌 닭고기 살점"
+    ],
+    [
+      "farmersdelight:cooked_cod_slice",
+      "익힌 대구 살점"
+    ],
+    [
+      "farmersdelight:cooked_mutton_chops",
+      "익힌 양고기 살점"
+    ],
+    [
+      "farmersdelight:cooked_rice",
+      "밥"
+    ],
+    [
+      "farmersdelight:cooked_salmon_slice",
+      "익힌 연어 살점"
+    ],
+    [
+      "farmersdelight:dumplings",
+      "만두"
+    ],
+    [
+      "farmersdelight:egg_sandwich",
+      "달걀 샌드위치"
+    ],
+    [
+      "farmersdelight:fish_stew",
+      "생선 스튜"
+    ],
+    [
+      "farmersdelight:fried_egg",
+      "계란 프라이"
+    ],
+    [
+      "farmersdelight:fried_rice",
+      "볶음밥"
+    ],
+    [
+      "farmersdelight:fruit_salad",
+      "과일 샐러드"
+    ],
+    [
+      "farmersdelight:gleaming_salad",
+      "그릇에 담긴 빛나는 샐러드"
+    ],
+    [
+      "farmersdelight:glow_berry_custard",
+      "발광 열매 커스터드"
+    ],
+    [
+      "farmersdelight:grilled_salmon",
+      "구운 연어요리"
+    ],
+    [
+      "farmersdelight:hamburger",
+      "햄버거"
+    ],
+    [
+      "farmersdelight:honey_cookie",
+      "꿀 쿠키"
+    ],
+    [
+      "farmersdelight:honey_glazed_ham",
+      "그릇에 담긴 꿀 바른 햄"
+    ],
+    [
+      "farmersdelight:hot_cocoa",
+      "핫 코코아"
+    ],
+    [
+      "farmersdelight:kelp_roll",
+      "김밥"
+    ],
+    [
+      "farmersdelight:kelp_roll_slice",
+      "김밥 조각"
+    ],
+    [
+      "farmersdelight:melon_juice",
+      "수박 주스"
+    ],
+    [
+      "farmersdelight:melon_popsicle",
+      "수박바"
+    ],
+    [
+      "farmersdelight:milk_bottle",
+      "우유 병"
+    ],
+    [
+      "farmersdelight:mixed_salad",
+      "샐러드"
+    ],
+    [
+      "farmersdelight:mushroom_rice",
+      "버섯 볶음밥"
+    ],
+    [
+      "farmersdelight:mutton_wrap",
+      "케밥"
+    ],
+    [
+      "farmersdelight:nether_salad",
+      "네더 샐러드"
+    ],
+    [
+      "farmersdelight:noodle_soup",
+      "우동"
+    ],
+    [
+      "farmersdelight:onion_soup",
+      "양파 수프"
+    ],
+    [
+      "farmersdelight:pasta_with_meatballs",
+      "미트볼 파스타"
+    ],
+    [
+      "farmersdelight:pasta_with_mutton_chop",
+      "양고기 파스타"
+    ],
+    [
+      "farmersdelight:pumpkin_pie",
+      "호박 파이"
+    ],
+    [
+      "farmersdelight:pumpkin_pie_slice",
+      "호박 파이 조각"
+    ],
+    [
+      "farmersdelight:pumpkin_slice",
+      "호박 조각"
+    ],
+    [
+      "farmersdelight:pumpkin_soup",
+      "호박 수프"
+    ],
+    [
+      "farmersdelight:ratatouille",
+      "라따뚜이"
+    ],
+    [
+      "farmersdelight:roast_chicken",
+      "그릇에 담긴 로스트 치킨"
+    ],
+    [
+      "farmersdelight:roasted_mutton_chops",
+      "구운 양고기 요리"
+    ],
+    [
+      "farmersdelight:salmon_roll",
+      "연어 초밥"
+    ],
+    [
+      "farmersdelight:shepherds_pie",
+      "그릇에 담긴 셰퍼드 파이"
+    ],
+    [
+      "farmersdelight:smoked_ham",
+      "훈제 햄"
+    ],
+    [
+      "farmersdelight:squid_ink_pasta",
+      "오징어 먹물 파스타"
+    ],
+    [
+      "farmersdelight:steak_and_potatoes",
+      "스테이크와 감자"
+    ],
+    [
+      "farmersdelight:stuffed_potato",
+      "속 채운 감자"
+    ],
+    [
+      "farmersdelight:stuffed_pumpkin",
+      "그릇에 담긴 속 채운 호박"
+    ],
+    [
+      "farmersdelight:sweet_berry_cheesecake",
+      "달콤한 열매 치즈케이크"
+    ],
+    [
+      "farmersdelight:sweet_berry_cheesecake_slice",
+      "달콤한 열매 치즈케이크 조각"
+    ],
+    [
+      "farmersdelight:sweet_berry_cookie",
+      "달콤한 열매 쿠키"
+    ],
+    [
+      "farmersdelight:vegetable_noodles",
+      "잡채"
+    ],
+    [
+      "farmersdelight:vegetable_soup",
+      "야채 수프"
+    ]
+  ],
+  "fish": [
+    [
+      "minecraft:cod",
+      "대구"
+    ],
+    [
+      "minecraft:salmon",
+      "연어"
+    ],
+    [
+      "minecraft:tropical_fish",
+      "열대어"
+    ],
+    [
+      "minecraft:pufferfish",
+      "복어"
+    ],
+    [
+      "aquaculture:arapaima",
+      "아라파이마"
+    ],
+    [
+      "aquaculture:arrau_turtle",
+      "아라우 거북"
+    ],
+    [
+      "aquaculture:atlantic_cod",
+      "대서양 대구"
+    ],
+    [
+      "aquaculture:atlantic_halibut",
+      "대서양 넙치"
+    ],
+    [
+      "aquaculture:atlantic_herring",
+      "대서양 청어"
+    ],
+    [
+      "aquaculture:bayad",
+      "바야드"
+    ],
+    [
+      "aquaculture:blackfish",
+      "블랙피시"
+    ],
+    [
+      "aquaculture:bluegill",
+      "블루길"
+    ],
+    [
+      "aquaculture:boulti",
+      "볼티"
+    ],
+    [
+      "aquaculture:brown_shrooma",
+      "갈색 슈루마"
+    ],
+    [
+      "aquaculture:brown_trout",
+      "갈색 송어"
+    ],
+    [
+      "aquaculture:capitaine",
+      "카피텐"
+    ],
+    [
+      "aquaculture:carp",
+      "잉어"
+    ],
+    [
+      "aquaculture:catfish",
+      "메기"
+    ],
+    [
+      "aquaculture:gar",
+      "가아"
+    ],
+    [
+      "aquaculture:goldfish",
+      "금붕어"
+    ],
+    [
+      "aquaculture:jellyfish",
+      "해파리"
+    ],
+    [
+      "aquaculture:largemouth_bass",
+      "큰입배스"
+    ],
+    [
+      "aquaculture:leech",
+      "거머리"
+    ],
+    [
+      "aquaculture:minnow",
+      "피라미"
+    ],
+    [
+      "aquaculture:muskellunge",
+      "머스키"
+    ],
+    [
+      "aquaculture:pacific_halibut",
+      "태평양 넙치"
+    ],
+    [
+      "aquaculture:perch",
+      "농어"
+    ],
+    [
+      "aquaculture:pink_salmon",
+      "핑크 연어"
+    ],
+    [
+      "aquaculture:piranha",
+      "피라냐"
+    ],
+    [
+      "aquaculture:pollock",
+      "명태"
+    ],
+    [
+      "aquaculture:rainbow_trout",
+      "무지개 송어"
+    ],
+    [
+      "aquaculture:red_grouper",
+      "붉바리"
+    ],
+    [
+      "aquaculture:red_shrooma",
+      "빨간 슈루마"
+    ],
+    [
+      "aquaculture:smallmouth_bass",
+      "작은입배스"
+    ],
+    [
+      "aquaculture:starshell_turtle",
+      "별껍질 거북"
+    ],
+    [
+      "aquaculture:sushi",
+      "초밥"
+    ],
+    [
+      "aquaculture:synodontis",
+      "시노돈티스"
+    ],
+    [
+      "aquaculture:tambaqui",
+      "탐바키"
+    ],
+    [
+      "aquaculture:tuna",
+      "참치"
+    ],
+    [
+      "aquaculture:turtle_soup",
+      "거북 수프"
+    ],
+    [
+      "aquaculture:fish_fillet_raw",
+      "날생선 필렛"
+    ],
+    [
+      "aquaculture:fish_fillet_cooked",
+      "익힌 생선 필렛"
+    ],
+    [
+      "fishofthieves:ancientscale",
+      "옛비늘이"
+    ],
+    [
+      "fishofthieves:battlegill",
+      "전투길"
+    ],
+    [
+      "fishofthieves:devilfish",
+      "악마고기"
+    ],
+    [
+      "fishofthieves:islehopper",
+      "섬넘실이"
+    ],
+    [
+      "fishofthieves:plentifin",
+      "풀비늘이"
+    ],
+    [
+      "fishofthieves:pondie",
+      "연모시"
+    ],
+    [
+      "fishofthieves:splashtail",
+      "물보라꼬리치"
+    ],
+    [
+      "fishofthieves:stormfish",
+      "폭풍고기"
+    ],
+    [
+      "fishofthieves:wildsplash",
+      "야생물보라치"
+    ],
+    [
+      "fishofthieves:wrecker",
+      "난파아귀"
+    ]
+  ],
+  "drinks": [
+    [
+      "realismsurvival:distilled_water_bottle",
+      "증류수 병"
+    ],
+    [
+      "realismsurvival:fresh_water_bottle",
+      "민물 병"
+    ],
+    [
+      "realismsurvival:stagnant_water_bottle",
+      "오염된 물 병"
+    ],
+    [
+      "realismsurvival:salt_water_bottle",
+      "바닷물 병"
+    ],
+    [
+      "realismsurvival:distilled_water_bucket",
+      "증류수 양동이"
+    ],
+    [
+      "realismsurvival:fresh_water_bucket",
+      "민물 양동이"
+    ],
+    [
+      "realismsurvival:stagnant_water_bucket",
+      "오염된 물 양동이"
+    ],
+    [
+      "realismsurvival:salt_water_bucket",
+      "바닷물 양동이"
+    ],
+    [
+      "realismsurvival:distilled_ice_bucket",
+      "증류수 얼음 양동이"
+    ],
+    [
+      "realismsurvival:fresh_ice_bucket",
+      "민물 얼음 양동이"
+    ],
+    [
+      "realismsurvival:stagnant_ice_bucket",
+      "오염된 얼음 양동이"
+    ],
+    [
+      "realismsurvival:snow_bucket",
+      "눈 양동이"
+    ],
+    [
+      "minecraft:honey_bottle",
+      "꿀병"
+    ],
+    [
+      "minecraft:milk_bucket",
+      "우유 양동이"
+    ],
+    [
+      "minecraft:potion",
+      "물약"
+    ],
+    [
+      "farmersdelight:apple_cider",
+      "사과주"
+    ],
+    [
+      "farmersdelight:melon_juice",
+      "수박 주스"
+    ],
+    [
+      "farmersdelight:hot_cocoa",
+      "핫 코코아"
+    ],
+    [
+      "farmersdelight:milk_bottle",
+      "우유 병"
+    ],
+    [
+      "farmersdelight:bone_broth",
+      "사골국"
+    ]
+  ],
+  "minerals": [
+    [
+      "minecraft:coal",
+      "석탄"
+    ],
+    [
+      "minecraft:charcoal",
+      "숯"
+    ],
+    [
+      "minecraft:raw_iron",
+      "철 원석"
+    ],
+    [
+      "minecraft:iron_ingot",
+      "철 주괴"
+    ],
+    [
+      "minecraft:raw_copper",
+      "구리 원석"
+    ],
+    [
+      "minecraft:copper_ingot",
+      "구리 주괴"
+    ],
+    [
+      "minecraft:raw_gold",
+      "금 원석"
+    ],
+    [
+      "minecraft:gold_ingot",
+      "금 주괴"
+    ],
+    [
+      "minecraft:redstone",
+      "레드스톤 가루"
+    ],
+    [
+      "minecraft:lapis_lazuli",
+      "청금석"
+    ],
+    [
+      "minecraft:diamond",
+      "다이아몬드"
+    ],
+    [
+      "minecraft:emerald",
+      "에메랄드"
+    ],
+    [
+      "minecraft:amethyst_shard",
+      "자수정 조각"
+    ],
+    [
+      "minecraft:quartz",
+      "네더 석영"
+    ],
+    [
+      "minecraft:netherite_scrap",
+      "네더라이트 파편"
+    ],
+    [
+      "minecraft:netherite_ingot",
+      "네더라이트 주괴"
+    ],
+    [
+      "minecraft:ancient_debris",
+      "고대 잔해"
+    ],
+    [
+      "minecraft:obsidian",
+      "흑요석"
+    ],
+    [
+      "minecraft:crying_obsidian",
+      "우는 흑요석"
+    ],
+    [
+      "minecraft:glowstone_dust",
+      "발광석 가루"
+    ],
+    [
+      "minecraft:blaze_rod",
+      "블레이즈 막대"
+    ],
+    [
+      "minecraft:ghast_tear",
+      "가스트의 눈물"
+    ],
+    [
+      "minecraft:ender_pearl",
+      "엔더 진주"
+    ],
+    [
+      "minecraft:echo_shard",
+      "메아리 조각"
+    ],
+    [
+      "minecraft:prismarine_shard",
+      "프리즈마린 조각"
+    ],
+    [
+      "minecraft:prismarine_crystals",
+      "프리즈마린 수정"
+    ],
+    [
+      "minecraft:nether_star",
+      "네더의 별"
+    ],
+    [
+      "realismsurvival:salt",
+      "소금"
+    ],
+    [
+      "realismsurvival:salt_block",
+      "소금 블록"
+    ],
+    [
+      "realismsurvival:filter_cartridge",
+      "필터 카트리지"
+    ],
+    [
+      "realismsurvival:thermometer",
+      "온도계"
+    ],
+    [
+      "realismsurvival:graded_ice",
+      "등급 얼음"
+    ],
+    [
+      "sereneseasons:calendar",
+      "달력"
+    ],
+    [
+      "sereneseasons:season_sensor",
+      "계절 센서"
+    ]
+  ],
+  "artifacts": [
+    [
+      "artifacts:anglers_hat",
+      "낚시꾼 모자"
+    ],
+    [
+      "artifacts:antidote_vessel",
+      "완화제"
+    ],
+    [
+      "artifacts:aqua_dashers",
+      "오리발"
+    ],
+    [
+      "artifacts:bunny_hoppers",
+      "토끼 슬리퍼"
+    ],
+    [
+      "artifacts:charm_of_shrinking",
+      "축소의 부적"
+    ],
+    [
+      "artifacts:charm_of_sinking",
+      "침몰의 부적"
+    ],
+    [
+      "artifacts:chorus_totem",
+      "후렴과 토템"
+    ],
+    [
+      "artifacts:cloud_in_a_bottle",
+      "병에 들어있는 구름"
+    ],
+    [
+      "artifacts:cowboy_hat",
+      "카우보이 모자"
+    ],
+    [
+      "artifacts:cross_necklace",
+      "십자 목걸이"
+    ],
+    [
+      "artifacts:crystal_heart",
+      "크리스탈 하트"
+    ],
+    [
+      "artifacts:digging_claws",
+      "두더쥐 발톱"
+    ],
+    [
+      "artifacts:eternal_steak",
+      "영원한 스테이크"
+    ],
+    [
+      "artifacts:everlasting_beef",
+      "영원한 익히지 않은 소고기"
+    ],
+    [
+      "artifacts:feral_claws",
+      "야생 발톱"
+    ],
+    [
+      "artifacts:fire_gauntlet",
+      "화염 건틀렛"
+    ],
+    [
+      "artifacts:flame_pendant",
+      "화염 펜던트"
+    ],
+    [
+      "artifacts:flippers",
+      "오리발"
+    ],
+    [
+      "artifacts:golden_hook",
+      "황금 후크"
+    ],
+    [
+      "artifacts:helium_flamingo",
+      "헬륨 플라밍고"
+    ],
+    [
+      "artifacts:kitty_slippers",
+      "고양이 슬리퍼"
+    ],
+    [
+      "artifacts:lucky_scarf",
+      "행운의 목도리"
+    ],
+    [
+      "artifacts:night_vision_goggles",
+      "야간투시경"
+    ],
+    [
+      "artifacts:novelty_drinking_hat",
+      "넘버-원 음료수 모자"
+    ],
+    [
+      "artifacts:obsidian_skull",
+      "흑요석 해골"
+    ],
+    [
+      "artifacts:onion_ring",
+      "양파링"
+    ],
+    [
+      "artifacts:panic_necklace",
+      "공황 목걸이"
+    ],
+    [
+      "artifacts:pickaxe_heater",
+      "곡괭이 가열기"
+    ],
+    [
+      "artifacts:plastic_drinking_hat",
+      "양산형 플라스틱 모자"
+    ],
+    [
+      "artifacts:pocket_piston",
+      "휴대용 피스톤"
+    ],
+    [
+      "artifacts:power_glove",
+      "힘의 장갑"
+    ],
+    [
+      "artifacts:rooted_boots",
+      "뿌리 장화"
+    ],
+    [
+      "artifacts:running_shoes",
+      "운동화"
+    ],
+    [
+      "artifacts:scarf_of_invisibility",
+      "투명 스카프"
+    ],
+    [
+      "artifacts:shock_pendant",
+      "충격적인 펜던트"
+    ],
+    [
+      "artifacts:snorkel",
+      "스노클"
+    ],
+    [
+      "artifacts:snowshoes",
+      "눈 신발"
+    ],
+    [
+      "artifacts:steadfast_spikes",
+      "가시달린 장화"
+    ],
+    [
+      "artifacts:strider_shoes",
+      "스트라이더 신발"
+    ],
+    [
+      "artifacts:superstitious_hat",
+      "요정의 모자"
+    ],
+    [
+      "artifacts:thorn_pendant",
+      "가시달린 펜던트"
+    ],
+    [
+      "artifacts:umbrella",
+      "우산"
+    ],
+    [
+      "artifacts:universal_attractor",
+      "아이템 자석"
+    ],
+    [
+      "artifacts:vampiric_glove",
+      "뱀파이어 장갑"
+    ],
+    [
+      "artifacts:villager_hat",
+      "주민 농부의 모자"
+    ],
+    [
+      "artifacts:warp_drive",
+      "워프 드라이브"
+    ],
+    [
+      "artifacts:whoopee_cushion",
+      "방구 쿠션"
+    ],
+    [
+      "artifacts:withered_bracelet",
+      "시든 팔찌"
+    ]
+  ],
+  "biomes": [
+    [
+      "minecraft:plains",
+      "평원"
+    ],
+    [
+      "minecraft:sunflower_plains",
+      "해바라기 평원"
+    ],
+    [
+      "minecraft:forest",
+      "숲"
+    ],
+    [
+      "minecraft:flower_forest",
+      "꽃 숲"
+    ],
+    [
+      "minecraft:birch_forest",
+      "자작나무 숲"
+    ],
+    [
+      "minecraft:dark_forest",
+      "어두운 숲"
+    ],
+    [
+      "minecraft:old_growth_birch_forest",
+      "원시 자작나무 숲"
+    ],
+    [
+      "minecraft:old_growth_pine_taiga",
+      "원시 소나무 타이가"
+    ],
+    [
+      "minecraft:old_growth_spruce_taiga",
+      "원시 가문비 타이가"
+    ],
+    [
+      "minecraft:taiga",
+      "타이가"
+    ],
+    [
+      "minecraft:snowy_taiga",
+      "눈 덮인 타이가"
+    ],
+    [
+      "minecraft:snowy_plains",
+      "눈 덮인 평원"
+    ],
+    [
+      "minecraft:ice_spikes",
+      "얼음 스파이크"
+    ],
+    [
+      "minecraft:desert",
+      "사막"
+    ],
+    [
+      "minecraft:savanna",
+      "사바나"
+    ],
+    [
+      "minecraft:savanna_plateau",
+      "사바나 고원"
+    ],
+    [
+      "minecraft:badlands",
+      "악지"
+    ],
+    [
+      "minecraft:wooded_badlands",
+      "나무 있는 악지"
+    ],
+    [
+      "minecraft:eroded_badlands",
+      "침식된 악지"
+    ],
+    [
+      "minecraft:jungle",
+      "정글"
+    ],
+    [
+      "minecraft:sparse_jungle",
+      "드문드문한 정글"
+    ],
+    [
+      "minecraft:bamboo_jungle",
+      "대나무 정글"
+    ],
+    [
+      "minecraft:swamp",
+      "늪"
+    ],
+    [
+      "minecraft:mangrove_swamp",
+      "맹그로브 늪"
+    ],
+    [
+      "minecraft:mushroom_fields",
+      "버섯 들판"
+    ],
+    [
+      "minecraft:beach",
+      "해변"
+    ],
+    [
+      "minecraft:snowy_beach",
+      "눈 덮인 해변"
+    ],
+    [
+      "minecraft:stony_shore",
+      "돌 해안"
+    ],
+    [
+      "minecraft:river",
+      "강"
+    ],
+    [
+      "minecraft:frozen_river",
+      "얼어붙은 강"
+    ],
+    [
+      "minecraft:ocean",
+      "바다"
+    ],
+    [
+      "minecraft:warm_ocean",
+      "따뜻한 바다"
+    ],
+    [
+      "minecraft:lukewarm_ocean",
+      "미지근한 바다"
+    ],
+    [
+      "minecraft:cold_ocean",
+      "차가운 바다"
+    ],
+    [
+      "minecraft:frozen_ocean",
+      "얼어붙은 바다"
+    ],
+    [
+      "minecraft:deep_ocean",
+      "깊은 바다"
+    ],
+    [
+      "minecraft:deep_cold_ocean",
+      "깊은 차가운 바다"
+    ],
+    [
+      "minecraft:deep_frozen_ocean",
+      "깊은 얼어붙은 바다"
+    ],
+    [
+      "minecraft:deep_lukewarm_ocean",
+      "깊은 미지근한 바다"
+    ],
+    [
+      "minecraft:lush_caves",
+      "무성한 동굴"
+    ],
+    [
+      "minecraft:dripstone_caves",
+      "점적석 동굴"
+    ],
+    [
+      "minecraft:deep_dark",
+      "깊고 어두운 곳"
+    ],
+    [
+      "minecraft:meadow",
+      "목초지"
+    ],
+    [
+      "minecraft:cherry_grove",
+      "벚나무 숲"
+    ],
+    [
+      "minecraft:grove",
+      "숲지"
+    ],
+    [
+      "minecraft:snowy_slopes",
+      "눈 덮인 비탈"
+    ],
+    [
+      "minecraft:jagged_peaks",
+      "뾰족한 봉우리"
+    ],
+    [
+      "minecraft:frozen_peaks",
+      "얼어붙은 봉우리"
+    ],
+    [
+      "minecraft:stony_peaks",
+      "돌 봉우리"
+    ],
+    [
+      "minecraft:windswept_hills",
+      "바람 휩쓸린 언덕"
+    ],
+    [
+      "minecraft:windswept_forest",
+      "바람 휩쓸린 숲"
+    ],
+    [
+      "minecraft:windswept_gravelly_hills",
+      "바람 휩쓸린 자갈 언덕"
+    ],
+    [
+      "minecraft:windswept_savanna",
+      "바람 휩쓸린 사바나"
+    ],
+    [
+      "minecraft:nether_wastes",
+      "네더 황무지"
+    ],
+    [
+      "minecraft:crimson_forest",
+      "진홍빛 숲"
+    ],
+    [
+      "minecraft:warped_forest",
+      "뒤틀린 숲"
+    ],
+    [
+      "minecraft:soul_sand_valley",
+      "영혼 모래 골짜기"
+    ],
+    [
+      "minecraft:basalt_deltas",
+      "현무암 삼각주"
+    ],
+    [
+      "minecraft:the_end",
+      "엔드"
+    ],
+    [
+      "minecraft:end_highlands",
+      "엔드 고지"
+    ],
+    [
+      "minecraft:end_midlands",
+      "엔드 중지"
+    ],
+    [
+      "minecraft:small_end_islands",
+      "작은 엔드 섬"
+    ],
+    [
+      "minecraft:end_barrens",
+      "엔드 불모지"
+    ],
+    [
+      "biomesoplenty:auroral_garden",
+      "오로라 정원"
+    ],
+    [
+      "biomesoplenty:bayou",
+      "강어귀"
+    ],
+    [
+      "biomesoplenty:bog",
+      "수렁"
+    ],
+    [
+      "biomesoplenty:cold_desert",
+      "추운 사막"
+    ],
+    [
+      "biomesoplenty:coniferous_forest",
+      "침엽수림"
+    ],
+    [
+      "biomesoplenty:crag",
+      "험준한 바위"
+    ],
+    [
+      "biomesoplenty:crystalline_chasm",
+      "수정 틈"
+    ],
+    [
+      "biomesoplenty:dead_forest",
+      "죽은 숲"
+    ],
+    [
+      "biomesoplenty:dryland",
+      "건지"
+    ],
+    [
+      "biomesoplenty:dune_beach",
+      "사구 해변"
+    ],
+    [
+      "biomesoplenty:end_corruption",
+      "충돌난 엔드"
+    ],
+    [
+      "biomesoplenty:end_flats",
+      "엔드 지구"
+    ],
+    [
+      "biomesoplenty:end_reef",
+      "엔드 암초"
+    ],
+    [
+      "biomesoplenty:end_wilds",
+      "엔드 황무지"
+    ],
+    [
+      "biomesoplenty:erupting_inferno",
+      "폭발하는 불길"
+    ],
+    [
+      "biomesoplenty:field",
+      "들판"
+    ],
+    [
+      "biomesoplenty:fir_clearing",
+      "전나무 빈터"
+    ],
+    [
+      "biomesoplenty:floodplain",
+      "범람원"
+    ],
+    [
+      "biomesoplenty:forested_field",
+      "숲이 우거진 들판"
+    ],
+    [
+      "biomesoplenty:fungal_jungle",
+      "버섯 정글"
+    ],
+    [
+      "biomesoplenty:glowing_grotto",
+      "빛나는 작은 동굴"
+    ],
+    [
+      "biomesoplenty:gravel_beach",
+      "자갈 해변"
+    ],
+    [
+      "biomesoplenty:highland",
+      "고원"
+    ],
+    [
+      "biomesoplenty:hot_springs",
+      "온천"
+    ],
+    [
+      "biomesoplenty:jade_cliffs",
+      "비취 절벽"
+    ],
+    [
+      "biomesoplenty:lavender_field",
+      "라벤더 들판"
+    ],
+    [
+      "biomesoplenty:lush_desert",
+      "우거진 사막"
+    ],
+    [
+      "biomesoplenty:lush_savanna",
+      "우거진 대초원"
+    ],
+    [
+      "biomesoplenty:maple_woods",
+      "단풍나무 숲"
+    ],
+    [
+      "biomesoplenty:marsh",
+      "습지"
+    ],
+    [
+      "biomesoplenty:mediterranean_forest",
+      "지중해 숲"
+    ],
+    [
+      "biomesoplenty:moor",
+      "황무지"
+    ],
+    [
+      "biomesoplenty:muskeg",
+      "머스케그"
+    ],
+    [
+      "biomesoplenty:mystic_grove",
+      "신비한 작은 숲"
+    ],
+    [
+      "biomesoplenty:old_growth_dead_forest",
+      "오래된 죽은 숲"
+    ],
+    [
+      "biomesoplenty:old_growth_woodland",
+      "오래된 삼림지대"
+    ],
+    [
+      "biomesoplenty:ominous_woods",
+      "불길한 수풀산림"
+    ],
+    [
+      "biomesoplenty:orchard",
+      "과수원"
+    ],
+    [
+      "biomesoplenty:origin_valley",
+      "원조 계곡"
+    ],
+    [
+      "biomesoplenty:overgrown_greens",
+      "과성장한 풀밭"
+    ],
+    [
+      "biomesoplenty:pasture",
+      "목초지"
+    ],
+    [
+      "biomesoplenty:prairie",
+      "대초원"
+    ],
+    [
+      "biomesoplenty:pumpkin_patch",
+      "호박밭"
+    ],
+    [
+      "biomesoplenty:rainforest",
+      "우림"
+    ],
+    [
+      "biomesoplenty:redwood_forest",
+      "삼나무 숲"
+    ],
+    [
+      "biomesoplenty:rocky_rainforest",
+      "록키 열대우림"
+    ],
+    [
+      "biomesoplenty:rocky_shrubland",
+      "바위투성이 관목지"
+    ],
+    [
+      "biomesoplenty:scrubland",
+      "관목지"
+    ],
+    [
+      "biomesoplenty:seasonal_forest",
+      "계절 숲"
+    ],
+    [
+      "biomesoplenty:shrubland",
+      "관목숲"
+    ],
+    [
+      "biomesoplenty:snowblossom_grove",
+      "눈꽃 숲"
+    ],
+    [
+      "biomesoplenty:snowy_coniferous_forest",
+      "눈 덮인 침엽수림"
+    ],
+    [
+      "biomesoplenty:snowy_fir_clearing",
+      "눈 덮인 전나무 빈터"
+    ],
+    [
+      "biomesoplenty:snowy_maple_woods",
+      "눈 덮인 단풍나무 숲"
+    ],
+    [
+      "biomesoplenty:spider_nest",
+      "거미 둥지"
+    ],
+    [
+      "biomesoplenty:subtropics",
+      "아열대"
+    ],
+    [
+      "biomesoplenty:tropics",
+      "열대 섬"
+    ],
+    [
+      "biomesoplenty:tundra",
+      "툰드라"
+    ],
+    [
+      "biomesoplenty:undergrowth",
+      "덤불 지대"
+    ],
+    [
+      "biomesoplenty:visceral_heap",
+      "본능 더미"
+    ],
+    [
+      "biomesoplenty:volcanic_plains",
+      "화산 평원"
+    ],
+    [
+      "biomesoplenty:volcano",
+      "화산"
+    ],
+    [
+      "biomesoplenty:wasteland",
+      "황무지"
+    ],
+    [
+      "biomesoplenty:wasteland_steppe",
+      "황무지 초원"
+    ],
+    [
+      "biomesoplenty:wetland",
+      "습지대"
+    ],
+    [
+      "biomesoplenty:wintry_origin_valley",
+      "눈덮인 원조 계곡"
+    ],
+    [
+      "biomesoplenty:withered_abyss",
+      "시든 심연"
+    ],
+    [
+      "biomesoplenty:woodland",
+      "삼림 지대"
+    ],
+    [
+      "fishofthieves:tropical_island",
+      "도적의 섬"
+    ]
+  ],
+  "mobs": [
+    [
+      "minecraft:zombie",
+      "좀비"
+    ],
+    [
+      "minecraft:skeleton",
+      "스켈레톤"
+    ],
+    [
+      "minecraft:creeper",
+      "크리퍼"
+    ],
+    [
+      "minecraft:spider",
+      "거미"
+    ],
+    [
+      "minecraft:enderman",
+      "엔더맨"
+    ],
+    [
+      "minecraft:witch",
+      "마녀"
+    ],
+    [
+      "minecraft:drowned",
+      "드라운드"
+    ],
+    [
+      "minecraft:husk",
+      "허스크"
+    ],
+    [
+      "minecraft:stray",
+      "스트레이"
+    ],
+    [
+      "minecraft:phantom",
+      "팬텀"
+    ],
+    [
+      "minecraft:slime",
+      "슬라임"
+    ],
+    [
+      "minecraft:magma_cube",
+      "마그마 큐브"
+    ],
+    [
+      "minecraft:pillager",
+      "약탈자"
+    ],
+    [
+      "minecraft:vindicator",
+      "변명자"
+    ],
+    [
+      "minecraft:evoker",
+      "소환사"
+    ],
+    [
+      "minecraft:ravager",
+      "파괴수"
+    ],
+    [
+      "minecraft:warden",
+      "워든"
+    ],
+    [
+      "minecraft:blaze",
+      "블레이즈"
+    ],
+    [
+      "minecraft:ghast",
+      "가스트"
+    ],
+    [
+      "minecraft:piglin",
+      "피글린"
+    ],
+    [
+      "minecraft:piglin_brute",
+      "피글린 야수"
+    ],
+    [
+      "minecraft:hoglin",
+      "호글린"
+    ],
+    [
+      "minecraft:zoglin",
+      "조글린"
+    ],
+    [
+      "minecraft:wither_skeleton",
+      "위더 스켈레톤"
+    ],
+    [
+      "minecraft:zombified_piglin",
+      "좀비화된 피글린"
+    ],
+    [
+      "minecraft:shulker",
+      "셜커"
+    ],
+    [
+      "minecraft:guardian",
+      "가디언"
+    ],
+    [
+      "minecraft:elder_guardian",
+      "엘더 가디언"
+    ],
+    [
+      "minecraft:silverfish",
+      "좀벌레"
+    ],
+    [
+      "minecraft:endermite",
+      "엔더마이트"
+    ],
+    [
+      "minecraft:cave_spider",
+      "동굴 거미"
+    ],
+    [
+      "minecraft:breeze",
+      "브리즈"
+    ],
+    [
+      "minecraft:bogged",
+      "보그드"
+    ]
+  ],
+  "animals": [
+    [
+      "minecraft:beef",
+      "소고기"
+    ],
+    [
+      "minecraft:leather",
+      "가죽"
+    ],
+    [
+      "minecraft:porkchop",
+      "돼지고기"
+    ],
+    [
+      "minecraft:mutton",
+      "양고기"
+    ],
+    [
+      "minecraft:white_wool",
+      "흰 양털"
+    ],
+    [
+      "minecraft:chicken",
+      "닭고기"
+    ],
+    [
+      "minecraft:egg",
+      "달걀"
+    ],
+    [
+      "minecraft:feather",
+      "깃털"
+    ],
+    [
+      "minecraft:rabbit",
+      "토끼고기"
+    ],
+    [
+      "minecraft:rabbit_hide",
+      "토끼 가죽"
+    ],
+    [
+      "minecraft:rabbit_foot",
+      "토끼 발"
+    ],
+    [
+      "minecraft:honeycomb",
+      "벌집 조각"
+    ],
+    [
+      "minecraft:honey_bottle",
+      "꿀병"
+    ],
+    [
+      "minecraft:ink_sac",
+      "먹물 주머니"
+    ],
+    [
+      "minecraft:glow_ink_sac",
+      "발광 먹물 주머니"
+    ],
+    [
+      "minecraft:turtle_scute",
+      "거북 등딱지"
+    ],
+    [
+      "minecraft:goat_horn",
+      "염소 뿔"
+    ],
+    [
+      "minecraft:saddle",
+      "안장"
+    ],
+    [
+      "minecraft:name_tag",
+      "이름표"
+    ],
+    [
+      "minecraft:lead",
+      "끈"
+    ],
+    [
+      "pet_home:pet_bed_red",
+      "빨간 펫 침대"
+    ],
+    [
+      "pet_home:collar_tag",
+      "목걸이 태그"
+    ],
+    [
+      "pet_home:wayward_lantern",
+      "방황하는 랜턴"
+    ],
+    [
+      "pet_home:feather_on_a_stick",
+      "깃털 낚싯대"
+    ],
+    [
+      "farmersdelight:horse_feed",
+      "말먹이"
+    ],
+    [
+      "farmersdelight:dog_food",
+      "개밥"
+    ]
+  ]
+}

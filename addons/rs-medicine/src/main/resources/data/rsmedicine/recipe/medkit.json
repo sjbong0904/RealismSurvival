@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["GTG", " C ", "GTG"],
+  "key": {
+    "G": "minecraft:gold_ingot",
+    "T": "rsmedicine:trauma_kit",
+    "C": "minecraft:golden_apple"
+  },
+  "result": {
+    "id": "rsmedicine:medkit",
+    "count": 1
+  }
+}

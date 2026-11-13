@@ -1,0 +1,7 @@
+{
+  "size": 1,
+  "order": 30,
+  "icon": "curios:slot/empty_necklace_slot",
+  "add_cosmetic": false,
+  "use_native_gui": true
+}

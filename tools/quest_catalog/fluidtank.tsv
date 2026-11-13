@@ -1,0 +1,40 @@
+fluidtank:chest_as_tank	Chest as Tank	Chest as Tank	block
+fluidtank:creative	Creative Tank	Creative Tank	block
+fluidtank:fluid_source	Infinite Fluid Supplier	Infinite Fluid Supplier	block
+fluidtank:gas_tank_diamond	Gas Diamond Tank	Gas Diamond Tank	block
+fluidtank:gas_tank_emerald	Gas Emerald Tank	Gas Emerald Tank	block
+fluidtank:gas_tank_gold	Gas Gold Tank	Gas Gold Tank	block
+fluidtank:gas_tank_iron	Gas Iron Tank	Gas Iron Tank	block
+fluidtank:gas_tank_wood	Gas Wood Tank	Gas Wood Tank	block
+fluidtank:invisible_tank_bronze	Invisible Bronze Tank	Invisible Bronze Tank	block
+fluidtank:invisible_tank_copper	Invisible Copper Tank	Invisible Copper Tank	block
+fluidtank:invisible_tank_diamond	Invisible Diamond Tank	Invisible Diamond Tank	block
+fluidtank:invisible_tank_emerald	Invisible Emerald Tank	Invisible Emerald Tank	block
+fluidtank:invisible_tank_gold	Invisible Gold Tank	Invisible Gold Tank	block
+fluidtank:invisible_tank_iron	Invisible Iron Tank	Invisible Iron Tank	block
+fluidtank:invisible_tank_lead	Invisible Lead Tank	Invisible Lead Tank	block
+fluidtank:invisible_tank_silver	Invisible Silver Tank	Invisible Silver Tank	block
+fluidtank:invisible_tank_star	Invisible Star Tank	Invisible Star Tank	block
+fluidtank:invisible_tank_stone	Invisible Stone Tank	Invisible Stone Tank	block
+fluidtank:invisible_tank_tin	Invisible Tin Tank	Invisible Tin Tank	block
+fluidtank:invisible_tank_wood	Invisible Wood Tank	Invisible Wood Tank	block
+fluidtank:item_pipe	Item Pipe	Item Pipe	block
+fluidtank:milk	Milk	Milk	block
+fluidtank:pipe	Fluid Pipe	Fluid Pipe	block
+fluidtank:reservoir_iron	Iron Reservoir	Iron Reservoir	item
+fluidtank:reservoir_stone	Stone Reservoir	Stone Reservoir	item
+fluidtank:reservoir_wood	Wood Reservoir	Wood Reservoir	item
+fluidtank:tank_bronze	Bronze Tank	Bronze Tank	block
+fluidtank:tank_copper	Copper Tank	Copper Tank	block
+fluidtank:tank_diamond	Diamond Tank	Diamond Tank	block
+fluidtank:tank_emerald	Emerald Tank	Emerald Tank	block
+fluidtank:tank_gold	Gold Tank	Gold Tank	block
+fluidtank:tank_iron	Iron Tank	Iron Tank	block
+fluidtank:tank_lead	Lead Tank	Lead Tank	block
+fluidtank:tank_silver	Silver Tank	Silver Tank	block
+fluidtank:tank_star	Star Tank	Star Tank	block
+fluidtank:tank_stone	Stone Tank	Stone Tank	block
+fluidtank:tank_tin	Tin Tank	Tin Tank	block
+fluidtank:tank_void	Void Tank	Void Tank	block
+fluidtank:tank_wood	Wood Tank	Wood Tank	block
+fluidtank:water_source	Infinite Water Supplier	Infinite Water Supplier	block

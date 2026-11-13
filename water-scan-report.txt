@@ -1,0 +1,81 @@
+﻿=== modid=aquaculture | Aquaculture 2 | aquaculture-2.9.2.jar ===
+  [minecraft:water JSON] count=1 :: data/aquaculture/recipe/turtle_soup.json
+
+=== modid=fishofthieves | Fish of Thieves | fish-of-thieves-26.1.2.2.2-neoforge.jar ===
+  [minecraft:water JSON] count=6 :: data/fishofthieves/advancement/lost_sally.json, data/fishofthieves/advancement/recipes/transportation/coconut_boat.json, data/fishofthieves/advancement/root.json, data/fishofthieves/loot_table/blocks/earthworms_drops.json, data/fishofthieves/loot_table/blocks/grubs_drops.json, data/fishofthieves/loot_table/blocks/leeches_drops.json
+
+=== modid=farmersdelight | Farmer's Delight | farmers-delight-26-neo-ver-1699768-9115209.jar ===
+  (no water-placement signatures in classes/json)
+
+=== modid=sereneseasons | Serene Seasons | serene-seasons-atclxQCD.jar ===
+  (no water-placement signatures in classes/json)
+
+=== modid=glitchcore | GlitchCore | glitchcore-mYUbCfgT.jar ===
+  (no water-placement signatures in classes/json)
+
+=== modid=fluidtank | Fluid Tank | large-fluid-tank-26.12.0-neoforge.jar ===
+  (no water-placement signatures in classes/json)
+
+=== modid=pipez | Pipez | pipez-neoforge-1.2.31+26.1.2.jar ===
+  (no water-placement signatures in classes/json)
+
+=== modid= |  | scalable-cats-force-6.1.1-mc26.1.2-3.9.0-neoforge.jar ===
+  (no water-placement signatures in classes/json)
+
+=== modid=biomesoplenty | Biomes O' Plenty | biomes-o-plenty-mqkuMsI9.jar ===
+  [minecraft:water JSON] count=41 :: data/biomesoplenty/advancement/recipes/transportation/dead_boat.json, data/biomesoplenty/advancement/recipes/transportation/empyreal_boat.json, data/biomesoplenty/advancement/recipes/transportation/fir_boat.json, data/biomesoplenty/advancement/recipes/transportation/hellbark_boat.json, data/biomesoplenty/advancement/recipes/transportation/jacaranda_boat.json, data/biomesoplenty/advancement/recipes/transportation/magic_boat.json, data/biomesoplenty/advancement/recipes/transportation/mahogany_boat.json, data/biomesoplenty/advancement/recipes/transportation/maple_boat.json, data/biomesoplenty/advancement/recipes/transportation/origin_oak_boat.json, data/biomesoplenty/advancement/recipes/transportation/palm_boat.json
+
+=== modid=terrablender | TerraBlender | terrablender-rg59ugAw.jar ===
+  (no water-placement signatures in classes/json)
+
+=== modid=t_and_t | Towns and Towers | towns-and-towers-1.13.11.jar ===
+  [minecraft:water JSON] count=17 :: data/kaisyn/loot_table/village/village_swamp_house.json, data/kaisyn/worldgen/processor_list/village/common_swiss.json, data/kaisyn/worldgen/processor_list/village/exclusives/iberian/street_iberian.json, data/kaisyn/worldgen/processor_list/village/exclusives/street_classic.json, data/kaisyn/worldgen/processor_list/village/exclusives/street_piglin.json, data/kaisyn/worldgen/processor_list/village/exclusives/street_rustic.json, data/kaisyn/worldgen/processor_list/village/exclusives/street_swedish.json, data/kaisyn/worldgen/processor_list/village/exclusives/street_tudor.json, data/kaisyn/worldgen/processor_list/village/flower_forest_japanese/street_flower_forest.json, data/kaisyn/worldgen/processor_list/village/forest_ruins/street_forest.json
+
+=== modid=artifacts | Artifacts | artifacts-15.1.3.jar ===
+  (no water-placement signatures in classes/json)
+
+=== modid=guardvillagers | Guard Villagers | guard-villagers-3.0.4.jar ===
+  (no water-placement signatures in classes/json)
+
+=== modid=lootr | Lootr | lootr-1.23.38.123.jar ===
+  (no water-placement signatures in classes/json)
+
+=== modid=waystones | Waystones | waystones-26.1.2.16+neoforge-26.1.2.jar ===
+  (no water-placement signatures in classes/json)
+
+=== modid=w2pets | Waystones Teleport Pets | waystones-teleport-pets-1.2-neoforge-26.1.2.jar ===
+  (no water-placement signatures in classes/json)
+
+=== modid=sophisticatedcore | Sophisticated Core | sophisticated-core-26.1.2-1.5.14.2409.jar ===
+  (no water-placement signatures in classes/json)
+
+=== modid=sophisticatedbackpacks | Sophisticated Backpacks | sophisticated-backpacks-26.1.2-3.26.13.2207.jar ===
+  (no water-placement signatures in classes/json)
+
+=== modid=treeliable | Treeliable | treeliable-1.4.0-26.1-neoforge.jar ===
+  (no water-placement signatures in classes/json)
+
+=== modid=ironchest | Iron Chests | iron-chests-26.1.2-neoforge-16.7.5.jar ===
+  (no water-placement signatures in classes/json)
+
+=== modid=pet_home | pet home | pet_home-1.1.3-neoforge-26.1.2.jar ===
+  (no water-placement signatures in classes/json)
+
+=== modid=openpartiesandclaims | Open Parties and Claims | open-parties-and-claims-neoforge-26.1.2-0.33.0.jar ===
+  (no water-placement signatures in classes/json)
+
+=== modid=cristellib | Cristel Lib | cristel-lib-neoforge-26.1.2-3.1.13.jar ===
+  (no water-placement signatures in classes/json)
+
+=== modid=naturescompass | Nature's Compass | natures-compass-26.1-3.3.0-neoforge.jar ===
+  (no water-placement signatures in classes/json)
+
+=== modid=solcarrot | Spice of Life: Carrot Edition | spice-of-life-carrot-edition-277616-7810780.jar ===
+  (no water-placement signatures in classes/json)
+
+=== modid=ftbquests | FTB Quests | ftb-quests-neoforge-26.1.2.9.jar ===
+  (no water-placement signatures in classes/json)
+
+=== modid=ftblibrary | FTB Library | ftb-library-neoforge-26.1.2.9.jar ===
+  (no water-placement signatures in classes/json)
+

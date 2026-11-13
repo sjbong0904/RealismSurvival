@@ -1,0 +1,17 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "farmersdelight"
+    }
+  ],
+  "items": [
+    "farmersdelight:wheat_dough",
+    "farmersdelight:raw_pasta",
+    "farmersdelight:pie_crust",
+    "farmersdelight:rice"
+  ],
+  "thirst_restore": -3.0,
+  "temperature_delta": 0.0,
+  "priority": 5
+}

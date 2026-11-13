@@ -1,0 +1,1150 @@
+[
+{
+"k": "itemGroup.sophisticatedcore",
+"en": "Sophisticated Core",
+"jko": null,
+"ov": "정교한 코어",
+"src": "Sophisticated Core"
+},
+{
+"k": "item.sophisticatedcore.xp_bucket",
+"en": "Bucket of Experience",
+"jko": null,
+"ov": "경험치 양동이",
+"src": "경험치 양동이"
+},
+{
+"k": "item.sophisticatedcore.ender_linker",
+"en": "Ender Linker",
+"jko": null,
+"ov": "엔더 링커",
+"src": "엔더 링커"
+},
+{
+"k": "item.sophisticatedcore.ender_linker.tooltip.blank",
+"en": "Right-click a compatible storage or craft with one",
+"jko": null,
+"ov": "호환되는 저장소를 마우스 오른쪽 버튼으로 클릭하거나 이를 사용하여 제작하세요.",
+"src": "호환 보관함을 우클릭하거나 조합대에서 함께 조합"
+},
+{
+"k": "item.sophisticatedcore.ender_linker.tooltip.bound",
+"en": "Right-click or craft with an unlinked compatible storage to add it",
+"jko": null,
+"ov": "연결되지 않은 호환 스토리지를 마우스 오른쪽 버튼으로 클릭하거나 제작하여 추가하세요.",
+"src": "연결되지 않은 호환 보관함을 우클릭하거나 조합하여 추가"
+},
+{
+"k": "gui.sophisticatedcore.status.ender_linker.already_linked",
+"en": "Storage is already linked",
+"jko": null,
+"ov": "저장소가 이미 연결되어 있습니다.",
+"src": "보관함이 이미 연결되어 있습니다"
+},
+{
+"k": "gui.sophisticatedcore.status.ender_linker.unsupported_endpoint",
+"en": "Storage cannot be linked",
+"jko": null,
+"ov": "저장소를 연결할 수 없습니다.",
+"src": "이 보관함은 연결할 수 없습니다"
+},
+{
+"k": "gui.sophisticatedcore.status.ender_linker.incompatible_endpoint",
+"en": "Storage is incompatible with this linked storage group",
+"jko": null,
+"ov": "스토리지가 이 연결된 스토리지 그룹과 호환되지 않습니다.",
+"src": "이 보관함은 연결된 보관함 그룹과 호환되지 않습니다"
+},
+{
+"k": "gui.sophisticatedcore.status.ender_linker.endpoint_has_contents",
+"en": "Storage has contents",
+"jko": null,
+"ov": "저장소에 콘텐츠가 있음",
+"src": "보관함에 내용물이 있습니다"
+},
+{
+"k": "item.sophisticatedcore.storage.tooltip.linked_storage_group",
+"en": "Linked Storage Group: %s",
+"jko": null,
+"ov": "연결된 스토리지 그룹: %s",
+"src": "연결된 보관함 그룹: %s"
+},
+{
+"k": "item.sophisticatedcore.storage.tooltip.linked_storage_endpoint",
+"en": "Linked Storage Endpoint: %s",
+"jko": null,
+"ov": "연결된 저장소 끝점: %s",
+"src": "연결된 보관함 끝점: %s"
+},
+{
+"k": "tooltip.sophisticatedcore.linked_storage.primary",
+"en": "Main Linked",
+"jko": null,
+"ov": "메인링크",
+"src": "주 연결"
+},
+{
+"k": "tooltip.sophisticatedcore.linked_storage.secondary",
+"en": "Linked",
+"jko": null,
+"ov": "연결됨",
+"src": "연결됨"
+},
+{
+"k": "item.sophisticatedcore.ender_linker.tooltip.linker_target",
+"en": "Linked to: %s",
+"jko": null,
+"ov": "링크됨: %s",
+"src": "연결 대상: %s"
+},
+{
+"k": "item.sophisticatedcore.ender_linker.tooltip.linker_pending",
+"en": "Linked when crafted",
+"jko": null,
+"ov": "제작 시 연결됨",
+"src": "조합 시 연결됨"
+},
+{
+"k": "tooltip.sophisticatedcore.linked_storage.primary_named",
+"en": "%s (%s)",
+"jko": null,
+"ov": "%s (%s)",
+"src": "%s (%s)"
+},
+{
+"k": "tooltip.sophisticatedcore.linked_storage.secondary_named",
+"en": "%s (%s)",
+"jko": null,
+"ov": "%s (%s)",
+"src": "%s (%s)"
+},
+{
+"k": "item.sophisticatedcore.stack_upgrade_conversion.tooltip",
+"en": "Right-click an installed Stack Upgrade to convert it",
+"jko": null,
+"ov": "설치된 스택 업그레이드를 마우스 오른쪽 버튼으로 클릭하여 변환하세요.",
+"src": "설치된 스택 업그레이드를 우클릭하여 변환"
+},
+{
+"k": "upgrade_group.sophisticatedcore.stack_upgrades",
+"en": "Stack Upgrades",
+"jko": null,
+"ov": "스택 업그레이드",
+"src": "스택 업그레이드"
+},
+{
+"k": "upgrade_group.sophisticatedcore.cooking_upgrades",
+"en": "Furnace Upgrades",
+"jko": null,
+"ov": "용광로 업그레이드",
+"src": "화로 업그레이드"
+},
+{
+"k": "upgrade_group.sophisticatedcore.jukebox_upgrades",
+"en": "Jukebox Upgrades",
+"jko": null,
+"ov": "주크박스 업그레이드",
+"src": "주크박스 업그레이드"
+},
+{
+"k": "gui.sophisticatedcore.settings.item_display",
+"en": "Item Display",
+"jko": null,
+"ov": "품목 전시",
+"src": "아이템 표시"
+},
+{
+"k": "gui.sophisticatedcore.settings.item_display.tooltip",
+"en": "Item Display Settings",
+"jko": null,
+"ov": "아이템 표시 설정",
+"src": "아이템 표시 설정"
+},
+{
+"k": "gui.sophisticatedcore.settings.item_display.tooltip_detail",
+"en": "Allows selecting a slot that will be used to show its item on top of storage",
+"jko": null,
+"ov": "저장소 위에 해당 항목을 표시하는 데 사용할 슬롯을 선택할 수 있습니다.",
+"src": "보관함 위에 표시할 슬롯을 선택할 수 있습니다"
+},
+{
+"k": "gui.sophisticatedcore.settings.item_display.tooltip_open_detail",
+"en": "Allows selecting a slot that will be used to show its item on top of storage\nSelect slot = left click/drag\nUnselect slot = right click/drag",
+"jko": null,
+"ov": "저장소 위에 해당 항목을 표시하는 데 사용할 슬롯을 선택할 수 있습니다.\n슬롯 선택 = 왼쪽 클릭/드래그\n슬롯 선택 취소 = 마우스 오른쪽 버튼 클릭/드래그",
+"src": "보관함 위에 표시할 슬롯을 선택할 수 있습니다\n슬롯 선택 = 좌클릭/드래그\n선택 해제 = 우클릭/드래그"
+},
+{
+"k": "gui.sophisticatedcore.upgrades.smoking",
+"en": "Smoking",
+"jko": null,
+"ov": "흡연",
+"src": "훈연"
+},
+{
+"k": "gui.sophisticatedcore.upgrades.auto_smoking",
+"en": "Auto-smoke",
+"jko": null,
+"ov": "자동 연기",
+"src": "자동 훈연"
+},
+{
+"k": "gui.sophisticatedcore.upgrades.blasting",
+"en": "Blasting",
+"jko": null,
+"ov": "폭파",
+"src": "용광"
+},
+{
+"k": "gui.sophisticatedcore.upgrades.auto_blasting",
+"en": "Auto-blast",
+"jko": null,
+"ov": "자동 폭발",
+"src": "자동 용광"
+},
+{
+"k": "gui.sophisticatedcore.upgrades.advanced_jukebox",
+"en": "Jukebox",
+"jko": null,
+"ov": "주크박스",
+"src": "주크박스"
+},
+{
+"k": "gui.sophisticatedcore.upgrades.alchemy",
+"en": "Alchemy",
+"jko": null,
+"ov": "연금술",
+"src": "연금"
+},
+{
+"k": "gui.sophisticatedcore.upgrades.alchemy.tooltip",
+"en": "Alchemy Settings",
+"jko": null,
+"ov": "연금술 설정",
+"src": "연금 설정"
+},
+{
+"k": "gui.sophisticatedcore.upgrades.advanced_alchemy",
+"en": "Adv. Alchemy",
+"jko": null,
+"ov": "고급 연금술",
+"src": "고급 연금"
+},
+{
+"k": "gui.sophisticatedcore.upgrades.advanced_alchemy.tooltip",
+"en": "Advanced Alchemy Settings",
+"jko": null,
+"ov": "고급 연금술 설정",
+"src": "고급 연금 설정"
+},
+{
+"k": "gui.sophisticatedcore.upgrades.chipped_botanist_workbench",
+"en": "Botanist",
+"jko": null,
+"ov": "식물학자",
+"src": "식물학자"
+},
+{
+"k": "gui.sophisticatedcore.upgrades.chipped_glassblower",
+"en": "Glassblower",
+"jko": null,
+"ov": "유리 송풍기",
+"src": "유리공"
+},
+{
+"k": "gui.sophisticatedcore.upgrades.chipped_carpenters_table",
+"en": "Carpenters",
+"jko": null,
+"ov": "목수",
+"src": "목수"
+},
+{
+"k": "gui.sophisticatedcore.upgrades.chipped_mason_table",
+"en": "Mason",
+"jko": null,
+"ov": "석공",
+"src": "석공"
+},
+{
+"k": "gui.sophisticatedcore.upgrades.chipped_loom_table",
+"en": "Loom",
+"jko": null,
+"ov": "직조기",
+"src": "베틀"
+},
+{
+"k": "gui.sophisticatedcore.upgrades.chipped_alchemy_bench",
+"en": "Alchemy",
+"jko": null,
+"ov": "연금술",
+"src": "연금"
+},
+{
+"k": "gui.sophisticatedcore.upgrades.chipped_tinkering_table",
+"en": "Tinkering",
+"jko": null,
+"ov": "땜질",
+"src": "개조"
+},
+{
+"k": "gui.sophisticatedcore.upgrades.sawmill",
+"en": "Sawmill",
+"jko": null,
+"ov": "제재소",
+"src": "제재소"
+},
+{
+"k": "gui.sophisticatedcore.upgrades.smoking.tooltip",
+"en": "Smoking",
+"jko": null,
+"ov": "흡연",
+"src": "훈연"
+},
+{
+"k": "gui.sophisticatedcore.upgrades.auto_smoking.tooltip",
+"en": "Auto-Smoking",
+"jko": null,
+"ov": "자동흡연",
+"src": "자동 훈연"
+},
+{
+"k": "gui.sophisticatedcore.upgrades.blasting.tooltip",
+"en": "Blasting",
+"jko": null,
+"ov": "폭파",
+"src": "용광"
+},
+{
+"k": "gui.sophisticatedcore.upgrades.auto_blasting.tooltip",
+"en": "Auto-Blasting",
+"jko": null,
+"ov": "자동 폭파",
+"src": "자동 용광"
+},
+{
+"k": "gui.sophisticatedcore.upgrades.chipped_botanist_workbench.tooltip",
+"en": "Botanist's Workbench",
+"jko": null,
+"ov": "식물학자의 작업대",
+"src": "식물학자 작업대"
+},
+{
+"k": "gui.sophisticatedcore.upgrades.chipped_glassblower.tooltip",
+"en": "Glassblower",
+"jko": null,
+"ov": "유리 송풍기",
+"src": "유리공 작업대"
+},
+{
+"k": "gui.sophisticatedcore.upgrades.chipped_carpenters_table.tooltip",
+"en": "Carpenters Table",
+"jko": null,
+"ov": "목수 테이블",
+"src": "목수 작업대"
+},
+{
+"k": "gui.sophisticatedcore.upgrades.chipped_mason_table.tooltip",
+"en": "Mason Table",
+"jko": null,
+"ov": "메이슨 테이블",
+"src": "석공 작업대"
+},
+{
+"k": "gui.sophisticatedcore.upgrades.chipped_loom_table.tooltip",
+"en": "Loom Table",
+"jko": null,
+"ov": "직기 테이블",
+"src": "베틀 작업대"
+},
+{
+"k": "gui.sophisticatedcore.upgrades.chipped_alchemy_bench.tooltip",
+"en": "Alchemy Bench",
+"jko": null,
+"ov": "연금술 벤치",
+"src": "연금 작업대"
+},
+{
+"k": "gui.sophisticatedcore.upgrades.chipped_tinkering_table.tooltip",
+"en": "Tinkering Table",
+"jko": null,
+"ov": "땜질 테이블",
+"src": "개조 작업대"
+},
+{
+"k": "gui.sophisticatedcore.upgrades.sawmill.tooltip",
+"en": "Sawmill",
+"jko": null,
+"ov": "제재소",
+"src": "제재소"
+},
+{
+"k": "gui.sophisticatedcore.upgrades.advanced_jukebox.tooltip",
+"en": "Advanced Jukebox",
+"jko": null,
+"ov": "고급 주크박스",
+"src": "고급 주크박스"
+},
+{
+"k": "gui.sophisticatedcore.upgrades.buttons.void_slot_overflow",
+"en": "Void Slot Overflow",
+"jko": null,
+"ov": "공허 슬롯 오버플로",
+"src": "슬롯 넘침 제거"
+},
+{
+"k": "gui.sophisticatedcore.upgrades.buttons.void_slot_overflow.detail",
+"en": "Allows single slot to be filled with the item\nand voids anything that overflows",
+"jko": null,
+"ov": "단일 슬롯을 아이템으로 채울 수 있습니다.\n넘친 모든 것을 무효화합니다.",
+"src": "단일 슬롯을 해당 아이템으로 채우고\n넘치는 분량은 제거합니다"
+},
+{
+"k": "gui.sophisticatedcore.upgrades.buttons.void_storage_overflow",
+"en": "Void Storage Overflow",
+"jko": null,
+"ov": "공허 저장소 오버플로",
+"src": "보관함 넘침 제거"
+},
+{
+"k": "gui.sophisticatedcore.upgrades.buttons.void_storage_overflow.detail",
+"en": "Allows whole storage to be filled with the item\n and voids anything that overflows",
+"jko": null,
+"ov": "전체 저장소를 해당 항목으로 채울 수 있습니다.\n 넘친 모든 것을 무효화합니다.",
+"src": "보관함 전체를 해당 아이템으로 채우고\n 넘치는 분량은 제거합니다"
+},
+{
+"k": "gui.sophisticatedcore.upgrades.buttons.void_always_disabled",
+"en": "Void Always option is disabled",
+"jko": null,
+"ov": "항상 무효 옵션이 비활성화되었습니다.",
+"src": "항상 제거 옵션이 비활성화됨"
+},
+{
+"k": "gui.sophisticatedcore.upgrades.buttons.void_always",
+"en": "Void Always",
+"jko": null,
+"ov": "항상 무효",
+"src": "항상 제거"
+},
+{
+"k": "gui.sophisticatedcore.upgrades.buttons.interact_with_tanks_and_pipes",
+"en": "Interact With Tanks & Pipes",
+"jko": null,
+"ov": "탱크 및 파이프와 상호 작용",
+"src": "탱크 및 파이프와 상호작용"
+},
+{
+"k": "gui.sophisticatedcore.upgrades.buttons.do_not_interact_with_tanks_and_pipes",
+"en": "Do Not Interact With Tanks & Pipes",
+"jko": null,
+"ov": "탱크 및 파이프와 상호 작용하지 마십시오",
+"src": "탱크 및 파이프와 상호작용 안 함"
+},
+{
+"k": "gui.sophisticatedcore.upgrades.buttons.xp_pump_keep",
+"en": "Keep Player at Level",
+"jko": null,
+"ov": "플레이어를 같은 수준으로 유지",
+"src": "플레이어 레벨 유지"
+},
+{
+"k": "gui.sophisticatedcore.upgrades.buttons.mend_items",
+"en": "Repair Items With Mending",
+"jko": null,
+"ov": "수선으로 아이템 수리하기",
+"src": "수선으로 아이템 수리"
+},
+{
+"k": "gui.sophisticatedcore.upgrades.buttons.do_not_mend_items",
+"en": "Do Not Repair Items",
+"jko": null,
+"ov": "품목을 수리하지 마십시오",
+"src": "아이템 수리 안 함"
+},
+{
+"k": "gui.sophisticatedcore.upgrades.buttons.previous_result",
+"en": "Previous",
+"jko": null,
+"ov": "이전의",
+"src": "이전"
+},
+{
+"k": "gui.sophisticatedcore.upgrades.buttons.next_result",
+"en": "Next",
+"jko": null,
+"ov": "다음",
+"src": "다음"
+},
+{
+"k": "gui.sophisticatedcore.upgrades.buttons.select_result",
+"en": "Select Result",
+"jko": null,
+"ov": "결과 선택",
+"src": "결과 선택"
+},
+{
+"k": "gui.sophisticatedcore.upgrades.buttons.shuffle_on",
+"en": "Shuffle Enabled",
+"jko": null,
+"ov": "셔플 활성화됨",
+"src": "셔플 켜짐"
+},
+{
+"k": "gui.sophisticatedcore.upgrades.buttons.shuffle_off",
+"en": "Shuffle Disabled",
+"jko": null,
+"ov": "셔플 비활성화됨",
+"src": "셔플 꺼짐"
+},
+{
+"k": "gui.sophisticatedcore.upgrades.buttons.repeat_all",
+"en": "Repeat All",
+"jko": null,
+"ov": "모두 반복",
+"src": "전체 반복"
+},
+{
+"k": "gui.sophisticatedcore.upgrades.buttons.repeat_one",
+"en": "Repeat One",
+"jko": null,
+"ov": "한 번 반복",
+"src": "한 곡 반복"
+},
+{
+"k": "gui.sophisticatedcore.upgrades.buttons.no_repeat",
+"en": "Repeat Disabled",
+"jko": null,
+"ov": "반복 비활성화",
+"src": "반복 꺼짐"
+},
+{
+"k": "gui.sophisticatedcore.upgrades.buttons.previous_disc",
+"en": "Previous",
+"jko": null,
+"ov": "이전의",
+"src": "이전"
+},
+{
+"k": "gui.sophisticatedcore.upgrades.buttons.next_disc",
+"en": "Next",
+"jko": null,
+"ov": "다음",
+"src": "다음"
+},
+{
+"k": "gui.sophisticatedcore.upgrades.buttons.alchemy_condition_never",
+"en": "Never",
+"jko": null,
+"ov": "절대",
+"src": "사용 안 함"
+},
+{
+"k": "gui.sophisticatedcore.upgrades.buttons.alchemy_condition_always",
+"en": "Keep Active",
+"jko": null,
+"ov": "활동을 유지하세요",
+"src": "항상 활성"
+},
+{
+"k": "gui.sophisticatedcore.upgrades.buttons.alchemy_condition_on_fire",
+"en": "When on Fire",
+"jko": null,
+"ov": "불이 났을 때",
+"src": "불에 탈 때"
+},
+{
+"k": "gui.sophisticatedcore.upgrades.buttons.alchemy_condition_under_water",
+"en": "When Under Water",
+"jko": null,
+"ov": "물 속에 있을 때",
+"src": "물속일 때"
+},
+{
+"k": "gui.sophisticatedcore.upgrades.buttons.alchemy_condition_falling",
+"en": "When Falling",
+"jko": null,
+"ov": "떨어질 때",
+"src": "낙하 중일 때"
+},
+{
+"k": "gui.sophisticatedcore.upgrades.buttons.alchemy_condition_sprinting",
+"en": "When Sprinting",
+"jko": null,
+"ov": "질주할 때",
+"src": "달릴 때"
+},
+{
+"k": "gui.sophisticatedcore.upgrades.buttons.alchemy_condition_negative_effect",
+"en": "When Affected by Negative Effect",
+"jko": null,
+"ov": "부정적인 영향을 받는 경우",
+"src": "부정적 효과일 때"
+},
+{
+"k": "gui.sophisticatedcore.upgrades.buttons.alchemy_condition_mining",
+"en": "When Mining",
+"jko": null,
+"ov": "채굴할 때",
+"src": "채굴 중일 때"
+},
+{
+"k": "gui.sophisticatedcore.upgrades.buttons.alchemy_condition_hurt",
+"en": "When Hurt (Below %s Health)",
+"jko": null,
+"ov": "다쳤을 때 (체력 %s 미만)",
+"src": "부상 시 (체력 %s 미만)"
+},
+{
+"k": "gui.sophisticatedcore.upgrades.buttons.alchemy_condition.value_controls",
+"en": "Scroll to Change Value",
+"jko": null,
+"ov": "값 변경으로 스크롤",
+"src": "스크롤로 값 변경"
+},
+{
+"k": "gui.sophisticatedcore.upgrades.buttons.any_effect_missing",
+"en": "Any Effect Missing",
+"jko": null,
+"ov": "효과 누락",
+"src": "효과 하나라도 없음"
+},
+{
+"k": "gui.sophisticatedcore.upgrades.buttons.all_effects_missing",
+"en": "All Effects Missing",
+"jko": null,
+"ov": "모든 효과 누락",
+"src": "모든 효과 없음"
+},
+{
+"k": "gui.sophisticatedcore.upgrades.buttons.match_duration",
+"en": "Match Duration",
+"jko": null,
+"ov": "경기 시간",
+"src": "지속 시간 일치"
+},
+{
+"k": "gui.sophisticatedcore.upgrades.buttons.ignore_duration",
+"en": "Ignore Duration",
+"jko": null,
+"ov": "기간 무시",
+"src": "지속 시간 무시"
+},
+{
+"k": "gui.sophisticatedcore.upgrades.buttons.match_amplifier",
+"en": "Match Amplifier",
+"jko": null,
+"ov": "일치 증폭기",
+"src": "강도 일치"
+},
+{
+"k": "gui.sophisticatedcore.upgrades.buttons.ignore_amplifier",
+"en": "Ignore Amplifier",
+"jko": null,
+"ov": "증폭기 무시",
+"src": "강도 무시"
+},
+{
+"k": "gui.sophisticatedcore.upgrades.buttons.entity_match_entities",
+"en": "Target Entities Only",
+"jko": null,
+"ov": "대상 엔터티만",
+"src": "개체만 대상"
+},
+{
+"k": "gui.sophisticatedcore.upgrades.buttons.entity_match_players",
+"en": "Target Players Only",
+"jko": null,
+"ov": "대상 플레이어만",
+"src": "플레이어만 대상"
+},
+{
+"k": "gui.sophisticatedcore.upgrades.buttons.entity_match_players_and_entities",
+"en": "Target Both Players & Entities",
+"jko": null,
+"ov": "플레이어와 엔터티 모두를 대상으로 합니다.",
+"src": "플레이어와 개체 모두"
+},
+{
+"k": "gui.sophisticatedcore.buttons.sort_by_mod",
+"en": "By Mod",
+"jko": null,
+"ov": "모드별",
+"src": "모드별"
+},
+{
+"k": "gui.sophisticatedcore.buttons.transfer_to_storage",
+"en": "Transfer to Storage",
+"jko": null,
+"ov": "저장소로 전송",
+"src": "보관함으로 이동"
+},
+{
+"k": "gui.sophisticatedcore.buttons.transfer_to_inventory",
+"en": "Transfer to Inventory",
+"jko": null,
+"ov": "재고로 이전",
+"src": "인벤토리로 이동"
+},
+{
+"k": "gui.sophisticatedcore.buttons.transfer_to_inventory_filtered",
+"en": "Transfer Matching to Inventory",
+"jko": null,
+"ov": "일치를 재고로 이전",
+"src": "일치하는 항목만 인벤토리로"
+},
+{
+"k": "gui.sophisticatedcore.buttons.transfer_to_inventory_filtered.transfer_all",
+"en": "Shift To Transfer All",
+"jko": null,
+"ov": "모두 전송으로 전환",
+"src": "Shift로 전부 이동"
+},
+{
+"k": "gui.sophisticatedcore.buttons.transfer_to_storage_filtered",
+"en": "Transfer Matching to Storage",
+"jko": null,
+"ov": "매칭을 스토리지로 전송",
+"src": "일치하는 항목만 보관함으로"
+},
+{
+"k": "gui.sophisticatedcore.buttons.transfer_to_storage_filtered.transfer_all",
+"en": "Shift To Transfer All",
+"jko": null,
+"ov": "모두 전송으로 전환",
+"src": "Shift로 전부 이동"
+},
+{
+"k": "gui.sophisticatedcore.buttons.confirm",
+"en": "Confirm",
+"jko": null,
+"ov": "확인하다",
+"src": "확인"
+},
+{
+"k": "gui.sophisticatedcore.buttons.cancel",
+"en": "Cancel",
+"jko": null,
+"ov": "취소",
+"src": "취소"
+},
+{
+"k": "gui.sophisticatedcore.buttons.transparent",
+"en": "No Color",
+"jko": null,
+"ov": "색상 없음",
+"src": "색 없음"
+},
+{
+"k": "gui.sophisticatedcore.buttons.browse_results",
+"en": "Open expanded output list with search",
+"jko": null,
+"ov": "검색으로 확장된 출력 목록 열기",
+"src": "검색 가능한 확장 출력 목록 열기"
+},
+{
+"k": "gui.sophisticatedcore.buttons.upgrade_switch_enabled",
+"en": "ON",
+"jko": null,
+"ov": "에",
+"src": "켜짐"
+},
+{
+"k": "gui.sophisticatedcore.buttons.upgrade_switch_disabled",
+"en": "OFF",
+"jko": null,
+"ov": "끄다",
+"src": "꺼짐"
+},
+{
+"k": "gui.sophisticatedcore.buttons.upgrade_switch_inactive",
+"en": "INACTIVE",
+"jko": null,
+"ov": "비활성",
+"src": "비활성"
+},
+{
+"k": "gui.sophisticatedcore.label.no_search_results",
+"en": "No items match the search",
+"jko": null,
+"ov": "검색어와 일치하는 항목이 없습니다.",
+"src": "검색과 일치하는 아이템이 없습니다"
+},
+{
+"k": "gui.sophisticatedcore.text_box.search_box",
+"en": "Click to search",
+"jko": null,
+"ov": "검색하려면 클릭하세요.",
+"src": "클릭하여 검색"
+},
+{
+"k": "gui.sophisticatedcore.text_box.search_box_detail",
+"en": "@ prefix to search by mod name",
+"jko": null,
+"ov": "@ 모드 이름으로 검색하려면 접두사를 사용하세요.",
+"src": "@ 접두사로 모드 이름 검색"
+},
+{
+"k": "gui.sophisticatedcore.settings.buttons.rotate",
+"en": "Rotate",
+"jko": null,
+"ov": "회전",
+"src": "회전"
+},
+{
+"k": "gui.sophisticatedcore.settings.buttons.rotate_detail",
+"en": "Clockwise = Left Click\nCounter-Clockwise = Right Click",
+"jko": null,
+"ov": "시계 방향 = 왼쪽 클릭\n시계 반대 방향 = 마우스 오른쪽 버튼 클릭",
+"src": "시계 방향 = 좌클릭\n반시계 방향 = 우클릭"
+},
+{
+"k": "gui.sophisticatedcore.settings.buttons.z_offset",
+"en": "Depth",
+"jko": null,
+"ov": "깊이",
+"src": "깊이"
+},
+{
+"k": "gui.sophisticatedcore.settings.buttons.z_offset_detail",
+"en": "Out = Left Click\nIn = Right Click",
+"jko": null,
+"ov": "나가기 = 왼쪽 클릭\n에서 = 마우스 오른쪽 버튼 클릭",
+"src": "밖으로 = 좌클릭\n안으로 = 우클릭"
+},
+{
+"k": "gui.sophisticatedcore.settings.buttons.keep_search_phrase.on",
+"en": "Keep Search Phrase: ON",
+"jko": null,
+"ov": "검색 문구 유지: ON",
+"src": "검색어 유지: 켜짐"
+},
+{
+"k": "gui.sophisticatedcore.settings.buttons.keep_search_phrase.off",
+"en": "Keep Search Phrase: OFF",
+"jko": null,
+"ov": "검색 문구 유지: 꺼짐",
+"src": "검색어 유지: 꺼짐"
+},
+{
+"k": "gui.sophisticatedcore.settings.buttons.keep_search_phrase.on.tooltip",
+"en": "Backpack / Storage gui keeps the search phrase and prefills it / filters by it when open again",
+"jko": null,
+"ov": "배낭/저장소 GUI는 검색 문구를 유지하고 다시 열 때 검색 문구를 미리 채우거나 필터링합니다.",
+"src": "배낭/보관함 GUI를 닫았다가 다시 열어도 검색어를 유지하고 필터를 적용합니다"
+},
+{
+"k": "gui.sophisticatedcore.settings.buttons.keep_search_phrase.off.tooltip",
+"en": "Backpack / Storage gui clears the search phrase when closed and shows all unfiltered item when open again",
+"jko": null,
+"ov": "배낭/보관 GUI는 닫을 때 검색 문구를 지우고 다시 열 때 필터링되지 않은 모든 항목을 표시합니다.",
+"src": "배낭/보관함 GUI를 닫으면 검색어를 지우고, 다시 열면 필터 없이 전체를 표시합니다"
+},
+{
+"k": "gui.sophisticatedcore.settings.buttons.save_template",
+"en": "Save Settings to slot %s",
+"jko": null,
+"ov": "슬롯 %s에 설정 저장",
+"src": "슬롯 %s에 설정 저장"
+},
+{
+"k": "gui.sophisticatedcore.settings.buttons.save_template.controls",
+"en": "Scroll to change slot",
+"jko": null,
+"ov": "스크롤하여 슬롯 변경",
+"src": "스크롤로 슬롯 변경"
+},
+{
+"k": "gui.sophisticatedcore.settings.buttons.save_template.custom_name_slot",
+"en": "Enter Slot Name",
+"jko": null,
+"ov": "슬롯 이름 입력",
+"src": "슬롯 이름 입력"
+},
+{
+"k": "gui.sophisticatedcore.settings.buttons.load_template",
+"en": "Load Settings from slot %s",
+"jko": null,
+"ov": "슬롯 %s에서 설정 로드",
+"src": "슬롯 %s에서 설정 불러오기"
+},
+{
+"k": "gui.sophisticatedcore.settings.buttons.load_template.controls",
+"en": "Scroll to change slot",
+"jko": null,
+"ov": "스크롤하여 슬롯 변경",
+"src": "스크롤로 슬롯 변경"
+},
+{
+"k": "gui.sophisticatedcore.settings.buttons.load_template.source",
+"en": "From %s data pack",
+"jko": null,
+"ov": "%s 데이터 팩에서",
+"src": "%s 데이터 팩에서"
+},
+{
+"k": "gui.sophisticatedcore.settings.buttons.load_template.no_save",
+"en": "No Settings to Load exist",
+"jko": null,
+"ov": "로드할 설정이 없습니다.",
+"src": "불러올 설정이 없습니다"
+},
+{
+"k": "gui.sophisticatedcore.settings.buttons.load_template.too_many_setting_slots",
+"en": "Settings don't fit in this storage",
+"jko": null,
+"ov": "설정이 이 저장소에 맞지 않습니다.",
+"src": "설정이 이 보관함에 맞지 않습니다"
+},
+{
+"k": "gui.sophisticatedcore.settings.buttons.export_template",
+"en": "Export Settings to %s",
+"jko": null,
+"ov": "설정을 %s(으)로 내보내기",
+"src": "설정을 %s(으)로 내보내기"
+},
+{
+"k": "gui.sophisticatedcore.settings.buttons.export_template.enter_file_name",
+"en": "Enter file name",
+"jko": null,
+"ov": "파일 이름을 입력하세요",
+"src": "파일 이름 입력"
+},
+{
+"k": "gui.sophisticatedcore.settings.buttons.export_template.additional_info",
+"en": "Creates data pack with snbt file",
+"jko": null,
+"ov": "snbt 파일로 데이터 팩을 생성합니다.",
+"src": "snbt 파일이 포함된 데이터 팩을 생성합니다"
+},
+{
+"k": "gui.sophisticatedcore.settings.buttons.display_side_front",
+"en": "Show on Front",
+"jko": null,
+"ov": "전면에 표시",
+"src": "앞면에 표시"
+},
+{
+"k": "gui.sophisticatedcore.settings.buttons.display_side_left",
+"en": "Show on Left side",
+"jko": null,
+"ov": "왼쪽에 표시",
+"src": "왼쪽에 표시"
+},
+{
+"k": "gui.sophisticatedcore.settings.buttons.display_side_right",
+"en": "Show on Right side",
+"jko": null,
+"ov": "오른쪽에 표시",
+"src": "오른쪽에 표시"
+},
+{
+"k": "gui.sophisticatedcore.settings.message.save_template",
+"en": "Saved Settings to slot %s",
+"jko": null,
+"ov": "슬롯 %s에 설정이 저장되었습니다.",
+"src": "슬롯 %s에 설정을 저장했습니다"
+},
+{
+"k": "gui.sophisticatedcore.settings.message.save_template.empty_name",
+"en": "Slot name can't be empty",
+"jko": null,
+"ov": "슬롯 이름은 비워둘 수 없습니다.",
+"src": "슬롯 이름은 비울 수 없습니다"
+},
+{
+"k": "gui.sophisticatedcore.settings.message.load_template",
+"en": "Loaded Settings from slot %s",
+"jko": null,
+"ov": "슬롯 %s에서 설정을 로드했습니다.",
+"src": "슬롯 %s에서 설정을 불러왔습니다"
+},
+{
+"k": "gui.sophisticatedcore.settings.message.export_template",
+"en": "Exported Settings to %s",
+"jko": null,
+"ov": "설정을 %s(으)로 내보냈습니다.",
+"src": "설정을 %s(으)로 내보냈습니다"
+},
+{
+"k": "gui.sophisticatedcore.settings.message.export_template.empty_name",
+"en": "File name can't be empty",
+"jko": null,
+"ov": "파일 이름은 비워둘 수 없습니다.",
+"src": "파일 이름은 비울 수 없습니다"
+},
+{
+"k": "gui.sophisticatedcore.settings.message.export_template.invalid_characters",
+"en": "File name contains invalid character(s): %s",
+"jko": null,
+"ov": "파일 이름에 잘못된 문자가 포함되어 있습니다: %s",
+"src": "파일 이름에 잘못된 문자가 있습니다: %s"
+},
+{
+"k": "gui.sophisticatedcore.error.add.upgrade_not_allowed",
+"en": "%s can't be used in %s",
+"jko": null,
+"ov": "%s은(는) %s에서 사용할 수 없습니다.",
+"src": "%s은(는) %s에 사용할 수 없습니다"
+},
+{
+"k": "gui.sophisticatedcore.error.add.only_single_upgrade_allowed",
+"en": "Only single %s can be used in %s",
+"jko": null,
+"ov": "%s에서는 단일 %s만 사용할 수 있습니다.",
+"src": "%s은(는) %s에 하나만 사용할 수 있습니다"
+},
+{
+"k": "gui.sophisticatedcore.error.add.only_x_upgrades_allowed",
+"en": "Only %dx %s can be used in %s",
+"jko": null,
+"ov": "%s에서는 %dx %s만 사용할 수 있습니다.",
+"src": "%d개의 %s만 %s에 사용할 수 있습니다"
+},
+{
+"k": "gui.sophisticatedcore.error.add.any_upgrade_exists",
+"en": "All upgrade slots need to be empty",
+"jko": null,
+"ov": "모든 업그레이드 슬롯은 비어 있어야 합니다.",
+"src": "모든 업그레이드 슬롯이 비어 있어야 합니다"
+},
+{
+"k": "gui.sophisticatedcore.error.add.no_upgrade_can_be_added",
+"en": "No upgrade can be added",
+"jko": null,
+"ov": "업그레이드를 추가할 수 없습니다.",
+"src": "추가할 수 있는 업그레이드가 없습니다"
+},
+{
+"k": "gui.sophisticatedcore.error.remove.infinity_upgrade_only_admin",
+"en": "Only admins can remove Infinity Upgrade",
+"jko": null,
+"ov": "관리자만 Infinity Upgrade를 제거할 수 있습니다.",
+"src": "무한 업그레이드는 관리자만 제거할 수 있습니다"
+},
+{
+"k": "gui.sophisticatedcore.error.remove.banned_item",
+"en": "This item must be removed before the upgrade can be",
+"jko": null,
+"ov": "업그레이드를 수행하려면 이 항목을 제거해야 합니다.",
+"src": "업그레이드를 제거하기 전에 이 아이템을 빼야 합니다"
+},
+{
+"k": "gui.sophisticatedcore.narrate.tab_button",
+"en": "Upgrade tab open/close button",
+"jko": null,
+"ov": "업그레이드 탭 열기/닫기 버튼",
+"src": "업그레이드 탭 열기/닫기 버튼"
+},
+{
+"k": "gui.sophisticatedcore.narrate.context_button",
+"en": "Context toggle set to: %s",
+"jko": null,
+"ov": "컨텍스트 토글이 다음으로 설정되었습니다: %s",
+"src": "컨텍스트 전환: %s"
+},
+{
+"k": "gui.sophisticatedcore.narrate.context_button.usage",
+"en": "Click to toggle context",
+"jko": null,
+"ov": "컨텍스트를 전환하려면 클릭하세요.",
+"src": "클릭하여 컨텍스트 전환"
+},
+{
+"k": "fluid_type.sophisticatedcore.experience",
+"en": "Experience",
+"jko": null,
+"ov": "경험",
+"src": "경험치"
+},
+{
+"k": "key.category.sophisticatedcore.main",
+"en": "Sophisticated Mods",
+"jko": null,
+"ov": "정교한 모드",
+"src": "Sophisticated Mods"
+},
+{
+"k": "key.sophisticatedcore.sort",
+"en": "Sort Storage/Backpack",
+"jko": null,
+"ov": "수납/백팩 분류",
+"src": "보관함/배낭 정렬"
+},
+{
+"k": "key.sophisticatedcore.transfer_to_storage",
+"en": "Transfer to Storage",
+"jko": null,
+"ov": "저장소로 전송",
+"src": "보관함으로 이동"
+},
+{
+"k": "key.sophisticatedcore.transfer_to_inventory",
+"en": "Transfer to Inventory",
+"jko": null,
+"ov": "재고로 이전",
+"src": "인벤토리로 이동"
+},
+{
+"k": "sophisticatedcore.configuration.sortButtonsPosition",
+"en": "Sort Buttons Position",
+"jko": null,
+"ov": "정렬 버튼 위치",
+"src": "정렬 버튼 위치"
+},
+{
+"k": "sophisticatedcore.configuration.playButtonSound",
+"en": "Play Button Sound",
+"jko": null,
+"ov": "재생 버튼 소리",
+"src": "버튼 소리 재생"
+},
+{
+"k": "sophisticatedcore.configuration.mouseTweaksScrollEnabled",
+"en": "Mouse Tweaks Scroll Control",
+"jko": null,
+"ov": "마우스 비틀기 스크롤 제어",
+"src": "Mouse Tweaks 스크롤 제어"
+},
+{
+"k": "sophisticatedcore.configuration.enabledItems",
+"en": "Enabled Mod Items",
+"jko": null,
+"ov": "활성화된 모드 아이템",
+"src": "활성화된 모드 아이템"
+},
+{
+"k": "sophisticatedcore.configuration.enabledItems.tooltip",
+"en": "Prefilled with all supported items. Change |true to |false to disable one.\nFormat: item_id|true_or_false\nExample: sophisticatedbackpacks:smelting_upgrade|true",
+"jko": null,
+"ov": "지원되는 모든 항목이 미리 채워져 있습니다. 비활성화하려면 |true를 |false로 변경하세요.\n형식: item_id|true_or_false\n예: 정교한배낭:smelting_upgrade|true",
+"src": "지원되는 모든 아이템으로 채워집니다. |true를 |false로 바꿔 비활성화하세요.\n형식: item_id|true_or_false\n예: sophisticatedbackpacks:smelting_upgrade|true"
+},
+{
+"k": "sophisticatedcore.configuration.sortButtonsPosition.title_line_right",
+"en": "Title Line Right",
+"jko": null,
+"ov": "제목 줄 오른쪽",
+"src": "제목 줄 오른쪽"
+},
+{
+"k": "sophisticatedcore.configuration.sortButtonsPosition.below_upgrades",
+"en": "Below Upgrades",
+"jko": null,
+"ov": "업그레이드 이하",
+"src": "업그레이드 아래"
+},
+{
+"k": "sophisticatedcore.configuration.sortButtonsPosition.below_upgrade_tabs",
+"en": "Below Upgrade Tabs",
+"jko": null,
+"ov": "업그레이드 탭 아래",
+"src": "업그레이드 탭 아래"
+},
+{
+"k": "sophisticatedcore.configuration.sortButtonsPosition.hidden",
+"en": "Hidden",
+"jko": null,
+"ov": "숨겨진",
+"src": "숨김"
+}
+]

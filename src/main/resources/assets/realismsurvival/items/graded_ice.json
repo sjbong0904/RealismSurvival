@@ -1,0 +1,11 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "realismsurvival:item/graded_ice",
+    "tints": [
+      {
+        "type": "realismsurvival:graded_ice"
+      }
+    ]
+  }
+}

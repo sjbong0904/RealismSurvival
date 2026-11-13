@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:adventure/root",
+  "criteria": {
+    "ice": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "realismsurvival:fresh_ice_bucket"
+          }
+        ]
+      }
+    },
+    "snow": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "realismsurvival:snow_bucket"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "ice",
+      "snow"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

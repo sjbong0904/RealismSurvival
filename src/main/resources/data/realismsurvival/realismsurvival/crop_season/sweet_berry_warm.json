@@ -1,0 +1,6 @@
+{
+  "seasons": ["summer", "autumn"],
+  "crops": ["minecraft:sweet_berry_bush"],
+  "growth_multiplier": 1.2,
+  "priority": 10
+}

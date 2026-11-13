@@ -1,0 +1,22 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "farmersdelight"
+    }
+  ],
+  "items": [
+    "farmersdelight:roast_chicken",
+    "farmersdelight:roasted_mutton_chops",
+    "farmersdelight:steak_and_potatoes",
+    "farmersdelight:grilled_salmon",
+    "farmersdelight:honey_glazed_ham",
+    "farmersdelight:shepherds_pie",
+    "farmersdelight:stuffed_pumpkin",
+    "farmersdelight:barbecue_stick",
+    "farmersdelight:fried_egg"
+  ],
+  "thirst_restore": -2.0,
+  "temperature_delta": 0.25,
+  "priority": 5
+}

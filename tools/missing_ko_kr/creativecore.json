@@ -1,0 +1,21 @@
+{
+  "gui.true": "true",
+  "gui.false": "false",
+  "gui.minus": "-",
+  "gui.plus": "+",
+  "gui.del": "x",
+  "gui.config.reset": "r",
+  "gui.volume": "volume",
+  "gui.pitch": "pitch",
+  "gui.close": "Close",
+  "gui.perm.open": "Open Permissions",
+  "gui.perm.add": "Add Group",
+  "gui.content": "Content",
+  "gui.config.enabled": "Enabled",
+  "gui.day": "d",
+  "gui.hour": "h",
+  "gui.minute": "m",
+  "gui.second": "s",
+  "gui.play": "play",
+  "gui.ingredient.latest": "Recent ingredients:"
+}

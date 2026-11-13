@@ -1,0 +1,24 @@
+# Realism Survival — FTB Chunks server/world defaults
+# (maps + claims; replaces Xaero + Open Parties and Claims)
+# Players may still change team properties in-game; these are pack baseline limits.
+{
+	disable_protection: false
+	force_disable_minimap: false
+	require_game_stage: false
+	location_mode_override: false
+
+	claiming: {
+		# Match prior OPC tuning
+		max_claimed_chunks: 500
+		max_idle_days_before_unclaim: 0.0d
+		hard_team_claim_limit: 0
+	}
+
+	force_loading: {
+		# Offline forceload off (same intent as OPC offlineForceload = false)
+		force_load_mode: "never"
+		max_force_loaded_chunks: 16
+		max_idle_days_before_unforce: 0.0d
+		hard_team_force_limit: 0
+	}
+}

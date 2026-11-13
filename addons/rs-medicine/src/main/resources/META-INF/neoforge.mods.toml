@@ -1,0 +1,36 @@
+license="All Rights Reserved"
+
+# Pack-internal addon (D-01): built from this repo's medicineAddon source set and shipped only with the
+# Realism Survival pack. Not published separately; ranges track the core mod's supported profile.
+
+[[mods]]
+modId="rsmedicine"
+version="0.1.0"
+displayName="RS Medicine"
+authors="RealismSurvival pack"
+description='''
+Field recovery and short vanilla afflictions for Realism Survival.
+HP items, dedicated cures, and drinkable-potion bonus buffs.
+Pack-internal addon; requires the matching Realism Survival core.
+'''
+
+[[dependencies.rsmedicine]]
+    modId="neoforge"
+    type="required"
+    versionRange="[26.1.2.122,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.rsmedicine]]
+    modId="minecraft"
+    type="required"
+    versionRange="[26.1,26.2)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.rsmedicine]]
+    modId="realismsurvival"
+    type="required"
+    versionRange="[0.1.0,0.2.0)"
+    ordering="AFTER"
+    side="BOTH"

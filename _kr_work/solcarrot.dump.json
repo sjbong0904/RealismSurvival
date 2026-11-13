@@ -1,0 +1,30 @@
+[
+{
+"k": "solcarrot.configuration.milestone_celebration",
+"en": "Milestone Celebration",
+"jko": null,
+"ov": "마일스톤 축하",
+"src": "이정표 축하"
+},
+{
+"k": "solcarrot.configuration.milestones",
+"en": "Milestones",
+"jko": null,
+"ov": "마일스톤",
+"src": "이정표"
+},
+{
+"k": "solcarrot.configuration.filtering",
+"en": "Filtering",
+"jko": null,
+"ov": "필터링",
+"src": "필터링"
+},
+{
+"k": "solcarrot.configuration.miscellaneous",
+"en": "Miscellaneous",
+"jko": null,
+"ov": "여러 가지 잡다한",
+"src": "기타"
+}
+]

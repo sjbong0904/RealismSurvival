@@ -1,0 +1,9 @@
+{
+  "items": [
+    "minecraft:golden_apple",
+    "minecraft:enchanted_golden_apple"
+  ],
+  "thirst_restore": 8.0,
+  "temperature_delta": 0.0,
+  "priority": 0
+}

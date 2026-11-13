@@ -1,0 +1,366 @@
+[
+{
+"k": "key.category.oritech.keys",
+"en": "Oritech",
+"jko": null,
+"ov": "Oritech",
+"src": null
+},
+{
+"k": "advancements.oritech.resonator",
+"en": "Good Vibrations",
+"jko": null,
+"ov": "좋은 진동",
+"src": null
+},
+{
+"k": "advancements.oritech.resonator.description",
+"en": "Obtain a resonator to find nearby resources. You're picking up good vibrations!",
+"jko": null,
+"ov": "주변 자원을 찾을 공명기를 얻으세요. 진동이 감지됩니다!",
+"src": null
+},
+{
+"k": "title.oritech.destroyer.remove_fluids",
+"en": "Remove fluids",
+"jko": null,
+"ov": "액체 제거",
+"src": null
+},
+{
+"k": "tooltip.oritech.destroyer.energy_rates",
+"en": "Full speed: %s RF/t\nMining: %s RF/t\nMoving: %s RF/t\nMinimum stored: %s RF\nInput limit: %s RF/t",
+"jko": null,
+"ov": "최고 속도: %s RF/t\n채굴: %s RF/t\n이동: %s RF/t\n최소 저장량: %s RF\n입력 한도: %s RF/t",
+"src": null
+},
+{
+"k": "tooltip.oritech.destroyer.energy_formula",
+"en": "\n\nMining: %s base × %s speed × %s cost\nMoving: %s base × %s speed × %s cost",
+"jko": null,
+"ov": "\n\n채굴: 기본 %s × 속도 %s × 비용 %s\n이동: 기본 %s × 속도 %s × 비용 %s",
+"src": null
+},
+{
+"k": "tooltip.oritech.destroyer.quarry_energy",
+"en": "\nQuarry base RF/t: mining %s → %s; moving %s → %s",
+"jko": null,
+"ov": "\n채석기 기본 RF/t: 채굴 %s → %s, 이동 %s → %s",
+"src": null
+},
+{
+"k": "tooltip.oritech.destroyer.energy_input_shortfall",
+"en": "\n\nInput below peak demand. Add transfer addons to sustain mining.",
+"jko": null,
+"ov": "\n\n입력이 최대 요구량보다 낮습니다. 채굴을 유지하려면 전력 전달 애드온을 추가하세요.",
+"src": null
+},
+{
+"k": "tooltip.oritech.destroyer.speed",
+"en": "Addon speed: ×%s. RF/t scales with speed.",
+"jko": null,
+"ov": "애드온 속도: ×%s. RF/t도 속도에 비례해 증가합니다.",
+"src": null
+},
+{
+"k": "tooltip.oritech.destroyer.efficiency",
+"en": "Energy cost: ×%s.",
+"jko": null,
+"ov": "에너지 비용: ×%s.",
+"src": null
+},
+{
+"k": "tooltip.oritech.destroyer.remove_fluids",
+"en": "Remove source and flowing fluids while mining. Waterlogged blocks are mined normally.",
+"jko": null,
+"ov": "채굴 중 원천 액체와 흐르는 액체를 제거합니다. 물에 잠긴 블록은 일반적으로 채굴합니다.",
+"src": null
+},
+{
+"k": "tooltip.oritech.platinum_resonator",
+"en": "Locates platinum ore in nearby loaded chunks.",
+"jko": null,
+"ov": "주변 로드된 청크에서 백금 광석을 찾습니다.",
+"src": null
+},
+{
+"k": "item.oritech.platinum_resonator",
+"en": "Platinum Resonator",
+"jko": null,
+"ov": "백금 공명기",
+"src": null
+},
+{
+"k": "message.oritech.platinum_resonator.empty",
+"en": "No platinum resonance detected in nearby loaded chunks.",
+"jko": null,
+"ov": "주변 로드된 청크에서 백금 반응이 감지되지 않았습니다.",
+"src": null
+},
+{
+"k": "message.oritech.platinum_resonator.found",
+"en": "Platinum resonance: %s blocks away (%s horizontal), Y %s",
+"jko": null,
+"ov": "백금 반응: 거리 %s블록 (수평 %s), Y %s",
+"src": null
+},
+{
+"k": "tooltip.oritech.netherite_resonator",
+"en": "Locates ancient debris in nearby loaded chunks.",
+"jko": null,
+"ov": "주변 로드된 청크에서 고대 잔해를 찾습니다.",
+"src": null
+},
+{
+"k": "item.oritech.netherite_resonator",
+"en": "Netherite Resonator",
+"jko": null,
+"ov": "네더라이트 공명기",
+"src": null
+},
+{
+"k": "message.oritech.netherite_resonator.empty",
+"en": "No ancient debris resonance detected in nearby loaded chunks.",
+"jko": null,
+"ov": "주변 로드된 청크에서 고대 잔해 반응이 감지되지 않았습니다.",
+"src": null
+},
+{
+"k": "message.oritech.netherite_resonator.found",
+"en": "Ancient debris resonance: %s blocks away (%s horizontal), Y %s",
+"jko": null,
+"ov": "고대 잔해 반응: 거리 %s블록 (수평 %s), Y %s",
+"src": null
+},
+{
+"k": "tooltip.oritech.oil_resonator",
+"en": "Locates crude oil sources in nearby loaded chunks.",
+"jko": null,
+"ov": "주변 로드된 청크에서 원유 원천을 찾습니다.",
+"src": null
+},
+{
+"k": "item.oritech.oil_resonator",
+"en": "Oil Resonator",
+"jko": null,
+"ov": "석유 공명기",
+"src": null
+},
+{
+"k": "message.oritech.oil_resonator.empty",
+"en": "No oil resonance detected in nearby loaded chunks.",
+"jko": null,
+"ov": "주변 로드된 청크에서 석유 반응이 감지되지 않았습니다.",
+"src": null
+},
+{
+"k": "message.oritech.oil_resonator.found",
+"en": "Oil resonance: %s blocks away (%s horizontal), Y %s",
+"jko": null,
+"ov": "석유 반응: 거리 %s블록 (수평 %s), Y %s",
+"src": null
+},
+{
+"k": "tooltip.oritech.resource_node_resonator",
+"en": "Locates any resource node in nearby loaded chunks.",
+"jko": null,
+"ov": "주변 로드된 청크에서 자원 노드를 찾습니다.",
+"src": null
+},
+{
+"k": "item.oritech.resource_node_resonator",
+"en": "Resource Node Resonator",
+"jko": null,
+"ov": "자원 노드 공명기",
+"src": null
+},
+{
+"k": "message.oritech.resource_node_resonator.empty",
+"en": "No resource node resonance detected in nearby loaded chunks.",
+"jko": null,
+"ov": "주변 로드된 청크에서 자원 노드 반응이 감지되지 않았습니다.",
+"src": null
+},
+{
+"k": "message.oritech.resource_node_resonator.found",
+"en": "Resource node resonance: %s blocks away (%s horizontal), Y %s",
+"jko": null,
+"ov": "자원 노드 반응: 거리 %s블록 (수평 %s), Y %s",
+"src": null
+},
+{
+"k": "tooltip.oritech.geode_resonator",
+"en": "Locates budding amethyst in nearby loaded chunks.",
+"jko": null,
+"ov": "주변 로드된 청크에서 자수정 싹을 찾습니다.",
+"src": null
+},
+{
+"k": "item.oritech.geode_resonator",
+"en": "Geode Resonator",
+"jko": null,
+"ov": "정동석 공명기",
+"src": null
+},
+{
+"k": "tooltip.oritech.resonator.controls",
+"en": "Use: follow the saved result, or search if none is saved.",
+"jko": null,
+"ov": "사용: 저장된 탐색 결과를 따라가거나, 결과가 없으면 새로 탐색합니다.",
+"src": null
+},
+{
+"k": "tooltip.oritech.resonator.new_search",
+"en": "Sneak-use: start a new search.",
+"jko": null,
+"ov": "웅크리고 사용: 새 탐색을 시작합니다.",
+"src": null
+},
+{
+"k": "message.oritech.resonator.other_dimension",
+"en": "Saved result is in %s. Sneak-use to search here.",
+"jko": null,
+"ov": "저장된 결과는 %s 차원에 있습니다. 웅크리고 사용해 현재 차원을 탐색하세요.",
+"src": null
+},
+{
+"k": "message.oritech.resonator.searching",
+"en": "Listening for resonance...",
+"jko": null,
+"ov": "공명 신호를 찾는 중…",
+"src": null
+},
+{
+"k": "message.oritech.resonator.no_energy",
+"en": "Not enough RF. Charge the resonator first.",
+"jko": null,
+"ov": "RF가 부족합니다. 공명기를 먼저 충전하세요.",
+"src": null
+},
+{
+"k": "message.oritech.geode_resonator.empty",
+"en": "No resonance detected in nearby loaded chunks.",
+"jko": null,
+"ov": "주변 로드된 청크에서 공명 반응이 감지되지 않았습니다.",
+"src": null
+},
+{
+"k": "message.oritech.geode_resonator.found",
+"en": "Amethyst resonance: %s blocks away (%s horizontal), Y %s",
+"jko": null,
+"ov": "자수정 반응: 거리 %s블록 (수평 %s), Y %s",
+"src": null
+},
+{
+"k": "block.oritech.aluminum_resource_node",
+"en": "Aluminum Resource Node",
+"jko": null,
+"ov": "알루미늄 자원 노드",
+"src": null
+},
+{
+"k": "block.oritech.lead_resource_node",
+"en": "Lead Resource Node",
+"jko": null,
+"ov": "납 자원 노드",
+"src": null
+},
+{
+"k": "block.oritech.osmium_resource_node",
+"en": "Osmium Resource Node",
+"jko": null,
+"ov": "오스뮴 자원 노드",
+"src": null
+},
+{
+"k": "block.oritech.silver_resource_node",
+"en": "Silver Resource Node",
+"jko": null,
+"ov": "은 자원 노드",
+"src": null
+},
+{
+"k": "block.oritech.tin_resource_node",
+"en": "Tin Resource Node",
+"jko": null,
+"ov": "주석 자원 노드",
+"src": null
+},
+{
+"k": "block.oritech.zinc_resource_node",
+"en": "Zinc Resource Node",
+"jko": null,
+"ov": "아연 자원 노드",
+"src": null
+},
+{
+"k": "block.oritech.iridium_resource_node",
+"en": "Iridium Resource Node",
+"jko": null,
+"ov": "이리듐 자원 노드",
+"src": null
+},
+{
+"k": "block.oritech.tungsten_resource_node",
+"en": "Tungsten Resource Node",
+"jko": null,
+"ov": "텅스텐 자원 노드",
+"src": null
+},
+{
+"k": "block.oritech.titanium_resource_node",
+"en": "Titanium Resource Node",
+"jko": null,
+"ov": "티타늄 자원 노드",
+"src": null
+},
+{
+"k": "pack.oritech.ato_resource_nodes",
+"en": "Oritech - ATO Resource Node Compatibility",
+"jko": null,
+"ov": "Oritech - ATO 자원 노드 호환성",
+"src": null
+},
+{
+"k": "pack.oritech.ftb_resource_nodes",
+"en": "Oritech - FTB Materials Resource Node Compatibility",
+"jko": null,
+"ov": "Oritech - FTB Materials 자원 노드 호환성",
+"src": null
+},
+{
+"k": "oritech.configuration.baseEnergyUsage",
+"en": "Base Energy Usage per Trip",
+"jko": null,
+"ov": "이동당 기본 에너지 사용량",
+"src": null
+},
+{
+"k": "oritech.configuration.distanceEnergyUsage",
+"en": "Travel Distance Energy Multiplier",
+"jko": null,
+"ov": "이동 거리 에너지 배율",
+"src": null
+},
+{
+"k": "oritech.configuration.dronePortConfig",
+"en": "Drone Port",
+"jko": null,
+"ov": "드론 항구",
+"src": null
+},
+{
+"k": "oritech.configuration.interaction",
+"en": "Interaction Machines",
+"jko": null,
+"ov": "상호작용 기계",
+"src": null
+},
+{
+"k": "oritech.configuration.showOracleIndexWarning",
+"en": "Show Oracle Index Warning",
+"jko": null,
+"ov": "Oracle Index 경고 표시",
+"src": null
+}
+]

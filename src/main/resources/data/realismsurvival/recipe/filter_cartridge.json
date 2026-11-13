@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "PSP",
+    "GCG",
+    "PSP"
+  ],
+  "key": {
+    "P": "minecraft:paper",
+    "S": "minecraft:sand",
+    "G": "minecraft:gravel",
+    "C": "minecraft:charcoal"
+  },
+  "result": {
+    "id": "realismsurvival:filter_cartridge"
+  }
+}

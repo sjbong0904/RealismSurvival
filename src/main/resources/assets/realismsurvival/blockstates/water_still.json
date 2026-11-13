@@ -1,0 +1,12 @@
+{
+  "variants": {
+    "facing=north,lit=false": { "model": "realismsurvival:block/water_still" },
+    "facing=east,lit=false": { "model": "realismsurvival:block/water_still", "y": 90 },
+    "facing=south,lit=false": { "model": "realismsurvival:block/water_still", "y": 180 },
+    "facing=west,lit=false": { "model": "realismsurvival:block/water_still", "y": 270 },
+    "facing=north,lit=true": { "model": "realismsurvival:block/water_still_on" },
+    "facing=east,lit=true": { "model": "realismsurvival:block/water_still_on", "y": 90 },
+    "facing=south,lit=true": { "model": "realismsurvival:block/water_still_on", "y": 180 },
+    "facing=west,lit=true": { "model": "realismsurvival:block/water_still_on", "y": 270 }
+  }
+}

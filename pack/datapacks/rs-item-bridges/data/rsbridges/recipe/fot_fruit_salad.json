@@ -1,0 +1,11 @@
+{
+  "neoforge:conditions": [     { "type": "neoforge:mod_loaded", "modid": "fishofthieves" },
+    { "type": "neoforge:mod_loaded", "modid": "farmersdelight" } ],
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "#c:foods/fruit","#c:foods/fruit","#c:foods/fruit",
+    "#c:foods/berry","#c:foods/berry","farmersdelight:pumpkin_slice","minecraft:bowl"
+  ],
+  "result": { "id": "farmersdelight:fruit_salad" }
+}

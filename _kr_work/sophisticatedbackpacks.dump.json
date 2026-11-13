@@ -1,0 +1,1269 @@
+[
+{
+"k": "item.sophisticatedbackpacks.stack_upgrade_starter_tier_to_tier_1_conversion",
+"en": "Stack Upgrade Conversion: Starter Tier to Tier 1",
+"jko": null,
+"ov": "스택 업그레이드 전환: 스타터 계층에서 계층 1로",
+"src": "스택 업그레이드 변환: 스타터 → 1단계"
+},
+{
+"k": "item.sophisticatedbackpacks.stack_upgrade_starter_tier_to_tier_2_conversion",
+"en": "Stack Upgrade Conversion: Starter Tier to Tier 2",
+"jko": null,
+"ov": "스택 업그레이드 전환: 스타터 계층에서 계층 2로",
+"src": "스택 업그레이드 변환: 스타터 → 2단계"
+},
+{
+"k": "item.sophisticatedbackpacks.stack_upgrade_starter_tier_to_tier_3_conversion",
+"en": "Stack Upgrade Conversion: Starter Tier to Tier 3",
+"jko": null,
+"ov": "스택 업그레이드 전환: 스타터 계층에서 계층 3으로",
+"src": "스택 업그레이드 변환: 스타터 → 3단계"
+},
+{
+"k": "item.sophisticatedbackpacks.stack_upgrade_starter_tier_to_tier_4_conversion",
+"en": "Stack Upgrade Conversion: Starter Tier to Tier 4",
+"jko": null,
+"ov": "스택 업그레이드 전환: 스타터 계층에서 계층 4로",
+"src": "스택 업그레이드 변환: 스타터 → 4단계"
+},
+{
+"k": "item.sophisticatedbackpacks.stack_upgrade_tier_1_to_tier_2_conversion",
+"en": "Stack Upgrade Conversion: Tier 1 to Tier 2",
+"jko": null,
+"ov": "스택 업그레이드 전환: Tier 1에서 Tier 2로",
+"src": "스택 업그레이드 변환: 1단계 → 2단계"
+},
+{
+"k": "item.sophisticatedbackpacks.stack_upgrade_tier_1_to_tier_3_conversion",
+"en": "Stack Upgrade Conversion: Tier 1 to Tier 3",
+"jko": null,
+"ov": "스택 업그레이드 전환: Tier 1에서 Tier 3으로",
+"src": "스택 업그레이드 변환: 1단계 → 3단계"
+},
+{
+"k": "item.sophisticatedbackpacks.stack_upgrade_tier_1_to_tier_4_conversion",
+"en": "Stack Upgrade Conversion: Tier 1 to Tier 4",
+"jko": null,
+"ov": "스택 업그레이드 전환: Tier 1에서 Tier 4로",
+"src": "스택 업그레이드 변환: 1단계 → 4단계"
+},
+{
+"k": "item.sophisticatedbackpacks.stack_upgrade_tier_2_to_tier_3_conversion",
+"en": "Stack Upgrade Conversion: Tier 2 to Tier 3",
+"jko": null,
+"ov": "스택 업그레이드 전환: Tier 2에서 Tier 3으로",
+"src": "스택 업그레이드 변환: 2단계 → 3단계"
+},
+{
+"k": "item.sophisticatedbackpacks.stack_upgrade_tier_2_to_tier_4_conversion",
+"en": "Stack Upgrade Conversion: Tier 2 to Tier 4",
+"jko": null,
+"ov": "스택 업그레이드 전환: Tier 2에서 Tier 4로",
+"src": "스택 업그레이드 변환: 2단계 → 4단계"
+},
+{
+"k": "item.sophisticatedbackpacks.stack_upgrade_tier_3_to_tier_4_conversion",
+"en": "Stack Upgrade Conversion: Tier 3 to Tier 4",
+"jko": null,
+"ov": "스택 업그레이드 전환: Tier 3에서 Tier 4로",
+"src": "스택 업그레이드 변환: 3단계 → 4단계"
+},
+{
+"k": "item.sophisticatedbackpacks.mob_catcher_upgrade",
+"en": "Mob Catcher Upgrade",
+"jko": null,
+"ov": "몹 캐처 업그레이드",
+"src": "몹 포획 업그레이드"
+},
+{
+"k": "item.sophisticatedbackpacks.mob_catcher_upgrade.tooltip",
+"en": "Captures passive mobs into backpack storage slots with sneak right-click",
+"jko": null,
+"ov": "몰래 마우스 오른쪽 버튼을 클릭하여 수동적인 몹을 배낭 보관 슬롯에 포획합니다.",
+"src": "웅크린 채 우클릭으로 평화 몹을 배낭 슬롯에 포획"
+},
+{
+"k": "item.sophisticatedbackpacks.advanced_mob_catcher_upgrade",
+"en": "Advanced Mob Catcher Upgrade",
+"jko": null,
+"ov": "고급 마피아 캐처 업그레이드",
+"src": "고급 몹 포획 업그레이드"
+},
+{
+"k": "item.sophisticatedbackpacks.advanced_mob_catcher_upgrade.tooltip",
+"en": "Captures passive and hostile mobs into backpack storage slots with sneak right-click",
+"jko": null,
+"ov": "몰래 마우스 오른쪽 버튼을 클릭하여 수동적이고 적대적인 몹을 배낭 보관 슬롯에 포획합니다.",
+"src": "웅크린 채 우클릭으로 평화 및 적대 몹을 배낭 슬롯에 포획"
+},
+{
+"k": "gui.sophisticatedbackpacks.status.mob_catcher_contains_mobs",
+"en": "Release captured mobs before removing Mob Catcher Upgrade",
+"jko": null,
+"ov": "Mob Catcher 업그레이드를 제거하기 전에 포획된 몹을 풀어주세요.",
+"src": "몹 포획 업그레이드를 제거하기 전에 포획한 몹을 풀어주세요"
+},
+{
+"k": "gui.sophisticatedbackpacks.status.mob_catcher_mobs_need_advanced",
+"en": "Captured mobs require Advanced Mob Catcher Upgrade",
+"jko": null,
+"ov": "포획된 몹은 고급 몹 포획기 업그레이드가 필요합니다.",
+"src": "포획한 몹은 고급 몹 포획 업그레이드가 필요합니다"
+},
+{
+"k": "gui.sophisticatedbackpacks.status.mob_catcher_only_one_allowed",
+"en": "Only one Mob Catcher Upgrade is allowed per backpack",
+"jko": null,
+"ov": "배낭당 하나의 마피아 캐처 업그레이드만 허용됩니다.",
+"src": "배낭당 몹 포획 업그레이드는 하나만 허용됩니다"
+},
+{
+"k": "gui.sophisticatedbackpacks.status.mob_catcher_captured",
+"en": "Captured %s",
+"jko": null,
+"ov": "캡처됨 %s",
+"src": "%s 포획함"
+},
+{
+"k": "gui.sophisticatedbackpacks.status.mob_catcher_released",
+"en": "Released %s",
+"jko": null,
+"ov": "출시됨 %s",
+"src": "%s(을)를 풀었습니다"
+},
+{
+"k": "gui.sophisticatedbackpacks.status.mob_catcher_no_upgrade",
+"en": "Backpack has no Mob Catcher Upgrade",
+"jko": null,
+"ov": "배낭에는 마피아 캐처 업그레이드가 없습니다.",
+"src": "배낭에 몹 포획 업그레이드가 없습니다"
+},
+{
+"k": "gui.sophisticatedbackpacks.status.mob_catcher_invalid_entity",
+"en": "That mob cannot be captured",
+"jko": null,
+"ov": "그 몹은 잡을 수 없어",
+"src": "그 몹은 포획할 수 없습니다"
+},
+{
+"k": "gui.sophisticatedbackpacks.status.mob_catcher_players_blocked",
+"en": "Players cannot be captured",
+"jko": null,
+"ov": "플레이어를 캡처할 수 없습니다.",
+"src": "플레이어는 포획할 수 없습니다"
+},
+{
+"k": "gui.sophisticatedbackpacks.status.mob_catcher_boss_blocked",
+"en": "Bosses cannot be captured",
+"jko": null,
+"ov": "보스를 잡을 수 없습니다",
+"src": "보스는 포획할 수 없습니다"
+},
+{
+"k": "gui.sophisticatedbackpacks.status.mob_catcher_passengers_blocked",
+"en": "Mobs with passengers or vehicles cannot be captured",
+"jko": null,
+"ov": "승객이나 차량이 있는 몹은 포획할 수 없습니다.",
+"src": "승객이나 탈것이 있는 몹은 포획할 수 없습니다"
+},
+{
+"k": "gui.sophisticatedbackpacks.status.mob_catcher_blocklisted",
+"en": "That mob is blocked from capture",
+"jko": null,
+"ov": "해당 몹은 포획이 차단되었습니다",
+"src": "그 몹은 포획 금지 목록에 있습니다"
+},
+{
+"k": "gui.sophisticatedbackpacks.status.mob_catcher_not_owner",
+"en": "Only the owner can capture that mob",
+"jko": null,
+"ov": "주인만이 그 몹을 잡을 수 있습니다",
+"src": "소유자만 그 몹을 포획할 수 있습니다"
+},
+{
+"k": "gui.sophisticatedbackpacks.status.mob_catcher_inventory_blocked",
+"en": "Mobs with inventories cannot be captured",
+"jko": null,
+"ov": "인벤토리가 있는 몹은 포획할 수 없습니다.",
+"src": "인벤토리가 있는 몹은 포획할 수 없습니다"
+},
+{
+"k": "gui.sophisticatedbackpacks.status.mob_catcher_hostile_needs_advanced",
+"en": "Hostile mobs require Advanced Mob Catcher Upgrade",
+"jko": null,
+"ov": "적대적인 몹은 고급 몹 포획기 업그레이드가 필요합니다.",
+"src": "적대 몹은 고급 몹 포획 업그레이드가 필요합니다"
+},
+{
+"k": "gui.sophisticatedbackpacks.status.mob_catcher_too_large",
+"en": "Mob needs %s slots, more than this upgrade allows (%s)",
+"jko": null,
+"ov": "몹은 %s개의 슬롯이 필요합니다. 이 업그레이드가 허용하는 것보다 더 많은 것입니다(%s).",
+"src": "몹에 %s 슬롯이 필요하며, 이 업그레이드 허용량(%s)을 초과합니다"
+},
+{
+"k": "gui.sophisticatedbackpacks.status.mob_catcher_no_space",
+"en": "No empty %sx%s slot area available",
+"jko": null,
+"ov": "사용 가능한 빈 %sx%s 슬롯 영역이 없습니다.",
+"src": "비어 있는 %sx%s 슬롯 영역이 없습니다"
+},
+{
+"k": "gui.sophisticatedbackpacks.status.mob_catcher_release_failed",
+"en": "Could not release mob there",
+"jko": null,
+"ov": "그곳에서는 몹을 풀어줄 수 없습니다",
+"src": "그 위치에 몹을 풀 수 없습니다"
+},
+{
+"k": "gui.sophisticatedbackpacks.status.mob_catcher_no_release_space",
+"en": "No valid release space there",
+"jko": null,
+"ov": "유효한 릴리스 공간이 없습니다.",
+"src": "그 위치에 유효한 풀기 공간이 없습니다"
+},
+{
+"k": "gui.sophisticatedbackpacks.mob_catcher.click_to_release",
+"en": "Click to release",
+"jko": null,
+"ov": "출시하려면 클릭하세요.",
+"src": "클릭하여 풀기"
+},
+{
+"k": "gui.sophisticatedbackpacks.mob_catcher.entity_preview_failed",
+"en": "Entity preview failed to render",
+"jko": null,
+"ov": "항목 미리보기를 렌더링하지 못했습니다.",
+"src": "개체 미리보기 렌더링에 실패했습니다"
+},
+{
+"k": "gui.sophisticatedbackpacks.upgrades.buttons.refill_crafting_grid",
+"en": "Refill Crafting Grid",
+"jko": null,
+"ov": "리필 크래프팅 그리드",
+"src": "제작 격자 자동 채우기"
+},
+{
+"k": "gui.sophisticatedbackpacks.upgrades.buttons.do_not_refill_crafting_grid",
+"en": "Do Not Refill Crafting Grid",
+"jko": null,
+"ov": "제작 그리드를 다시 채우지 마세요",
+"src": "제작 격자 자동 채우기 안 함"
+},
+{
+"k": "gui.sophisticatedbackpacks.upgrades.buttons.refill_input",
+"en": "Refill Input",
+"jko": null,
+"ov": "리필 입력",
+"src": "입력 자동 채우기"
+},
+{
+"k": "gui.sophisticatedbackpacks.upgrades.buttons.do_not_refill_input",
+"en": "Do Not Refill Input",
+"jko": null,
+"ov": "입력을 다시 채우지 마십시오",
+"src": "입력 자동 채우기 안 함"
+},
+{
+"k": "commands.sophisticatedbackpacks.template.list.header",
+"en": "Template Name, Actions",
+"jko": null,
+"ov": "템플릿 이름, 작업",
+"src": "템플릿 이름, 동작"
+},
+{
+"k": "commands.sophisticatedbackpacks.template.list.give",
+"en": "Give Backpack",
+"jko": null,
+"ov": "배낭을 줘",
+"src": "배낭 지급"
+},
+{
+"k": "commands.sophisticatedbackpacks.template.list.give.tooltip",
+"en": "Click to give backpack with template: %s",
+"jko": null,
+"ov": "템플릿이 포함된 배낭을 제공하려면 클릭하세요: %s",
+"src": "클릭하여 템플릿 배낭 지급: %s"
+},
+{
+"k": "commands.sophisticatedbackpacks.template.list.delete",
+"en": "Delete Template",
+"jko": null,
+"ov": "템플릿 삭제",
+"src": "템플릿 삭제"
+},
+{
+"k": "commands.sophisticatedbackpacks.template.list.delete.tooltip",
+"en": "Click to delete template: %s",
+"jko": null,
+"ov": "템플릿을 삭제하려면 클릭하세요: %s",
+"src": "클릭하여 템플릿 삭제: %s"
+},
+{
+"k": "commands.sophisticatedbackpacks.template.list.export",
+"en": "Export Template",
+"jko": null,
+"ov": "템플릿 내보내기",
+"src": "템플릿 내보내기"
+},
+{
+"k": "commands.sophisticatedbackpacks.template.list.export.tooltip",
+"en": "Click to export template '%s' into a datapack",
+"jko": null,
+"ov": "'%s' 템플릿을 데이터팩으로 내보내려면 클릭하세요.",
+"src": "클릭하여 템플릿 '%s'을(를) 데이터 팩으로 내보내기"
+},
+{
+"k": "commands.sophisticatedbackpacks.template.backpackempty",
+"en": "Backpack is empty",
+"jko": null,
+"ov": "배낭이 비어 있습니다",
+"src": "배낭이 비어 있습니다"
+},
+{
+"k": "commands.sophisticatedbackpacks.template.create.nobackpack",
+"en": "No backpack in main hand found",
+"jko": null,
+"ov": "주요 손에 배낭이 없습니다.",
+"src": "주 손에 배낭이 없습니다"
+},
+{
+"k": "commands.sophisticatedbackpacks.template.create.alreadyexists",
+"en": "Template '%s' already exists",
+"jko": null,
+"ov": "'%s' 템플릿이 이미 존재합니다.",
+"src": "템플릿 '%s'이(가) 이미 있습니다"
+},
+{
+"k": "commands.sophisticatedbackpacks.template.create.success",
+"en": "Template '%s' created successfully",
+"jko": null,
+"ov": "'%s' 템플릿이 성공적으로 생성되었습니다.",
+"src": "템플릿 '%s'을(를) 만들었습니다"
+},
+{
+"k": "commands.sophisticatedbackpacks.template.delete.success",
+"en": "Template '%s' deleted successfully",
+"jko": null,
+"ov": "'%s' 템플릿이 삭제되었습니다.",
+"src": "템플릿 '%s'을(를) 삭제했습니다"
+},
+{
+"k": "commands.sophisticatedbackpacks.template.give.backpack.success",
+"en": "Gave backpack to %s",
+"jko": null,
+"ov": "%s에게 배낭을 주었습니다.",
+"src": "%s에게 배낭을 지급했습니다"
+},
+{
+"k": "commands.sophisticatedbackpacks.template.give.failure.notemplate",
+"en": "The template '%s' does not exist",
+"jko": null,
+"ov": "'%s' 템플릿이 존재하지 않습니다.",
+"src": "템플릿 '%s'이(가) 존재하지 않습니다"
+},
+{
+"k": "commands.sophisticatedbackpacks.template.give.failure.notpersistent",
+"en": "The template '%s' is not persistent and can not be used with the 'template give' command",
+"jko": null,
+"ov": "'%s' 템플릿은 지속성이 없으며 'template give' 명령과 함께 사용할 수 없습니다.",
+"src": "템플릿 '%s'은(는) 영구 저장되지 않아 'template give' 명령에 사용할 수 없습니다"
+},
+{
+"k": "commands.sophisticatedbackpacks.template.export.success",
+"en": "Exported template to %s",
+"jko": null,
+"ov": "템플릿을 %s(으)로 내보냈습니다.",
+"src": "템플릿을 %s(으)로 내보냈습니다"
+},
+{
+"k": "commands.sophisticatedbackpacks.template.export.failure.notemplate",
+"en": "The template '%s' does not exist",
+"jko": null,
+"ov": "'%s' 템플릿이 존재하지 않습니다.",
+"src": "템플릿 '%s'이(가) 존재하지 않습니다"
+},
+{
+"k": "commands.sophisticatedbackpacks.template.export.failure.invalid_characters",
+"en": "Template name contains invalid character(s): %s",
+"jko": null,
+"ov": "템플릿 이름에 잘못된 문자가 포함되어 있습니다: %s",
+"src": "템플릿 이름에 잘못된 문자가 있습니다: %s"
+},
+{
+"k": "commands.sophisticatedbackpacks.dynamic.templateInUse",
+"en": "The dynamic template name '%s' is currently in use",
+"jko": null,
+"ov": "동적 템플릿 이름 '%s'이(가) 현재 사용 중입니다.",
+"src": "동적 템플릿 이름 '%s'이(가) 현재 사용 중입니다"
+},
+{
+"k": "commands.sophisticatedbackpacks.dynamic.templateNotInUse",
+"en": "The dynamic template '%s' is currently not in use",
+"jko": null,
+"ov": "동적 템플릿 '%s'은(는) 현재 사용되지 않습니다.",
+"src": "동적 템플릿 '%s'은(는) 현재 사용 중이 아닙니다"
+},
+{
+"k": "commands.sophisticatedbackpacks.dynamic.begin.success",
+"en": "Successfully started a dynamic template '%s'",
+"jko": null,
+"ov": "동적 템플릿 '%s'을(를) 성공적으로 시작했습니다.",
+"src": "동적 템플릿 '%s'을(를) 시작했습니다"
+},
+{
+"k": "commands.sophisticatedbackpacks.dynamic.begin.noBaseTemplate",
+"en": "The template '%s' to base this dynamic template of does not exist",
+"jko": null,
+"ov": "이 동적 템플릿의 기반이 되는 '%s' 템플릿이 존재하지 않습니다.",
+"src": "이 동적 템플릿의 기반이 될 템플릿 '%s'이(가) 없습니다"
+},
+{
+"k": "commands.sophisticatedbackpacks.dynamic.add.delayed",
+"en": "The item '%2$s' is marked to be added to '%1$s' at the end",
+"jko": null,
+"ov": "'%2$s' 항목은 마지막 '%1$s'에 추가되도록 표시되어 있습니다.",
+"src": "아이템 '%2$s'은(는) 종료 시 '%1$s'에 추가되도록 표시되었습니다"
+},
+{
+"k": "commands.sophisticatedbackpacks.dynamic.add.success",
+"en": "Successfully added item '%2$s' to '%1$s'",
+"jko": null,
+"ov": "'%1$s'에 '%2$s' 항목을 성공적으로 추가했습니다.",
+"src": "아이템 '%2$s'을(를) '%1$s'에 추가했습니다"
+},
+{
+"k": "commands.sophisticatedbackpacks.dynamic.end.addRemainingItemsFailed",
+"en": "Not all items could be added: Remaining %d x %s",
+"jko": null,
+"ov": "일부 항목을 추가할 수 없음: 남은 항목 %d x %s",
+"src": "모든 아이템을 추가하지 못했습니다: 남음 %d x %s"
+},
+{
+"k": "commands.sophisticatedbackpacks.dynamic.end.success",
+"en": "Successfully ended the dynamic template '%s'",
+"jko": null,
+"ov": "동적 템플릿 '%s'을(를) 성공적으로 종료했습니다.",
+"src": "동적 템플릿 '%s'을(를) 종료했습니다"
+},
+{
+"k": "sophisticatedbackpacks.configuration.nerfs",
+"en": "Nerfs",
+"jko": null,
+"ov": "너프",
+"src": "너프"
+},
+{
+"k": "sophisticatedbackpacks.configuration.entityBackpackAdditions",
+"en": "Mob Backpacks",
+"jko": null,
+"ov": "몹 백팩",
+"src": "몹 배낭"
+},
+{
+"k": "sophisticatedbackpacks.configuration.inceptionUpgrade",
+"en": "Inception Upgrade",
+"jko": null,
+"ov": "인셉션 업그레이드",
+"src": "Inception 업그레이드"
+},
+{
+"k": "sophisticatedbackpacks.configuration.leatherBackpack",
+"en": "Leather Backpack",
+"jko": null,
+"ov": "가죽 백팩",
+"src": "가죽 배낭"
+},
+{
+"k": "sophisticatedbackpacks.configuration.copperBackpack",
+"en": "Copper Backpack",
+"jko": null,
+"ov": "구리 배낭",
+"src": "구리 배낭"
+},
+{
+"k": "sophisticatedbackpacks.configuration.ironBackpack",
+"en": "Iron Backpack",
+"jko": null,
+"ov": "철 배낭",
+"src": "철 배낭"
+},
+{
+"k": "sophisticatedbackpacks.configuration.goldBackpack",
+"en": "Gold Backpack",
+"jko": null,
+"ov": "골드 백팩",
+"src": "금 배낭"
+},
+{
+"k": "sophisticatedbackpacks.configuration.diamondBackpack",
+"en": "Diamond Backpack",
+"jko": null,
+"ov": "다이아몬드 백팩",
+"src": "다이아몬드 배낭"
+},
+{
+"k": "sophisticatedbackpacks.configuration.netheriteBackpack",
+"en": "Netherite Backpack",
+"jko": null,
+"ov": "네더라이트 백팩",
+"src": "네더라이트 배낭"
+},
+{
+"k": "sophisticatedbackpacks.configuration.compactingUpgrade",
+"en": "Compacting Upgrade",
+"jko": null,
+"ov": "압축 업그레이드",
+"src": "압축 업그레이드"
+},
+{
+"k": "sophisticatedbackpacks.configuration.advancedCompactingUpgrade",
+"en": "Advanced Compacting Upgrade",
+"jko": null,
+"ov": "고급 압축 업그레이드",
+"src": "고급 압축 업그레이드"
+},
+{
+"k": "sophisticatedbackpacks.configuration.depositUpgrade",
+"en": "Deposit Upgrade",
+"jko": null,
+"ov": "예금 업그레이드",
+"src": "보관 업그레이드"
+},
+{
+"k": "sophisticatedbackpacks.configuration.advancedDepositUpgrade",
+"en": "Advanced Deposit Upgrade",
+"jko": null,
+"ov": "고급 예금 업그레이드",
+"src": "고급 보관 업그레이드"
+},
+{
+"k": "sophisticatedbackpacks.configuration.feedingUpgrade",
+"en": "Feeding Upgrade",
+"jko": null,
+"ov": "먹이주기 업그레이드",
+"src": "급식 업그레이드"
+},
+{
+"k": "sophisticatedbackpacks.configuration.advancedFeedingUpgrade",
+"en": "Advanced Feeding Upgrade",
+"jko": null,
+"ov": "고급 먹이주기 업그레이드",
+"src": "고급 급식 업그레이드"
+},
+{
+"k": "sophisticatedbackpacks.configuration.filterUpgrade",
+"en": "Filter Upgrade",
+"jko": null,
+"ov": "필터 업그레이드",
+"src": "필터 업그레이드"
+},
+{
+"k": "sophisticatedbackpacks.configuration.advancedFilterUpgrade",
+"en": "Advanced Filter Upgrade",
+"jko": null,
+"ov": "고급 필터 업그레이드",
+"src": "고급 필터 업그레이드"
+},
+{
+"k": "sophisticatedbackpacks.configuration.magnetUpgrade",
+"en": "Magnet Upgrade",
+"jko": null,
+"ov": "자석 업그레이드",
+"src": "자석 업그레이드"
+},
+{
+"k": "sophisticatedbackpacks.configuration.advancedMagnetUpgrade",
+"en": "Advanced Magnet Upgrade",
+"jko": null,
+"ov": "고급 자석 업그레이드",
+"src": "고급 자석 업그레이드"
+},
+{
+"k": "sophisticatedbackpacks.configuration.pickupUpgrade",
+"en": "Pickup Upgrade",
+"jko": null,
+"ov": "픽업 업그레이드",
+"src": "줍기 업그레이드"
+},
+{
+"k": "sophisticatedbackpacks.configuration.advancedPickupUpgrade",
+"en": "Advanced Pickup Upgrade",
+"jko": null,
+"ov": "고급 픽업 업그레이드",
+"src": "고급 줍기 업그레이드"
+},
+{
+"k": "sophisticatedbackpacks.configuration.refillUpgrade",
+"en": "Refill Upgrade",
+"jko": null,
+"ov": "리필 업그레이드",
+"src": "보충 업그레이드"
+},
+{
+"k": "sophisticatedbackpacks.configuration.advancedRefillUpgrade",
+"en": "Advanced Refill Upgrade",
+"jko": null,
+"ov": "고급 리필 업그레이드",
+"src": "고급 보충 업그레이드"
+},
+{
+"k": "sophisticatedbackpacks.configuration.restockUpgrade",
+"en": "Restock Upgrade",
+"jko": null,
+"ov": "재입고 업그레이드",
+"src": "재입고 업그레이드"
+},
+{
+"k": "sophisticatedbackpacks.configuration.advancedRestockUpgrade",
+"en": "Advanced Restock Upgrade",
+"jko": null,
+"ov": "고급 재입고 업그레이드",
+"src": "고급 재입고 업그레이드"
+},
+{
+"k": "sophisticatedbackpacks.configuration.voidUpgrade",
+"en": "Void Upgrade",
+"jko": null,
+"ov": "보이드 업그레이드",
+"src": "제거 업그레이드"
+},
+{
+"k": "sophisticatedbackpacks.configuration.advancedVoidUpgrade",
+"en": "Advanced Void Upgrade",
+"jko": null,
+"ov": "고급 보이드 업그레이드",
+"src": "고급 제거 업그레이드"
+},
+{
+"k": "sophisticatedbackpacks.configuration.stackUpgrade",
+"en": "Stack Upgrade",
+"jko": null,
+"ov": "스택 업그레이드",
+"src": "스택 업그레이드"
+},
+{
+"k": "sophisticatedbackpacks.configuration.smeltingUpgrade",
+"en": "Smelting Upgrade",
+"jko": null,
+"ov": "제련 업그레이드",
+"src": "제련 업그레이드"
+},
+{
+"k": "sophisticatedbackpacks.configuration.smokingUpgrade",
+"en": "Smoking Upgrade",
+"jko": null,
+"ov": "흡연 업그레이드",
+"src": "훈연 업그레이드"
+},
+{
+"k": "sophisticatedbackpacks.configuration.blastingUpgrade",
+"en": "Blasting Upgrade",
+"jko": null,
+"ov": "발파 업그레이드",
+"src": "용광 업그레이드"
+},
+{
+"k": "sophisticatedbackpacks.configuration.autoSmeltingUpgrade",
+"en": "Auto-Smelting Upgrade",
+"jko": null,
+"ov": "자동 제련 업그레이드",
+"src": "자동 제련 업그레이드"
+},
+{
+"k": "sophisticatedbackpacks.configuration.autoSmokingUpgrade",
+"en": "Auto-Smoking Upgrade",
+"jko": null,
+"ov": "자동 흡연 업그레이드",
+"src": "자동 훈연 업그레이드"
+},
+{
+"k": "sophisticatedbackpacks.configuration.autoBlastingUpgrade",
+"en": "Auto-Blasting Upgrade",
+"jko": null,
+"ov": "자동 폭발 업그레이드",
+"src": "자동 용광 업그레이드"
+},
+{
+"k": "sophisticatedbackpacks.configuration.toolSwapperUpgrade",
+"en": "Tool Swapper Upgrade",
+"jko": null,
+"ov": "도구 교환기 업그레이드",
+"src": "도구 교체 업그레이드"
+},
+{
+"k": "sophisticatedbackpacks.configuration.tankUpgrade",
+"en": "Tank Upgrade",
+"jko": null,
+"ov": "탱크 업그레이드",
+"src": "탱크 업그레이드"
+},
+{
+"k": "sophisticatedbackpacks.configuration.batteryUpgrade",
+"en": "Battery Upgrade",
+"jko": null,
+"ov": "배터리 업그레이드",
+"src": "배터리 업그레이드"
+},
+{
+"k": "sophisticatedbackpacks.configuration.pumpUpgrade",
+"en": "Pump Upgrade",
+"jko": null,
+"ov": "펌프 업그레이드",
+"src": "펌프 업그레이드"
+},
+{
+"k": "sophisticatedbackpacks.configuration.xpPumpUpgrade",
+"en": "XP Pump Upgrade",
+"jko": null,
+"ov": "XP 펌프 업그레이드",
+"src": "경험치 펌프 업그레이드"
+},
+{
+"k": "sophisticatedbackpacks.configuration.advancedJukeboxUpgrade",
+"en": "Advanced Jukebox Upgrade",
+"jko": null,
+"ov": "고급 주크박스 업그레이드",
+"src": "고급 주크박스 업그레이드"
+},
+{
+"k": "sophisticatedbackpacks.configuration.alchemyUpgrade",
+"en": "Alchemy Upgrade",
+"jko": null,
+"ov": "연금술 업그레이드",
+"src": "연금 업그레이드"
+},
+{
+"k": "sophisticatedbackpacks.configuration.advancedAlchemyUpgrade",
+"en": "Advanced Alchemy Upgrade",
+"jko": null,
+"ov": "고급 연금술 업그레이드",
+"src": "고급 연금 업그레이드"
+},
+{
+"k": "sophisticatedbackpacks.configuration.mobCatcherUpgrade",
+"en": "Mob Catcher Upgrade",
+"jko": null,
+"ov": "몹 캐처 업그레이드",
+"src": "몹 포획 업그레이드"
+},
+{
+"k": "sophisticatedbackpacks.configuration.inventorySlotCount",
+"en": "Inventory Slots",
+"jko": null,
+"ov": "인벤토리 슬롯",
+"src": "인벤토리 슬롯"
+},
+{
+"k": "sophisticatedbackpacks.configuration.upgradeSlotCount",
+"en": "Upgrade Slots",
+"jko": null,
+"ov": "업그레이드 슬롯",
+"src": "업그레이드 슬롯"
+},
+{
+"k": "sophisticatedbackpacks.configuration.filterSlots",
+"en": "Filter Slots",
+"jko": null,
+"ov": "필터 슬롯",
+"src": "필터 슬롯"
+},
+{
+"k": "sophisticatedbackpacks.configuration.slotsInRow",
+"en": "Slots Per Row",
+"jko": null,
+"ov": "행당 슬롯",
+"src": "행당 슬롯 수"
+},
+{
+"k": "sophisticatedbackpacks.configuration.inputFilterSlots",
+"en": "Input Filter Slots",
+"jko": null,
+"ov": "입력 필터 슬롯",
+"src": "입력 필터 슬롯"
+},
+{
+"k": "sophisticatedbackpacks.configuration.inputFilterSlotsInRow",
+"en": "Input Slots Per Row",
+"jko": null,
+"ov": "행당 입력 슬롯",
+"src": "행당 입력 슬롯 수"
+},
+{
+"k": "sophisticatedbackpacks.configuration.fuelFilterSlots",
+"en": "Fuel Filter Slots",
+"jko": null,
+"ov": "연료 필터 슬롯",
+"src": "연료 필터 슬롯"
+},
+{
+"k": "sophisticatedbackpacks.configuration.fuelFilterSlotsInRow",
+"en": "Fuel Slots Per Row",
+"jko": null,
+"ov": "행당 연료 슬롯",
+"src": "행당 연료 슬롯 수"
+},
+{
+"k": "sophisticatedbackpacks.configuration.numberOfSlots",
+"en": "Disc Slots",
+"jko": null,
+"ov": "디스크 슬롯",
+"src": "디스크 슬롯"
+},
+{
+"k": "sophisticatedbackpacks.configuration.smeltingSpeedMultiplier",
+"en": "Cooking Speed",
+"jko": null,
+"ov": "요리 속도",
+"src": "조리 속도"
+},
+{
+"k": "sophisticatedbackpacks.configuration.fuelEfficiencyMultiplier",
+"en": "Fuel Efficiency",
+"jko": null,
+"ov": "연료 효율",
+"src": "연료 효율"
+},
+{
+"k": "sophisticatedbackpacks.configuration.magnetRange",
+"en": "Magnet Range",
+"jko": null,
+"ov": "자석 범위",
+"src": "자석 범위"
+},
+{
+"k": "sophisticatedbackpacks.configuration.voidAlwaysEnabled",
+"en": "Allow Direct Voiding",
+"jko": null,
+"ov": "직접 보이딩 허용",
+"src": "직접 제거 허용"
+},
+{
+"k": "sophisticatedbackpacks.configuration.nonStackableItems",
+"en": "Non-Stackable Items",
+"jko": null,
+"ov": "쌓을 수 없는 품목",
+"src": "겹칠 수 없는 아이템"
+},
+{
+"k": "sophisticatedbackpacks.configuration.maxInputOutput",
+"en": "Transfer Limit",
+"jko": null,
+"ov": "이체 한도",
+"src": "이동 한도"
+},
+{
+"k": "sophisticatedbackpacks.configuration.stackMultiplierRatio",
+"en": "Stack Upgrade Scaling",
+"jko": null,
+"ov": "스택 업그레이드 확장",
+"src": "스택 업그레이드 배율"
+},
+{
+"k": "sophisticatedbackpacks.configuration.capacityPerSlotRow",
+"en": "Tank Capacity Per Row",
+"jko": null,
+"ov": "행당 탱크 용량",
+"src": "행당 탱크 용량"
+},
+{
+"k": "sophisticatedbackpacks.configuration.autoFillDrainContainerCooldown",
+"en": "Container Fill/Drain Cooldown",
+"jko": null,
+"ov": "컨테이너 채우기/배수 쿨다운",
+"src": "용기 채우기/비우기 쿨다운"
+},
+{
+"k": "sophisticatedbackpacks.configuration.energyPerSlotRow",
+"en": "Energy Per Row",
+"jko": null,
+"ov": "행당 에너지",
+"src": "행당 에너지"
+},
+{
+"k": "sophisticatedbackpacks.configuration.basicMaxSlotCost",
+"en": "Basic Max Slot Cost",
+"jko": null,
+"ov": "기본 최대 슬롯 비용",
+"src": "기본 최대 슬롯 비용"
+},
+{
+"k": "sophisticatedbackpacks.configuration.advancedMaxSlotCost",
+"en": "Advanced Max Slot Cost",
+"jko": null,
+"ov": "고급 최대 슬롯 비용",
+"src": "고급 최대 슬롯 비용"
+},
+{
+"k": "sophisticatedbackpacks.configuration.animalMultiplier",
+"en": "Animal Slot Cost Multiplier",
+"jko": null,
+"ov": "동물 슬롯 비용 승수",
+"src": "동물 슬롯 비용 배율"
+},
+{
+"k": "sophisticatedbackpacks.configuration.hostileMultiplier",
+"en": "Hostile Slot Cost Multiplier",
+"jko": null,
+"ov": "적대적인 슬롯 비용 승수",
+"src": "적대 몹 슬롯 비용 배율"
+},
+{
+"k": "sophisticatedbackpacks.configuration.disallowInventoryEntities",
+"en": "Block Mobs With Inventories",
+"jko": null,
+"ov": "인벤토리로 몹을 차단하세요",
+"src": "인벤토리 몹 차단"
+},
+{
+"k": "sophisticatedbackpacks.configuration.entityBlockList",
+"en": "Blocked Entity Types",
+"jko": null,
+"ov": "차단된 엔터티 유형",
+"src": "차단 개체 유형"
+},
+{
+"k": "sophisticatedbackpacks.configuration.hostileOverrides",
+"en": "Hostile Entity Overrides",
+"jko": null,
+"ov": "적대적 존재 무시",
+"src": "적대 개체 예외"
+},
+{
+"k": "sophisticatedbackpacks.configuration.passiveOverrides",
+"en": "Passive Entity Overrides",
+"jko": null,
+"ov": "수동적 엔터티 재정의",
+"src": "평화 개체 예외"
+},
+{
+"k": "sophisticatedbackpacks.configuration.mendingOn",
+"en": "Enable Mending",
+"jko": null,
+"ov": "수선 활성화",
+"src": "수선 활성화"
+},
+{
+"k": "sophisticatedbackpacks.configuration.maxXpPointsPerMending",
+"en": "Max XP Per Mend",
+"jko": null,
+"ov": "치료당 최대 XP",
+"src": "수선당 최대 경험치"
+},
+{
+"k": "sophisticatedbackpacks.configuration.chance",
+"en": "Spawn Chance",
+"jko": null,
+"ov": "스폰 확률",
+"src": "생성 확률"
+},
+{
+"k": "sophisticatedbackpacks.configuration.addLoot",
+"en": "Add Loot",
+"jko": null,
+"ov": "전리품 추가",
+"src": "전리품 추가"
+},
+{
+"k": "sophisticatedbackpacks.configuration.buffWithPotionEffects",
+"en": "Buff With Effects",
+"jko": null,
+"ov": "버프 효과",
+"src": "효과로 강화"
+},
+{
+"k": "sophisticatedbackpacks.configuration.buffHealth",
+"en": "Buff Health",
+"jko": null,
+"ov": "버프 건강",
+"src": "체력 강화"
+},
+{
+"k": "sophisticatedbackpacks.configuration.equipWithArmor",
+"en": "Equip Armor",
+"jko": null,
+"ov": "방어구 장착",
+"src": "갑옷 장착"
+},
+{
+"k": "sophisticatedbackpacks.configuration.entityLootTableList",
+"en": "Entity Loot Tables",
+"jko": null,
+"ov": "엔터티 전리품 테이블",
+"src": "개체 전리품표"
+},
+{
+"k": "sophisticatedbackpacks.configuration.entityLootTableList.tooltip",
+"en": "Format: entity_id|loot_table_id_or_null\nExample: minecraft:zombie|minecraft:chests/simple_dungeon",
+"jko": null,
+"ov": "형식: 엔터티_id|loot_table_id_or_null\n예: 마인크래프트:좀비|minecraft:chests/simple_dungeon",
+"src": "형식: entity_id|loot_table_id_or_null\n예: minecraft:zombie|minecraft:chests/simple_dungeon"
+},
+{
+"k": "sophisticatedbackpacks.configuration.discBlockList",
+"en": "Blocked Music Discs",
+"jko": null,
+"ov": "차단된 음악 디스크",
+"src": "차단 음반"
+},
+{
+"k": "sophisticatedbackpacks.configuration.discBlockList.tooltip",
+"en": "Format: item_id\nExample: minecraft:music_disc_13",
+"jko": null,
+"ov": "형식: item_id\n예: 마인크래프트:music_disc_13",
+"src": "형식: item_id\n예: minecraft:music_disc_13"
+},
+{
+"k": "sophisticatedbackpacks.configuration.playJukebox",
+"en": "Play Jukebox",
+"jko": null,
+"ov": "주크박스 재생",
+"src": "주크박스 재생"
+},
+{
+"k": "sophisticatedbackpacks.configuration.dropToFakePlayers",
+"en": "Allow Fake Player Drops",
+"jko": null,
+"ov": "가짜 플레이어 드롭 허용",
+"src": "가짜 플레이어 드롭 허용"
+},
+{
+"k": "sophisticatedbackpacks.configuration.backpackDropChance",
+"en": "Drop Chance",
+"jko": null,
+"ov": "드롭 확률",
+"src": "드롭 확률"
+},
+{
+"k": "sophisticatedbackpacks.configuration.lootingChanceIncreasePerLevel",
+"en": "Looting Bonus",
+"jko": null,
+"ov": "약탈 보너스",
+"src": "약탈 보너스"
+},
+{
+"k": "sophisticatedbackpacks.configuration.leatherWeight",
+"en": "Leather Weight",
+"jko": null,
+"ov": "가죽 무게",
+"src": "가죽 가중치"
+},
+{
+"k": "sophisticatedbackpacks.configuration.copperWeight",
+"en": "Copper Weight",
+"jko": null,
+"ov": "구리 무게",
+"src": "구리 가중치"
+},
+{
+"k": "sophisticatedbackpacks.configuration.ironWeight",
+"en": "Iron Weight",
+"jko": null,
+"ov": "철 무게",
+"src": "철 가중치"
+},
+{
+"k": "sophisticatedbackpacks.configuration.goldWeight",
+"en": "Gold Weight",
+"jko": null,
+"ov": "금 무게",
+"src": "금 가중치"
+},
+{
+"k": "sophisticatedbackpacks.configuration.diamondWeight",
+"en": "Diamond Weight",
+"jko": null,
+"ov": "다이아몬드 무게",
+"src": "다이아몬드 가중치"
+},
+{
+"k": "sophisticatedbackpacks.configuration.netheriteWeight",
+"en": "Netherite Weight",
+"jko": null,
+"ov": "네더라이트 무게",
+"src": "네더라이트 가중치"
+},
+{
+"k": "sophisticatedbackpacks.configuration.minBackpackTierMidDifficulty",
+"en": "Min Tier at Mid Difficulty",
+"jko": null,
+"ov": "중간 난이도의 최소 티어",
+"src": "중간 난이도 최소 등급"
+},
+{
+"k": "sophisticatedbackpacks.configuration.minBackpackTierHighDifficulty",
+"en": "Min Tier at High Difficulty",
+"jko": null,
+"ov": "높은 난이도의 최소 티어",
+"src": "높은 난이도 최소 등급"
+},
+{
+"k": "sophisticatedbackpacks.configuration.localDifficultyEffectsBackpackSpawns",
+"en": "Use Local Difficulty",
+"jko": null,
+"ov": "지역 난이도 사용",
+"src": "지역 난이도 사용"
+},
+{
+"k": "sophisticatedbackpacks.configuration.tooManyBackpacksSlowness",
+"en": "Too Many Backpacks Slow Players",
+"jko": null,
+"ov": "배낭이 너무 많아 플레이어가 느림",
+"src": "배낭 과다 시 느려짐"
+},
+{
+"k": "sophisticatedbackpacks.configuration.maxNumberOfBackpacks",
+"en": "Max Backpacks Before Nerf",
+"jko": null,
+"ov": "너프 전의 맥스 백팩",
+"src": "너프 전 최대 배낭 수"
+},
+{
+"k": "sophisticatedbackpacks.configuration.slownessLevelsPerAdditionalBackpack",
+"en": "Slowness Per Extra Backpack",
+"jko": null,
+"ov": "추가 배낭당 속도 저하",
+"src": "추가 배낭당 느려짐 단계"
+},
+{
+"k": "sophisticatedbackpacks.configuration.onlyWornBackpackTriggersUpgrades",
+"en": "Only Worn Backpack Runs Upgrades",
+"jko": null,
+"ov": "낡은 배낭만이 업그레이드를 실행합니다.",
+"src": "착용 배낭만 업그레이드 실행"
+},
+{
+"k": "sophisticatedbackpacks.configuration.nerfEffect",
+"en": "Nerf Effect",
+"jko": null,
+"ov": "너프 효과",
+"src": "너프 효과"
+},
+{
+"k": "sophisticatedbackpacks.configuration.upgradesUseInventoriesOfBackpacksInBackpack",
+"en": "Use Nested Backpack Inventories",
+"jko": null,
+"ov": "중첩된 배낭 인벤토리 사용",
+"src": "중첩 배낭 인벤토리 사용"
+},
+{
+"k": "sophisticatedbackpacks.configuration.upgradesInContainedBackpacksAreFunctional",
+"en": "Nested Backpack Upgrades Work",
+"jko": null,
+"ov": "중첩된 백팩 업그레이드 작업",
+"src": "중첩 배낭 업그레이드 작동"
+},
+{
+"k": "sophisticatedbackpacks.configuration.noInteractionBlocks",
+"en": "No-Interaction Blocks",
+"jko": null,
+"ov": "상호작용 없는 블록",
+"src": "상호작용 불가 블록"
+},
+{
+"k": "sophisticatedbackpacks.configuration.noInteractionBlocks.tooltip",
+"en": "Format: block_id\nExample: minecraft:shulker_box",
+"jko": null,
+"ov": "형식: block_id\n예: 마인크래프트:shulker_box",
+"src": "형식: block_id\n예: minecraft:shulker_box"
+},
+{
+"k": "sophisticatedbackpacks.configuration.noConnectionBlocks",
+"en": "No-Connection Blocks",
+"jko": null,
+"ov": "비연결 블록",
+"src": "연결 불가 블록"
+},
+{
+"k": "sophisticatedbackpacks.configuration.noConnectionBlocks.tooltip",
+"en": "Format: block_id\nExample: refinedstorage:external_storage",
+"jko": null,
+"ov": "형식: block_id\n예: 세련된 저장소:external_storage",
+"src": "형식: block_id\n예: refinedstorage:external_storage"
+},
+{
+"k": "sophisticatedbackpacks.configuration.allBlockConnectionsDisallowed",
+"en": "Block All Connections",
+"jko": null,
+"ov": "모든 연결 차단",
+"src": "모든 연결 차단"
+},
+{
+"k": "sophisticatedbackpacks.configuration.disallowedItems",
+"en": "Disallowed Items",
+"jko": null,
+"ov": "허용되지 않는 품목",
+"src": "금지 아이템"
+},
+{
+"k": "sophisticatedbackpacks.configuration.disallowedItems.tooltip",
+"en": "Format: item_id\nExample: minecraft:shulker_box",
+"jko": null,
+"ov": "형식: item_id\n예: 마인크래프트:shulker_box",
+"src": "형식: item_id\n예: minecraft:shulker_box"
+},
+{
+"k": "sophisticatedbackpacks.configuration.containerItemsDisallowed",
+"en": "Disallow Container Items",
+"jko": null,
+"ov": "컨테이너 항목 허용 안 함",
+"src": "용기 아이템 금지"
+},
+{
+"k": "sophisticatedbackpacks.configuration.maxUpgradesPerStorage",
+"en": "Upgrade Limits",
+"jko": null,
+"ov": "업그레이드 제한",
+"src": "업그레이드 제한"
+},
+{
+"k": "sophisticatedbackpacks.configuration.maxUpgradesPerStorage.tooltip",
+"en": "Format: upgrade_or_group|max_number\nExample: stack_upgrades|3",
+"jko": null,
+"ov": "형식: 업그레이드_또는_그룹|최대_번호\n예: stack_upgrades|3",
+"src": "형식: upgrade_or_group|max_number\n예: stack_upgrades|3"
+},
+{
+"k": "sophisticatedbackpacks.configuration.itemFluidHandlerEnabled",
+"en": "Enable Fluid Handling In Item Form",
+"jko": null,
+"ov": "항목 양식에서 유체 처리 활성화",
+"src": "아이템 형태 유체 처리 활성화"
+},
+{
+"k": "sophisticatedbackpacks.configuration.allowOpeningOtherPlayerBackpacks",
+"en": "Allow Opening Other Players' Backpacks",
+"jko": null,
+"ov": "다른 플레이어의 배낭 열기 허용",
+"src": "다른 플레이어 배낭 열기 허용"
+},
+{
+"k": "sophisticatedbackpacks.configuration.itemDisplayDisabled",
+"en": "Disable Item Display",
+"jko": null,
+"ov": "아이템 표시 비활성화",
+"src": "아이템 표시 비활성화"
+},
+{
+"k": "sophisticatedbackpacks.configuration.tickDedupeLogicDisabled",
+"en": "Disable Duplicate Protection",
+"jko": null,
+"ov": "중복 방지 비활성화",
+"src": "중복 방지 비활성화"
+},
+{
+"k": "sophisticatedbackpacks.configuration.canBePlacedInContainerItems",
+"en": "Can Go In Container Items",
+"jko": null,
+"ov": "컨테이너 품목에 들어갈 수 있음",
+"src": "용기 아이템에 넣을 수 있음"
+},
+{
+"k": "sophisticatedbackpacks.configuration.chestLootEnabled",
+"en": "Chest Loot Enabled",
+"jko": null,
+"ov": "상자 전리품 활성화됨",
+"src": "상자 전리품 활성화"
+}
+]

@@ -1,0 +1,31 @@
+{
+	"id": "supply_post",
+	"displayName": "계절 공급소 · 봄",
+	"currency": "coins",
+	"entries": [
+		{
+			"type": "BUY",
+			"item": { "item": "minecraft:torch", "count": 16 },
+			"currency": "coins",
+			"price": 3.0,
+			"playerLimit": 4,
+			"playerLimitPeriod": "DAILY"
+		},
+		{
+			"type": "BUY",
+			"item": { "item": "minecraft:wheat_seeds", "count": 8 },
+			"currency": "coins",
+			"price": 3.0,
+			"playerLimit": 5,
+			"playerLimitPeriod": "DAILY"
+		},
+		{
+			"type": "SELL",
+			"item": { "item": "minecraft:wheat", "count": 16 },
+			"currency": "coins",
+			"price": 4.0,
+			"playerLimit": 6,
+			"playerLimitPeriod": "DAILY"
+		}
+	]
+}

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:function",
+  "environment": "minecraft:default",
+  "function": "realismsurvival:distilled_no_infinite_source",
+  "structure": "minecraft:empty",
+  "max_ticks": 80,
+  "setup_ticks": 1,
+  "required": true
+}

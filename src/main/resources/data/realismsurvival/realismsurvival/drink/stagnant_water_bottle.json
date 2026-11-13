@@ -1,0 +1,6 @@
+{
+  "items": "realismsurvival:stagnant_water_bottle",
+  "thirst_restore": 20.0,
+  "temperature_delta": -0.2,
+  "priority": 10
+}

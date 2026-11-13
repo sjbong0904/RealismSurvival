@@ -1,0 +1,7 @@
+{
+  "neoforge:conditions": [     { "type": "neoforge:mod_loaded", "modid": "aquaculture" } ],
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": ["aquaculture:algae"],
+  "result": { "id": "minecraft:green_dye" }
+}

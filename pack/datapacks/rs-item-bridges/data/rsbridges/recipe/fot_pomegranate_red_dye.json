@@ -1,0 +1,7 @@
+{
+  "neoforge:conditions": [     { "type": "neoforge:mod_loaded", "modid": "fishofthieves" } ],
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": ["fishofthieves:pomegranate"],
+  "result": { "count": 2, "id": "minecraft:red_dye" }
+}

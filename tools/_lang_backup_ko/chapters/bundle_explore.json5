@@ -1,0 +1,23 @@
+{
+	"quest.0F0C71338B6C298E.title": "탐험 방",
+	"quest.0F0C71338B6C298E.quest_desc": [
+		"유적과 네더, 낯선 땅을 다녀왔는지 확인하는 번들입니다.",
+		"체크하면 이어집니다."
+	],
+	"quest.5AC2BFEA6A3DD6A1.title": "전리품 숙련",
+	"quest.5AC2BFEA6A3DD6A1.quest_desc": [
+		"특수 상자를 여러 번 열어 보세요."
+	],
+	"quest.470D82FD8391F1FA.title": "네더 상자",
+	"quest.470D82FD8391F1FA.quest_desc": [
+		"네더에 들어가 본 적이 있어야 합니다."
+	],
+	"quest.3981105A1DF114D3.title": "이색 바이옴",
+	"quest.3981105A1DF114D3.quest_desc": [
+		"평소와 다른 풍경의 땅을 여러 곳 다녀 보세요."
+	],
+	"quest.7C249AEBB80FEE8C.title": "★ 탐험 인장",
+	"quest.7C249AEBB80FEE8C.quest_desc": [
+		"본편 퀘스트를 모두 완료해야 합니다."
+	]
+}

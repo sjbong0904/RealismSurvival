@@ -1,0 +1,32 @@
+license="All Rights Reserved"
+
+[[mods]]
+modId="rsapisample"
+version="0.1.0"
+displayName="RS API Sample"
+authors="RealismSurvival examples"
+description='''
+Example addon for Realism Survival public API (mineral water grade).
+Not a content mod — see docs/ADDON_API.md.
+'''
+
+[[dependencies.rsapisample]]
+    modId="neoforge"
+    type="required"
+    versionRange="[26.1,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.rsapisample]]
+    modId="minecraft"
+    type="required"
+    versionRange="[26.1,26.2)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.rsapisample]]
+    modId="realismsurvival"
+    type="required"
+    versionRange="[0.1.0,)"
+    ordering="AFTER"
+    side="BOTH"

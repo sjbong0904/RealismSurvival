@@ -1,0 +1,7 @@
+{
+  "size": 3,
+  "order": 60,
+  "icon": "curios:slot/empty_belt_slot",
+  "add_cosmetic": false,
+  "use_native_gui": true
+}

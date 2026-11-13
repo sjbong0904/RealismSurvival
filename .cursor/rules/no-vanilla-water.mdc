@@ -1,0 +1,22 @@
+---
+description: Open liquid cells must never be vanilla water; always graded water + QUALITY.
+alwaysApply: true
+---
+
+# No vanilla open water
+
+**Invariant:** In this mod, **no gameplay path may leave `minecraft:water` / `Fluids.WATER` as an open liquid cell** (`Blocks.WATER`). World water is always shared `graded_water` + `QUALITY`.
+
+## Do
+
+- Convert or place graded water (`VanillaWaterConverter`, buckets, freeze/melt, dispensers, ice break).
+- If vanilla places water momentarily, rewrite **in the same call stack** before returning (do not rely only on a later tick).
+- Waterlogged blocks are a vanilla engine exception (fluid type stays `Fluids.WATER`); treat grade by biome for drink/farmland — do not invent a second waterlogged fluid.
+
+## Do not
+
+- Call `IceBlock.meltsInto()` / leave melt→`Blocks.WATER` without immediate graded rewrite.
+- Add features that spawn or keep open `Blocks.WATER` “for simplicity”.
+- Cancel `ConvertVanillaWaterEvent` in core code paths that would skip conversion of open water.
+
+When unsure, prefer converting to biome-classified graded water over leaving vanilla water.

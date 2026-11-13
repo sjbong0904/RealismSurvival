@@ -1,0 +1,6 @@
+{
+  "seasons": ["spring", "autumn"],
+  "crops": ["minecraft:wheat", "minecraft:beetroots"],
+  "growth_multiplier": 1.25,
+  "priority": 10
+}

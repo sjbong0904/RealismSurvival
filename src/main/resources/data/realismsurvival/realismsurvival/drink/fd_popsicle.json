@@ -1,0 +1,14 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "farmersdelight"
+    }
+  ],
+  "items": [
+    "farmersdelight:melon_popsicle"
+  ],
+  "thirst_restore": 10.0,
+  "temperature_delta": -0.5,
+  "priority": 5
+}

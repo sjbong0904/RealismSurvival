@@ -1,0 +1,6 @@
+{
+  "seasons": ["summer"],
+  "crops": ["minecraft:melon_stem", "minecraft:pumpkin_stem", "minecraft:attached_melon_stem", "minecraft:attached_pumpkin_stem"],
+  "growth_multiplier": 1.35,
+  "priority": 10
+}

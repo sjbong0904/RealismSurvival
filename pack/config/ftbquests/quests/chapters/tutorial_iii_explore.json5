@@ -1,0 +1,808 @@
+{
+	"default_hide_dependency_lines": false,
+	"default_quest_shape": "circle",
+	"filename": "tutorial_iii_explore",
+	"group": "6F3FA9FF9CB3BA4B",
+	"icon": {
+		"id": "naturescompass:naturescompass",
+		"count": 1
+	},
+	"id": "1D7F0D8BEE5528AF",
+	"order_index": 3,
+	"quest_links": [],
+	"quests": [
+		{
+			"id": "5167F344C123487C",
+			"x": 0.0,
+			"y": -0.8,
+			"tasks": [
+				{
+					"id": "3AAFF608ECCCD71B",
+					"item": {
+						"id": "naturescompass:naturescompass",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "naturescompass:naturescompass",
+				"count": 1
+			}
+		},
+		{
+			"id": "71BFF5F365177C73",
+			"dependencies": [
+				"5167F344C123487C"
+			],
+			"x": 1.6,
+			"y": -0.8,
+			"tasks": [
+				{
+					"id": "539C6704875E8B69",
+					"biome": "biomesoplenty:lavender_field",
+					"type": "biome"
+				},
+				{
+					"id": "515178848C1F3C61",
+					"biome": "biomesoplenty:bayou",
+					"type": "biome"
+				},
+				{
+					"id": "22F57FBCA58DCB51",
+					"biome": "biomesoplenty:jade_cliffs",
+					"type": "biome"
+				}
+			],
+			"rewards": [
+				{
+					"id": "7CE2A34D25EF5259",
+					"count": 16,
+					"item": {
+						"id": "minecraft:torch",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:torch",
+				"count": 1
+			}
+		},
+		{
+			"id": "032321EBBFC97189",
+			"dependencies": [
+				"71BFF5F365177C73"
+			],
+			"x": 3.2,
+			"y": -0.8,
+			"tasks": [
+				{
+					"id": "5F70B021B3B8A6CC",
+					"item": {
+						"id": "biomesoplenty:rose_quartz_chunk",
+						"count": 1
+					},
+					"type": "item"
+				},
+				{
+					"id": "53582E8A3722965A",
+					"item": {
+						"id": "biomesoplenty:reed",
+						"count": 1
+					},
+					"type": "item"
+				},
+				{
+					"id": "16F5E2A0B30EAB34",
+					"item": {
+						"id": "biomesoplenty:cattail",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "biomesoplenty:rose_quartz_chunk",
+				"count": 1
+			}
+		},
+		{
+			"id": "39993AD2103A9112",
+			"dependencies": [
+				"71BFF5F365177C73"
+			],
+			"x": 3.2,
+			"y": 0.8,
+			"tasks": [
+				{
+					"id": "02C7CCDAA1E6F0B7",
+					"type": "checkmark"
+				}
+			]
+		},
+		{
+			"id": "6CB05A3BF43CDCD6",
+			"dependencies": [
+				"39993AD2103A9112"
+			],
+			"x": 4.8,
+			"y": -1.6,
+			"tasks": [
+				{
+					"id": "4A8CA88DF518F13B",
+					"item": {
+						"id": "waystones:andesite_waystone",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "waystones:andesite_waystone",
+				"count": 1
+			}
+		},
+		{
+			"id": "2F46A0D92C629072",
+			"dependencies": [
+				"6CB05A3BF43CDCD6"
+			],
+			"x": 6.4,
+			"y": -2.4,
+			"tasks": [
+				{
+					"id": "37F33527F7D13222",
+					"type": "checkmark"
+				}
+			]
+		},
+		{
+			"id": "1CE0FFC0207B6809",
+			"dependencies": [
+				"2F46A0D92C629072"
+			],
+			"x": 9.6,
+			"y": -2.4,
+			"tasks": [
+				{
+					"id": "6FA5974023628857",
+					"item": {
+						"id": "waystones:return_scroll",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "waystones:return_scroll",
+				"count": 1
+			}
+		},
+		{
+			"id": "207E73D71111E0DB",
+			"dependencies": [
+				"1CE0FFC0207B6809"
+			],
+			"x": 12.8,
+			"y": -1.6,
+			"tasks": [
+				{
+					"id": "5962C62A47448A37",
+					"type": "checkmark"
+				}
+			],
+			"rewards": [
+				{
+					"id": "6EC486AA9F88AE8D",
+					"count": 2,
+					"item": {
+						"id": "waystones:return_scroll",
+						"count": 1
+					},
+					"type": "item"
+				},
+				{
+					"id": "6800712C7EB56F50",
+					"command": "/realism coins give @p 80",
+					"permission_level": 2,
+					"silent": true,
+					"type": "command"
+				}
+			],
+			"icon": {
+				"id": "waystones:return_scroll",
+				"count": 1
+			}
+		},
+		{
+			"id": "6193F5CFFF8B487E",
+			"dependencies": [
+				"207E73D71111E0DB"
+			],
+			"x": 14.65,
+			"y": -1.85,
+			"tasks": [
+				{
+					"id": "0074AA7225F2513D",
+					"type": "checkmark"
+				}
+			]
+		},
+		{
+			"id": "74FE5571BF67DA44",
+			"dependencies": [
+				"5A8027D0B2281BAE"
+			],
+			"x": 0.0,
+			"y": 0.8,
+			"tasks": [
+				{
+					"id": "2DE24A410DB09228",
+					"advancement": "minecraft:husbandry/tame_an_animal",
+					"criterion": "",
+					"type": "advancement"
+				}
+			],
+			"rewards": [
+				{
+					"id": "2DD3A42825F2AE2D",
+					"count": 8,
+					"item": {
+						"id": "minecraft:bone",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:bone",
+				"count": 1
+			}
+		},
+		{
+			"id": "513164D21D4B9B6F",
+			"dependencies": [
+				"74FE5571BF67DA44"
+			],
+			"x": 1.6,
+			"y": 0.8,
+			"tasks": [
+				{
+					"id": "063493FA4509217D",
+					"item": {
+						"id": "pet_home:pet_bed_red",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "pet_home:pet_bed_red",
+				"count": 1
+			}
+		},
+		{
+			"id": "746E20A35BEC29CB",
+			"dependencies": [
+				"513164D21D4B9B6F",
+				"2F46A0D92C629072"
+			],
+			"x": 9.6,
+			"y": -0.8,
+			"tasks": [
+				{
+					"id": "1E85D1E459C3B6D2",
+					"type": "checkmark"
+				}
+			]
+		},
+		{
+			"id": "5DBBA87F14A88282",
+			"dependencies": [
+				"39993AD2103A9112"
+			],
+			"x": 4.8,
+			"y": 0.0,
+			"tasks": [
+				{
+					"id": "211884CC19A25689",
+					"type": "checkmark"
+				}
+			]
+		},
+		{
+			"id": "7AC42E21B9E9A1B2",
+			"dependencies": [
+				"5DBBA87F14A88282"
+			],
+			"x": 6.4,
+			"y": -0.8,
+			"tasks": [
+				{
+					"id": "01BB17331F104B45",
+					"type": "checkmark"
+				}
+			]
+		},
+		{
+			"id": "1278F1E74DEE0190",
+			"dependencies": [
+				"5DBBA87F14A88282"
+			],
+			"x": 6.4,
+			"y": 0.8,
+			"tasks": [
+				{
+					"id": "50AC365BD32738D2",
+					"type": "checkmark"
+				}
+			]
+		},
+		{
+			"id": "299283C9FF1EB120",
+			"dependencies": [
+				"5DBBA87F14A88282"
+			],
+			"x": 6.4,
+			"y": 2.4,
+			"tasks": [
+				{
+					"id": "60984109FC2C21A9",
+					"advancement": "lootr:1chest",
+					"criterion": "",
+					"type": "advancement"
+				}
+			],
+			"rewards": [
+				{
+					"id": "46C530420CAD91F8",
+					"count": 3,
+					"item": {
+						"id": "minecraft:gold_ingot",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:gold_ingot",
+				"count": 1
+			}
+		},
+		{
+			"id": "09D2B94CB12147AA",
+			"dependencies": [
+				"299283C9FF1EB120"
+			],
+			"x": 9.6,
+			"y": 0.8,
+			"tasks": [
+				{
+					"id": "29D98A2ACF4C825C",
+					"advancement": "lootr:10loot",
+					"criterion": "",
+					"type": "advancement"
+				}
+			],
+			"rewards": [
+				{
+					"id": "7C96111F0DCF72AA",
+					"count": 5,
+					"item": {
+						"id": "minecraft:gold_ingot",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:gold_ingot",
+				"count": 1
+			}
+		},
+		{
+			"id": "7C0137AA30C21551",
+			"dependencies": [
+				"5DBBA87F14A88282"
+			],
+			"x": 8.0,
+			"y": -1.6,
+			"tasks": [
+				{
+					"id": "61F2F89175FB7045",
+					"advancement": "minecraft:adventure/trade",
+					"criterion": "",
+					"type": "advancement"
+				}
+			]
+		},
+		{
+			"id": "4C9DEC0FF6A130FA",
+			"dependencies": [
+				"7C0137AA30C21551"
+			],
+			"optional": true,
+			"x": 9.6,
+			"y": 2.4,
+			"tasks": [
+				{
+					"id": "25C3691D40021413",
+					"type": "checkmark"
+				}
+			]
+		},
+		{
+			"id": "2533847A36507995",
+			"dependencies": [
+				"4C9DEC0FF6A130FA"
+			],
+			"optional": true,
+			"x": 12.8,
+			"y": 0.0,
+			"tasks": [
+				{
+					"id": "52FF16E8B2AD0901",
+					"type": "checkmark"
+				}
+			]
+		},
+		{
+			"id": "5CB3FC25296FDC94",
+			"dependencies": [
+				"2533847A36507995"
+			],
+			"optional": true,
+			"x": 14.65,
+			"y": -0.25,
+			"tasks": [
+				{
+					"id": "52DDDA36663028FB",
+					"type": "checkmark"
+				}
+			],
+			"rewards": [
+				{
+					"id": "5E5CAF18472234EE",
+					"item": {
+						"id": "realismsurvival:filter_cartridge",
+						"count": 1
+					},
+					"type": "item"
+				},
+				{
+					"id": "01533C8F6575A476",
+					"command": "/realism coins give @p 100",
+					"permission_level": 2,
+					"silent": true,
+					"type": "command"
+				}
+			],
+			"icon": {
+				"id": "realismsurvival:filter_cartridge",
+				"count": 1
+			}
+		},
+		{
+			"id": "4007029A92F83FB0",
+			"dependencies": [
+				"5CB3FC25296FDC94"
+			],
+			"optional": true,
+			"x": 16.5,
+			"y": 0.0,
+			"tasks": [
+				{
+					"id": "3F44F2AE9EEC805E",
+					"type": "checkmark"
+				}
+			],
+			"rewards": [
+				{
+					"id": "3FF7F7440893E262",
+					"count": 8,
+					"item": {
+						"id": "minecraft:torch",
+						"count": 1
+					},
+					"type": "item"
+				},
+				{
+					"id": "3371393863D4DE43",
+					"command": "/realism coins give @p 50",
+					"permission_level": 2,
+					"silent": true,
+					"type": "command"
+				}
+			],
+			"icon": {
+				"id": "minecraft:torch",
+				"count": 1
+			}
+		},
+		{
+			"id": "5B4FF6BF353942BF",
+			"dependencies": [
+				"4007029A92F83FB0",
+				"038169815CCF4476"
+			],
+			"optional": true,
+			"x": 18.1,
+			"y": 0.0,
+			"tasks": [
+				{
+					"id": "33219E7546D9E966",
+					"type": "checkmark"
+				}
+			],
+			"rewards": [
+				{
+					"id": "3CF4DCB40B18C406",
+					"count": 4,
+					"item": {
+						"id": "minecraft:bone_meal",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:bone_meal",
+				"count": 1
+			}
+		},
+		{
+			"id": "027990763ED7073B",
+			"dependencies": [
+				"032321EBBFC97189"
+			],
+			"optional": true,
+			"x": 4.8,
+			"y": 1.6,
+			"tasks": [
+				{
+					"id": "1DA4CD13481C88B5",
+					"item": {
+						"id": "oritech:pulverizer",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "oritech:pulverizer",
+				"count": 1
+			}
+		},
+		{
+			"id": "4360B9734E01BD64",
+			"dependencies": [
+				"027990763ED7073B"
+			],
+			"optional": true,
+			"x": 8.0,
+			"y": 0.0,
+			"tasks": [
+				{
+					"id": "29E97118BEED1A45",
+					"count": 6,
+					"item": {
+						"id": "oritech:energy_pipe",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "oritech:energy_pipe",
+				"count": 1
+			}
+		},
+		{
+			"id": "5482E963E7E6F16A",
+			"dependencies": [
+				"4360B9734E01BD64"
+			],
+			"optional": true,
+			"x": 11.2,
+			"y": -2.4,
+			"tasks": [
+				{
+					"id": "4A0DE6354F50A987",
+					"item": {
+						"id": "oritech:iron_dust",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "oritech:iron_dust",
+				"count": 1
+			}
+		},
+		{
+			"id": "03F636E36DC31892",
+			"dependencies": [
+				"5DBBA87F14A88282"
+			],
+			"x": 8.0,
+			"y": 1.6,
+			"tasks": [
+				{
+					"id": "55DE68766F7DAC5E",
+					"item": {
+						"id": "rsmedicine:antidote",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "rsmedicine:antidote",
+				"count": 1
+			}
+		},
+		{
+			"id": "35213AD26A8DD536",
+			"dependencies": [
+				"03F636E36DC31892"
+			],
+			"x": 11.2,
+			"y": -0.8,
+			"tasks": [
+				{
+					"id": "0AB1783EE86931CE",
+					"item": {
+						"id": "rsmedicine:burn_salve",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "rsmedicine:burn_salve",
+				"count": 1
+			}
+		},
+		{
+			"id": "03DDAFDC506EE4A7",
+			"dependencies": [
+				"03F636E36DC31892"
+			],
+			"x": 11.2,
+			"y": 0.8,
+			"tasks": [
+				{
+					"id": "3829B30EAEE77E7A",
+					"item": {
+						"id": "rsmedicine:stimulant",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "rsmedicine:stimulant",
+				"count": 1
+			}
+		},
+		{
+			"id": "02DF28A9652C5583",
+			"dependencies": [
+				"03F636E36DC31892"
+			],
+			"x": 11.2,
+			"y": 2.4,
+			"tasks": [
+				{
+					"id": "7B98C74FEA64DD69",
+					"item": {
+						"id": "rsmedicine:eye_drops",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "rsmedicine:eye_drops",
+				"count": 1
+			}
+		},
+		{
+			"id": "329D02F531B7F43F",
+			"dependencies": [
+				"35213AD26A8DD536",
+				"03DDAFDC506EE4A7",
+				"02DF28A9652C5583"
+			],
+			"x": 12.8,
+			"y": 1.6,
+			"tasks": [
+				{
+					"id": "4409F89EC5E1FF5D",
+					"item": {
+						"id": "rsmedicine:field_kit",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"rewards": [
+				{
+					"id": "5D9862D73CBD5947",
+					"count": 4,
+					"item": {
+						"id": "rsmedicine:bandage",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "rsmedicine:field_kit",
+				"count": 1
+			}
+		},
+		{
+			"id": "058C12736D5BE745",
+			"dependencies": [
+				"207E73D71111E0DB",
+				"746E20A35BEC29CB",
+				"09D2B94CB12147AA",
+				"329D02F531B7F43F"
+			],
+			"shape": "gear",
+			"size": 1.5,
+			"x": 14.65,
+			"y": 1.6,
+			"tasks": [
+				{
+					"id": "75093F0089A80AA5",
+					"type": "checkmark"
+				}
+			],
+			"rewards": [
+				{
+					"id": "2B4936B12BF4368F",
+					"count": 8,
+					"item": {
+						"id": "waystones:return_scroll",
+						"count": 1
+					},
+					"type": "item"
+				},
+				{
+					"id": "79482498DCB7E0AC",
+					"count": 8,
+					"item": {
+						"id": "rsmedicine:bandage",
+						"count": 1
+					},
+					"type": "item"
+				},
+				{
+					"id": "50BEF8516291885C",
+					"count": 32,
+					"item": {
+						"id": "minecraft:torch",
+						"count": 1
+					},
+					"type": "item"
+				},
+				{
+					"id": "11D71E24E6A2B126",
+					"command": "/realism coins give @p 250",
+					"permission_level": 2,
+					"silent": true,
+					"type": "command"
+				}
+			],
+			"icon": {
+				"id": "waystones:return_scroll",
+				"count": 1
+			}
+		}
+	]
+}

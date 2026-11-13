@@ -1,0 +1,38 @@
+/*
+ * Client-specific configuration for FTB Quests
+ * Pack defaults: prefer Korean titles from quest lang tables.
+ */
+{
+  changelog: {
+    always_show: false,
+    font_scale: 0.75,
+    max_lines: 10,
+    show_time: 3.5,
+  },
+  notifications: {
+    completion_sounds: true,
+    completion_style: "toast",
+    reward_style: "toast",
+  },
+  pinned: {
+    auto_pin_follows: "chapter",
+    pinned_exclude_flexible: true,
+    pinned_quests_inset_x: 2,
+    pinned_quests_inset_y: 2,
+    pinned_quests_pos: "left",
+    pinned_quests_scale: 0.75,
+    pinned_visibility: "all",
+  },
+  ui: {
+    backspace_history: true,
+    chapter_panel_pinned: false,
+    old_scroll_wheel: false,
+    show_lock_icon: true,
+  },
+  xlate: {
+    // Force quest book to read ko_kr translation tables
+    editing_locale: "ko_kr",
+    fallback_locale: "ko_kr",
+    hilite_missing: false,
+  },
+}

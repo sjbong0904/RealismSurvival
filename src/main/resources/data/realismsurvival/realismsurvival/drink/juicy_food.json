@@ -1,0 +1,12 @@
+{
+  "items": [
+    "minecraft:melon_slice",
+    "minecraft:sweet_berries",
+    "minecraft:glow_berries",
+    "minecraft:apple",
+    "minecraft:chorus_fruit"
+  ],
+  "thirst_restore": 6.0,
+  "temperature_delta": -0.15,
+  "priority": 0
+}

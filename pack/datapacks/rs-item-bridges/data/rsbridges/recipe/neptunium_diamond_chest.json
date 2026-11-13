@@ -1,0 +1,15 @@
+{
+  "neoforge:conditions": [
+    { "type": "neoforge:mod_loaded", "modid": "aquaculture" },
+    { "type": "neoforge:mod_loaded", "modid": "ironchest" }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": ["GGG","GSG","GNG"],
+  "key": {
+    "G": "#c:glass_blocks",
+    "N": "aquaculture:neptunium_ingot",
+    "S": "ironchest:gold_chest"
+  },
+  "result": { "id": "ironchest:diamond_chest" }
+}

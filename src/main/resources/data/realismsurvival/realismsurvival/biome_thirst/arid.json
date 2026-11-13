@@ -1,0 +1,9 @@
+{
+  "biomes": {
+    "type": "neoforge:or",
+    "values": ["#realismsurvival:climate_arid"]
+  },
+  "thirst_per_second": 0.15,
+  "sprint_multiplier": 2.0,
+  "priority": 10
+}

@@ -1,0 +1,6 @@
+﻿E={
+"solcarrot.configuration.milestone_celebration":"단계 달성 축하",
+"solcarrot.configuration.milestones":"단계",
+"solcarrot.configuration.filtering":"필터",
+"solcarrot.configuration.miscellaneous":"기타",
+}

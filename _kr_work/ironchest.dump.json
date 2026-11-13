@@ -1,0 +1,254 @@
+[
+{
+"k": "block.ironchest.trapped_copper_chest",
+"en": "Trapped Copper Chest",
+"jko": null,
+"ov": "갇힌 구리 상자",
+"src": "함정 구리 상자"
+},
+{
+"k": "block.ironchest.trapped_crystal_chest",
+"en": "Trapped Crystal Chest",
+"jko": null,
+"ov": "갇힌 수정 상자",
+"src": "함정 수정 상자"
+},
+{
+"k": "block.ironchest.trapped_diamond_chest",
+"en": "Trapped Diamond Chest",
+"jko": null,
+"ov": "갇힌 다이아몬드 상자",
+"src": "함정 다이아몬드 상자"
+},
+{
+"k": "block.ironchest.trapped_dirt_chest",
+"en": "Trapped DirtChest 9000!",
+"jko": null,
+"ov": "갇힌 더트체스트 9000!",
+"src": "함정 흙 상자 9000!"
+},
+{
+"k": "block.ironchest.trapped_gold_chest",
+"en": "Trapped Gold Chest",
+"jko": null,
+"ov": "갇힌 황금 상자",
+"src": "함정 금 상자"
+},
+{
+"k": "block.ironchest.trapped_iron_chest",
+"en": "Trapped Iron Chest",
+"jko": null,
+"ov": "갇힌 철 상자",
+"src": "함정 철 상자"
+},
+{
+"k": "block.ironchest.trapped_obsidian_chest",
+"en": "Trapped Obsidian Chest",
+"jko": null,
+"ov": "갇힌 흑요석 상자",
+"src": "함정 흑요석 상자"
+},
+{
+"k": "ironchest.container.copper_chest",
+"en": "Copper Chest",
+"jko": null,
+"ov": "구리 상자",
+"src": "구리 상자"
+},
+{
+"k": "ironchest.container.crystal_chest",
+"en": "Crystal Chest",
+"jko": null,
+"ov": "크리스탈 상자",
+"src": "수정 상자"
+},
+{
+"k": "ironchest.container.diamond_chest",
+"en": "Diamond Chest",
+"jko": null,
+"ov": "다이아몬드 상자",
+"src": "다이아몬드 상자"
+},
+{
+"k": "ironchest.container.dirt_chest",
+"en": "DirtChest 9000!",
+"jko": null,
+"ov": "더트체스트 9000!",
+"src": "흙 상자 9000!"
+},
+{
+"k": "ironchest.container.gold_chest",
+"en": "Gold Chest",
+"jko": null,
+"ov": "골드 상자",
+"src": "금 상자"
+},
+{
+"k": "ironchest.container.iron_chest",
+"en": "Iron Chest",
+"jko": null,
+"ov": "철 상자",
+"src": "철 상자"
+},
+{
+"k": "ironchest.container.obsidian_chest",
+"en": "Obsidian Chest",
+"jko": null,
+"ov": "흑요석 상자",
+"src": "흑요석 상자"
+},
+{
+"k": "ironchest.container.silver_chest",
+"en": "Silver Chest",
+"jko": null,
+"ov": "은 상자",
+"src": "은 상자"
+},
+{
+"k": "block.ironchest.copper_chest",
+"en": "Copper Chest",
+"jko": "구리 상자",
+"ov": null,
+"src": "구리 상자"
+},
+{
+"k": "block.ironchest.crystal_chest",
+"en": "Crystal Chest",
+"jko": "수정 상자",
+"ov": null,
+"src": "수정 상자"
+},
+{
+"k": "block.ironchest.diamond_chest",
+"en": "Diamond Chest",
+"jko": "다이아몬드 상자",
+"ov": null,
+"src": "다이아몬드 상자"
+},
+{
+"k": "block.ironchest.dirt_chest",
+"en": "DirtChest 9000!",
+"jko": "흙 상자 9000!",
+"ov": null,
+"src": "흙 상자 9000!"
+},
+{
+"k": "block.ironchest.gold_chest",
+"en": "Gold Chest",
+"jko": "금 상자",
+"ov": null,
+"src": "금 상자"
+},
+{
+"k": "block.ironchest.iron_chest",
+"en": "Iron Chest",
+"jko": "철 상자",
+"ov": null,
+"src": "철 상자"
+},
+{
+"k": "block.ironchest.obsidian_chest",
+"en": "Obsidian Chest",
+"jko": "흑요석 상자",
+"ov": null,
+"src": "흑요석 상자"
+},
+{
+"k": "ironchest.book.dirtchest9000",
+"en": "How to use your DirtChest 9000!",
+"jko": "흙 상자 9000을 사용하는 방법!",
+"ov": null,
+"src": "흙 상자 9000 사용법!"
+},
+{
+"k": "ironchest.book.dirtchest9000.1",
+"en": "Welcome to your new DirtChest 9000! We hope you will enjoy many happy years of storing your stack of dirt in our storage utility.",
+"jko": "새로운 흙 상자 9000을 사용하게 되신 것을 환영합니다! 우리는 당신이 이 저장 도구에서 흙들을 많은 해 동안 행복하게 저장하기를 기원합니다.",
+"ov": null,
+"src": "새 흙 상자 9000을 맞이해 주셔서 감사합니다! 이 저장 도구로 흙 한 묶음을 오래도록 즐겁게 보관하시길 바랍니다."
+},
+{
+"k": "ironchest.book.dirtchest9000.2",
+"en": "Usage: simply insert the stack of dirt of your choice into the highly receptive slot and enjoy the great convenience of having that dirt available to you, any time you pass by this chest!",
+"jko": "사용법: 단순히 흙 뭉치들을 아이템 슬롯에 넣고 이 상자를 지나갈 때마다 언제나 당신에게 제공되어지는 흙들의 편리함을 누리세요!",
+"ov": null,
+"src": "사용법: 원하는 흙 한 묶음을 슬롯에 넣으세요. 이 상자 옆을 지날 때마다 그 흙을 언제든 쓸 수 있는 편리함을 누리실 수 있습니다!"
+},
+{
+"k": "ironchest.book.dirtchest9000.3",
+"en": "We hope you have enjoyed reviewing this instruction manual, and hope you will consider using our products in future! Kind regards, The DirtChest 9000 manual writers incorporated.",
+"jko": "우리는 당신이 이 사용설명서를 즐겁게 읽었고, 나중에 이 제품을 사용하기를 바랍니다! 흙 상자 9000 매뉴얼",
+"ov": null,
+"src": "이 설명서를 즐겁게 읽어 주셨기를 바라며, 앞으로도 저희 제품을 이용해 주시길 기대합니다! — 흙 상자 9000 설명서 작성 주식회사 드림"
+},
+{
+"k": "ironchest.book.dirtchest9000.4",
+"en": "Warranty: This product has no warranty of any kind. Your dirt may not be stored, it may slowly leech into the environment, or alternatively, it may not do anything at all.",
+"jko": "주의: 이 제품에는 어떤 종류의 보증도 하지 않습니다 당신의 흙들은 저장되지 않을 수도 있습니다. 그러면 이 흙 상자는 천천히 환경 속으로 돌아가거나, 혹은 아무것도 하지 않을 것입니다.",
+"ov": null,
+"src": "보증: 이 제품에는 어떠한 종류의 보증도 없습니다. 흙이 저장되지 않을 수도 있고, 천천히 환경으로 스며들 수도 있으며, 아니면 아무 일도 일어나지 않을 수도 있습니다."
+},
+{
+"k": "ironchest.book.dirtchest9000.5",
+"en": "DirtChest 9000 is kind to the environment. Please dispose of this guide book responsibly, and do not whatever you do just chuck it into some lava. We would be very sad.",
+"jko": "흙 상자 9000은 환경 친화적입니다. 가이드북의 처분에는 책임이 따릅니다, 그러니 어떠한 경우라도 용암에 버리지 마세요. 우리는 매우 슬플 것입니다.",
+"ov": null,
+"src": "흙 상자 9000은 환경 친화적입니다. 이 안내서는 책임감 있게 폐기해 주시고, 무슨 일이 있어도 용암에 던지지 마세요. 저희가 매우 슬플 것입니다."
+},
+{
+"k": "item.ironchest.copper_to_iron_chest_upgrade",
+"en": "Copper to Iron Chest Upgrade",
+"jko": "구리 상자를 철 상자로 업그레이드",
+"ov": null,
+"src": "구리 상자를 철 상자로 업그레이드"
+},
+{
+"k": "item.ironchest.diamond_to_crystal_chest_upgrade",
+"en": "Diamond to Crystal Chest Upgrade",
+"jko": "다이아몬드 상자를 수정 상자로 업그레이드",
+"ov": null,
+"src": "다이아몬드 상자를 수정 상자로 업그레이드"
+},
+{
+"k": "item.ironchest.diamond_to_obsidian_chest_upgrade",
+"en": "Diamond to Obsidian Chest Upgrade",
+"jko": "다이아몬드 상자를 흑요석 상자로 업그레이드",
+"ov": null,
+"src": "다이아몬드 상자를 흑요석 상자로 업그레이드"
+},
+{
+"k": "item.ironchest.gold_to_diamond_chest_upgrade",
+"en": "Gold to Diamond Chest Upgrade",
+"jko": "금 상자를 다이아몬드 상자로 업그레이드",
+"ov": null,
+"src": "금 상자를 다이아몬드 상자로 업그레이드"
+},
+{
+"k": "item.ironchest.iron_to_gold_chest_upgrade",
+"en": "Iron to Gold Chest Upgrade",
+"jko": "철 상자를 금 상자로 업그레이드",
+"ov": null,
+"src": "철 상자를 금 상자로 업그레이드"
+},
+{
+"k": "item.ironchest.wood_to_copper_chest_upgrade",
+"en": "Wood to Copper Chest Upgrade",
+"jko": "나무 상자를 구리 상자로 업그레이드",
+"ov": null,
+"src": "나무 상자를 구리 상자로 업그레이드"
+},
+{
+"k": "item.ironchest.wood_to_iron_chest_upgrade",
+"en": "Wood to Iron Chest Upgrade",
+"jko": "나무 상자를 철 상자로 업그레이드",
+"ov": null,
+"src": "나무 상자를 철 상자로 업그레이드"
+},
+{
+"k": "itemGroup.ironchest",
+"en": "Iron Chests",
+"jko": "Iron Chests",
+"ov": null,
+"src": "철 상자"
+}
+]

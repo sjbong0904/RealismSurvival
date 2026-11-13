@@ -1,0 +1,13 @@
+{
+  "required": false,
+  "package": "com.example.realismsurvival.mixin.sodium",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "SodiumDefaultFluidRendererMixin",
+    "ForgeColorProvidersMixin",
+    "LevelSliceBiomeAccess"
+  ],
+  "injectors": {
+    "defaultRequire": 0
+  }
+}

@@ -1,0 +1,2096 @@
+{
+	"default_hide_dependency_lines": false,
+	"default_quest_shape": "circle",
+	"filename": "collection_crops",
+	"group": "1F4528B79F489519",
+	"icon": {
+		"id": "minecraft:wheat",
+		"count": 1
+	},
+	"id": "5B05E9ABB98C761A",
+	"order_index": 0,
+	"quest_links": [],
+	"quests": [
+		{
+			"id": "6D676890F2B94A4B",
+			"dependencies": [
+				"6997797D673F4017"
+			],
+			"size": 1.25,
+			"x": 0,
+			"y": 0,
+			"tasks": [
+				{
+					"id": "0599C641F1AB7770",
+					"type": "checkmark"
+				}
+			]
+		},
+		{
+			"id": "3883A4335C686715",
+			"dependencies": [
+				"6D676890F2B94A4B"
+			],
+			"hide_dependency_lines": true,
+			"x": 0.0,
+			"y": 2.6,
+			"tasks": [
+				{
+					"id": "7C033D57D9721C0E",
+					"item": {
+						"id": "minecraft:wheat",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:wheat",
+				"count": 1
+			}
+		},
+		{
+			"id": "1D8B6034223E5142",
+			"dependencies": [
+				"6D676890F2B94A4B"
+			],
+			"hide_dependency_lines": true,
+			"x": 1.45,
+			"y": 2.6,
+			"tasks": [
+				{
+					"id": "14827ECBA7147DFE",
+					"item": {
+						"id": "minecraft:wheat_seeds",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:wheat_seeds",
+				"count": 1
+			}
+		},
+		{
+			"id": "6D256BB28353D0A9",
+			"dependencies": [
+				"6D676890F2B94A4B"
+			],
+			"hide_dependency_lines": true,
+			"x": 2.9,
+			"y": 2.6,
+			"tasks": [
+				{
+					"id": "514038A918EA15CC",
+					"item": {
+						"id": "minecraft:carrot",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:carrot",
+				"count": 1
+			}
+		},
+		{
+			"id": "1D162C818A9991EC",
+			"dependencies": [
+				"6D676890F2B94A4B"
+			],
+			"hide_dependency_lines": true,
+			"x": 4.35,
+			"y": 2.6,
+			"tasks": [
+				{
+					"id": "5061C33C28194BCF",
+					"item": {
+						"id": "minecraft:potato",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:potato",
+				"count": 1
+			}
+		},
+		{
+			"id": "45D1A40248ECEE3C",
+			"dependencies": [
+				"6D676890F2B94A4B"
+			],
+			"hide_dependency_lines": true,
+			"x": 5.8,
+			"y": 2.6,
+			"tasks": [
+				{
+					"id": "248E3E112E0DDDDE",
+					"item": {
+						"id": "minecraft:baked_potato",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:baked_potato",
+				"count": 1
+			}
+		},
+		{
+			"id": "7EA5A2873CB85D31",
+			"dependencies": [
+				"6D676890F2B94A4B"
+			],
+			"hide_dependency_lines": true,
+			"x": 7.25,
+			"y": 2.6,
+			"tasks": [
+				{
+					"id": "78609427CD1907AF",
+					"item": {
+						"id": "minecraft:poisonous_potato",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:poisonous_potato",
+				"count": 1
+			}
+		},
+		{
+			"id": "70F5DABD410168B5",
+			"dependencies": [
+				"6D676890F2B94A4B"
+			],
+			"hide_dependency_lines": true,
+			"x": 8.7,
+			"y": 2.6,
+			"tasks": [
+				{
+					"id": "092CF09B3CC43444",
+					"item": {
+						"id": "minecraft:beetroot",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:beetroot",
+				"count": 1
+			}
+		},
+		{
+			"id": "198AAFA681A329B5",
+			"dependencies": [
+				"6D676890F2B94A4B"
+			],
+			"hide_dependency_lines": true,
+			"x": 10.15,
+			"y": 2.6,
+			"tasks": [
+				{
+					"id": "617515F8F3B76388",
+					"item": {
+						"id": "minecraft:beetroot_seeds",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:beetroot_seeds",
+				"count": 1
+			}
+		},
+		{
+			"id": "1766555F2A29FC9D",
+			"dependencies": [
+				"6D676890F2B94A4B"
+			],
+			"hide_dependency_lines": true,
+			"x": 11.6,
+			"y": 2.6,
+			"tasks": [
+				{
+					"id": "6D1304ECE9948636",
+					"item": {
+						"id": "minecraft:melon_slice",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:melon_slice",
+				"count": 1
+			}
+		},
+		{
+			"id": "23D69143C3FC2259",
+			"dependencies": [
+				"6D676890F2B94A4B"
+			],
+			"hide_dependency_lines": true,
+			"x": 13.049999999999999,
+			"y": 2.6,
+			"tasks": [
+				{
+					"id": "43DB471D9B96B15A",
+					"item": {
+						"id": "minecraft:melon",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:melon",
+				"count": 1
+			}
+		},
+		{
+			"id": "1F1B6E3DFE7EC7BC",
+			"dependencies": [
+				"6D676890F2B94A4B"
+			],
+			"hide_dependency_lines": true,
+			"x": 14.5,
+			"y": 2.6,
+			"tasks": [
+				{
+					"id": "2CFC33F55D10D0E2",
+					"item": {
+						"id": "minecraft:pumpkin",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:pumpkin",
+				"count": 1
+			}
+		},
+		{
+			"id": "39A3D51CB69AA552",
+			"dependencies": [
+				"6D676890F2B94A4B"
+			],
+			"hide_dependency_lines": true,
+			"x": 15.95,
+			"y": 2.6,
+			"tasks": [
+				{
+					"id": "2FBDE221CC287DCD",
+					"item": {
+						"id": "minecraft:pumpkin_seeds",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:pumpkin_seeds",
+				"count": 1
+			}
+		},
+		{
+			"id": "051331AD7ABBD27D",
+			"dependencies": [
+				"6D676890F2B94A4B"
+			],
+			"hide_dependency_lines": true,
+			"x": 17.4,
+			"y": 2.6,
+			"tasks": [
+				{
+					"id": "19020DBAD8F9E6DE",
+					"item": {
+						"id": "minecraft:melon_seeds",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:melon_seeds",
+				"count": 1
+			}
+		},
+		{
+			"id": "7A1117FD319D9CC5",
+			"dependencies": [
+				"6D676890F2B94A4B"
+			],
+			"hide_dependency_lines": true,
+			"x": 18.849999999999998,
+			"y": 2.6,
+			"tasks": [
+				{
+					"id": "1DF44B52E3A9BD23",
+					"item": {
+						"id": "minecraft:sugar_cane",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:sugar_cane",
+				"count": 1
+			}
+		},
+		{
+			"id": "607E11493CF52544",
+			"dependencies": [
+				"6D676890F2B94A4B"
+			],
+			"hide_dependency_lines": true,
+			"x": 0.0,
+			"y": 4.05,
+			"tasks": [
+				{
+					"id": "784C77D260FEEE18",
+					"item": {
+						"id": "minecraft:cocoa_beans",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:cocoa_beans",
+				"count": 1
+			}
+		},
+		{
+			"id": "04E71437EB6131DC",
+			"dependencies": [
+				"6D676890F2B94A4B"
+			],
+			"hide_dependency_lines": true,
+			"x": 1.45,
+			"y": 4.05,
+			"tasks": [
+				{
+					"id": "7F1ED20886B9150E",
+					"item": {
+						"id": "minecraft:nether_wart",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:nether_wart",
+				"count": 1
+			}
+		},
+		{
+			"id": "5D97B63078BE8577",
+			"dependencies": [
+				"6D676890F2B94A4B"
+			],
+			"hide_dependency_lines": true,
+			"x": 2.9,
+			"y": 4.05,
+			"tasks": [
+				{
+					"id": "715C01647ED40D00",
+					"item": {
+						"id": "minecraft:sweet_berries",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:sweet_berries",
+				"count": 1
+			}
+		},
+		{
+			"id": "01A2085E65659D15",
+			"dependencies": [
+				"6D676890F2B94A4B"
+			],
+			"hide_dependency_lines": true,
+			"x": 4.35,
+			"y": 4.05,
+			"tasks": [
+				{
+					"id": "5F1778722A674E36",
+					"item": {
+						"id": "minecraft:glow_berries",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:glow_berries",
+				"count": 1
+			}
+		},
+		{
+			"id": "570CD489AEFA0022",
+			"dependencies": [
+				"6D676890F2B94A4B"
+			],
+			"hide_dependency_lines": true,
+			"x": 5.8,
+			"y": 4.05,
+			"tasks": [
+				{
+					"id": "152E9848A6EE390A",
+					"item": {
+						"id": "minecraft:chorus_fruit",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:chorus_fruit",
+				"count": 1
+			}
+		},
+		{
+			"id": "6B5385E54ED55688",
+			"dependencies": [
+				"6D676890F2B94A4B"
+			],
+			"hide_dependency_lines": true,
+			"x": 7.25,
+			"y": 4.05,
+			"tasks": [
+				{
+					"id": "0A781E8387AADF1C",
+					"item": {
+						"id": "minecraft:apple",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:apple",
+				"count": 1
+			}
+		},
+		{
+			"id": "0603D4A1BAB21DB2",
+			"dependencies": [
+				"6D676890F2B94A4B"
+			],
+			"hide_dependency_lines": true,
+			"x": 8.7,
+			"y": 4.05,
+			"tasks": [
+				{
+					"id": "468635CD8D949CE2",
+					"item": {
+						"id": "minecraft:golden_apple",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:golden_apple",
+				"count": 1
+			}
+		},
+		{
+			"id": "2D6AF5A3FD6098E4",
+			"dependencies": [
+				"6D676890F2B94A4B"
+			],
+			"hide_dependency_lines": true,
+			"x": 10.15,
+			"y": 4.05,
+			"tasks": [
+				{
+					"id": "290448F36E0A5135",
+					"item": {
+						"id": "minecraft:enchanted_golden_apple",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:enchanted_golden_apple",
+				"count": 1
+			}
+		},
+		{
+			"id": "4217CB62A8D8047D",
+			"dependencies": [
+				"6D676890F2B94A4B"
+			],
+			"hide_dependency_lines": true,
+			"x": 11.6,
+			"y": 4.05,
+			"tasks": [
+				{
+					"id": "272F016C6457C17B",
+					"item": {
+						"id": "minecraft:brown_mushroom",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:brown_mushroom",
+				"count": 1
+			}
+		},
+		{
+			"id": "570B80A180688C1F",
+			"dependencies": [
+				"6D676890F2B94A4B"
+			],
+			"hide_dependency_lines": true,
+			"x": 13.049999999999999,
+			"y": 4.05,
+			"tasks": [
+				{
+					"id": "2AA05EE546F65975",
+					"item": {
+						"id": "minecraft:red_mushroom",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:red_mushroom",
+				"count": 1
+			}
+		},
+		{
+			"id": "0161AA65608C0933",
+			"dependencies": [
+				"6D676890F2B94A4B"
+			],
+			"hide_dependency_lines": true,
+			"x": 14.5,
+			"y": 4.05,
+			"tasks": [
+				{
+					"id": "0A6351C2FBF2FDCE",
+					"item": {
+						"id": "minecraft:crimson_fungus",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:crimson_fungus",
+				"count": 1
+			}
+		},
+		{
+			"id": "4B37A7604FD42F29",
+			"dependencies": [
+				"6D676890F2B94A4B"
+			],
+			"hide_dependency_lines": true,
+			"x": 15.95,
+			"y": 4.05,
+			"tasks": [
+				{
+					"id": "010C17EC1983FFAC",
+					"item": {
+						"id": "minecraft:warped_fungus",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:warped_fungus",
+				"count": 1
+			}
+		},
+		{
+			"id": "3B86B36B0214894A",
+			"dependencies": [
+				"6D676890F2B94A4B"
+			],
+			"hide_dependency_lines": true,
+			"x": 17.4,
+			"y": 4.05,
+			"tasks": [
+				{
+					"id": "1ECEF9FFEF3EF0CC",
+					"item": {
+						"id": "minecraft:kelp",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:kelp",
+				"count": 1
+			}
+		},
+		{
+			"id": "0A67F8B29A89D58F",
+			"dependencies": [
+				"6D676890F2B94A4B"
+			],
+			"hide_dependency_lines": true,
+			"x": 18.849999999999998,
+			"y": 4.05,
+			"tasks": [
+				{
+					"id": "1A41603B232FB202",
+					"item": {
+						"id": "minecraft:dried_kelp",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:dried_kelp",
+				"count": 1
+			}
+		},
+		{
+			"id": "37F43D329EA97BA3",
+			"dependencies": [
+				"6D676890F2B94A4B"
+			],
+			"hide_dependency_lines": true,
+			"x": 0.0,
+			"y": 5.5,
+			"tasks": [
+				{
+					"id": "789496E49A075406",
+					"item": {
+						"id": "minecraft:sea_pickle",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:sea_pickle",
+				"count": 1
+			}
+		},
+		{
+			"id": "239B90051673B459",
+			"dependencies": [
+				"6D676890F2B94A4B"
+			],
+			"hide_dependency_lines": true,
+			"x": 1.45,
+			"y": 5.5,
+			"tasks": [
+				{
+					"id": "61BFFB8428C14619",
+					"item": {
+						"id": "minecraft:bamboo",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:bamboo",
+				"count": 1
+			}
+		},
+		{
+			"id": "09A0227316452A01",
+			"dependencies": [
+				"6D676890F2B94A4B"
+			],
+			"hide_dependency_lines": true,
+			"x": 2.9,
+			"y": 5.5,
+			"tasks": [
+				{
+					"id": "412F203DBBCB5F21",
+					"item": {
+						"id": "minecraft:cactus",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:cactus",
+				"count": 1
+			}
+		},
+		{
+			"id": "64BDF8FCCFB69AE1",
+			"dependencies": [
+				"6D676890F2B94A4B"
+			],
+			"hide_dependency_lines": true,
+			"x": 4.35,
+			"y": 5.5,
+			"tasks": [
+				{
+					"id": "55D2ACDAE597371B",
+					"item": {
+						"id": "minecraft:torchflower",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:torchflower",
+				"count": 1
+			}
+		},
+		{
+			"id": "636094CE2DE65EA0",
+			"dependencies": [
+				"6D676890F2B94A4B"
+			],
+			"hide_dependency_lines": true,
+			"x": 5.8,
+			"y": 5.5,
+			"tasks": [
+				{
+					"id": "35E18EE279427655",
+					"item": {
+						"id": "minecraft:torchflower_seeds",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:torchflower_seeds",
+				"count": 1
+			}
+		},
+		{
+			"id": "3E6CCB43661E2909",
+			"dependencies": [
+				"6D676890F2B94A4B"
+			],
+			"hide_dependency_lines": true,
+			"x": 7.25,
+			"y": 5.5,
+			"tasks": [
+				{
+					"id": "65499DCD22116EC1",
+					"item": {
+						"id": "minecraft:pitcher_pod",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:pitcher_pod",
+				"count": 1
+			}
+		},
+		{
+			"id": "6F233530FF5F9A8F",
+			"dependencies": [
+				"6D676890F2B94A4B"
+			],
+			"hide_dependency_lines": true,
+			"x": 8.7,
+			"y": 5.5,
+			"tasks": [
+				{
+					"id": "0B0E9116C897A5B0",
+					"item": {
+						"id": "minecraft:pitcher_plant",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:pitcher_plant",
+				"count": 1
+			}
+		},
+		{
+			"id": "1334AF704736ABA8",
+			"dependencies": [
+				"6D676890F2B94A4B"
+			],
+			"hide_dependency_lines": true,
+			"x": 10.15,
+			"y": 5.5,
+			"tasks": [
+				{
+					"id": "09112CDB8AAE5054",
+					"item": {
+						"id": "farmersdelight:cabbage",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "farmersdelight:cabbage",
+				"count": 1
+			}
+		},
+		{
+			"id": "49D9364B27A3E24A",
+			"dependencies": [
+				"6D676890F2B94A4B"
+			],
+			"hide_dependency_lines": true,
+			"x": 11.6,
+			"y": 5.5,
+			"tasks": [
+				{
+					"id": "050A195809181993",
+					"item": {
+						"id": "farmersdelight:cabbage_leaf",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "farmersdelight:cabbage_leaf",
+				"count": 1
+			}
+		},
+		{
+			"id": "03B98A4FAD7B1557",
+			"dependencies": [
+				"6D676890F2B94A4B"
+			],
+			"hide_dependency_lines": true,
+			"x": 13.049999999999999,
+			"y": 5.5,
+			"tasks": [
+				{
+					"id": "3EBDA077558B3AF8",
+					"item": {
+						"id": "farmersdelight:cabbage_seeds",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "farmersdelight:cabbage_seeds",
+				"count": 1
+			}
+		},
+		{
+			"id": "3C5D067E5405F01E",
+			"dependencies": [
+				"6D676890F2B94A4B"
+			],
+			"hide_dependency_lines": true,
+			"x": 14.5,
+			"y": 5.5,
+			"tasks": [
+				{
+					"id": "07B049972B5EEB74",
+					"item": {
+						"id": "farmersdelight:onion",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "farmersdelight:onion",
+				"count": 1
+			}
+		},
+		{
+			"id": "469829A1DC3E27B6",
+			"dependencies": [
+				"6D676890F2B94A4B"
+			],
+			"hide_dependency_lines": true,
+			"x": 15.95,
+			"y": 5.5,
+			"tasks": [
+				{
+					"id": "010778C73EC25817",
+					"item": {
+						"id": "farmersdelight:rice",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "farmersdelight:rice",
+				"count": 1
+			}
+		},
+		{
+			"id": "0CFFD25354D01306",
+			"dependencies": [
+				"6D676890F2B94A4B"
+			],
+			"hide_dependency_lines": true,
+			"x": 17.4,
+			"y": 5.5,
+			"tasks": [
+				{
+					"id": "0407AD2F9C498412",
+					"item": {
+						"id": "farmersdelight:rice_panicle",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "farmersdelight:rice_panicle",
+				"count": 1
+			}
+		},
+		{
+			"id": "12946EAB32688E57",
+			"dependencies": [
+				"6D676890F2B94A4B"
+			],
+			"hide_dependency_lines": true,
+			"x": 18.849999999999998,
+			"y": 5.5,
+			"tasks": [
+				{
+					"id": "3A7F4C53C703A2E7",
+					"item": {
+						"id": "farmersdelight:tomato",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "farmersdelight:tomato",
+				"count": 1
+			}
+		},
+		{
+			"id": "1F6EF1D33F8B99FD",
+			"dependencies": [
+				"6D676890F2B94A4B"
+			],
+			"hide_dependency_lines": true,
+			"x": 0.0,
+			"y": 6.949999999999999,
+			"tasks": [
+				{
+					"id": "14A48E02EAF07406",
+					"item": {
+						"id": "farmersdelight:tomato_seeds",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "farmersdelight:tomato_seeds",
+				"count": 1
+			}
+		},
+		{
+			"id": "4CAB33FE457E255D",
+			"dependencies": [
+				"6D676890F2B94A4B"
+			],
+			"hide_dependency_lines": true,
+			"x": 1.45,
+			"y": 6.949999999999999,
+			"tasks": [
+				{
+					"id": "4FAD5D19EB352D06",
+					"item": {
+						"id": "biomesoplenty:barley",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "biomesoplenty:barley",
+				"count": 1
+			}
+		},
+		{
+			"id": "51250D72EA3AC734",
+			"dependencies": [
+				"6D676890F2B94A4B"
+			],
+			"hide_dependency_lines": true,
+			"x": 2.9,
+			"y": 6.949999999999999,
+			"tasks": [
+				{
+					"id": "39945787A29FC1F8",
+					"item": {
+						"id": "biomesoplenty:blackstone_bulb",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "biomesoplenty:blackstone_bulb",
+				"count": 1
+			}
+		},
+		{
+			"id": "4639F44B32C9E3E7",
+			"dependencies": [
+				"6D676890F2B94A4B"
+			],
+			"hide_dependency_lines": true,
+			"x": 4.35,
+			"y": 6.949999999999999,
+			"tasks": [
+				{
+					"id": "3B379E40BFE32C5E",
+					"item": {
+						"id": "biomesoplenty:blue_hydrangea",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "biomesoplenty:blue_hydrangea",
+				"count": 1
+			}
+		},
+		{
+			"id": "3F23CC54FF23D097",
+			"dependencies": [
+				"6D676890F2B94A4B"
+			],
+			"hide_dependency_lines": true,
+			"x": 5.8,
+			"y": 6.949999999999999,
+			"tasks": [
+				{
+					"id": "46C0DF2FC30CE0E1",
+					"item": {
+						"id": "biomesoplenty:burning_blossom",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "biomesoplenty:burning_blossom",
+				"count": 1
+			}
+		},
+		{
+			"id": "4A037B88B342CB5F",
+			"dependencies": [
+				"6D676890F2B94A4B"
+			],
+			"hide_dependency_lines": true,
+			"x": 7.25,
+			"y": 6.949999999999999,
+			"tasks": [
+				{
+					"id": "104F45BA9988BDB8",
+					"item": {
+						"id": "biomesoplenty:cattail",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "biomesoplenty:cattail",
+				"count": 1
+			}
+		},
+		{
+			"id": "194330F60774F1D1",
+			"dependencies": [
+				"6D676890F2B94A4B"
+			],
+			"hide_dependency_lines": true,
+			"x": 8.7,
+			"y": 6.949999999999999,
+			"tasks": [
+				{
+					"id": "17A99D237C5D13B7",
+					"item": {
+						"id": "biomesoplenty:clover",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "biomesoplenty:clover",
+				"count": 1
+			}
+		},
+		{
+			"id": "09D951E03D643CD1",
+			"dependencies": [
+				"6D676890F2B94A4B"
+			],
+			"hide_dependency_lines": true,
+			"x": 10.15,
+			"y": 6.949999999999999,
+			"tasks": [
+				{
+					"id": "21A19D88A293CCD3",
+					"item": {
+						"id": "biomesoplenty:cypress_sapling",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "biomesoplenty:cypress_sapling",
+				"count": 1
+			}
+		},
+		{
+			"id": "53B61A33E1D38FCC",
+			"dependencies": [
+				"6D676890F2B94A4B"
+			],
+			"hide_dependency_lines": true,
+			"x": 11.6,
+			"y": 6.949999999999999,
+			"tasks": [
+				{
+					"id": "0AC3D6A7F5BF9685",
+					"item": {
+						"id": "biomesoplenty:dead_sapling",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "biomesoplenty:dead_sapling",
+				"count": 1
+			}
+		},
+		{
+			"id": "121B35EFA65D0C54",
+			"dependencies": [
+				"6D676890F2B94A4B"
+			],
+			"hide_dependency_lines": true,
+			"x": 13.049999999999999,
+			"y": 6.949999999999999,
+			"tasks": [
+				{
+					"id": "5CF6057914B83B8F",
+					"item": {
+						"id": "biomesoplenty:empyreal_sapling",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "biomesoplenty:empyreal_sapling",
+				"count": 1
+			}
+		},
+		{
+			"id": "35C17B2DBAAD4B65",
+			"dependencies": [
+				"6D676890F2B94A4B"
+			],
+			"hide_dependency_lines": true,
+			"x": 14.5,
+			"y": 6.949999999999999,
+			"tasks": [
+				{
+					"id": "6A28529F6CD82CEC",
+					"item": {
+						"id": "biomesoplenty:fir_sapling",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "biomesoplenty:fir_sapling",
+				"count": 1
+			}
+		},
+		{
+			"id": "436566F8B5AFAFC3",
+			"dependencies": [
+				"6D676890F2B94A4B"
+			],
+			"hide_dependency_lines": true,
+			"x": 15.95,
+			"y": 6.949999999999999,
+			"tasks": [
+				{
+					"id": "6A15660D1AC58752",
+					"item": {
+						"id": "biomesoplenty:flowering_oak_sapling",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "biomesoplenty:flowering_oak_sapling",
+				"count": 1
+			}
+		},
+		{
+			"id": "064E0219E8CDFF4F",
+			"dependencies": [
+				"6D676890F2B94A4B"
+			],
+			"hide_dependency_lines": true,
+			"x": 17.4,
+			"y": 6.949999999999999,
+			"tasks": [
+				{
+					"id": "758004FA7473B6FA",
+					"item": {
+						"id": "biomesoplenty:glowflower",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "biomesoplenty:glowflower",
+				"count": 1
+			}
+		},
+		{
+			"id": "222DB4EB3B1C64C6",
+			"dependencies": [
+				"6D676890F2B94A4B"
+			],
+			"hide_dependency_lines": true,
+			"x": 18.849999999999998,
+			"y": 6.949999999999999,
+			"tasks": [
+				{
+					"id": "53F4AA0467C1F316",
+					"item": {
+						"id": "biomesoplenty:glowshroom",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "biomesoplenty:glowshroom",
+				"count": 1
+			}
+		},
+		{
+			"id": "2F2226556F495883",
+			"dependencies": [
+				"6D676890F2B94A4B"
+			],
+			"hide_dependency_lines": true,
+			"x": 0.0,
+			"y": 8.4,
+			"tasks": [
+				{
+					"id": "130C67A570775545",
+					"item": {
+						"id": "biomesoplenty:goldenrod",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "biomesoplenty:goldenrod",
+				"count": 1
+			}
+		},
+		{
+			"id": "4E94DF8562F3A8F8",
+			"dependencies": [
+				"6D676890F2B94A4B"
+			],
+			"hide_dependency_lines": true,
+			"x": 1.45,
+			"y": 8.4,
+			"tasks": [
+				{
+					"id": "4D9EAB2168E39B14",
+					"item": {
+						"id": "biomesoplenty:hellbark_sapling",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "biomesoplenty:hellbark_sapling",
+				"count": 1
+			}
+		},
+		{
+			"id": "6F48B598C364BC41",
+			"dependencies": [
+				"6D676890F2B94A4B"
+			],
+			"hide_dependency_lines": true,
+			"x": 2.9,
+			"y": 8.4,
+			"tasks": [
+				{
+					"id": "11BE13946A2DD190",
+					"item": {
+						"id": "biomesoplenty:huge_clover_petal",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "biomesoplenty:huge_clover_petal",
+				"count": 1
+			}
+		},
+		{
+			"id": "2C97553EEA84E1FB",
+			"dependencies": [
+				"6D676890F2B94A4B"
+			],
+			"hide_dependency_lines": true,
+			"x": 4.35,
+			"y": 8.4,
+			"tasks": [
+				{
+					"id": "4E92A2A6194EA642",
+					"item": {
+						"id": "biomesoplenty:icy_iris",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "biomesoplenty:icy_iris",
+				"count": 1
+			}
+		},
+		{
+			"id": "546D6F5BD67ECB66",
+			"dependencies": [
+				"6D676890F2B94A4B"
+			],
+			"hide_dependency_lines": true,
+			"x": 5.8,
+			"y": 8.4,
+			"tasks": [
+				{
+					"id": "6D80413CF67216BA",
+					"item": {
+						"id": "biomesoplenty:jacaranda_sapling",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "biomesoplenty:jacaranda_sapling",
+				"count": 1
+			}
+		},
+		{
+			"id": "15F877034EFA41C2",
+			"dependencies": [
+				"6D676890F2B94A4B"
+			],
+			"hide_dependency_lines": true,
+			"x": 7.25,
+			"y": 8.4,
+			"tasks": [
+				{
+					"id": "6C5919B373766517",
+					"item": {
+						"id": "biomesoplenty:lavender",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "biomesoplenty:lavender",
+				"count": 1
+			}
+		},
+		{
+			"id": "5E0E03BC92818DC7",
+			"dependencies": [
+				"6D676890F2B94A4B"
+			],
+			"hide_dependency_lines": true,
+			"x": 8.7,
+			"y": 8.4,
+			"tasks": [
+				{
+					"id": "624D9C573482CEF4",
+					"item": {
+						"id": "biomesoplenty:magic_sapling",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "biomesoplenty:magic_sapling",
+				"count": 1
+			}
+		},
+		{
+			"id": "3A89AE150CBF8786",
+			"dependencies": [
+				"6D676890F2B94A4B"
+			],
+			"hide_dependency_lines": true,
+			"x": 10.15,
+			"y": 8.4,
+			"tasks": [
+				{
+					"id": "224E6EC92592B8C5",
+					"item": {
+						"id": "biomesoplenty:mahogany_sapling",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "biomesoplenty:mahogany_sapling",
+				"count": 1
+			}
+		},
+		{
+			"id": "2BA804ABC790B9C1",
+			"dependencies": [
+				"6D676890F2B94A4B"
+			],
+			"hide_dependency_lines": true,
+			"x": 11.6,
+			"y": 8.4,
+			"tasks": [
+				{
+					"id": "021B1DE5034BFDCD",
+					"item": {
+						"id": "biomesoplenty:orange_cosmos",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "biomesoplenty:orange_cosmos",
+				"count": 1
+			}
+		},
+		{
+			"id": "2D22CA27F44AF658",
+			"dependencies": [
+				"6D676890F2B94A4B"
+			],
+			"hide_dependency_lines": true,
+			"x": 13.049999999999999,
+			"y": 8.4,
+			"tasks": [
+				{
+					"id": "64F080F9FFFC5FD1",
+					"item": {
+						"id": "biomesoplenty:orange_maple_sapling",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "biomesoplenty:orange_maple_sapling",
+				"count": 1
+			}
+		},
+		{
+			"id": "310F0BF16DEB18B4",
+			"dependencies": [
+				"6D676890F2B94A4B"
+			],
+			"hide_dependency_lines": true,
+			"x": 14.5,
+			"y": 8.4,
+			"tasks": [
+				{
+					"id": "16DD675BE22F5142",
+					"item": {
+						"id": "biomesoplenty:palm_sapling",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "biomesoplenty:palm_sapling",
+				"count": 1
+			}
+		},
+		{
+			"id": "6BADBCCEC53B5BD8",
+			"dependencies": [
+				"6D676890F2B94A4B"
+			],
+			"hide_dependency_lines": true,
+			"x": 15.95,
+			"y": 8.4,
+			"tasks": [
+				{
+					"id": "6F75467FD350FFE5",
+					"item": {
+						"id": "biomesoplenty:pine_sapling",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "biomesoplenty:pine_sapling",
+				"count": 1
+			}
+		},
+		{
+			"id": "1B14095607A6DB2D",
+			"dependencies": [
+				"6D676890F2B94A4B"
+			],
+			"hide_dependency_lines": true,
+			"x": 17.4,
+			"y": 8.4,
+			"tasks": [
+				{
+					"id": "2DFFB6BF64A0A0FB",
+					"item": {
+						"id": "biomesoplenty:pink_daffodil",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "biomesoplenty:pink_daffodil",
+				"count": 1
+			}
+		},
+		{
+			"id": "07F959E106D8D97F",
+			"dependencies": [
+				"6D676890F2B94A4B"
+			],
+			"hide_dependency_lines": true,
+			"x": 18.849999999999998,
+			"y": 8.4,
+			"tasks": [
+				{
+					"id": "638619178796848A",
+					"item": {
+						"id": "biomesoplenty:pink_hibiscus",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "biomesoplenty:pink_hibiscus",
+				"count": 1
+			}
+		},
+		{
+			"id": "662D05E4838C6C30",
+			"dependencies": [
+				"6D676890F2B94A4B",
+				"3883A4335C686715",
+				"1D8B6034223E5142",
+				"6D256BB28353D0A9",
+				"1D162C818A9991EC",
+				"45D1A40248ECEE3C",
+				"7EA5A2873CB85D31",
+				"70F5DABD410168B5",
+				"198AAFA681A329B5",
+				"1766555F2A29FC9D",
+				"23D69143C3FC2259",
+				"1F1B6E3DFE7EC7BC",
+				"39A3D51CB69AA552",
+				"051331AD7ABBD27D",
+				"7A1117FD319D9CC5",
+				"607E11493CF52544",
+				"04E71437EB6131DC",
+				"5D97B63078BE8577",
+				"01A2085E65659D15",
+				"570CD489AEFA0022",
+				"6B5385E54ED55688",
+				"0603D4A1BAB21DB2",
+				"2D6AF5A3FD6098E4",
+				"4217CB62A8D8047D",
+				"570B80A180688C1F",
+				"0161AA65608C0933",
+				"4B37A7604FD42F29",
+				"3B86B36B0214894A",
+				"0A67F8B29A89D58F",
+				"37F43D329EA97BA3",
+				"239B90051673B459",
+				"09A0227316452A01",
+				"64BDF8FCCFB69AE1",
+				"636094CE2DE65EA0",
+				"3E6CCB43661E2909",
+				"6F233530FF5F9A8F",
+				"1334AF704736ABA8",
+				"49D9364B27A3E24A",
+				"03B98A4FAD7B1557",
+				"3C5D067E5405F01E",
+				"469829A1DC3E27B6",
+				"0CFFD25354D01306",
+				"12946EAB32688E57",
+				"1F6EF1D33F8B99FD",
+				"4CAB33FE457E255D",
+				"51250D72EA3AC734",
+				"4639F44B32C9E3E7",
+				"3F23CC54FF23D097",
+				"4A037B88B342CB5F",
+				"194330F60774F1D1",
+				"09D951E03D643CD1",
+				"53B61A33E1D38FCC",
+				"121B35EFA65D0C54",
+				"35C17B2DBAAD4B65",
+				"436566F8B5AFAFC3",
+				"064E0219E8CDFF4F",
+				"222DB4EB3B1C64C6",
+				"2F2226556F495883",
+				"4E94DF8562F3A8F8",
+				"6F48B598C364BC41",
+				"2C97553EEA84E1FB",
+				"546D6F5BD67ECB66",
+				"15F877034EFA41C2",
+				"5E0E03BC92818DC7",
+				"3A89AE150CBF8786",
+				"2BA804ABC790B9C1",
+				"2D22CA27F44AF658",
+				"310F0BF16DEB18B4",
+				"6BADBCCEC53B5BD8",
+				"1B14095607A6DB2D",
+				"07F959E106D8D97F"
+			],
+			"min_required_dependencies": 22,
+			"hide_dependency_lines": true,
+			"size": 1.25,
+			"x": 22.7,
+			"y": 2.6,
+			"tasks": [
+				{
+					"id": "7FA71A2F5E0CBC9A",
+					"type": "checkmark"
+				}
+			],
+			"rewards": [
+				{
+					"id": "1C49383B35DDE038",
+					"item": {
+						"id": "minecraft:spore_blossom",
+						"count": 1
+					},
+					"type": "item"
+				},
+				{
+					"id": "0457CED772CBA299",
+					"item": {
+						"id": "minecraft:beehive",
+						"count": 1
+					},
+					"type": "item"
+				},
+				{
+					"id": "3890F94514D690C5",
+					"xp_levels": 2,
+					"type": "xp_levels"
+				}
+			],
+			"icon": {
+				"id": "minecraft:spore_blossom",
+				"count": 1
+			}
+		},
+		{
+			"id": "21BB85824ADFF691",
+			"dependencies": [
+				"6D676890F2B94A4B",
+				"3883A4335C686715",
+				"1D8B6034223E5142",
+				"6D256BB28353D0A9",
+				"1D162C818A9991EC",
+				"45D1A40248ECEE3C",
+				"7EA5A2873CB85D31",
+				"70F5DABD410168B5",
+				"198AAFA681A329B5",
+				"1766555F2A29FC9D",
+				"23D69143C3FC2259",
+				"1F1B6E3DFE7EC7BC",
+				"39A3D51CB69AA552",
+				"051331AD7ABBD27D",
+				"7A1117FD319D9CC5",
+				"607E11493CF52544",
+				"04E71437EB6131DC",
+				"5D97B63078BE8577",
+				"01A2085E65659D15",
+				"570CD489AEFA0022",
+				"6B5385E54ED55688",
+				"0603D4A1BAB21DB2",
+				"2D6AF5A3FD6098E4",
+				"4217CB62A8D8047D",
+				"570B80A180688C1F",
+				"0161AA65608C0933",
+				"4B37A7604FD42F29",
+				"3B86B36B0214894A",
+				"0A67F8B29A89D58F",
+				"37F43D329EA97BA3",
+				"239B90051673B459",
+				"09A0227316452A01",
+				"64BDF8FCCFB69AE1",
+				"636094CE2DE65EA0",
+				"3E6CCB43661E2909",
+				"6F233530FF5F9A8F",
+				"1334AF704736ABA8",
+				"49D9364B27A3E24A",
+				"03B98A4FAD7B1557",
+				"3C5D067E5405F01E",
+				"469829A1DC3E27B6",
+				"0CFFD25354D01306",
+				"12946EAB32688E57",
+				"1F6EF1D33F8B99FD",
+				"4CAB33FE457E255D",
+				"51250D72EA3AC734",
+				"4639F44B32C9E3E7",
+				"3F23CC54FF23D097",
+				"4A037B88B342CB5F",
+				"194330F60774F1D1",
+				"09D951E03D643CD1",
+				"53B61A33E1D38FCC",
+				"121B35EFA65D0C54",
+				"35C17B2DBAAD4B65",
+				"436566F8B5AFAFC3",
+				"064E0219E8CDFF4F",
+				"222DB4EB3B1C64C6",
+				"2F2226556F495883",
+				"4E94DF8562F3A8F8",
+				"6F48B598C364BC41",
+				"2C97553EEA84E1FB",
+				"546D6F5BD67ECB66",
+				"15F877034EFA41C2",
+				"5E0E03BC92818DC7",
+				"3A89AE150CBF8786",
+				"2BA804ABC790B9C1",
+				"2D22CA27F44AF658",
+				"310F0BF16DEB18B4",
+				"6BADBCCEC53B5BD8",
+				"1B14095607A6DB2D",
+				"07F959E106D8D97F"
+			],
+			"min_required_dependencies": 43,
+			"hide_dependency_lines": true,
+			"size": 1.25,
+			"x": 22.7,
+			"y": 4.5,
+			"tasks": [
+				{
+					"id": "3C8A767F08333A14",
+					"type": "checkmark"
+				}
+			],
+			"rewards": [
+				{
+					"id": "1762C5579A604D47",
+					"item": {
+						"id": "minecraft:bee_nest",
+						"count": 1
+					},
+					"type": "item"
+				},
+				{
+					"id": "6C6A7AE2AF1240FF",
+					"item": {
+						"id": "minecraft:honeycomb_block",
+						"count": 1
+					},
+					"type": "item"
+				},
+				{
+					"id": "58E06A9185891789",
+					"xp_levels": 3,
+					"type": "xp_levels"
+				}
+			],
+			"icon": {
+				"id": "minecraft:bee_nest",
+				"count": 1
+			}
+		},
+		{
+			"id": "3847C6876C1BA814",
+			"dependencies": [
+				"6D676890F2B94A4B",
+				"3883A4335C686715",
+				"1D8B6034223E5142",
+				"6D256BB28353D0A9",
+				"1D162C818A9991EC",
+				"45D1A40248ECEE3C",
+				"7EA5A2873CB85D31",
+				"70F5DABD410168B5",
+				"198AAFA681A329B5",
+				"1766555F2A29FC9D",
+				"23D69143C3FC2259",
+				"1F1B6E3DFE7EC7BC",
+				"39A3D51CB69AA552",
+				"051331AD7ABBD27D",
+				"7A1117FD319D9CC5",
+				"607E11493CF52544",
+				"04E71437EB6131DC",
+				"5D97B63078BE8577",
+				"01A2085E65659D15",
+				"570CD489AEFA0022",
+				"6B5385E54ED55688",
+				"0603D4A1BAB21DB2",
+				"2D6AF5A3FD6098E4",
+				"4217CB62A8D8047D",
+				"570B80A180688C1F",
+				"0161AA65608C0933",
+				"4B37A7604FD42F29",
+				"3B86B36B0214894A",
+				"0A67F8B29A89D58F",
+				"37F43D329EA97BA3",
+				"239B90051673B459",
+				"09A0227316452A01",
+				"64BDF8FCCFB69AE1",
+				"636094CE2DE65EA0",
+				"3E6CCB43661E2909",
+				"6F233530FF5F9A8F",
+				"1334AF704736ABA8",
+				"49D9364B27A3E24A",
+				"03B98A4FAD7B1557",
+				"3C5D067E5405F01E",
+				"469829A1DC3E27B6",
+				"0CFFD25354D01306",
+				"12946EAB32688E57",
+				"1F6EF1D33F8B99FD",
+				"4CAB33FE457E255D",
+				"51250D72EA3AC734",
+				"4639F44B32C9E3E7",
+				"3F23CC54FF23D097",
+				"4A037B88B342CB5F",
+				"194330F60774F1D1",
+				"09D951E03D643CD1",
+				"53B61A33E1D38FCC",
+				"121B35EFA65D0C54",
+				"35C17B2DBAAD4B65",
+				"436566F8B5AFAFC3",
+				"064E0219E8CDFF4F",
+				"222DB4EB3B1C64C6",
+				"2F2226556F495883",
+				"4E94DF8562F3A8F8",
+				"6F48B598C364BC41",
+				"2C97553EEA84E1FB",
+				"546D6F5BD67ECB66",
+				"15F877034EFA41C2",
+				"5E0E03BC92818DC7",
+				"3A89AE150CBF8786",
+				"2BA804ABC790B9C1",
+				"2D22CA27F44AF658",
+				"310F0BF16DEB18B4",
+				"6BADBCCEC53B5BD8",
+				"1B14095607A6DB2D",
+				"07F959E106D8D97F"
+			],
+			"min_required_dependencies": 64,
+			"hide_dependency_lines": true,
+			"size": 1.25,
+			"x": 22.7,
+			"y": 6.4,
+			"tasks": [
+				{
+					"id": "235524A2CA90CAC5",
+					"type": "checkmark"
+				}
+			],
+			"rewards": [
+				{
+					"id": "6644B398129EEEB6",
+					"item": {
+						"id": "minecraft:flower_banner_pattern",
+						"count": 1
+					},
+					"type": "item"
+				},
+				{
+					"id": "460B3A5A27035C02",
+					"item": {
+						"id": "minecraft:globe_banner_pattern",
+						"count": 1
+					},
+					"type": "item"
+				},
+				{
+					"id": "2B31508617C753DF",
+					"xp_levels": 5,
+					"type": "xp_levels"
+				}
+			],
+			"icon": {
+				"id": "minecraft:flower_banner_pattern",
+				"count": 1
+			}
+		},
+		{
+			"id": "4B9D3D7CCAEC39DC",
+			"dependencies": [
+				"6D676890F2B94A4B",
+				"3883A4335C686715",
+				"1D8B6034223E5142",
+				"6D256BB28353D0A9",
+				"1D162C818A9991EC",
+				"45D1A40248ECEE3C",
+				"7EA5A2873CB85D31",
+				"70F5DABD410168B5",
+				"198AAFA681A329B5",
+				"1766555F2A29FC9D",
+				"23D69143C3FC2259",
+				"1F1B6E3DFE7EC7BC",
+				"39A3D51CB69AA552",
+				"051331AD7ABBD27D",
+				"7A1117FD319D9CC5",
+				"607E11493CF52544",
+				"04E71437EB6131DC",
+				"5D97B63078BE8577",
+				"01A2085E65659D15",
+				"570CD489AEFA0022",
+				"6B5385E54ED55688",
+				"0603D4A1BAB21DB2",
+				"2D6AF5A3FD6098E4",
+				"4217CB62A8D8047D",
+				"570B80A180688C1F",
+				"0161AA65608C0933",
+				"4B37A7604FD42F29",
+				"3B86B36B0214894A",
+				"0A67F8B29A89D58F",
+				"37F43D329EA97BA3",
+				"239B90051673B459",
+				"09A0227316452A01",
+				"64BDF8FCCFB69AE1",
+				"636094CE2DE65EA0",
+				"3E6CCB43661E2909",
+				"6F233530FF5F9A8F",
+				"1334AF704736ABA8",
+				"49D9364B27A3E24A",
+				"03B98A4FAD7B1557",
+				"3C5D067E5405F01E",
+				"469829A1DC3E27B6",
+				"0CFFD25354D01306",
+				"12946EAB32688E57",
+				"1F6EF1D33F8B99FD",
+				"4CAB33FE457E255D",
+				"51250D72EA3AC734",
+				"4639F44B32C9E3E7",
+				"3F23CC54FF23D097",
+				"4A037B88B342CB5F",
+				"194330F60774F1D1",
+				"09D951E03D643CD1",
+				"53B61A33E1D38FCC",
+				"121B35EFA65D0C54",
+				"35C17B2DBAAD4B65",
+				"436566F8B5AFAFC3",
+				"064E0219E8CDFF4F",
+				"222DB4EB3B1C64C6",
+				"2F2226556F495883",
+				"4E94DF8562F3A8F8",
+				"6F48B598C364BC41",
+				"2C97553EEA84E1FB",
+				"546D6F5BD67ECB66",
+				"15F877034EFA41C2",
+				"5E0E03BC92818DC7",
+				"3A89AE150CBF8786",
+				"2BA804ABC790B9C1",
+				"2D22CA27F44AF658",
+				"310F0BF16DEB18B4",
+				"6BADBCCEC53B5BD8",
+				"1B14095607A6DB2D",
+				"07F959E106D8D97F"
+			],
+			"hide_dependency_lines": true,
+			"shape": "gear",
+			"size": 1.5,
+			"x": 22.7,
+			"y": 8.299999999999999,
+			"tasks": [
+				{
+					"id": "7D6D65276ADFF63D",
+					"type": "checkmark"
+				}
+			],
+			"rewards": [
+				{
+					"id": "6AE7580AC01D56F9",
+					"item": {
+						"id": "minecraft:sniffer_egg",
+						"count": 1
+					},
+					"type": "item"
+				},
+				{
+					"id": "296F0D42893979F2",
+					"item": {
+						"id": "minecraft:beacon",
+						"count": 1
+					},
+					"type": "item"
+				},
+				{
+					"id": "1959234B3984CD84",
+					"xp_levels": 8,
+					"type": "xp_levels"
+				}
+			],
+			"icon": {
+				"id": "minecraft:sniffer_egg",
+				"count": 1
+			}
+		}
+	]
+}

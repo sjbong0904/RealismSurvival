@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:wet_sponge",
+    "realismsurvival:salt"
+  ],
+  "result": {
+    "id": "minecraft:sponge"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "farmersdelight"
+    }
+  ],
+  "items": [
+    "farmersdelight:cooked_rice",
+    "farmersdelight:fried_rice",
+    "farmersdelight:mushroom_rice",
+    "farmersdelight:dumplings",
+    "farmersdelight:stuffed_potato",
+    "farmersdelight:cabbage_rolls",
+    "farmersdelight:bacon_and_eggs",
+    "farmersdelight:pasta_with_meatballs",
+    "farmersdelight:pasta_with_mutton_chop",
+    "farmersdelight:vegetable_noodles",
+    "farmersdelight:squid_ink_pasta",
+    "farmersdelight:ratatouille"
+  ],
+  "thirst_restore": 6.0,
+  "temperature_delta": 0.25,
+  "priority": 5
+}

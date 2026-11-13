@@ -1,0 +1,381 @@
+{
+	"default_hide_dependency_lines": false,
+	"default_quest_shape": "circle",
+	"filename": "welcome",
+	"group": "6F3FA9FF9CB3BA4B",
+	"icon": {
+		"id": "minecraft:book",
+		"count": 1
+	},
+	"id": "4335527ACA7CF750",
+	"order_index": 0,
+	"quest_links": [],
+	"quests": [
+		{
+			"id": "437A5C18CAB5F403",
+			"size": 1.25,
+			"x": 0.0,
+			"y": 0.0,
+			"tasks": [
+				{
+					"id": "7415659A6CC76E63",
+					"type": "checkmark"
+				}
+			],
+			"rewards": [
+				{
+					"id": "3088CB96145CE721",
+					"count": 4,
+					"item": {
+						"id": "minecraft:bread",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:bread",
+				"count": 1
+			}
+		},
+		{
+			"id": "125C5DFA15AA03D6",
+			"dependencies": [
+				"437A5C18CAB5F403"
+			],
+			"x": 1.73,
+			"y": 0.0,
+			"tasks": [
+				{
+					"id": "0F00657D5B52BA2F",
+					"type": "checkmark"
+				}
+			]
+		},
+		{
+			"id": "79A1ABC2F7CEA7F2",
+			"dependencies": [
+				"125C5DFA15AA03D6"
+			],
+			"x": 3.33,
+			"y": -0.8,
+			"tasks": [
+				{
+					"id": "442695F4B8A5ED58",
+					"advancement": "realismsurvival:any_log",
+					"criterion": "",
+					"type": "advancement"
+				}
+			],
+			"rewards": [
+				{
+					"id": "77CF33B35E1ACCE2",
+					"count": 8,
+					"item": {
+						"id": "minecraft:stick",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:stick",
+				"count": 1
+			}
+		},
+		{
+			"id": "254C79229524A098",
+			"dependencies": [
+				"79A1ABC2F7CEA7F2"
+			],
+			"x": 4.93,
+			"y": 0.0,
+			"tasks": [
+				{
+					"id": "3440ECC30A45FF7F",
+					"item": {
+						"id": "minecraft:crafting_table",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"rewards": [
+				{
+					"id": "03314248CE33173C",
+					"count": 4,
+					"item": {
+						"id": "minecraft:charcoal",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:crafting_table",
+				"count": 1
+			}
+		},
+		{
+			"id": "6F08E3B262E1DB7A",
+			"dependencies": [
+				"254C79229524A098"
+			],
+			"x": 6.53,
+			"y": -2.4,
+			"tasks": [
+				{
+					"id": "4AE9A80340B33F49",
+					"item": {
+						"id": "minecraft:stone_pickaxe",
+						"count": 1
+					},
+					"type": "item"
+				},
+				{
+					"id": "7DBDC3AE09FCC64E",
+					"item": {
+						"id": "minecraft:stone_axe",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"rewards": [
+				{
+					"id": "002EF8D15EBBA88A",
+					"count": 8,
+					"item": {
+						"id": "minecraft:torch",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:stone_pickaxe",
+				"count": 1
+			}
+		},
+		{
+			"id": "3D9DD606BE543E1A",
+			"dependencies": [
+				"6F08E3B262E1DB7A"
+			],
+			"x": 8.12,
+			"y": -0.8,
+			"tasks": [
+				{
+					"id": "4D2B24D26D8B606E",
+					"advancement": "minecraft:adventure/sleep_in_bed",
+					"criterion": "",
+					"type": "advancement"
+				}
+			],
+			"rewards": [
+				{
+					"id": "56DDB6A3E7C61056",
+					"count": 4,
+					"item": {
+						"id": "minecraft:bread",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:bread",
+				"count": 1
+			}
+		},
+		{
+			"id": "2B4607CF88F06737",
+			"dependencies": [
+				"254C79229524A098"
+			],
+			"x": 6.53,
+			"y": -0.8,
+			"tasks": [
+				{
+					"id": "4DB78AA64740A1CE",
+					"type": "checkmark"
+				}
+			]
+		},
+		{
+			"id": "73CAEB3C9E393406",
+			"dependencies": [
+				"2B4607CF88F06737"
+			],
+			"optional": true,
+			"x": 8.12,
+			"y": 0.8,
+			"tasks": [
+				{
+					"id": "5739672FDB47D9A0",
+					"type": "checkmark"
+				}
+			]
+		},
+		{
+			"id": "35C2C67A589F4DA4",
+			"dependencies": [
+				"3D9DD606BE543E1A"
+			],
+			"x": 9.72,
+			"y": -1.6,
+			"tasks": [
+				{
+					"id": "659D5B4C4FC829CD",
+					"type": "checkmark"
+				}
+			]
+		},
+		{
+			"id": "4B6E7A3FF83A5AE2",
+			"dependencies": [
+				"254C79229524A098"
+			],
+			"x": 6.53,
+			"y": 0.8,
+			"tasks": [
+				{
+					"id": "743D063A3F4C4FA2",
+					"type": "checkmark"
+				}
+			]
+		},
+		{
+			"id": "1AF3970D831B7508",
+			"dependencies": [
+				"254C79229524A098"
+			],
+			"x": 6.53,
+			"y": 2.4,
+			"tasks": [
+				{
+					"id": "1ED76CB674E506ED",
+					"item": {
+						"id": "minecraft:chest",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:chest",
+				"count": 1
+			}
+		},
+		{
+			"id": "229DD67761C873FC",
+			"dependencies": [
+				"3D9DD606BE543E1A"
+			],
+			"x": 9.72,
+			"y": 0.0,
+			"tasks": [
+				{
+					"id": "6BF9B14F3F56045F",
+					"type": "checkmark"
+				}
+			]
+		},
+		{
+			"id": "6D8FFC6BC825D480",
+			"dependencies": [
+				"3D9DD606BE543E1A"
+			],
+			"x": 9.72,
+			"y": 1.6,
+			"tasks": [
+				{
+					"id": "25BC1BB870D7CA1B",
+					"type": "checkmark"
+				}
+			],
+			"rewards": [
+				{
+					"id": "18081D927A7822CD",
+					"count": 3,
+					"item": {
+						"id": "minecraft:glass_bottle",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:glass_bottle",
+				"count": 1
+			}
+		},
+		{
+			"id": "4D61A33A8BF76CE0",
+			"dependencies": [
+				"125C5DFA15AA03D6"
+			],
+			"optional": true,
+			"x": 3.33,
+			"y": 0.8,
+			"tasks": [
+				{
+					"id": "1489CCE02E39BCE6",
+					"type": "checkmark"
+				}
+			]
+		},
+		{
+			"id": "7902CFAF0F6B04B0",
+			"dependencies": [
+				"6F08E3B262E1DB7A",
+				"3D9DD606BE543E1A",
+				"35C2C67A589F4DA4",
+				"6D8FFC6BC825D480"
+			],
+			"shape": "gear",
+			"size": 1.5,
+			"x": 11.57,
+			"y": 0.0,
+			"tasks": [
+				{
+					"id": "4A424B3D3E9FB338",
+					"type": "checkmark"
+				}
+			],
+			"rewards": [
+				{
+					"id": "759B9DCAF9D0626B",
+					"count": 16,
+					"item": {
+						"id": "minecraft:bread",
+						"count": 1
+					},
+					"type": "item"
+				},
+				{
+					"id": "153F7B64975E7F8B",
+					"count": 32,
+					"item": {
+						"id": "minecraft:torch",
+						"count": 1
+					},
+					"type": "item"
+				},
+				{
+					"id": "5129A537801D79C3",
+					"count": 16,
+					"item": {
+						"id": "minecraft:charcoal",
+						"count": 1
+					},
+					"type": "item"
+				}
+			],
+			"icon": {
+				"id": "minecraft:bread",
+				"count": 1
+			}
+		}
+	]
+}

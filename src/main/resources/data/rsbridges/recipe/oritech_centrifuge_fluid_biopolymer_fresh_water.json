@@ -1,0 +1,34 @@
+{
+  "type": "oritech:centrifuge_fluid",
+  "fluidInput": {
+    "amount": 250,
+    "ingredient": {
+      "neoforge:ingredient_type": "neoforge:components",
+      "fluids": [
+        "realismsurvival:graded_water"
+      ],
+      "components": {
+        "realismsurvival:water_quality": 1
+      }
+    }
+  },
+  "itemInputs": [
+    "oritech:packed_wheat"
+  ],
+  "itemResults": [
+    {
+      "id": "oritech:raw_biopolymer"
+    }
+  ],
+  "time": 100,
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "oritech"
+    },
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "realismsurvival"
+    }
+  ]
+}

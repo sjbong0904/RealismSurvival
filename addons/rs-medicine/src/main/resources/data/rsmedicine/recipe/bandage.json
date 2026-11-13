@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:paper",
+    "minecraft:string",
+    "#minecraft:wool"
+  ],
+  "result": {
+    "id": "rsmedicine:bandage",
+    "count": 2
+  }
+}

@@ -1,0 +1,325 @@
+biomesoplenty:algal_end_stone	해조 엔드 돌	Algal End Stone	block
+biomesoplenty:anomaly	§k검열됨	§kANOMALY	block
+biomesoplenty:barley	보리	Barley	block
+biomesoplenty:barnacles	따개비	Barnacles	block
+biomesoplenty:black_flower_petal_block	검은색 꽃잎 블록	Black Flower Petal Block	block
+biomesoplenty:black_sand	검은 모래	Black Sand	block
+biomesoplenty:black_sandstone	검은 사암	Black Sandstone	block
+biomesoplenty:black_sandstone_wall	검은 사암 담장	Black Sandstone Wall	block
+biomesoplenty:blackstone_bulb	흑암 구근	Blackstone Bulb	block
+biomesoplenty:blackstone_spines	흑암 가시	Blackstone Spines	block
+biomesoplenty:blood	피 블록	Blood	block
+biomesoplenty:blood_bucket	혈액 양동이	Blood Bucket	item
+biomesoplenty:blue_flower_petal_block	파란색 꽃잎 블록	Blue Flower Petal Block	block
+biomesoplenty:blue_hydrangea	파란 수국	Blue Hydrangea	block
+biomesoplenty:bop_icon	BOP 아이콘	BOP Icon	item
+biomesoplenty:bramble	가시나무	Bramble	block
+biomesoplenty:bramble_leaves	가시나무 잎	Bramble Leaves	block
+biomesoplenty:brimstone	유황	Brimstone	block
+biomesoplenty:brimstone_brick_wall	유황 벽돌 담장	Brimstone Brick Wall	block
+biomesoplenty:brimstone_bricks	유황 벽돌	Brimstone Bricks	block
+biomesoplenty:brimstone_bud	유황 봉오리	Brimstone Bud	block
+biomesoplenty:brimstone_cluster	유황 군집	Brimstone Cluster	block
+biomesoplenty:brimstone_fumarole	유황 분기공	Brimstone Fumarole	block
+biomesoplenty:brown_flower_petal_block	갈색 꽃잎 블록	Brown Flower Petal Block	block
+biomesoplenty:burning_blossom	불타는 꽃	Burning Blossom	block
+biomesoplenty:cattail	부들	Cattail	block
+biomesoplenty:chiseled_black_sandstone	조각된 검은 사암	Chiseled Black Sandstone	block
+biomesoplenty:chiseled_brimstone_bricks	조각된 유황 벽돌	Chiseled Brimstone Bricks	block
+biomesoplenty:chiseled_orange_sandstone	조각된 주황 사암	Chiseled Orange Sandstone	block
+biomesoplenty:chiseled_white_sandstone	조각된 하얀 사암	Chiseled White Sandstone	block
+biomesoplenty:clover	클로버	Clover	block
+biomesoplenty:cut_black_sandstone	깎인 검은 사암	Cut Black Sandstone	block
+biomesoplenty:cut_orange_sandstone	깎인 주황 사암	Cut Orange Sandstone	block
+biomesoplenty:cut_white_sandstone	깎인 하얀 사암	Cut White Sandstone	block
+biomesoplenty:cyan_flower_petal_block	청록색 꽃잎 블록	Cyan Flower Petal Block	block
+biomesoplenty:cypress_leaves	편백나무 잎	Cypress Leaves	block
+biomesoplenty:cypress_sapling	편백나무 묘목	Cypress Sapling	block
+biomesoplenty:dead_boat	죽은 나무 보트	Dead Boat	item
+biomesoplenty:dead_branch	죽은 나뭇가지	Dead Branch	block
+biomesoplenty:dead_chest_boat	상자가 실린 죽은 나무 보트	Dead Boat with Chest	item
+biomesoplenty:dead_grass	죽은 잔디 블록	Dead Grass	block
+biomesoplenty:dead_leaves	죽은 나무 잎	Dead Leaves	block
+biomesoplenty:dead_log	죽은 나무 원목	Dead Log	block
+biomesoplenty:dead_planks	죽은 나무 판자	Dead Planks	block
+biomesoplenty:dead_sapling	죽은 나무 묘목	Dead Sapling	block
+biomesoplenty:dead_shelf	죽은 나무 선반	Dead Shelf	block
+biomesoplenty:dead_wood	죽은 나무	Dead Wood	block
+biomesoplenty:desert_grass	사막 잔디 블록	Desert Grass	block
+biomesoplenty:dried_salt	건조염	Dried Salt	block
+biomesoplenty:dune_grass	모래언덕 잔디 블록	Dune Grass	block
+biomesoplenty:empyreal_boat	엠피리얼 나무 보트	Empyreal Boat	item
+biomesoplenty:empyreal_chest_boat	상자가 실린 엠피리얼 나무 보트	Empyreal Boat with Chest	item
+biomesoplenty:empyreal_leaves	엠피리얼 나무 잎	Empyreal Leaves	block
+biomesoplenty:empyreal_log	엠피리얼 나무 원목	Empyreal Log	block
+biomesoplenty:empyreal_planks	엠피리얼 나무 판자	Empyreal Planks	block
+biomesoplenty:empyreal_sapling	엠피리얼 나무 묘목	Empyreal Sapling	block
+biomesoplenty:empyreal_shelf	엠피리얼 나무 선반	Empyreal Shelf	block
+biomesoplenty:empyreal_wood	엠피리얼 나무	Empyreal Wood	block
+biomesoplenty:endbloom	엔드 풀	Endbloom	block
+biomesoplenty:enderphyte	엔드 줄기 풀	Enderphyte	block
+biomesoplenty:eyebulb	안구	Eyebulb	block
+biomesoplenty:fir_boat	전나무 보트	Fir Boat	item
+biomesoplenty:fir_chest_boat	상자가 실린 전나무 보트	Fir Boat with Chest	item
+biomesoplenty:fir_leaves	전나무 잎	Fir Leaves	block
+biomesoplenty:fir_log	전나무 원목	Fir Log	block
+biomesoplenty:fir_planks	전나무 판자	Fir Planks	block
+biomesoplenty:fir_sapling	전나무 묘목	Fir Sapling	block
+biomesoplenty:fir_shelf	전나무 선반	Fir Shelf	block
+biomesoplenty:fir_wood	전나무	Fir Wood	block
+biomesoplenty:flesh	살점 블록	Flesh	block
+biomesoplenty:flesh_tendons	살점 힘줄	Flesh Tendons	block
+biomesoplenty:flesh_tendons_strand	살점 힘줄 가닥	Flesh Tendons Strand	block
+biomesoplenty:flower_bud	꽃봉오리	Flower Bud	block
+biomesoplenty:flower_stem	꽃 줄기	Flower Stem	block
+biomesoplenty:flowering_oak_leaves	꽃피는 참나무 잎	Flowering Oak Leaves	block
+biomesoplenty:flowering_oak_sapling	꽃피는 참나무 묘목	Flowering Oak Sapling	block
+biomesoplenty:glowflower	빛나는 꽃	Glowflower	block
+biomesoplenty:glowing_moss_block	빛나는 이끼 블록	Glowing Moss Block	block
+biomesoplenty:glowshroom	빛나는 버섯	Glowshroom	block
+biomesoplenty:glowshroom_block	빛나는 버섯 블록	Glowshroom Block	block
+biomesoplenty:glowworm_silk	글로우웜 비단	Glowworm Silk	block
+biomesoplenty:glowworm_silk_strand	글로우웜 비단 가닥	Glowworm Silk Strand	block
+biomesoplenty:goldenrod	미역취	Goldenrod	block
+biomesoplenty:gray_flower_petal_block	회색 꽃잎 블록	Gray Flower Petal Block	block
+biomesoplenty:green_flower_petal_block	초록색 꽃잎 블록	Green Flower Petal Block	block
+biomesoplenty:hair	머리카락	Hair	block
+biomesoplenty:hanging_cobweb	매달린 거미줄	Hanging Cobweb	block
+biomesoplenty:hanging_cobweb_strand	매달린 거미줄 가닥	Hanging Cobweb Strand	block
+biomesoplenty:hellbark_boat	지옥껍질나무 보트	Hellbark Boat	item
+biomesoplenty:hellbark_chest_boat	상자가 실린 지옥껍질나무 보트	Hellbark Boat with Chest	item
+biomesoplenty:hellbark_leaves	지옥껍질나무 잎	Hellbark Leaves	block
+biomesoplenty:hellbark_log	지옥껍질나무 원목	Hellbark Log	block
+biomesoplenty:hellbark_planks	지옥껍질나무 판자	Hellbark Planks	block
+biomesoplenty:hellbark_sapling	지옥껍질나무 묘목	Hellbark Sapling	block
+biomesoplenty:hellbark_shelf	지옥껍질나무 선반	Hellbark Shelf	block
+biomesoplenty:hellbark_wood	지옥껍질나무	Hellbark Wood	block
+biomesoplenty:high_grass	큰 잔디	High Grass	block
+biomesoplenty:high_grass_plant	큰 잔디 식물	High Grass Plant	block
+biomesoplenty:huge_clover_petal	거대한 클로버 꽃잎	Huge Clover Petal	block
+biomesoplenty:huge_lily_pad	큰 백합 잎	Huge Lily Pad	block
+biomesoplenty:icy_iris	차가운 붓꽃	Icy Iris	block
+biomesoplenty:jacaranda_boat	자카란다나무 보트	Jacaranda Boat	item
+biomesoplenty:jacaranda_chest_boat	상자가 실린 자카란다나무 보트	Jacaranda Boat with Chest	item
+biomesoplenty:jacaranda_leaves	자카란다나무 잎	Jacaranda Leaves	block
+biomesoplenty:jacaranda_log	자카란다나무 원목	Jacaranda Log	block
+biomesoplenty:jacaranda_planks	자카란다나무 판자	Jacaranda Planks	block
+biomesoplenty:jacaranda_sapling	자카란다나무 묘목	Jacaranda Sapling	block
+biomesoplenty:jacaranda_shelf	자카란다나무 선반	Jacaranda Shelf	block
+biomesoplenty:jacaranda_wood	자카란다나무	Jacaranda Wood	block
+biomesoplenty:large_rose_quartz_bud	큰 장미석영 봉오리	Large Rose Quartz Bud	block
+biomesoplenty:lavender	라벤더	Lavender	block
+biomesoplenty:light_blue_flower_petal_block	하늘색 꽃잎 블록	Light Blue Flower Petal Block	block
+biomesoplenty:light_gray_flower_petal_block	회백색 꽃잎 블록	Light Gray Flower Petal Block	block
+biomesoplenty:lime_flower_petal_block	연두색 꽃잎 블록	Lime Flower Petal Block	block
+biomesoplenty:liquid_null	����	����	block
+biomesoplenty:liquid_null_bucket	���� 양동이	���� Bucket	item
+biomesoplenty:lumaloop	루마줄기	Lumaloop	block
+biomesoplenty:lumaloop_plant	루마줄기 식물	Lumaloop Plant	block
+biomesoplenty:magenta_flower_petal_block	자홍색 꽃잎 블록	Magenta Flower Petal Block	block
+biomesoplenty:magic_boat	마법나무 보트	Magic Boat	item
+biomesoplenty:magic_chest_boat	상자가 실린 마법나무 보트	Magic Boat with Chest	item
+biomesoplenty:magic_leaves	마법나무 잎	Magic Leaves	block
+biomesoplenty:magic_log	마법나무 원목	Magic Log	block
+biomesoplenty:magic_planks	마법나무 판자	Magic Planks	block
+biomesoplenty:magic_sapling	마법나무 묘목	Magic Sapling	block
+biomesoplenty:magic_shelf	마법나무 선반	Magic Shelf	block
+biomesoplenty:magic_wood	마법나무	Magic Wood	block
+biomesoplenty:mahogany_boat	마호가니 보트	Mahogany Boat	item
+biomesoplenty:mahogany_chest_boat	상자가 실린 마호가니 보트	Mahogany Boat with Chest	item
+biomesoplenty:mahogany_leaves	마호가니 잎	Mahogany Leaves	block
+biomesoplenty:mahogany_log	마호가니 원목	Mahogany Log	block
+biomesoplenty:mahogany_planks	마호가니 판자	Mahogany Planks	block
+biomesoplenty:mahogany_sapling	마호가니 묘목	Mahogany Sapling	block
+biomesoplenty:mahogany_shelf	마호가니 선반	Mahogany Shelf	block
+biomesoplenty:mahogany_wood	마호가니	Mahogany Wood	block
+biomesoplenty:maple_boat	단풍나무 보트	Maple Boat	item
+biomesoplenty:maple_chest_boat	상자가 실린 단풍나무 보트	Maple Boat with Chest	item
+biomesoplenty:maple_log	단풍나무 원목	Maple Log	block
+biomesoplenty:maple_planks	단풍나무 판자	Maple Planks	block
+biomesoplenty:maple_shelf	단풍나무 선반	Maple Shelf	block
+biomesoplenty:maple_wood	단풍나무	Maple Wood	block
+biomesoplenty:marigold	천수국	Marigold	block
+biomesoplenty:medium_rose_quartz_bud	중간 장미석영 봉오리	Medium Rose Quartz Bud	block
+biomesoplenty:mossy_black_sand	이끼긴 검은 모래	Mossy Black Sand	block
+biomesoplenty:music_disc_wanderer	음반	Music Disc	item
+biomesoplenty:null_block	�����	�����	block
+biomesoplenty:null_end_stone	ㅇ�ㅔㄴ��드�도�ㄹ	En�d��St�o�ne	block
+biomesoplenty:null_leaves	� �� � �	� �� � �	block
+biomesoplenty:null_plant	��� �����	��� �����	block
+biomesoplenty:orange_cosmos	주황 코스모스	Orange Cosmos	block
+biomesoplenty:orange_flower_petal_block	주황색 꽃잎 블록	Orange Flower Petal Block	block
+biomesoplenty:orange_maple_leaf_litter	주황 단풍나무 잎 무더기	Orange Maple Leaf Litter	block
+biomesoplenty:orange_maple_leaves	주황 단풍나무 잎	Orange Maple Leaves	block
+biomesoplenty:orange_maple_sapling	주황 단풍나무 묘목	Orange Maple Sapling	block
+biomesoplenty:orange_sand	주황 모래	Orange Sand	block
+biomesoplenty:orange_sandstone	주황 사암	Orange Sandstone	block
+biomesoplenty:orange_sandstone_wall	주황 사암 담장	Orange Sandstone Wall	block
+biomesoplenty:origin_dandelion	원조 민들레	Origin Dandelion	block
+biomesoplenty:origin_grass_block	원조 잔디 블록	Origin Grass Block	block
+biomesoplenty:origin_oak_boat	원조 참나무 보트	Origin Oak Boat	item
+biomesoplenty:origin_oak_chest_boat	상자가 실린 원조 참나무 보트	Origin Oak Boat with Chest	item
+biomesoplenty:origin_oak_leaves	원조 참나무 잎	Origin Oak Leaves	block
+biomesoplenty:origin_oak_log	원조 참나무 원목	Origin Oak Log	block
+biomesoplenty:origin_oak_planks	원조 참나무 판자	Origin Oak Planks	block
+biomesoplenty:origin_oak_sapling	원조 참나무 묘목	Origin Oak Sapling	block
+biomesoplenty:origin_oak_shelf	원조 참나무 선반	Origin Oak Shelf	block
+biomesoplenty:origin_oak_wood	원조 참나무	Origin Oak Wood	block
+biomesoplenty:origin_rose	원조 장미	Origin Rose	block
+biomesoplenty:palm_boat	야자나무 보트	Palm Boat	item
+biomesoplenty:palm_chest_boat	상자가 실린 야자나무 보트	Palm Boat with Chest	item
+biomesoplenty:palm_leaves	야자나무 잎	Palm Leaves	block
+biomesoplenty:palm_log	야자나무 원목	Palm Log	block
+biomesoplenty:palm_planks	야자나무 판자	Palm Planks	block
+biomesoplenty:palm_sapling	야자나무 묘목	Palm Sapling	block
+biomesoplenty:palm_shelf	야자나무 선반	Palm Shelf	block
+biomesoplenty:palm_wood	야자나무	Palm Wood	block
+biomesoplenty:pine_boat	소나무 보트	Pine Boat	item
+biomesoplenty:pine_chest_boat	상자가 실린 소나무 보트	Pine Boat with Chest	item
+biomesoplenty:pine_leaves	소나무 잎	Pine Leaves	block
+biomesoplenty:pine_log	소나무 원목	Pine Log	block
+biomesoplenty:pine_planks	소나무 판자	Pine Planks	block
+biomesoplenty:pine_sapling	소나무 묘목	Pine Sapling	block
+biomesoplenty:pine_shelf	소나무 선반	Pine Shelf	block
+biomesoplenty:pine_wood	소나무	Pine Wood	block
+biomesoplenty:pink_daffodil	분홍 수선화	Pink Daffodil	block
+biomesoplenty:pink_flower_petal_block	분홍색 꽃잎 블록	Pink Flower Petal Block	block
+biomesoplenty:pink_hibiscus	분홍 히비스커스	Pink Hibiscus	block
+biomesoplenty:porous_flesh	다공성 살점 블록	Porous Flesh	block
+biomesoplenty:potted_burning_blossom	화분에 심은 불타는 꽃	Potted Burning Blossom	block
+biomesoplenty:potted_cypress_sapling	화분에 심은 편백나무 묘목	Potted Cypress Sapling	block
+biomesoplenty:potted_dead_sapling	화분에 심은 죽은 나무 묘목	Potted Dead Sapling	block
+biomesoplenty:potted_empyreal_sapling	화분에 심은 엠피리얼 나무 묘목	Potted Empyreal Sapling	block
+biomesoplenty:potted_endbloom	화분에 심은 엔드 풀	Potted Endbloom	block
+biomesoplenty:potted_fir_sapling	화분에 심은 전나무 묘목	Potted Fir Sapling	block
+biomesoplenty:potted_flowering_oak_sapling	화분에 심은 꽃피는 참나무 묘목	Potted Flowering Oak Sapling	block
+biomesoplenty:potted_glowflower	화분에 심은 빛나는 꽃	Potted Glowflower	block
+biomesoplenty:potted_glowshroom	화분에 심은 빛나는 버섯	Potted Glowshroom	block
+biomesoplenty:potted_hellbark_sapling	화분에 심은 지옥껍질나무 묘목	Potted Hellbark Sapling	block
+biomesoplenty:potted_jacaranda_sapling	화분에 심은 자카란다나무 묘목	Potted Jacaranda Sapling	block
+biomesoplenty:potted_lavender	화분에 심은 라벤더	Potted Lavender	block
+biomesoplenty:potted_magic_sapling	화분에 심은 마법나무 묘목	Potted Magic Sapling	block
+biomesoplenty:potted_mahogany_sapling	화분에 심은 마호가니 묘목	Potted Mahogany Sapling	block
+biomesoplenty:potted_marigold	화분에 심은 천수국	Potted Marigold	block
+biomesoplenty:potted_orange_cosmos	화분에 심은 주황 코스모스	Potted Orange Cosmos	block
+biomesoplenty:potted_orange_maple_sapling	화분에 심은 주황가을나무 묘목	Potted Orange Maple Sapling	block
+biomesoplenty:potted_origin_dandelion	화분에 심은 원조 민들레	Potted Origin Dandelion	block
+biomesoplenty:potted_origin_oak_sapling	화분에 심은 원조 참나무 묘목	Potted Origin Oak Sapling	block
+biomesoplenty:potted_origin_rose	화분에 심은 원조 장미	Potted Origin Rose	block
+biomesoplenty:potted_palm_sapling	화분에 심은 야자나무 묘목	Potted Palm Sapling	block
+biomesoplenty:potted_pine_sapling	화분에 심은 소나무 묘목	Potted Pine Sapling	block
+biomesoplenty:potted_pink_daffodil	화분에 심은 분홍 수선화	Potted Pink Daffodil	block
+biomesoplenty:potted_pink_hibiscus	화분에 심은 분홍 히비스커스	Potted Pink Hibiscus	block
+biomesoplenty:potted_red_maple_sapling	화분에 심은 빨간 단풍나무 묘목	Potted Red Maple Sapling	block
+biomesoplenty:potted_redwood_sapling	화분에 심은 삼나무 묘목	Potted Redwood Sapling	block
+biomesoplenty:potted_snowblossom_sapling	화분에 심은 눈꽃 묘목	Potted Snowblossom Sapling	block
+biomesoplenty:potted_sprout	화분에 심은 싹	Potted Sprout	block
+biomesoplenty:potted_tiny_cactus	화분에 심은 작은 선인장	Potted Tiny Cactus	block
+biomesoplenty:potted_toadstool	화분에 심은 독버섯	Potted Toadstool	block
+biomesoplenty:potted_umbran_sapling	화분에 심은 그림자나무 묘목	Potted Umbran Sapling	block
+biomesoplenty:potted_violet	화분에 심은 제비꽃	Potted Violet	block
+biomesoplenty:potted_white_lavender	화분에 심은 하얀 라벤더	Potted White Lavender	block
+biomesoplenty:potted_willow_sapling	화분에 심은 버드나무 묘목	Potted Willow Sapling	block
+biomesoplenty:potted_wilted_lily	화분에 심은 시든 백합	Potted Wilted Lily	block
+biomesoplenty:potted_yellow_maple_sapling	화분에 심은 노란가을나무 묘목	Potted Yellow Maple Sapling	block
+biomesoplenty:purple_flower_petal_block	보라색 꽃잎 블록	Purple Flower Petal Block	block
+biomesoplenty:purple_wildflowers	보라색 들꽃	Purple Wildflowers	block
+biomesoplenty:pus_bubble	고름 거품	Pus Bubble	block
+biomesoplenty:red_flower_petal_block	빨간색 꽃잎 블록	Red Flower Petal Block	block
+biomesoplenty:red_maple_leaf_litter	빨간 단풍나무 잎 무더기	Red Maple Leaf Litter	block
+biomesoplenty:red_maple_leaves	빨간 단풍나무 잎	Red Maple Leaves	block
+biomesoplenty:red_maple_sapling	빨간 단풍나무 묘목	Red Maple Sapling	block
+biomesoplenty:redwood_boat	삼나무 보트	Redwood Boat	item
+biomesoplenty:redwood_chest_boat	상자가 실린 삼나무 보트	Redwood Boat with Chest	item
+biomesoplenty:redwood_leaves	삼나무 잎	Redwood Leaves	block
+biomesoplenty:redwood_log	삼나무 원목	Redwood Log	block
+biomesoplenty:redwood_planks	삼나무 판자	Redwood Planks	block
+biomesoplenty:redwood_sapling	삼나무 묘목	Redwood Sapling	block
+biomesoplenty:redwood_shelf	삼나무 선반	Redwood Shelf	block
+biomesoplenty:redwood_wood	삼나무	Redwood Wood	block
+biomesoplenty:reed	갈대	Reed	block
+biomesoplenty:rose_quartz_block	장미석영 블록	Block of Rose Quartz	block
+biomesoplenty:rose_quartz_chunk	장미석영 조각	Rose Quartz Chunk	item
+biomesoplenty:rose_quartz_cluster	장미석영 군집	Rose Quartz Cluster	block
+biomesoplenty:sea_oats	낚시귀리	Sea Oats	block
+biomesoplenty:small_rose_quartz_bud	작은 장미석영 봉오리	Small Rose Quartz Bud	block
+biomesoplenty:smooth_black_sandstone	매끄러운 검은 사암	Smooth Black Sandstone	block
+biomesoplenty:smooth_orange_sandstone	매끄러운 주황 사암	Smooth Orange Sandstone	block
+biomesoplenty:smooth_white_sandstone	매끄러운 하얀 사암	Smooth White Sandstone	block
+biomesoplenty:snowblossom_leaves	눈꽃 잎	Snowblossom Leaves	block
+biomesoplenty:snowblossom_sapling	눈꽃 묘목	Snowblossom Sapling	block
+biomesoplenty:spanish_moss	스페인 이끼	Spanish Moss	block
+biomesoplenty:spanish_moss_plant	스페인 이끼 식물	Spanish Moss Plant	block
+biomesoplenty:spider_egg	거미 알	Spider Egg	block
+biomesoplenty:sprout	싹	Sprout	block
+biomesoplenty:stringy_cobweb	끈적끈적한 거미줄	Stringy Cobweb	block
+biomesoplenty:stripped_dead_log	껍질 벗긴 죽은 나무 원목	Stripped Dead Log	block
+biomesoplenty:stripped_dead_wood	껍질 벗긴 죽은 나무	Stripped Dead Wood	block
+biomesoplenty:stripped_empyreal_log	껍질 벗긴 엠피리얼 나무 원목	Stripped Empyreal Log	block
+biomesoplenty:stripped_empyreal_wood	껍질 벗긴 엠피리얼 나무	Stripped Empyreal Wood	block
+biomesoplenty:stripped_fir_log	껍질 벗긴 전나무 원목	Stripped Fir Log	block
+biomesoplenty:stripped_fir_wood	껍질 벗긴 전나무	Stripped Fir Wood	block
+biomesoplenty:stripped_hellbark_log	껍질 벗긴 지옥껍질나무 원목	Stripped Hellbark Log	block
+biomesoplenty:stripped_hellbark_wood	껍질 벗긴 지옥껍질나무	Stripped Hellbark Wood	block
+biomesoplenty:stripped_jacaranda_log	껍질 벗긴 자카란다나무 원목	Stripped Jacaranda Log	block
+biomesoplenty:stripped_jacaranda_wood	껍질 벗긴 자카란다나무	Stripped Jacaranda Wood	block
+biomesoplenty:stripped_magic_log	껍질 벗긴 마법나무 원목	Stripped Magic Log	block
+biomesoplenty:stripped_magic_wood	껍질 벗긴 마법나무	Stripped Magic Wood	block
+biomesoplenty:stripped_mahogany_log	껍질 벗긴 마호가니 원목	Stripped Mahogany Log	block
+biomesoplenty:stripped_mahogany_wood	껍질 벗긴 마호가니	Stripped Mahogany Wood	block
+biomesoplenty:stripped_maple_log	껍질 벗긴 단풍나무 원목	Stripped Maple Log	block
+biomesoplenty:stripped_maple_wood	껍질 벗긴 단풍나무	Stripped Maple Wood	block
+biomesoplenty:stripped_origin_oak_log	껍질 벗긴 원조 참나무 원목	Stripped Origin Oak Log	block
+biomesoplenty:stripped_origin_oak_wood	껍질 벗긴 원조 참나무	Stripped Origin Oak Wood	block
+biomesoplenty:stripped_palm_log	껍질 벗긴 야자나무 원목	Stripped Palm Log	block
+biomesoplenty:stripped_palm_wood	껍질 벗긴 야자나무	Stripped Palm Wood	block
+biomesoplenty:stripped_pine_log	껍질 벗긴 소나무 원목	Stripped Pine Log	block
+biomesoplenty:stripped_pine_wood	껍질 벗긴 소나무	Stripped Pine Wood	block
+biomesoplenty:stripped_redwood_log	껍질 벗긴 삼나무 원목	Stripped Redwood Log	block
+biomesoplenty:stripped_redwood_wood	껍질 벗긴 삼나무	Stripped Redwood Wood	block
+biomesoplenty:stripped_umbran_log	껍질 벗긴 그림자나무 원목	Stripped Umbran Log	block
+biomesoplenty:stripped_umbran_wood	껍질 벗긴 그림자나무	Stripped Umbran Wood	block
+biomesoplenty:stripped_willow_log	껍질 벗긴 버드나무 원목	Stripped Willow Log	block
+biomesoplenty:stripped_willow_wood	껍질 벗긴 버드나무	Stripped Willow Wood	block
+biomesoplenty:tall_lavender	높이 자란 라벤더	Tall Lavender	block
+biomesoplenty:tall_white_lavender	높이 자란 하얀 라벤더	Tall White Lavender	block
+biomesoplenty:thermal_calcite	가열된 방해석	Thermal Calcite	block
+biomesoplenty:thermal_calcite_vent	가열된 방해석 기공	Thermal Calcite Vent	block
+biomesoplenty:tiny_cactus	작은 선인장	Tiny Cactus	block
+biomesoplenty:toadstool	독버섯	Toadstool	block
+biomesoplenty:toadstool_block	독버섯 블록	Toadstool Block	block
+biomesoplenty:tundra_shrub	툰드라 관목	Tundra Shrub	block
+biomesoplenty:umbran_boat	그림자나무 보트	Umbran Boat	item
+biomesoplenty:umbran_chest_boat	상자가 실린 그림자나무 보트	Umbran Boat with Chest	item
+biomesoplenty:umbran_leaves	그림자나무 잎	Umbran Leaves	block
+biomesoplenty:umbran_log	그림자나무 원목	Umbran Log	block
+biomesoplenty:umbran_planks	그림자나무 판자	Umbran Planks	block
+biomesoplenty:umbran_sapling	그림자나무 묘목	Umbran Sapling	block
+biomesoplenty:umbran_shelf	그림자나무 선반	Umbran Shelf	block
+biomesoplenty:umbran_wood	그림자나무	Umbran Wood	block
+biomesoplenty:unmapped_end_stone	§m엔드 돌	§mEnd Stone	block
+biomesoplenty:violet	제비꽃	Violet	block
+biomesoplenty:watergrass	모기골	Watergrass	block
+biomesoplenty:waterlily	수련	Waterlily	block
+biomesoplenty:webbing	띠	Webbing	block
+biomesoplenty:white_flower_petal_block	하얀색 꽃잎 블록	White Flower Petal Block	block
+biomesoplenty:white_lavender	하얀 라벤더	White Lavender	block
+biomesoplenty:white_petals	하얀 꽃잎	White Petals	block
+biomesoplenty:white_sand	하얀 모래	White Sand	block
+biomesoplenty:white_sandstone	하얀 사암	White Sandstone	block
+biomesoplenty:white_sandstone_wall	하얀 사암 담장	White Sandstone Wall	block
+biomesoplenty:willow_boat	버드나무 보트	Willow Boat	item
+biomesoplenty:willow_chest_boat	상자가 실린 버드나무 보트	Willow Boat with Chest	item
+biomesoplenty:willow_leaves	버드나무 잎	Willow Leaves	block
+biomesoplenty:willow_log	버드나무 원목	Willow Log	block
+biomesoplenty:willow_planks	버드나무 판자	Willow Planks	block
+biomesoplenty:willow_sapling	버드나무 묘목	Willow Sapling	block
+biomesoplenty:willow_shelf	버드나무 선반	Willow Shelf	block
+biomesoplenty:willow_vine	버드나무 덩굴	Willow Vine	block
+biomesoplenty:willow_wood	버드나무	Willow Wood	block
+biomesoplenty:wilted_lily	시든 백합	Wilted Lily	block
+biomesoplenty:wispjelly	위습젤리	Wispjelly	block
+biomesoplenty:yellow_flower_petal_block	노란색 꽃잎 블록	Yellow Flower Petal Block	block
+biomesoplenty:yellow_maple_leaf_litter	노란 단풍나무 잎 무더기	Yellow Maple Leaf Litter	block
+biomesoplenty:yellow_maple_leaves	노란가을나무 잎	Yellow Maple Leaves	block
+biomesoplenty:yellow_maple_sapling	노란가을나무 묘목	Yellow Maple Sapling	block

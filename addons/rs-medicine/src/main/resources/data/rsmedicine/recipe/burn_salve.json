@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:bowl",
+    ["minecraft:slime_ball", "minecraft:magma_cream"],
+    "minecraft:honey_bottle"
+  ],
+  "result": {
+    "id": "rsmedicine:burn_salve",
+    "count": 2
+  }
+}

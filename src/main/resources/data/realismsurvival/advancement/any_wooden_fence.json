@@ -1,0 +1,24 @@
+{
+  "parent": "minecraft:adventure/root",
+  "criteria": {
+    "fences": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "#minecraft:wooden_fences",
+            "count": {
+              "min": 16
+            }
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "fences"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

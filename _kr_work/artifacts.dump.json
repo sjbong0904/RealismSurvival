@@ -1,0 +1,877 @@
+[
+{
+"k": "artifacts.config.client.showArtifactsOnPlayers.description.0",
+"en": "Whether worn artifacts should be displayed on players",
+"jko": null,
+"ov": "착용된 유물을 플레이어에게 표시할지 여부",
+"src": "착용 중인 Artifacts 유물을 플레이어 모델에 표시할지 여부"
+},
+{
+"k": "artifacts.config.client.showArtifactsOnPlayers.description.1",
+"en": "This config option is purely client-side, it does not change what other players see",
+"jko": null,
+"ov": "이 구성 옵션은 순전히 클라이언트 측이므로 다른 플레이어가 보는 내용은 변경되지 않습니다.",
+"src": "이 설정은 클라이언트 전용이며, 다른 플레이어에게 보이는 모습은 바꾸지 않습니다"
+},
+{
+"k": "artifacts.config.client.showArtifactsOnPlayers.title",
+"en": "Show Artifacts on Players",
+"jko": null,
+"ov": "플레이어에게 유물 표시",
+"src": "플레이어에게 유물 표시"
+},
+{
+"k": "artifacts.config.durability.canBeDamaged.description",
+"en": "Whether this item has a limited number of uses",
+"jko": null,
+"ov": "이 품목의 사용 횟수가 제한되어 있는지 여부",
+"src": "이 아이템에 사용 횟수(내구도) 제한이 있는지 여부"
+},
+{
+"k": "artifacts.config.durability.canBeDamaged.title",
+"en": "Can be Damaged",
+"jko": null,
+"ov": "손상될 수 있음",
+"src": "피해 입을 수 있음"
+},
+{
+"k": "artifacts.config.durability.canBeRepaired.description",
+"en": "Whether this item can be repaired using items in the %s item tag",
+"jko": null,
+"ov": "%s 아이템 태그에 있는 아이템을 사용하여 이 아이템을 수리할 수 있는지 여부",
+"src": "이 아이템을 %s 아이템 태그의 아이템으로 수리할 수 있는지 여부"
+},
+{
+"k": "artifacts.config.durability.canBeRepaired.title",
+"en": "Can be Repaired",
+"jko": null,
+"ov": "수리 가능",
+"src": "수리 가능"
+},
+{
+"k": "artifacts.config.durability.damagePerActivation.description",
+"en": "The amount of durability lost every time this item's ability is triggered",
+"jko": null,
+"ov": "이 아이템의 능력이 발동될 때마다 내구도가 감소합니다.",
+"src": "능력이 발동될 때마다 잃는 내구도"
+},
+{
+"k": "artifacts.config.durability.damagePerActivation.title",
+"en": "Damage per Activation",
+"jko": null,
+"ov": "활성화당 피해",
+"src": "발동당 내구도 손상"
+},
+{
+"k": "artifacts.config.durability.damagePerAttack.description",
+"en": "The amount of durability lost for every melee attack performed while wearing this item",
+"jko": null,
+"ov": "이 아이템을 착용한 상태에서 근접 공격을 할 때마다 내구도가 감소합니다.",
+"src": "착용 중 근접 공격을 할 때마다 잃는 내구도"
+},
+{
+"k": "artifacts.config.durability.damagePerAttack.title",
+"en": "Damage per Attack",
+"jko": null,
+"ov": "공격당 피해",
+"src": "공격당 내구도 손상"
+},
+{
+"k": "artifacts.config.durability.damagePerItemDrunk.description",
+"en": "The amount of durability lost every time an item is drunk",
+"jko": null,
+"ov": "아이템을 마실 때마다 내구도가 감소합니다.",
+"src": "아이템을 마실 때마다 잃는 내구도"
+},
+{
+"k": "artifacts.config.durability.damagePerItemDrunk.title",
+"en": "Damage per Item Drunk",
+"jko": null,
+"ov": "아이템당 데미지",
+"src": "음료당 내구도 손상"
+},
+{
+"k": "artifacts.config.durability.damagePerItemEaten.description",
+"en": "The amount of durability lost every time an item is eaten",
+"jko": null,
+"ov": "아이템을 먹을 때마다 내구도가 감소합니다.",
+"src": "아이템을 먹을 때마다 잃는 내구도"
+},
+{
+"k": "artifacts.config.durability.damagePerItemEaten.title",
+"en": "Damage per Item Eaten",
+"jko": null,
+"ov": "먹은 아이템당 피해",
+"src": "섭취당 내구도 손상"
+},
+{
+"k": "artifacts.config.durability.damagePerKill.description",
+"en": "The amount of durability lost for every entity killed while wearing this item",
+"jko": null,
+"ov": "이 아이템을 착용하는 동안 개체가 죽으면 내구도가 감소합니다.",
+"src": "착용 중 개체를 처치할 때마다 잃는 내구도"
+},
+{
+"k": "artifacts.config.durability.damagePerKill.title",
+"en": "Damage per Kill",
+"jko": null,
+"ov": "킬당 피해",
+"src": "처치당 내구도 손상"
+},
+{
+"k": "artifacts.config.durability.damagePerOreMined.description",
+"en": "The amount of durability lost for every ore block mined",
+"jko": null,
+"ov": "광석 블록을 채굴할 때마다 내구도가 감소합니다.",
+"src": "광석 블록을 채굴할 때마다 잃는 내구도"
+},
+{
+"k": "artifacts.config.durability.damagePerOreMined.title",
+"en": "Damage per Ore Mined",
+"jko": null,
+"ov": "광석 채굴당 피해",
+"src": "광석 채굴당 내구도 손상"
+},
+{
+"k": "artifacts.config.durability.damagePerSecondActive.description",
+"en": "The amount of durability lost for every second this item is toggled on",
+"jko": null,
+"ov": "이 아이템을 켜면 매초마다 내구도가 감소합니다.",
+"src": "켜져 있는 동안 매 초마다 잃는 내구도"
+},
+{
+"k": "artifacts.config.durability.damagePerSecondActive.title",
+"en": "Damage per Second Active",
+"jko": null,
+"ov": "활성 초당 피해",
+"src": "활성 초당 내구도 손상"
+},
+{
+"k": "artifacts.config.durability.damageWhenConsumed.description",
+"en": "The amount of durability that is lost when this item is consumed",
+"jko": null,
+"ov": "해당 아이템을 소모할 때 소모되는 내구도의 양입니다.",
+"src": "아이템이 소모될 때 잃는 내구도"
+},
+{
+"k": "artifacts.config.durability.damageWhenConsumed.title",
+"en": "Damage when Consumed",
+"jko": null,
+"ov": "섭취 시 피해",
+"src": "소모 시 내구도 손상"
+},
+{
+"k": "artifacts.config.durability.indestructible.description",
+"en": "Whether this item should remain intact and stop working when its durability reaches 1",
+"jko": null,
+"ov": "이 항목을 그대로 유지하고 내구도가 1에 도달하면 작동을 중지해야 하는지 여부",
+"src": "내구도가 1이 되면 파괴되지 않고 작동만 멈출지 여부"
+},
+{
+"k": "artifacts.config.durability.indestructible.title",
+"en": "Indestructible",
+"jko": null,
+"ov": "파괴불가",
+"src": "파괴 불가"
+},
+{
+"k": "artifacts.config.durability.maxDamage.description",
+"en": "The maximum amount of damage that this item can take before breaking",
+"jko": null,
+"ov": "이 아이템이 부서지기 전까지 받을 수 있는 최대 피해량",
+"src": "파괴되기 전 견딜 수 있는 최대 피해량"
+},
+{
+"k": "artifacts.config.durability.maxDamage.title",
+"en": "Max Damage",
+"jko": null,
+"ov": "최대 데미지",
+"src": "최대 내구도"
+},
+{
+"k": "artifacts.config.durability.title",
+"en": "Durability",
+"jko": null,
+"ov": "내구성",
+"src": "내구도"
+},
+{
+"k": "artifacts.config.general.campsite.minimalistCampsites.description",
+"en": "Replaces campsites with a single chest/mimic",
+"jko": null,
+"ov": "캠프장을 단일 상자/모방으로 대체합니다.",
+"src": "캠프를 상자/미믹 하나로 대체"
+},
+{
+"k": "artifacts.config.general.campsite.minimalistCampsites.title",
+"en": "Minimalist Campsites",
+"jko": null,
+"ov": "미니멀리스트 캠프장",
+"src": "미니멀 캠프"
+},
+{
+"k": "artifacts.config.general.durability.allowDurabilityEnchantments.description.0",
+"en": "Allows artifacts to be enchanted with mending and unbreaking when they have durability enabled",
+"jko": null,
+"ov": "내구성이 활성화된 유물에 수선 및 파괴 방지 마법을 부여할 수 있습니다.",
+"src": "내구도가 활성화된 유물에 수선과 내구성 마법 부여를 허용"
+},
+{
+"k": "artifacts.config.general.durability.allowDurabilityEnchantments.description.1",
+"en": "For more fine-grained control, the vanilla minecraft:enchantable/durability item tag should be used",
+"jko": null,
+"ov": "보다 세밀한 제어를 위해서는 바닐라 마인크래프트:인챈트 가능/내구력 아이템 태그를 사용해야 합니다.",
+"src": "세부 제어는 바닐라 minecraft:enchantable/durability 아이템 태그를 사용하세요"
+},
+{
+"k": "artifacts.config.general.durability.allowDurabilityEnchantments.title",
+"en": "Allow Durability Enchantments",
+"jko": null,
+"ov": "내구성 마법 허용",
+"src": "내구도 마법 부여 허용"
+},
+{
+"k": "artifacts.config.items.anglers_hat.durability.damagePerItemFished.description",
+"en": "The amount of durability lost every time the wearer fishes an item",
+"jko": null,
+"ov": "착용자가 아이템을 낚시할 때마다 내구도가 감소합니다.",
+"src": "낚시로 아이템을 낚을 때마다 잃는 내구도"
+},
+{
+"k": "artifacts.config.items.anglers_hat.durability.damagePerItemFished.title",
+"en": "Damage per Item Fished",
+"jko": null,
+"ov": "낚시한 아이템당 피해량",
+"src": "낚시당 내구도 손상"
+},
+{
+"k": "artifacts.config.items.aqua_dashers.durability.damagePerSecondActive.description",
+"en": "The amount of durability lost per second when walking on water",
+"jko": null,
+"ov": "물 위를 걸을 때 초당 내구도가 감소합니다.",
+"src": "물 위를 걸을 때 초당 잃는 내구도"
+},
+{
+"k": "artifacts.config.items.bunny_hoppers.durability.damagePerFallSurvived.description",
+"en": "The amount of durability lost after falling for more than 3 blocks without taking damage",
+"jko": null,
+"ov": "피해를 입지 않고 3블록 이상 떨어지면 내구도가 감소합니다.",
+"src": "3블록 이상 낙하 후 피해 없이 착지했을 때 잃는 내구도"
+},
+{
+"k": "artifacts.config.items.bunny_hoppers.durability.damagePerFallSurvived.title",
+"en": "Damage per Fall Survived",
+"jko": null,
+"ov": "생존한 추락당 피해",
+"src": "낙하 생존당 내구도 손상"
+},
+{
+"k": "artifacts.config.items.bunny_hoppers.durability.damagePerJump.description",
+"en": "The amount of durability lost per jump",
+"jko": null,
+"ov": "점프당 내구도 손실량",
+"src": "점프할 때마다 잃는 내구도"
+},
+{
+"k": "artifacts.config.items.bunny_hoppers.durability.damagePerJump.title",
+"en": "Damage per Jump",
+"jko": null,
+"ov": "점프당 피해",
+"src": "점프당 내구도 손상"
+},
+{
+"k": "artifacts.config.items.charm_of_sinking.durability.damagePerSecondActive.description",
+"en": "The amount of durability lost per second spent underwater",
+"jko": null,
+"ov": "수중에서 보낸 초당 내구도 손실량",
+"src": "물속에 있는 동안 초당 잃는 내구도"
+},
+{
+"k": "artifacts.config.items.chorus_totem.enabled.description",
+"en": "Whether the Chorus Totem prevents the wearer's death",
+"jko": null,
+"ov": "코러스 토템이 착용자의 죽음을 방지하는지 여부",
+"src": "Chorus Totem이 착용자의 죽음을 막을지 여부"
+},
+{
+"k": "artifacts.config.items.cloud_in_a_bottle.durability.damagePerDoubleJump.description",
+"en": "The amount of durability lost for every double jump",
+"jko": null,
+"ov": "더블 점프할 때마다 내구도가 감소합니다.",
+"src": "이단 점프할 때마다 잃는 내구도"
+},
+{
+"k": "artifacts.config.items.cloud_in_a_bottle.durability.damagePerDoubleJump.title",
+"en": "Damage per Double Jump",
+"jko": null,
+"ov": "더블 점프당 데미지",
+"src": "이단 점프당 내구도 손상"
+},
+{
+"k": "artifacts.config.items.cowboy_hat.durability.damagePerSecondActive.description",
+"en": "The amount of durability lost per second while controlling a mount",
+"jko": null,
+"ov": "탈것을 조종하는 동안 초당 내구도가 감소합니다.",
+"src": "탈것을 조종하는 동안 초당 잃는 내구도"
+},
+{
+"k": "artifacts.config.items.crystal_heart.durability.damageWhenHurt.description",
+"en": "The amount of durability lost every time the wearer takes damage",
+"jko": null,
+"ov": "착용자가 피해를 입을 때마다 내구도가 감소합니다.",
+"src": "착용자가 피해를 받을 때마다 잃는 내구도"
+},
+{
+"k": "artifacts.config.items.crystal_heart.durability.damageWhenHurt.title",
+"en": "Damage when Hurt",
+"jko": null,
+"ov": "상처를 입었을 때의 피해",
+"src": "피해 시 내구도 손상"
+},
+{
+"k": "artifacts.config.items.digging_claws.durability.damagePerBlockHarvested.description",
+"en": "The amount of durability lost per block mined that would not be harvestable without the digging claws",
+"jko": null,
+"ov": "채굴 발톱 없이는 수확할 수 없는, 채굴된 블록당 내구도 손실량",
+"src": "Digging Claws 없이는 수확할 수 없었을 블록을 채굴할 때마다 잃는 내구도"
+},
+{
+"k": "artifacts.config.items.digging_claws.durability.damagePerBlockHarvested.title",
+"en": "Damage per Block Harvested",
+"jko": null,
+"ov": "수확된 블록당 피해량",
+"src": "수확 블록당 내구도 손상"
+},
+{
+"k": "artifacts.config.items.digging_claws.durability.damagePerBlockMined.description",
+"en": "The amount of durability lost per block mined",
+"jko": null,
+"ov": "채굴된 블록당 내구도 손실량",
+"src": "블록을 채굴할 때마다 잃는 내구도"
+},
+{
+"k": "artifacts.config.items.digging_claws.durability.damagePerBlockMined.title",
+"en": "Damage per Block Mined",
+"jko": null,
+"ov": "채굴된 블록당 피해",
+"src": "채굴 블록당 내구도 손상"
+},
+{
+"k": "artifacts.config.items.flippers.durability.damagePerSecondActive.description",
+"en": "The amount of durability lost per second when swimming",
+"jko": null,
+"ov": "수영 시 초당 내구도 손실량",
+"src": "수영하는 동안 초당 잃는 내구도"
+},
+{
+"k": "artifacts.config.items.helium_flamingo.durability.damagePerSecondActive.description",
+"en": "The amount of durability lost per second while flying with the Helium Flamingo",
+"jko": null,
+"ov": "헬륨 플라밍고로 비행하는 동안 초당 내구도 손실량",
+"src": "Helium Flamingo로 비행하는 동안 초당 잃는 내구도"
+},
+{
+"k": "artifacts.config.items.kitty_slippers.durability.damagePerCreeperScared.description",
+"en": "The amount of durability lost per creeper killed while wearing the kitty slippers",
+"jko": null,
+"ov": "고양이 슬리퍼를 신고 있는 동안 크리퍼가 죽으면 내구도가 감소합니다.",
+"src": "Kitty Slippers 착용 중 크리퍼를 겁줄 때마다 잃는 내구도"
+},
+{
+"k": "artifacts.config.items.kitty_slippers.durability.damagePerCreeperScared.title",
+"en": "Damage per Creeper Scared",
+"jko": null,
+"ov": "겁먹은 크리퍼당 피해",
+"src": "크리퍼 겁주기당 내구도 손상"
+},
+{
+"k": "artifacts.config.items.kitty_slippers.durability.damagePerPhantomScared.description",
+"en": "The amount of durability lost per phantom killed while wearing the kitty slippers",
+"jko": null,
+"ov": "고양이 슬리퍼를 신고 있는 동안 팬텀이 사망할 때마다 내구도가 감소합니다.",
+"src": "Kitty Slippers 착용 중 팬텀을 겁줄 때마다 잃는 내구도"
+},
+{
+"k": "artifacts.config.items.kitty_slippers.durability.damagePerPhantomScared.title",
+"en": "Damage per Phantom Scared",
+"jko": null,
+"ov": "팬텀 스케어드당 피해",
+"src": "팬텀 겁주기당 내구도 손상"
+},
+{
+"k": "artifacts.config.items.rooted_boots.durability.damagePerFoodPoint.description",
+"en": "The amount of durability lost every time the Rooted Boots restore a food point",
+"jko": null,
+"ov": "뿌리 박힌 부츠가 식량 포인트를 회복할 때마다 내구도가 감소합니다.",
+"src": "Rooted Boots가 포만도를 회복할 때마다 잃는 내구도"
+},
+{
+"k": "artifacts.config.items.rooted_boots.durability.damagePerFoodPoint.title",
+"en": "Damage per Food Point",
+"jko": null,
+"ov": "푸드 포인트당 피해",
+"src": "포만도당 내구도 손상"
+},
+{
+"k": "artifacts.config.items.running_shoes.durability.damagePerSecondActive.description",
+"en": "The amount of durability lost per second when sprinting",
+"jko": null,
+"ov": "질주 시 초당 내구도가 감소합니다.",
+"src": "달리는 동안 초당 잃는 내구도"
+},
+{
+"k": "artifacts.config.items.scarf_of_invisibility.hidesEffectParticles.description",
+"en": "Whether the Scarf of Invisibility should prevent all status effects from spawning particles",
+"jko": null,
+"ov": "투명 스카프가 모든 상태 효과의 입자 생성을 방지해야 하는지 여부",
+"src": "Scarf of Invisibility가 모든 상태 효과 입자를 숨길지 여부"
+},
+{
+"k": "artifacts.config.items.scarf_of_invisibility.hidesEffectParticles.title",
+"en": "Hides Effect Particles",
+"jko": null,
+"ov": "효과 입자를 숨깁니다.",
+"src": "효과 입자 숨김"
+},
+{
+"k": "artifacts.config.items.snorkel.durability.damagePerSecondActive.description",
+"en": "The amount of durability lost per second while underwater",
+"jko": null,
+"ov": "수중에서 초당 내구도 손실량",
+"src": "물속에 있는 동안 초당 잃는 내구도"
+},
+{
+"k": "artifacts.config.items.snowshoes.durability.damagePerSecondActive.description",
+"en": "The amount of durability lost per second when walking on snow",
+"jko": null,
+"ov": "눈 위를 걸을 때 초당 내구도가 감소합니다.",
+"src": "눈 위를 걸을 때 초당 잃는 내구도"
+},
+{
+"k": "artifacts.config.items.steadfast_spikes.durability.damageWhenAttacked.description",
+"en": "The amount of durability lost when the wearer is attacked by an entity or player",
+"jko": null,
+"ov": "착용자가 개체나 플레이어의 공격을 받을 때 손실되는 내구도입니다.",
+"src": "개체나 플레이어에게 공격받을 때 잃는 내구도"
+},
+{
+"k": "artifacts.config.items.steadfast_spikes.durability.damageWhenAttacked.title",
+"en": "Damage when Attacked",
+"jko": null,
+"ov": "공격 시 피해",
+"src": "피격 시 내구도 손상"
+},
+{
+"k": "artifacts.config.items.strider_shoes.durability.damagePerSecondActive.description",
+"en": "The amount of durability lost per second when walking on lava",
+"jko": null,
+"ov": "용암 위를 걸을 때 초당 내구도가 감소합니다.",
+"src": "용암 위를 걸을 때 초당 잃는 내구도"
+},
+{
+"k": "artifacts.config.items.umbrella.durability.damagePerAttack.description",
+"en": "The amount of durability lost for each attack performed with the umbrella",
+"jko": null,
+"ov": "우산으로 공격할 때마다 내구도가 감소합니다.",
+"src": "우산으로 공격할 때마다 잃는 내구도"
+},
+{
+"k": "artifacts.config.items.umbrella.durability.damagePerAttack.title",
+"en": "Damage per Attack",
+"jko": null,
+"ov": "공격당 피해",
+"src": "공격당 내구도 손상"
+},
+{
+"k": "artifacts.config.items.umbrella.durability.damagePerBlockedAttackBase.description",
+"en": "The constant amount of damage that should be applied to the umbrella when an attack is blocked",
+"jko": null,
+"ov": "공격을 막았을 때 우산에 적용되어야 하는 일정한 피해량입니다.",
+"src": "공격을 막을 때 우산에 적용되는 고정 내구도 손상"
+},
+{
+"k": "artifacts.config.items.umbrella.durability.damagePerBlockedAttackBase.title",
+"en": "Damage per Blocked Attack (Base)",
+"jko": null,
+"ov": "막은 공격당 피해(기본)",
+"src": "막기당 내구도 손상 (기본)"
+},
+{
+"k": "artifacts.config.items.umbrella.durability.damagePerBlockedAttackFactor.description",
+"en": "The fraction of the dealt damage that should be applied to the umbrella when an attack is blocked",
+"jko": null,
+"ov": "공격이 차단되었을 때 우산에 적용되어야 하는 피해의 비율입니다.",
+"src": "공격을 막을 때 입은 피해 중 우산에 적용되는 비율"
+},
+{
+"k": "artifacts.config.items.umbrella.durability.damagePerBlockedAttackFactor.title",
+"en": "Damage per Blocked Attack (Factor)",
+"jko": null,
+"ov": "차단된 공격당 피해(계수)",
+"src": "막기당 내구도 손상 (비율)"
+},
+{
+"k": "artifacts.config.items.villager_hat.durability.damagePerTrade.description",
+"en": "The amount of durability lost per trade completed with the Villager Hat",
+"jko": null,
+"ov": "주민 모자로 완료한 거래당 내구도 손실량",
+"src": "Villager Hat으로 거래를 완료할 때마다 잃는 내구도"
+},
+{
+"k": "artifacts.config.items.villager_hat.durability.damagePerTrade.title",
+"en": "Damage per Trade",
+"jko": null,
+"ov": "거래당 피해",
+"src": "거래당 내구도 손상"
+},
+{
+"k": "artifacts.tooltip.broken",
+"en": "Broken",
+"jko": null,
+"ov": "고장난",
+"src": "파손됨"
+},
+{
+"k": "tag.item.artifacts.equippable",
+"en": "Equippable Artifacts",
+"jko": null,
+"ov": "장착 가능한 유물",
+"src": "착용 가능한 Artifacts 유물"
+},
+{
+"k": "tag.item.artifacts.repairs_anglers_hat",
+"en": "Repairs Angler's Hat",
+"jko": null,
+"ov": "낚시꾼의 모자 수리",
+"src": "Angler's Hat 수리"
+},
+{
+"k": "tag.item.artifacts.repairs_antidote_vessel",
+"en": "Repairs Antidote Vessel",
+"jko": null,
+"ov": "해독제 용기 수리",
+"src": "Antidote Vessel 수리"
+},
+{
+"k": "tag.item.artifacts.repairs_aqua_dashers",
+"en": "Repairs Aqua-Dashers",
+"jko": null,
+"ov": "Aqua-Dashers 수리",
+"src": "Aqua-Dashers 수리"
+},
+{
+"k": "tag.item.artifacts.repairs_bunny_hoppers",
+"en": "Repairs Bunny Hoppers",
+"jko": null,
+"ov": "버니 호퍼 수리",
+"src": "Bunny Hoppers 수리"
+},
+{
+"k": "tag.item.artifacts.repairs_charm_of_shrinking",
+"en": "Repairs Charm of Shrinking",
+"jko": null,
+"ov": "축소의 부적 수리",
+"src": "Charm of Shrinking 수리"
+},
+{
+"k": "tag.item.artifacts.repairs_charm_of_sinking",
+"en": "Repairs Charm of Sinking",
+"jko": null,
+"ov": "침몰의 부적 수리",
+"src": "Charm of Sinking 수리"
+},
+{
+"k": "tag.item.artifacts.repairs_chorus_totem",
+"en": "Repairs Chorus Totem",
+"jko": null,
+"ov": "합창 토템 수리",
+"src": "Chorus Totem 수리"
+},
+{
+"k": "tag.item.artifacts.repairs_cloud_in_a_bottle",
+"en": "Repairs Cloud in a Bottle",
+"jko": null,
+"ov": "병 속의 구름 수리",
+"src": "Cloud in a Bottle 수리"
+},
+{
+"k": "tag.item.artifacts.repairs_cowboy_hat",
+"en": "Repairs Cowboy Hat",
+"jko": null,
+"ov": "카우보이 모자 수리",
+"src": "Cowboy Hat 수리"
+},
+{
+"k": "tag.item.artifacts.repairs_cross_necklace",
+"en": "Repairs Cross Necklace",
+"jko": null,
+"ov": "십자가 목걸이 수리",
+"src": "Cross Necklace 수리"
+},
+{
+"k": "tag.item.artifacts.repairs_crystal_heart",
+"en": "Repairs Crystal Heart",
+"jko": null,
+"ov": "크리스탈 하트 수리",
+"src": "Crystal Heart 수리"
+},
+{
+"k": "tag.item.artifacts.repairs_digging_claws",
+"en": "Repairs Digging Claws",
+"jko": null,
+"ov": "굴착용 발톱 수리",
+"src": "Digging Claws 수리"
+},
+{
+"k": "tag.item.artifacts.repairs_eternal_steak",
+"en": "Repairs Eternal Steak",
+"jko": null,
+"ov": "이터널 스테이크 수리",
+"src": "Eternal Steak 수리"
+},
+{
+"k": "tag.item.artifacts.repairs_everlasting_beef",
+"en": "Repairs Everlasting Beef",
+"jko": null,
+"ov": "영원한 쇠고기 수리",
+"src": "Everlasting Beef 수리"
+},
+{
+"k": "tag.item.artifacts.repairs_feral_claws",
+"en": "Repairs Feral Claws",
+"jko": null,
+"ov": "야생 발톱 수리",
+"src": "Feral Claws 수리"
+},
+{
+"k": "tag.item.artifacts.repairs_fire_gauntlet",
+"en": "Repairs Fire Gauntlet",
+"jko": null,
+"ov": "소방 건틀릿 수리",
+"src": "Fire Gauntlet 수리"
+},
+{
+"k": "tag.item.artifacts.repairs_flame_pendant",
+"en": "Repairs Flame Pendant",
+"jko": null,
+"ov": "불꽃 펜던트 수리",
+"src": "Flame Pendant 수리"
+},
+{
+"k": "tag.item.artifacts.repairs_flippers",
+"en": "Repairs Flippers",
+"jko": null,
+"ov": "오리발 수리",
+"src": "Flippers 수리"
+},
+{
+"k": "tag.item.artifacts.repairs_golden_hook",
+"en": "Repairs Golden Hook",
+"jko": null,
+"ov": "황금 갈고리 수리",
+"src": "Golden Hook 수리"
+},
+{
+"k": "tag.item.artifacts.repairs_helium_flamingo",
+"en": "Repairs Helium Flamingo",
+"jko": null,
+"ov": "헬륨 플라밍고 수리",
+"src": "Helium Flamingo 수리"
+},
+{
+"k": "tag.item.artifacts.repairs_kitty_slippers",
+"en": "Repairs Kitty Slippers",
+"jko": null,
+"ov": "키티 슬리퍼 수리",
+"src": "Kitty Slippers 수리"
+},
+{
+"k": "tag.item.artifacts.repairs_lucky_scarf",
+"en": "Repairs Lucky Scarf",
+"jko": null,
+"ov": "행운의 스카프 수리",
+"src": "Lucky Scarf 수리"
+},
+{
+"k": "tag.item.artifacts.repairs_night_vision_goggles",
+"en": "Repairs Night Vision Goggles",
+"jko": null,
+"ov": "야간투시경 수리",
+"src": "Night Vision Goggles 수리"
+},
+{
+"k": "tag.item.artifacts.repairs_novelty_drinking_hat",
+"en": "Repairs Novelty Drinking Hat",
+"jko": null,
+"ov": "참신한 음주 모자 수리",
+"src": "Novelty Drinking Hat 수리"
+},
+{
+"k": "tag.item.artifacts.repairs_obsidian_skull",
+"en": "Repairs Obsidian Skull",
+"jko": null,
+"ov": "흑요석 해골 수리",
+"src": "Obsidian Skull 수리"
+},
+{
+"k": "tag.item.artifacts.repairs_onion_ring",
+"en": "Repairs Onion Ring",
+"jko": null,
+"ov": "양파링 수리",
+"src": "Onion Ring 수리"
+},
+{
+"k": "tag.item.artifacts.repairs_panic_necklace",
+"en": "Repairs Panic Necklace",
+"jko": null,
+"ov": "패닉 목걸이 수리",
+"src": "Panic Necklace 수리"
+},
+{
+"k": "tag.item.artifacts.repairs_pickaxe_heater",
+"en": "Repairs Pickaxe Heater",
+"jko": null,
+"ov": "곡괭이 히터 수리",
+"src": "Pickaxe Heater 수리"
+},
+{
+"k": "tag.item.artifacts.repairs_plastic_drinking_hat",
+"en": "Repairs Plastic Drinking Hat",
+"jko": null,
+"ov": "플라스틱 마시는 모자 수리",
+"src": "Plastic Drinking Hat 수리"
+},
+{
+"k": "tag.item.artifacts.repairs_pocket_piston",
+"en": "Repairs Pocket Piston",
+"jko": null,
+"ov": "포켓 피스톤 수리",
+"src": "Pocket Piston 수리"
+},
+{
+"k": "tag.item.artifacts.repairs_power_glove",
+"en": "Repairs Power Glove",
+"jko": null,
+"ov": "파워 글러브 수리",
+"src": "Power Glove 수리"
+},
+{
+"k": "tag.item.artifacts.repairs_rooted_boots",
+"en": "Repairs Rooted Boots",
+"jko": null,
+"ov": "뿌리박힌 장화 수리",
+"src": "Rooted Boots 수리"
+},
+{
+"k": "tag.item.artifacts.repairs_running_shoes",
+"en": "Repairs Running Shoes",
+"jko": null,
+"ov": "운동화 수리",
+"src": "Running Shoes 수리"
+},
+{
+"k": "tag.item.artifacts.repairs_scarf_of_invisibility",
+"en": "Repairs Scarf of Invisibility",
+"jko": null,
+"ov": "투명의 스카프 수리",
+"src": "Scarf of Invisibility 수리"
+},
+{
+"k": "tag.item.artifacts.repairs_shock_pendant",
+"en": "Repairs Shock Pendant",
+"jko": null,
+"ov": "충격 펜던트 수리",
+"src": "Shock Pendant 수리"
+},
+{
+"k": "tag.item.artifacts.repairs_snorkel",
+"en": "Repairs Snorkel",
+"jko": null,
+"ov": "스노클 수리",
+"src": "Snorkel 수리"
+},
+{
+"k": "tag.item.artifacts.repairs_snowshoes",
+"en": "Repairs Snowshoes",
+"jko": null,
+"ov": "스노우슈 수리",
+"src": "Snowshoes 수리"
+},
+{
+"k": "tag.item.artifacts.repairs_steadfast_spikes",
+"en": "Repairs Steadfast Spikes",
+"jko": null,
+"ov": "견고한 스파이크 수리",
+"src": "Steadfast Spikes 수리"
+},
+{
+"k": "tag.item.artifacts.repairs_strider_shoes",
+"en": "Repairs Strider Shoes",
+"jko": null,
+"ov": "스트라이더 신발 수리",
+"src": "Strider Shoes 수리"
+},
+{
+"k": "tag.item.artifacts.repairs_superstitious_hat",
+"en": "Repairs Superstitious Hat",
+"jko": null,
+"ov": "미신적인 모자 수리",
+"src": "Superstitious Hat 수리"
+},
+{
+"k": "tag.item.artifacts.repairs_thorn_pendant",
+"en": "Repairs Thorn Pendant",
+"jko": null,
+"ov": "가시 펜던트 수리",
+"src": "Thorn Pendant 수리"
+},
+{
+"k": "tag.item.artifacts.repairs_umbrella",
+"en": "Repairs Umbrella",
+"jko": null,
+"ov": "우산 수리",
+"src": "Umbrella 수리"
+},
+{
+"k": "tag.item.artifacts.repairs_universal_attractor",
+"en": "Repairs Universal Attractor",
+"jko": null,
+"ov": "유니버설 어트랙터 수리",
+"src": "Universal Attractor 수리"
+},
+{
+"k": "tag.item.artifacts.repairs_vampiric_glove",
+"en": "Repairs Vampiric Glove",
+"jko": null,
+"ov": "뱀파이어 장갑 수리",
+"src": "Vampiric Glove 수리"
+},
+{
+"k": "tag.item.artifacts.repairs_villager_hat",
+"en": "Repairs Villager Hat",
+"jko": null,
+"ov": "주민 모자 수리",
+"src": "Villager Hat 수리"
+},
+{
+"k": "tag.item.artifacts.repairs_warp_drive",
+"en": "Repairs Warp Drive",
+"jko": null,
+"ov": "워프 드라이브 수리",
+"src": "Warp Drive 수리"
+},
+{
+"k": "tag.item.artifacts.repairs_whoopee_cushion",
+"en": "Repairs Whoopee Cushion",
+"jko": null,
+"ov": "우피 쿠션 수리",
+"src": "Whoopee Cushion 수리"
+},
+{
+"k": "tag.item.artifacts.repairs_withered_bracelet",
+"en": "Repairs Withered Bracelet",
+"jko": null,
+"ov": "시든 팔찌 수리",
+"src": "Withered Bracelet 수리"
+}
+]

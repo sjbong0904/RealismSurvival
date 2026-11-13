@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "rsmedicine:antidote",
+    "rsmedicine:burn_salve",
+    "rsmedicine:warm_pack",
+    "rsmedicine:stimulant",
+    "rsmedicine:eye_drops",
+    "minecraft:chest"
+  ],
+  "result": { "id": "rsmedicine:field_kit", "count": 1 }
+}

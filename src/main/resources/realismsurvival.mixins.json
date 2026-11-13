@@ -1,0 +1,44 @@
+{
+  "required": true,
+  "package": "com.example.realismsurvival.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "ChunkStatusTasksMixin",
+    "FarmlandBlockMixin",
+    "SimpleWaterloggedBlockMixin",
+    "DriedGhastBlockMixin",
+    "WaterFluidMixin",
+    "BiomeFreezeMixin",
+    "BiomeHasPrecipitationRecursionMixin",
+    "BiomePrecipitationMixin",
+    "ServerLevelFreezeMixin",
+    "SnowAndFreezeFeatureMixin",
+    "IceBlockMeltMixin",
+    "PowderSnowBlockMixin",
+    "WetSpongeBlockMixin",
+    "SpongeBlockMixin",
+    "CoralBlockMixin",
+    "BaseCoralPlantTypeBlockMixin",
+    "CoralPlantBlockMixin",
+    "CoralFanBlockMixin",
+    "CoralWallFanBlockMixin",
+    "CoralSkipWaterFluidTickMixin",
+    "FlowingFluidMixin",
+    "AbstractFurnaceBlockEntityMixin",
+    "ItemNameMixin",
+    "LayeredCauldronBlockMixin",
+    "CauldronBlockMixin",
+    "BucketableMixin",
+    "AxolotlFeedMixin",
+    "NautilusFeedMixin",
+    "SupplyPostFireMixin"
+  ],
+  "client": [
+    "FluidStateModelSetMixin",
+    "FluidRendererMixin",
+    "BlockFluidFaceMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

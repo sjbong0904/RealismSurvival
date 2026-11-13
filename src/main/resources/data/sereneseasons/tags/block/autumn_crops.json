@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "farmersdelight:cabbages", "required": false },
+    { "id": "farmersdelight:onions", "required": false }
+  ]
+}

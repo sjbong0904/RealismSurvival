@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "top": "realismsurvival:block/water_still_top",
+    "front": "realismsurvival:block/water_still_front",
+    "side": "realismsurvival:block/water_still_side"
+  }
+}

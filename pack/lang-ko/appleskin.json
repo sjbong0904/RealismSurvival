@@ -1,0 +1,12 @@
+{
+  "appleskin.configuration.showFoodValuesInTooltip.tooltip": "Shift를 누르고 있을 때 음식 툴팁에 배고픔과 포만감을 표시합니다.",
+  "appleskin.configuration.showFoodValuesInTooltipAlways.tooltip": "Shift를 누르지 않아도 음식 툴팁에 배고픔과 포만감을 표시합니다.",
+  "appleskin.configuration.showFoodValuesHudOverlay.tooltip": "들고 있는 음식으로 회복되는 배고픔을 표시합니다. 포만감 오버레이가 켜져 있으면 포만감도 함께 표시합니다.",
+  "appleskin.configuration.showFoodValuesHudOverlayWhenOffhand.tooltip": "보조 손에 든 음식에도 배고픔·포만감·체력 오버레이를 표시합니다.",
+  "appleskin.configuration.showFoodHealthHudOverlay.tooltip": "체력 막대에 음식으로 회복될 예상 체력을 표시합니다.",
+  "appleskin.configuration.showFoodExhaustionHudUnderlay.tooltip": "배고픔 막대 뒤에 허기 소진량을 진행 막대로 표시합니다.",
+  "appleskin.configuration.showSaturationHudOverlay.tooltip": "배고픔 막대 위에 현재 포만감을 겹쳐 표시합니다.",
+  "appleskin.configuration.showFoodStatsInDebugOverlay.tooltip": "디버그 화면에 배고픔, 포만감, 허기 소진량을 표시합니다.",
+  "appleskin.configuration.showVanillaAnimationsOverlay.tooltip": "체력·배고픔 오버레이가 바닐라 아이콘처럼 흔들립니다.",
+  "appleskin.configuration.maxHudOverlayFlashAlpha.tooltip": "깜빡이는 아이콘이 가장 잘 보일 때의 알파 값입니다. (1.0 = 완전 불투명, 0.0 = 완전 투명)"
+}

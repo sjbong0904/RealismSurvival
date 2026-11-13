@@ -1,0 +1,6 @@
+{
+  "seasons": ["summer", "autumn"],
+  "crops": ["minecraft:carrots", "minecraft:potatoes"],
+  "growth_multiplier": 1.2,
+  "priority": 10
+}

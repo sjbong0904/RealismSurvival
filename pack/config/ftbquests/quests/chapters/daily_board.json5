@@ -1,0 +1,432 @@
+{
+	"default_hide_dependency_lines": false,
+	"default_quest_shape": "circle",
+	"filename": "daily_board",
+	"group": "362710CCD165BAE4",
+	"icon": {
+		"id": "minecraft:writable_book",
+		"count": 1
+	},
+	"id": "5C91EEB9EAA11883",
+	"order_index": 0,
+	"quest_links": [],
+	"quests": [
+		{
+			"id": "6107639AE466EC20",
+			"shape": "gear",
+			"size": 1.5,
+			"x": 0.0,
+			"y": 0.0,
+			"tasks": [
+				{
+					"id": "5674538F3604F485",
+					"type": "checkmark"
+				}
+			]
+		},
+		{
+			"id": "2F0D2C6FDF664123",
+			"dependencies": [
+				"6107639AE466EC20"
+			],
+			"optional": true,
+			"can_repeat": true,
+			"x": 1.85,
+			"y": -2.4,
+			"tasks": [
+				{
+					"id": "1374C6BC1F882054",
+					"count": 4,
+					"item": {
+						"id": "realismsurvival:salt",
+						"count": 1
+					},
+					"type": "item",
+					"consume_items": true
+				}
+			],
+			"rewards": [
+				{
+					"id": "368B588F21A31BED",
+					"command": "/realism daily claim 70",
+					"permission_level": 2,
+					"silent": true,
+					"type": "command"
+				}
+			],
+			"icon": {
+				"id": "realismsurvival:salt",
+				"count": 1
+			}
+		},
+		{
+			"id": "73615E9D7FDEB88C",
+			"dependencies": [
+				"6107639AE466EC20"
+			],
+			"optional": true,
+			"can_repeat": true,
+			"x": 1.85,
+			"y": -0.8,
+			"tasks": [
+				{
+					"id": "5AA23AB6A3661BA7",
+					"count": 3,
+					"item": {
+						"id": "realismsurvival:distilled_water_bottle",
+						"count": 1
+					},
+					"type": "item",
+					"consume_items": true
+				}
+			],
+			"rewards": [
+				{
+					"id": "21354FA3CB3A16D7",
+					"command": "/realism daily claim 90",
+					"permission_level": 2,
+					"silent": true,
+					"type": "command"
+				}
+			],
+			"icon": {
+				"id": "realismsurvival:distilled_water_bottle",
+				"count": 1
+			}
+		},
+		{
+			"id": "13E5E7368C6334A0",
+			"dependencies": [
+				"6107639AE466EC20"
+			],
+			"optional": true,
+			"can_repeat": true,
+			"x": 1.85,
+			"y": 0.8,
+			"tasks": [
+				{
+					"id": "7EDEFEC7A771DCF1",
+					"count": 8,
+					"item": {
+						"id": "minecraft:bread",
+						"count": 1
+					},
+					"type": "item",
+					"consume_items": true
+				}
+			],
+			"rewards": [
+				{
+					"id": "7D2AE18219F749DD",
+					"command": "/realism daily claim 60",
+					"permission_level": 2,
+					"silent": true,
+					"type": "command"
+				}
+			],
+			"icon": {
+				"id": "minecraft:bread",
+				"count": 1
+			}
+		},
+		{
+			"id": "22B4176FD12FC2FA",
+			"dependencies": [
+				"6107639AE466EC20"
+			],
+			"optional": true,
+			"can_repeat": true,
+			"x": 1.85,
+			"y": 2.4,
+			"tasks": [
+				{
+					"id": "0DA0D54F77410E0D",
+					"count": 16,
+					"item": {
+						"id": "minecraft:coal",
+						"count": 1
+					},
+					"type": "item",
+					"consume_items": true
+				}
+			],
+			"rewards": [
+				{
+					"id": "16570C8E3BD54350",
+					"command": "/realism daily claim 65",
+					"permission_level": 2,
+					"silent": true,
+					"type": "command"
+				}
+			],
+			"icon": {
+				"id": "minecraft:coal",
+				"count": 1
+			}
+		},
+		{
+			"id": "2755C1DA46029CD3",
+			"dependencies": [
+				"6107639AE466EC20"
+			],
+			"optional": true,
+			"can_repeat": true,
+			"x": 3.45,
+			"y": -2.4,
+			"tasks": [
+				{
+					"id": "1B6FE8E3C461E707",
+					"value": 10,
+					"entity": "minecraft:zombie",
+					"type": "kill"
+				}
+			],
+			"rewards": [
+				{
+					"id": "1FC81AEF60D0E41F",
+					"command": "/realism daily claim 80",
+					"permission_level": 2,
+					"silent": true,
+					"type": "command"
+				}
+			]
+		},
+		{
+			"id": "61B4926E93B56AC1",
+			"dependencies": [
+				"6107639AE466EC20"
+			],
+			"optional": true,
+			"can_repeat": true,
+			"x": 3.45,
+			"y": -0.8,
+			"tasks": [
+				{
+					"id": "692F87B249223C06",
+					"value": 8,
+					"entity": "minecraft:skeleton",
+					"type": "kill"
+				}
+			],
+			"rewards": [
+				{
+					"id": "2EB7017053C71CF6",
+					"command": "/realism daily claim 85",
+					"permission_level": 2,
+					"silent": true,
+					"type": "command"
+				}
+			]
+		},
+		{
+			"id": "734DACB39F820848",
+			"dependencies": [
+				"6107639AE466EC20"
+			],
+			"optional": true,
+			"can_repeat": true,
+			"x": 3.45,
+			"y": 0.8,
+			"tasks": [
+				{
+					"id": "15E62A67BA3BF6C0",
+					"count": 3,
+					"item": {
+						"id": "aquaculture:fish_fillet_cooked",
+						"count": 1
+					},
+					"type": "item",
+					"consume_items": true
+				}
+			],
+			"rewards": [
+				{
+					"id": "4B0E9D7BB1AAD378",
+					"command": "/realism daily claim 100",
+					"permission_level": 2,
+					"silent": true,
+					"type": "command"
+				}
+			],
+			"icon": {
+				"id": "aquaculture:fish_fillet_cooked",
+				"count": 1
+			}
+		},
+		{
+			"id": "27D025ADA9F56D41",
+			"dependencies": [
+				"6107639AE466EC20"
+			],
+			"optional": true,
+			"can_repeat": true,
+			"x": 3.45,
+			"y": 2.4,
+			"tasks": [
+				{
+					"id": "1AA2AB64ACCBC1E4",
+					"count": 2,
+					"item": {
+						"id": "farmersdelight:cabbage",
+						"count": 1
+					},
+					"type": "item",
+					"consume_items": true
+				},
+				{
+					"id": "66CDBD5168F457BF",
+					"count": 2,
+					"item": {
+						"id": "farmersdelight:tomato",
+						"count": 1
+					},
+					"type": "item",
+					"consume_items": true
+				}
+			],
+			"rewards": [
+				{
+					"id": "681AB95FC07F9D00",
+					"command": "/realism daily claim 75",
+					"permission_level": 2,
+					"silent": true,
+					"type": "command"
+				}
+			],
+			"icon": {
+				"id": "farmersdelight:cabbage",
+				"count": 1
+			}
+		},
+		{
+			"id": "0EDEE9C81966BE0F",
+			"dependencies": [
+				"6107639AE466EC20"
+			],
+			"optional": true,
+			"can_repeat": true,
+			"x": 5.05,
+			"y": -2.4,
+			"tasks": [
+				{
+					"id": "1E12D005D88049AD",
+					"biome": "minecraft:plains",
+					"type": "biome"
+				}
+			],
+			"rewards": [
+				{
+					"id": "26C856EB6D6A1FA2",
+					"command": "/realism daily claim 50",
+					"permission_level": 2,
+					"silent": true,
+					"type": "command"
+				}
+			]
+		},
+		{
+			"id": "3CCFD01F47395CCE",
+			"dependencies": [
+				"6107639AE466EC20"
+			],
+			"optional": true,
+			"can_repeat": true,
+			"x": 5.05,
+			"y": -0.8,
+			"tasks": [
+				{
+					"id": "4B74890DBA7577DB",
+					"item": {
+						"id": "realismsurvival:filter_cartridge",
+						"count": 1
+					},
+					"type": "item",
+					"consume_items": true
+				}
+			],
+			"rewards": [
+				{
+					"id": "1A991B31B4731FA7",
+					"command": "/realism daily claim 110",
+					"permission_level": 2,
+					"silent": true,
+					"type": "command"
+				}
+			],
+			"icon": {
+				"id": "realismsurvival:filter_cartridge",
+				"count": 1
+			}
+		},
+		{
+			"id": "2303C291055FB7F9",
+			"dependencies": [
+				"6107639AE466EC20"
+			],
+			"optional": true,
+			"can_repeat": true,
+			"x": 5.05,
+			"y": 0.8,
+			"tasks": [
+				{
+					"id": "35505F3923A0F4AB",
+					"count": 4,
+					"item": {
+						"id": "rsmedicine:bandage",
+						"count": 1
+					},
+					"type": "item",
+					"consume_items": true
+				}
+			],
+			"rewards": [
+				{
+					"id": "66D2F5A7C52CE657",
+					"command": "/realism daily claim 95",
+					"permission_level": 2,
+					"silent": true,
+					"type": "command"
+				}
+			],
+			"icon": {
+				"id": "rsmedicine:bandage",
+				"count": 1
+			}
+		},
+		{
+			"id": "4315CD08E6B9602A",
+			"dependencies": [
+				"6107639AE466EC20"
+			],
+			"optional": true,
+			"can_repeat": true,
+			"x": 5.05,
+			"y": 2.4,
+			"tasks": [
+				{
+					"id": "58F53D58B8FFAF26",
+					"count": 8,
+					"item": {
+						"id": "minecraft:raw_iron",
+						"count": 1
+					},
+					"type": "item",
+					"consume_items": true
+				}
+			],
+			"rewards": [
+				{
+					"id": "35D52F9D91A127F1",
+					"command": "/realism daily claim 120",
+					"permission_level": 2,
+					"silent": true,
+					"type": "command"
+				}
+			],
+			"icon": {
+				"id": "minecraft:raw_iron",
+				"count": 1
+			}
+		}
+	]
+}

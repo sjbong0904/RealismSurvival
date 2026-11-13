@@ -1,0 +1,91 @@
+{
+	"quest.4D734FD8738AB63B.title": "탐험 방 입장",
+	"quest.4D734FD8738AB63B.quest_desc": [
+		"탐험 번들 방입니다. 입장하려면 체크하세요."
+	],
+	"quest.5AD94AA5671B7630.title": "생물군계의 선물 · 품목 1",
+	"quest.5AD94AA5671B7630.quest_desc": [
+		"「생물군계의 선물」꾸러미 품목입니다."
+	],
+	"quest.63AE09031F083EF6.title": "생물군계의 선물 · 품목 2",
+	"quest.63AE09031F083EF6.quest_desc": [
+		"「생물군계의 선물」꾸러미 품목입니다."
+	],
+	"quest.6422FFE62B5E6BA4.title": "생물군계의 선물 · 품목 3",
+	"quest.6422FFE62B5E6BA4.quest_desc": [
+		"「생물군계의 선물」꾸러미 품목입니다."
+	],
+	"quest.7BBB6E670B8457C9.title": "생물군계의 선물 · 품목 4",
+	"quest.7BBB6E670B8457C9.quest_desc": [
+		"「생물군계의 선물」꾸러미 품목입니다."
+	],
+	"quest.7EF733B92DDBA690.title": "생물군계의 선물 · 완료",
+	"quest.7EF733B92DDBA690.quest_desc": [
+		"「생물군계의 선물」꾸러미를 완성했습니다. 체크하세요."
+	],
+	"quest.39446EDA258EB1DC.title": "구조물 도장 · 마을",
+	"quest.39446EDA258EB1DC.quest_desc": [
+		"마을 한 곳을 방문한 뒤 체크하세요."
+	],
+	"quest.6943095CCEC9B382.title": "구조물 도장 · 탑",
+	"quest.6943095CCEC9B382.quest_desc": [
+		"탑 한 곳을 방문한 뒤 체크하세요."
+	],
+	"quest.222EC5F8F18DE1BD.title": "구조물 도장 · 전초",
+	"quest.222EC5F8F18DE1BD.quest_desc": [
+		"전초기지 한 곳을 방문한 뒤 체크하세요."
+	],
+	"quest.650EEA042AFE66C3.title": "구조물 도장 · 폐허",
+	"quest.650EEA042AFE66C3.quest_desc": [
+		"폐허 한 곳을 방문한 뒤 체크하세요."
+	],
+	"quest.19F32C59F5E02821.title": "구조물 도장 · 완료",
+	"quest.19F32C59F5E02821.quest_desc": [
+		"직접 체크하세요."
+	],
+	"quest.695BEC6E611885CC.title": "열어 본 상자 · 1",
+	"quest.695BEC6E611885CC.quest_desc": [
+		"Lootr 상자를 하나 여세요."
+	],
+	"quest.5F6A84EC5FF4E00B.title": "열어 본 상자 · 10",
+	"quest.5F6A84EC5FF4E00B.quest_desc": [
+		"Lootr 상자를 열 개 여세요."
+	],
+	"quest.098354490B71D7B1.title": "열어 본 상자 · 더 멀리",
+	"quest.098354490B71D7B1.quest_desc": [
+		"Lootr 상자를 25개 열면 완료됩니다."
+	],
+	"quest.01124688A9C282B8.title": "열어 본 상자 · 100개",
+	"quest.01124688A9C282B8.quest_desc": [
+		"Lootr 상자를 100개 열면 완료됩니다.",
+		"상자 50개 열기 과제도 25개와 100개 과제 사이에서 자동으로 완료됩니다."
+	],
+	"quest.5EA4D612CC5D4932.title": "열어 본 상자 · 완료",
+	"quest.5EA4D612CC5D4932.quest_desc": [
+		"직접 체크하세요."
+	],
+	"quest.2D333ECBEF904952.title": "길잡이의 도구 · 품목 1",
+	"quest.2D333ECBEF904952.quest_desc": [
+		"「길잡이의 도구」꾸러미 품목입니다."
+	],
+	"quest.003F81EB0CEA909A.title": "길잡이의 도구 · 품목 2",
+	"quest.003F81EB0CEA909A.quest_desc": [
+		"「길잡이의 도구」꾸러미 품목입니다."
+	],
+	"quest.196B9ED53E645C2D.title": "길잡이의 도구 · 품목 3",
+	"quest.196B9ED53E645C2D.quest_desc": [
+		"「길잡이의 도구」꾸러미 품목입니다."
+	],
+	"quest.3FC36826CB669273.title": "길잡이의 도구 · 품목 4",
+	"quest.3FC36826CB669273.quest_desc": [
+		"「길잡이의 도구」꾸러미 품목입니다."
+	],
+	"quest.73D5F8C7922D3972.title": "길잡이의 도구 · 완료",
+	"quest.73D5F8C7922D3972.quest_desc": [
+		"「길잡이의 도구」꾸러미를 완성했습니다. 체크하세요."
+	],
+	"quest.1F39D03F11567665.title": "탐험 인장",
+	"quest.1F39D03F11567665.quest_desc": [
+		"탐험 방의 인장입니다. 보상을 받으려면 체크하세요."
+	]
+}

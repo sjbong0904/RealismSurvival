@@ -1,0 +1,6 @@
+{
+  "items": "rsapisample:mineral_water_bottle",
+  "thirst_restore": 28.0,
+  "temperature_delta": -0.5,
+  "priority": 10
+}
